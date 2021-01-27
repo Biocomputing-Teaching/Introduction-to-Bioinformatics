@@ -8,4 +8,11 @@ The repository contains the material created or adapted from other (referred) so
 
 ## Getting started
 
-To work in bioinformatics means to work with computers. As a necessary step, you'll need to learn how to use computers to get insight from biological data. By "use computers," we mean to grasp the full potential that computers can offer to assist you in gathering, creating, and analyzing data. These tasks are achievable at their best by learning to write your own programs; they will suit the specific needs to answer your questions. We will learn how to make small scripts along with the content of the course. However, most programming learning will be part of your own effort; programming is a language, we can show you how it works, but it is up to you how you speak it and use it.
+To work in bioinformatics means to work with computers. As a necessary step, you'll need to learn how to use computers to get insight from biological data. By "use computers," we mean to grasp the full potential that computers can offer to assist you in gathering, creating, and analyzing data. These tasks are achievable at their best by learning to write your own programs; they will suit the specific needs to answer your scientific questions. We will learn how to make small scripts along with the content of the course. However, most programming learning will be part of your own effort; programming is a language, we can show you how it works, but it is up to you how you learn it, speak it and use it.
+
+## Preparing the tools 
+
+Before we start with the course's practical session, you must have everything set up and ready to work. Our primary language will be Python, a general  
+
+
+
