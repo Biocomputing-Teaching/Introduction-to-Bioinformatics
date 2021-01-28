@@ -2,11 +2,13 @@
 
 ## Requirements 
 
+* Setting up your computer with Linux or macOS operating system (see [course repository](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics))
+* Install Conda and Jupyter Lab (see [course repository](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics))
 * Complete the "Learn the Basics" entries in the Python tutorial:
 
 [Python Tutorial](https://www.learnpython.org/en/)
 
-## To start
+## To begin
 
 In this session, we will start working with sequence data using Python. It is imperative to have completed the basic parts of the Python tutorial. Here we will see the code at work reading files and doing calculations using python string objects.
 
