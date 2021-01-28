@@ -1,3 +1,32 @@
 # Practical Session 01
 
+## Requirements 
+
+* Complete the "Learn the Basics" entries in the Python tutorial:
+
+[Python Tutorial](https://www.learnpython.org/en/)
+
+## To start
+
+In this session, we will start working with sequence data using Python. It is imperative to have completed the basic parts of the Python tutorial. Here we will see the code at work reading files and doing calculations using python string objects.
+
+To start the session, you'll need the files inside the P01 folder in this repository. To do that is better to have the full repository cloned in your computer: on your terminal, navigate to a location where you want to download the course repository and execute:
+
+```
+git clone https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics.git
+```
+
+This command will create a folder named "Introduction-to-Bioinformatics" containing the full repository in its last version.
+
+Navigate to the Practical Session 01 directory:
+
+```
+cd Introduction-to-Bioinformatics/practical/P01
+```
+
+And open the jupyter notebook inside the folder:
+
+```
+jupyter-notebook 01-WorkingWithFastaFiles.ipynb
+```
 
