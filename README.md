@@ -45,6 +45,11 @@ conda install matplotlib
 conda install biopython
 ```
 
+* Install [Git](https://git-scm.com/)
+```
+conda install -c anaconda git
+```
+
 That's it for now. Although, during the course, we will install and create other programming packages when we need them.
 
 
