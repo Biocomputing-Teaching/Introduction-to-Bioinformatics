@@ -8,7 +8,11 @@
 
 ## To begin
 
-In this session, we will start working with sequence data using Python. It is imperative to have completed the basic parts of the Python tutorial. Here we will see the code at work reading files and doing calculations using python string objects.
+In this session, we will start working with sequence data using Python. It is imperative to have completed the basic parts of the Python tutorial. Here we will see the code at work by reading files and doing calculations using python string objects.
+
+Some basic python concepts are needed, so please review them before the session:
+
+** algo
 
 To start the session, you'll need the files inside the P01 folder in this repository. To do that is better to have the full repository cloned in your computer: on your terminal, navigate to a location where you want to download the course repository and execute:
 
