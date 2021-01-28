@@ -32,11 +32,22 @@ We will need to install the Conda package manager:
 
 [Tutorial for installing Conda](link to it)
 
-After installing Conda, we will install the Jupyter-lab package:
+After installing Conda, we will install several packages needed for our sessions. Open up a terminal and execute the following:
 
-[Tutorial for installing Jupyter-lab with Conda](link to it)
+* [jupyter notebooks](https://jupyter.org/install):
+  ```
+conda install jupyterlab
+  ```
+* required initial Python packages:
+  ```
+conda install numpy
+conda install matplotlib
+conda install biopython
+  ```
 
 That's it for now. Although, during the course, we will install and create other programming packages when we need them.
+
+* if you want to clone this repository on your computer (not needed, as you can download individual files), you can install [GitHub Desktop](https://desktop.github.com) to make it the easy way.
 
 ## Sessions
 
@@ -45,6 +56,8 @@ The course will be divided into theoretical, practical, and methodological cases
 ### Theoretical sessions
 
 ### Practical Sessions
+
+[P01 - Working with sequence data]()
 
 ### Case Sessions
 
