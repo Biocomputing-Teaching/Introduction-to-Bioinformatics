@@ -18,7 +18,7 @@ Linux and macOS are very similar since both have similar architectures. Many Lin
 
 There are several ways to install Linux. One way is using it as your primary operating system, doing everything you usually do but now using Linux.
 
-[How to set up a dual-booting computer tutorial](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
+[How to set up a computer with dual-booting](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
 
 Also, there are ways of having more than one operating system in your personal computer that you can select at the startup menu (when you turn on your computer). If you have a Windows computer, this could be an option.
 
@@ -30,7 +30,7 @@ Finally, if you don't want a second operative system on your computer, you can j
 
 We will need to install the [Conda](https://docs.conda.io/en/latest/) package manager:
 
-[Tutorial for installing Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
+[Documentation for installing Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 
 After installing Conda, we will install several packages needed for our sessions. Open up a terminal and execute the following:
 
@@ -50,7 +50,7 @@ conda install biopython
 conda install -c anaconda git
 ```
 
-That's it for now. Although, during the course, we will install and create other programming packages when we need them.
+That's it for now. Although, during the course, we will install and create other programming packages along we are needing them.
 
 
 ### Getting yourself ready
