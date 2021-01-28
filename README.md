@@ -69,7 +69,8 @@ For Python, we ask you reading at least the "Learn the Basics" entries in the fo
 
 The deeper you go, the better programmer you'll become! A good programmer will go swiftly along "Introduction to Bioinformatics", not to mention that later you could apply this knowledge when delving into any other professional problems. 
 
-* IMPORTANT: if you want to clone this repository on your computer (not needed, as you can download individual files), you can install [GitHub Desktop](https://desktop.github.com) to make it the easy way.
+<mark>IMPORTANT: if you want to clone this repository on your computer (not needed, as you can download individual files), you can install [GitHub Desktop](https://desktop.github.com) to make it the easy way.
+</mark>
 
 ## Sessions
 
