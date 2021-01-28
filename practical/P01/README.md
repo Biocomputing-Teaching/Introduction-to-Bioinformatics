@@ -16,7 +16,7 @@ To start the session, you'll need the files inside the P01 folder in this reposi
 git clone https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics.git
 ```
 
-This command will create a folder named "Introduction-to-Bioinformatics" containing the full repository in its last version.
+This command will create a folder named "Introduction-to-Bioinformatics" containing the full repository at its latest version.
 
 Navigate to the Practical Session 01 directory:
 
