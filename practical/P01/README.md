@@ -12,7 +12,11 @@ In this session, we will start working with sequence data using Python. It is im
 
 Some basic python concepts are needed, so please review them before the session:
 
-** algo
+- Python data
+- Data types
+- Python function
+- Python method
+- Line break
 
 To start the session, you'll need the files inside the P01 folder in this repository. To do that is better to have the full repository cloned in your computer: on your terminal, navigate to a location where you want to download the course repository and execute:
 
