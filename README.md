@@ -50,11 +50,11 @@ That's it for now. Although, during the course, we will install and create other
 
 ### Getting yourself ready
 
-After setting up your computer, it is time to prepare yourself with some programming knowledge. If this is your first time using a console on a Linux computer, you better read this tutorial to learn some basic bash language and how to operate a terminal (Note: macOS also uses bash language to operate its terminal):
+After setting up your computer, it is time to prepare yourself with some programming knowledge. If this is your first time using a console on a Linux computer, you better read this tutorial to learn some basic bash language and how to operate a command-line terminal (Note: macOS also uses bash language to operate its terminal):
 
-[Basic linux tutorial](https://ryanstutorials.net/linuxtutorial/)
+[Basic Linux tutorial](https://ryanstutorials.net/linuxtutorial/)
 
-If you have some experience and want to be more proficient, please read the following tutorial:
+If you have some experience and have already finished the Basic linux tutorial, please read the following:
 
 [Basic bash scripting tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 
@@ -62,9 +62,9 @@ For Python, we recommend reading at least the "Learn the Basics" entries in the 
 
 [Python tutorial](https://www.learnpython.org/en/) 
 
-The deeper you go, the better programmer you'll become!
+The deeper you go, the better programmer you'll become! A good programmer will go swiftly along "Introduction to Bioinformatics", not to mention that you can apply this knowledge when delving into any other professional problems. 
 
-* if you want to clone this repository on your computer (not needed, as you can download individual files), you can install [GitHub Desktop](https://desktop.github.com) to make it the easy way.
+* IMPORTANT: if you want to clone this repository on your computer (not needed, as you can download individual files), you can install [GitHub Desktop](https://desktop.github.com) to make it the easy way.
 
 ## Sessions
 
