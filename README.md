@@ -28,7 +28,7 @@ Finally, if you don't want a second operative system on your computer, you can j
 
 ### Installing the required programs
 
-We will need to install the Conda package manager:
+We will need to install the [Conda](https://docs.conda.io/en/latest/) package manager:
 
 [Tutorial for installing Conda](link to it)
 
