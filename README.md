@@ -59,15 +59,15 @@ After setting up your computer, it is time to prepare yourself with some program
 
 [Basic Linux tutorial](https://ryanstutorials.net/linuxtutorial/)
 
-If you have some experience and have already finished the Basic linux tutorial, please read the following:
+If you have some experience and have already finished the Basic Linux tutorial, please read the following:
 
 [Basic bash scripting tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 
-For Python, we recommend reading at least the "Learn the Basics" entries in the following link:
+For Python, we ask you reading at least the "Learn the Basics" entries in the following link:
 
 [Python tutorial](https://www.learnpython.org/en/) 
 
-The deeper you go, the better programmer you'll become! A good programmer will go swiftly along "Introduction to Bioinformatics", not to mention that you can apply this knowledge when delving into any other professional problems. 
+The deeper you go, the better programmer you'll become! A good programmer will go swiftly along "Introduction to Bioinformatics", not to mention that later you could apply this knowledge when delving into any other professional problems. 
 
 * IMPORTANT: if you want to clone this repository on your computer (not needed, as you can download individual files), you can install [GitHub Desktop](https://desktop.github.com) to make it the easy way.
 
