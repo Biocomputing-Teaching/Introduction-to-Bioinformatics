@@ -38,10 +38,12 @@ After installing Conda, we will install several packages needed for our sessions
 ```
 conda install jupyterlab
 ```
-* required initial Python packages:
+* Other required Python packages:
+```
 conda install numpy
 conda install matplotlib
 conda install biopython
+```
 
 That's it for now. Although, during the course, we will install and create other programming packages when we need them.
 
