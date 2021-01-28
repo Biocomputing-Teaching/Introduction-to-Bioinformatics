@@ -35,18 +35,13 @@ We will need to install the Conda package manager:
 After installing Conda, we will install several packages needed for our sessions. Open up a terminal and execute the following:
 
 * [jupyter notebooks](https://jupyter.org/install):
-  ```
+```
 conda install jupyterlab
-  ```
+```
 * required initial Python packages:
-  ```
 conda install numpy
-  ```
-  ```
 conda install matplotlib
-  ```
 conda install biopython
-  ```
 
 That's it for now. Although, during the course, we will install and create other programming packages when we need them.
 
