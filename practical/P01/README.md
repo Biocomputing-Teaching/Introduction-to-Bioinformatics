@@ -12,11 +12,8 @@ In this session, we will start working with sequence data using Python. It is im
 
 Some basic python concepts are needed, so please review them before the session:
 
-- Python data
-- Data types
-- Python function
-- Python method
-- Line break
+- [Python Data Types](https://www.tutorialspoint.com/python/python_variable_types.htm)
+- [Python function](https://www.tutorialspoint.com/python/python_functions.htm)
 
 To start the session, you'll need the files inside the P01 folder in this repository. To do that is better to have the full repository cloned in your computer: on your terminal, navigate to a location where you want to download the course repository and execute:
 
