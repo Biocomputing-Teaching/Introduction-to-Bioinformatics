@@ -4,9 +4,7 @@
 
 * Setting up your computer with Linux or macOS operating system (see [course repository](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics))
 * Install Conda and Jupyter Lab (see [course repository](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics))
-* Complete the "Learn the Basics" entries in the Python tutorial:
-
-[Python Tutorial](https://www.learnpython.org/en/)
+* Complete the "Learn the Basics" entries in the [Python Tutorial](https://www.learnpython.org/en/)
 
 ## To begin
 
