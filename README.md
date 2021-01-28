@@ -77,7 +77,7 @@ The course will be divided into theoretical, practical, and methodological cases
 
 ### Theoretical sessions
 
-[P01 - Theoretical session 01]()
+[T01 - Theoretical session 01](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T01)
 
 ### Practical Sessions
 
