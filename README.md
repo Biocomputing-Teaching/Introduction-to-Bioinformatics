@@ -35,13 +35,16 @@ We will need to install the Conda package manager:
 After installing Conda, we will install several packages needed for our sessions. Open up a terminal and execute the following:
 
 * [jupyter notebooks](https://jupyter.org/install):
-  """
+  ```
 conda install jupyterlab
-  """
+  ```
 * required initial Python packages:
   ```
 conda install numpy
+  ```
+  ```
 conda install matplotlib
+  ```
 conda install biopython
   ```
 
