@@ -35,3 +35,6 @@ And open the jupyter notebook inside the folder:
 jupyter-notebook 01-WorkingWithFastaFiles.ipynb
 ```
 
+The content of this notebook can also be consulted at:
+
+[01-WorkingWithFastaFiles.ipynb](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P01/01-WorkingWithFastaFiles.ipynb)
