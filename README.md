@@ -18,11 +18,11 @@ Linux and macOS are very similar since both have similar architectures. Many Lin
 
 There are several ways to install Linux. One way is using it as your primary operating system, doing everything you usually do but now using Linux.
 
-[How to set up a dual-booting computer tutorial](link to it)
+[How to set up a dual-booting computer tutorial](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
 
 Also, there are ways of having more than one operating system in your personal computer that you can select at the startup menu (when you turn on your computer). If you have a Windows computer, this could be an option.
 
-[How to set up a Linux virtual machine for Windows](link to it)
+[How to set up a Linux virtual machine for Windows](https://www.thomasmaurer.ch/2019/06/how-to-create-an-ubuntu-vm-on-windows-10/)
 
 Finally, if you don't want a second operative system on your computer, you can just set up a Linux virtual box. 
 
@@ -30,7 +30,7 @@ Finally, if you don't want a second operative system on your computer, you can j
 
 We will need to install the [Conda](https://docs.conda.io/en/latest/) package manager:
 
-[Tutorial for installing Conda](link to it)
+[Tutorial for installing Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 
 After installing Conda, we will install several packages needed for our sessions. Open up a terminal and execute the following:
 
@@ -46,6 +46,23 @@ conda install biopython
 ```
 
 That's it for now. Although, during the course, we will install and create other programming packages when we need them.
+
+
+### Getting yourself ready
+
+After setting up your computer, it is time to prepare yourself with some programming knowledge. If this is your first time using a console on a Linux computer, you better read this tutorial to learn some basic bash language and how to operate a terminal (Note: macOS also uses bash language to operate its terminal):
+
+[Basic linux tutorial](https://ryanstutorials.net/linuxtutorial/)
+
+If you have some experience and want to be more proficient, please read the following tutorial:
+
+[Basic bash scripting tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
+
+For Python, we recommend reading at least the "Learn the Basics" entries in the following link:
+
+[Python tutorial](https://www.learnpython.org/en/) 
+
+The deeper you go, the better programmer you'll become!
 
 * if you want to clone this repository on your computer (not needed, as you can download individual files), you can install [GitHub Desktop](https://desktop.github.com) to make it the easy way.
 
