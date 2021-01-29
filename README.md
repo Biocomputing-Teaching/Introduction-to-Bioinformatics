@@ -34,7 +34,7 @@ First, we will need to install the [Conda](https://docs.conda.io/en/latest/) pac
 
 [Documentation for installing Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 
-After installing Conda, we will install several packages needed for our sessions. Open up a terminal on your (Linux)[https://www.lifewire.com/ways-to-open-a-terminal-console-window-using-ubuntu-4075024] or (Mac)[https://www.howtogeek.com/682770/how-to-open-the-terminal-on-a-mac/] and execute the following:
+After installing Conda, we will install several packages needed for our sessions. Open up a terminal on your [Linux](https://www.lifewire.com/ways-to-open-a-terminal-console-window-using-ubuntu-4075024) or [Mac](https://www.howtogeek.com/682770/how-to-open-the-terminal-on-a-mac/) and execute the following:
 
 * Install [jupyter notebooks](https://jupyter.org/install):
 ```
