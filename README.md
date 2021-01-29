@@ -14,7 +14,7 @@ To work in Bioinformatics means to work with computers. As a necessary step, you
 
 Before we start with the course's practical session, you must have everything set up and ready to work. Our primary language will be Python, a general programming language more ubiquitous by every day. Many platforms can host a python interpreter, but since this is not the only application we will use in the course, we will need a shared operating system among all the course attendants. For this, we choose Linux since most of the scientific applications are developed for it.
 
-Linux and macOS are very similar since both have similar architectures. Many Linux programs are also available for macOS users. So, for most purposes, you can use the terminal aplication in your MacOS to follow with the course.
+Linux and macOS are very similar since both have similar architectures. Many Linux programs are also available for macOS users. So, for most purposes, you can use the terminal application in your MacOS to follow with the course.
 
 There are several ways to install Linux. One way is using it as your primary operating system, doing everything you usually do but now using Linux.
 
@@ -77,10 +77,10 @@ The course will be divided into theoretical, practical, and methodological cases
 
 ### Theoretical sessions
 
-[T01 - Theoretical session 01](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T01)
+[T01 - Theoretical session 01](https://github.com/Biocomputing-Teaching/Biomolecular-Interactions/tree/main/theoretical/T01)
 
 ### Practical Sessions
 
-[P01 - Working with sequence data](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P01)
+[P01 - Working with sequence data](https://github.com/Biocomputing-Teaching/Biomolecular-Interactions/tree/main/practical/P01)
 
 ### Case Sessions
