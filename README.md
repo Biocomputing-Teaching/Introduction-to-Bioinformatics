@@ -54,7 +54,6 @@ conda install -c anaconda git
 
 That's it for now. Although, during the course, we will install and create other programming packages along we need them.
 
-
 ### Getting yourself ready
 
 After setting up your computer, it is time to prepare yourself with some programming knowledge. If this is your first time using a console or terminal, you better read this tutorial to learn some basic bash language and how to operate a command-line based terminal (Note: macOS also uses bash language to operate its terminal):
