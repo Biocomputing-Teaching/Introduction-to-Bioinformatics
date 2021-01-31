@@ -26,7 +26,11 @@ Besides, there are ways of having more than one operating system in your persona
 
 Finally, if you don't want a second operative system on your computer, you can set up a Linux virtual box:
 
-[How to set up a Linux virtual machine for Windows](https://www.thomasmaurer.ch/2019/06/how-to-create-an-ubuntu-vm-on-windows-10/)
+[How to set up a Linux virtual machine for Windows with Hyper-V](https://www.thomasmaurer.ch/2019/06/how-to-create-an-ubuntu-vm-on-windows-10/)
+
+If the Hyper-V option is not available to your Windows system (it is not available for Windows Home edition), then you can try with:
+
+[How to set up a Linux virtual machine for Windows with VirtualBox](https://itsfoss.com/install-linux-in-virtualbox/)
 
 ### Installing the required programs
 
