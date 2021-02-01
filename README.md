@@ -74,7 +74,7 @@ Importantly, for Python, we ask you to read and familiarize yourself with at lea
 
 [Python tutorial](https://www.learnpython.org/en/)
 
-The deeper you go, the better programmer you'll become! A good programmer will go swiftly along "Introduction to Bioinformatics," not to mention that later you will be able to apply all this knowledge when delving into other professional problems.
+The deeper you go, the better programmer you'll become! A good programmer will go swiftly along "Introduction to Bioinformatics," not to mention that later you will be able to apply all this knowledge when delving into other professional problems. You can also find material developed in-house [here](https://github.com/Biocomputing-Teaching/Learning-Python-for-Biocomputing).
 
 IMPORTANT: if you want to clone this repository on your computer (not needed, as you can download individual files), you can install [GitHub Desktop](https://desktop.github.com) to make it visually easy.
 
