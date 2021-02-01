@@ -56,6 +56,8 @@ conda install biopython
 conda install -c anaconda git
 ```
 
+If you are using Mac OS X you may be interested in installing [GitHub Desktop](https://desktop.github.com) aswell.
+
 That's it for now. Although, during the course, we will install and create other programming packages along we need them.
 
 ### Getting yourself ready
