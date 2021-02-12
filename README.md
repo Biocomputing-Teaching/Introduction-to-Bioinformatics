@@ -84,11 +84,11 @@ The course will be divided into theoretical, practical, and methodological cases
 
 ### Theoretical sessions
 
-[T01 - Theoretical session 01](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T01)
+[T01 - Theoretical session 01](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T01%20Introduction)
 
-[T02 - Theoretical session 02](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T02)
+[T02 - Theoretical session 02](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T02%20Databases)
 
-[T03 - Theoretical session 03](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T03)
+[T03 - Theoretical session 03](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T03%20Pairwise%20Alignments)
 
 ### Practical Sessions
 
