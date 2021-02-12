@@ -86,6 +86,10 @@ The course will be divided into theoretical, practical, and methodological cases
 
 [T01 - Theoretical session 01](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T01)
 
+[T02 - Theoretical session 02](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T02)
+
+[T03 - Theoretical session 03](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T03)
+
 ### Practical Sessions
 
 [P01 - Working with sequence data](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P01)
