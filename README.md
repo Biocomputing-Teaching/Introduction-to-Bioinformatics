@@ -98,7 +98,6 @@ For the assignment of practical session 01, please see this notebook:
 
 [P01 - Assignment](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P01/assignment/assignment_instructions.ipynb)
 
-
-### Case Sessions
+[P02 - Pairwise alignments](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P02)
 
 Happy programming!
