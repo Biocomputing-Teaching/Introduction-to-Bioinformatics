@@ -6,8 +6,8 @@
 * Install Conda and Jupyter Lab (see [course repository](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics))
 * Install CD-HIT command-line program
 * Install MAFFT command-line program
-* Install BioPython library
-* Complete the practical session 01 and 02
+* Install BioPython library (see [course repository](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics))
+* Complete the practical sessions 01 and 02
 
 ## To begin
 
