@@ -100,4 +100,6 @@ For the assignment of practical session 01, please see this notebook:
 
 [P02 - Pairwise alignments](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P02)
 
+[P03 - Multiple sequence alignments](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P03)
+
 Happy programming!
