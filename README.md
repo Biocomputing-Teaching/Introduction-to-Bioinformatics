@@ -102,4 +102,6 @@ For the assignment of practical session 01, please see this notebook:
 
 [P03 - Multiple sequence alignments](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P03)
 
+[P04 - Phylogenetic trees](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P04)
+
 Happy programming!
