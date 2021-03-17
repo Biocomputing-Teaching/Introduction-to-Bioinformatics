@@ -51,7 +51,7 @@ Please, execute the following lines one by one in your terminal:
 ```conda install -c conda-forge matplotlib```
 
 
- Also, you need to get the files inside the P04 folder in this repository. To do that is better to have the entire repository cloned in your computer:
+ Also, you need to get the files inside the P05 folder in this repository. To do that is better to have the entire repository cloned in your computer:
 
 On your terminal, navigate to a location where you want to download the course repository. This location should be different than the one used to clone the repository of previous practice sessions. Go to another location and execute:
 
@@ -61,18 +61,18 @@ git clone https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatic
 
 This command will create a folder named "Introduction-to-Bioinformatics" containing the whole repository at its latest version.
 
-Navigate to the Practical Session 04 directory:
+Navigate to the Practical Session 05 directory:
 
 ```
-cd Introduction-to-Bioinformatics/practical/P04
+cd Introduction-to-Bioinformatics/practical/P05
 ```
 
 And open the Jupyter notebook inside this folder:
 
 ```
-jupyter-notebook 04-PhylogeneticTrees.ipynb
+jupyter-notebook 05-PhylogeneticTrees.ipynb
 ```
 
 You can also consult the content of this notebook at the following link:
 
-[04-PhylogeneticTrees.ipynb](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P04/04-PhylogeneticTrees.ipynb)
+[05-PhylogeneticTrees.ipynb](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P05/05-PhylogeneticTrees.ipynb)
