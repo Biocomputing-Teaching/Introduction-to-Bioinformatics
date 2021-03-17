@@ -1,4 +1,4 @@
-# Practical Session 03
+# Practical Session 04  
 
 ## Requirements
 
@@ -12,16 +12,7 @@
 
 ## To begin
 
-conda create --name ete3
-conda activate ete3
-conda install -c etetoolkit ete3 ete_toolchain
-pip install -I ete3
-conda install -c anaconda jupyter
-conda install -c anaconda requests
-conda install -c conda-forge scrapy
-conda install -c conda-forge matplotlib
-
-This session will work with the ETE command-line program to create phylogenetic trees from a fasta file. We will work by accessing, visualizing, and adding data to our phylogenetic tree.
+This session will work with the ETE command-line program to create phylogenetic trees from a fasta file. Then, we will work by accessing, visualizing, and adding data to our phylogenetic tree using the ETE Python API.
 
 All Python concepts from previous sessions are needed, so please review them before coming to the session. It is an excellent idea to review these critical concepts by revisiting the Python tutorial:
 
@@ -35,7 +26,9 @@ Then, we need to change our CONDA environment to the newly created one:
 
 ```conda activate ete3```
 
-Inside this CONDA environment, you need to install the ete3 library
+You will notice the word "(base)" at the beginning of your terminal display has changed to "(ete3)".
+
+Inside this new CONDA environment (ete3), you need to install the ete3 library
 
 ```conda install -c etetoolkit ete3 ete_toolchain```
 
@@ -43,7 +36,9 @@ Then, you need to install the command-line application with pip:
 
 ```pip install -I ete3```
 
-Finally, you need to install several Python packages again inside this new environment:
+Finally, you need to install again several Python packages (already present in the base environment) inside this new environment:
+
+Please, execute the following lines one by one in your terminal:
 
 ```pip install -I ete3```
 
