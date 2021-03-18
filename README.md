@@ -92,7 +92,7 @@ The course will be divided into theoretical, practical, and methodological cases
 
 ### Practical Sessions
 
-Practical session 01
+Practical session 01 <br />
 
   [P01 - Working with sequence data](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P01)
 
