@@ -1,0 +1,972 @@
+>sp|Q6QJ72|PDL2_ARATH Pterin-4-alpha-carbinolamine dehydratase 2, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=PDL2 PE=1 SV=1
+MSRLLLPKLFSISRTQVPAASLFNNLYRRHKRFVHWTSKMSTD-----------------
+--------------------------SVRSSTTGGSASGART-----------FCSL---
+--ADLSTKKCVPCNAKDLRAMTEQSAQDLLQKV-A-------GWDLAN---DNDTLKLHR
+SWRVKSFTKGLDFFQRVADIAESEGHHPDLHLVGWNNVKIEIWTHAI-------GG-LTE
+NDFILAAKINELQVEDLLRKKKV-----AK
+>sp|Q475Y4|PHS1_CUPPJ Putative pterin-4-alpha-carbinolamine dehydratase 1 OS=Cupriavidus pinatubonensis (strain JMP 134 / LMG 1197) OX=264198 GN=Reut_A0417 PE=3 SV=1
+---------------------------------------M--------------------
+--------------------------------------------------------S---
+--EKLESQTCTPCR-GGIPPLERAEAEALLVET-P-------GWTLA-----DDAGRLER
+SFTFRNFAQALEFVSGVGRLAEEQGHHPEIS-FGWGHATVSWRTKKI-------KG-LHR
+NDFVMAAKTSELAAGMTQG-----------
+>sp|Q7NM43|PHS1_GLOVI Putative pterin-4-alpha-carbinolamine dehydratase 1 OS=Gloeobacter violaceus (strain ATCC 29082 / PCC 7421) OX=251221 GN=gll0926 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+--MNLTEQRCTACR-PDAPRVGAAEIAELHPQI-P-------AWRIVE---IEGTPRLER
+QFRLRDFREAIAFTVRVGEEAEAEGHHPALL-TEWGSVKVSWWTHAI-------AG-LHR
+NDFVMAAKTDAIAAQVGAV-----------
+>sp|Q9DG45|PHS2_CHICK Pterin-4-alpha-carbinolamine dehydratase 2 OS=Gallus gallus OX=9031 GN=PCBD2 PE=2 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+------------MS-SQSHWLTAEERTQVLLDL-K---A--SGWSES-----GERDAIYK
+EFNFKNFNQAFGFMTRVALQAENMNHHPEWF-NVYSKVQITLISHDC-------GG-LTK
+RDVKLAQFIDKAAASV--------------
+>sp|Q46VT8|PHS2_CUPPJ Putative pterin-4-alpha-carbinolamine dehydratase 2 OS=Cupriavidus pinatubonensis (strain JMP 134 / LMG 1197) OX=264198 GN=Reut_A3388 PE=3 SV=2
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MTPLSPQARATLLAEL-P-------GWTDV-----DNRDAIQK
+RFTFPDFNAAFAFMTRVAIQAEKADHHPEWF-NVYNRVDITLSTHDA-------NG-LTQ
+RDIDLAHFIERAAASLRVE-----------
+>sp|Q7NK35|PHS2_GLOVI Putative pterin-4-alpha-carbinolamine dehydratase 2 OS=Gloeobacter violaceus (strain ATCC 29082 / PCC 7421) OX=251221 GN=gsl1645 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MNKMTPEEIETALKPI-A-------DWQLSE---ADGATAIER
+VFRFDDFVQAIAFVNKVAERAETAGHHPDIH-IHYNRVRLVLSTHDA-------GG-VTS
+KDLEMAAAL---------------------
+>sp|Q9H0N5|PHS2_HUMAN Pterin-4-alpha-carbinolamine dehydratase 2 OS=Homo sapiens OX=9606 GN=PCBD2 PE=1 SV=4
+---------------------------------------M--------------------
+-------------------------------AAVLGALGATR--RLLAALRGQSLGL---
+----------AAMS-SGTHRLTAEERNQAILDL-K---A--AGWSEL-----SERDAIYK
+EFSFHNFNQAFGFMSRVALQAEKMNHHPEWF-NVYNKVQITLTSHDC-------GE-LTK
+KDVKLAKFIEKAAASV--------------
+>sp|Q9CZL5|PHS2_MOUSE Pterin-4-alpha-carbinolamine dehydratase 2 OS=Mus musculus OX=10090 GN=Pcbd2 PE=1 SV=2
+---------------------------------------M--------------------
+---------------------------VAAAAVAVAAVGARSAGRWLAALRSPGASR---
+----------AAMS-SDAQWLTAEERDQLIPGL-K---A--AGWSEL-----SERDAIYK
+EFSFKNFNQAFGFMSRVALQAEKMNHHPEWF-NVYNKVQITLTSHDC-------GG-LTK
+RDVKLAQFIEKAAASL--------------
+>sp|A1TND7|PHS_ACIAC Putative pterin-4-alpha-carbinolamine dehydratase OS=Acidovorax citrulli (strain AAC00-1) OX=397945 GN=Aave_1891 PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------TSS---
+--SMLTKKDWSA---HARRALSPTEIVTRLADL-Q-------GWALSG---DGAAVAIEK
+TYRFANYYETISFVNAVAFIANAQDHHPDLS-VHYDRCVVRLNTHDV-------KG-IST
+TDLECAARFDALLAASE-------------
+>sp|C1F425|PHS_ACIC5 Putative pterin-4-alpha-carbinolamine dehydratase OS=Acidobacterium capsulatum (strain ATCC 51196 / DSM 11244 / JCM 7670 / NBRC 15755 / NCIMB 13165 / 161) OX=240015 GN=ACP_1052 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MAQLTPKAIEERLSSL-P-------AWKLQ-------APEIER
+VVEFSDFVAAMAFVNKVAEKAELAGHHPDID-IRYNRVRLALVTHDA-------GG-LTE
+RDFDLAASIEALL-----------------
+>sp|A5FWK8|PHS_ACICJ Putative pterin-4-alpha-carbinolamine dehydratase OS=Acidiphilium cryptum (strain JF-5) OX=349163 GN=Acry_0770 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MIPRLTDAERAALVDLL-P-------EWSLA-----KDRDAIER
+RFAFADFSEAFAFMTRVALLAEKHDHHPEWS-NVYNRVTILLSTHDA-------GG-LSA
+RDIRLAEAIDGLA-----------------
+>sp|A4SNJ1|PHS_AERS4 Putative pterin-4-alpha-carbinolamine dehydratase OS=Aeromonas salmonicida (strain A449) OX=382245 GN=ASA_2419 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--SELASQQCEACR-ADAPKVSEQELSELMHLI-P-------DWQPLV---VKGELQLRR
+EFTFRNFKEALAFTNRLGELAEAEFHHPAIL-TEWGKVTVSWWTHKI-------GG-LHR
+NDFIMAARTDQLLSDPLHK-----------
+>sp|Q8UC22|PHS_AGRFC Putative pterin-4-alpha-carbinolamine dehydratase OS=Agrobacterium fabrum (strain C58 / ATCC 33970) OX=176299 GN=Atu2676 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MKYPRLEPDAIRQALSKL-E-------GWSLR-----EDGAAIVR
+SFKFSSFAEAFGFMAESALAAEKLNHHPEWS-NVYSRVKVCLTTHDS-------QG-VTE
+RDFLLAEAMQKAAAGRGN------------
+>sp|B9JCJ2|PHS_AGRRK Putative pterin-4-alpha-carbinolamine dehydratase OS=Agrobacterium radiobacter (strain K84 / ATCC BAA-868) OX=311403 GN=Arad_4381 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MKYEKLEPAAIDETVAGL-V-------GWTLA-----ADRLSISK
+SYKFRNFVEAFGFMTEAALTAEKLNHHPEWF-NVYSRVDVKLTTHDA-------NG-LTD
+HDVKLAKAMEKAAARRAD------------
+>sp|B9JUA0|PHS_AGRVS Putative pterin-4-alpha-carbinolamine dehydratase OS=Agrobacterium vitis (strain S4 / ATCC BAA-846) OX=311402 GN=Avi_4174 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MRYERLAPEAIPGALRDL-D-------GWSLS-----EQGDAITK
+EFSFDDFAQAFGFMTECAIIAEKMGHHPEWF-NVYRRVDVRLTTHDV-------GG-LTG
+HDLKLAAAMDQVAKRRV-------------
+>sp|A6TVX6|PHS_ALKMQ Putative pterin-4-alpha-carbinolamine dehydratase OS=Alkaliphilus metalliredigens (strain QYMF) OX=293826 GN=Amet_4266 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--NNLAEKKCIPCS-LGTPPLSSDEIKRYISQLHE-------EWKVI------NDHHLER
+EFKFKNFKEALSYTNVIGQLAEKEGHHPDML-LSWGKVKITLFTHKI-------DG-LSE
+SDFVFAAKVDKQQSE---------------
+>sp|B4RXT2|PHS_ALTMD Putative pterin-4-alpha-carbinolamine dehydratase OS=Alteromonas mediterranea (strain DSM 17117 / CIP 110805 / LMG 28347 / Deep ecotype) OX=1774373 GN=MADE_1008895 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MATKLVESEIENKLEAL-NALITDDTPWERS-------GDSIKK
+TFTFKSFIRAFGWMSQMAIWAEKLKHHPEWF-NVYNKVEVTLTTHDA-------GG-LTE
+LDFSLAEKMEKFK-----------------
+>sp|O66462|PHS_AQUAE Putative pterin-4-alpha-carbinolamine dehydratase OS=Aquifex aeolicus (strain VF5) OX=224324 GN=aq_049 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVRKLSEEEVKRELENL-E-------GWEFC-------KDYIQK
+EFSTKNWKTTIFVVNAIASLAEAQWHHPDLE-VSFKKVKVKLTTHEA-------GG-ITE
+RDIKLAKSIDELVKEILKH-----------
+>sp|Q5P905|PHS_AROAE Putative pterin-4-alpha-carbinolamine dehydratase OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=AZOSEA00820 PE=3 SV=1
+---------------------------------------M--------------------
+--------------------------------------------------------S---
+--DELQSRTCTPCR-GDVPPMTKAEAKRQLAQT-P-------AWTLS-----DDGRCIER
+SFTFDDFKDAMSFVAKLGELAETEGHHPDIC-FGWGWARVTWQTKKI-------NG-LHD
+NDFIMAAKTDGLAPT---------------
+>sp|C1DQH9|PHS_AZOVD Putative pterin-4-alpha-carbinolamine dehydratase OS=Azotobacter vinelandii (strain DJ / ATCC BAA-1303) OX=322710 GN=Avin_34660 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TVLSQAHCEACR-ADAPKVSEQELADLIRQI-P-------DWRVEN---RDGILQLEK
+VFAFRNFARALAFTDAVGALAEAEGHHPALL-TEWGRVTVTWWTHKI-------RG-LHR
+NDFIMAARTDELAKGAEDRA----------
+>sp|P61732|PHS_BDEBA Putative pterin-4-alpha-carbinolamine dehydratase OS=Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100) OX=264462 GN=Bd0889 PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------MSQ---
+--TELLRKKSHPVD----QALTPEEIQQYLTVL-D-------GWSLQ-------GLHIAK
+SFEFKNYYQTIAFVNAIAFIVHTEDHHPELE-VGYNRCVVKFYTHSVNEGL---GG-ISE
+NDFICAAKIDALAGNQFAPMSH--------
+>sp|Q2KXB6|PHS_BORA1 Putative pterin-4-alpha-carbinolamine dehydratase OS=Bordetella avium (strain 197N) OX=360910 GN=BAV0690 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MSQRYLRMDLSIALGAL-P-------QWQAH-----PTRQALQK
+RYRFDHFNAAFGFMSRVAMFAEKIDHHPEWS-NVYNRVDVVLTTHDA-------GG-VTE
+LDVRMAQFMDEAAAQAGATGLSL----PVY
+>sp|Q7WG14|PHS_BORBR Putative pterin-4-alpha-carbinolamine dehydratase OS=Bordetella bronchiseptica (strain ATCC BAA-588 / NCTC 13252 / RB50) OX=257310 GN=BB4106 PE=3 SV=2
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MSTEFPMRIGAEVALPAL-Q-------GWNAA-----AGRDAIEK
+RYRFDNFNAAFGFMARVAMFAEKMDHHPEWR-NVYNRVDVTLTTHDA-------GG-VTE
+LDVRMAQFMDEAAGRLGATGLPARADQPRT
+>sp|Q3ZBD3|PHS_BOVIN Pterin-4-alpha-carbinolamine dehydratase OS=Bos taurus OX=9913 GN=PCBD1 PE=3 SV=2
+------------------------------------------------------------
+------------------------------------------------------------
+------------MA-GKAHRLSAEERDQLLPNL-R---A--VGWNEL-----EGRDAIFK
+QFHFKDFNRAFGFMTRVALQAEKLDHHPEWF-NVYNKVHITLSTHEC-------AG-LSE
+RDVNLASFIEQVAVSMT-------------
+>sp|Q89WZ6|PHS_BRADU Putative pterin-4-alpha-carbinolamine dehydratase OS=Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110) OX=224911 GN=bll0532 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MAERLTTEARKQALGGI-P-------DWTEV-----SGRDAIGK
+TFVFKDFNEAFGFMTRAALVAEKMDHHPEWR-NVYKTVEVVLSTHDA-------GG-VTA
+LDIELARAMNAIAKLTPG------------
+>sp|A5E8P9|PHS_BRASB Putative pterin-4-alpha-carbinolamine dehydratase OS=Bradyrhizobium sp. (strain BTAi1 / ATCC BAA-1182) OX=288000 GN=BBta_0248 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVERLSAEARTDALRKL-S-------GWSEL-----DGRDAISR
+SFTFRDFNEAFGFMTRVALVAEKRDHHPEWR-NVYRTVDVVLSTHDA-------GG-VTL
+LDVELAEAMDAIAASMA-------------
+>sp|A4YJY8|PHS_BRASO Putative pterin-4-alpha-carbinolamine dehydratase OS=Bradyrhizobium sp. (strain ORS 278) OX=114615 GN=BRADO0254 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVERLSAEARASALRDL-S-------GWAEL-----DGREAISR
+TFTFRDFNEAFGFMTRVALIAEKRDHHPEWR-NVYRTVEVVLATHDA-------GG-VTM
+LDIELARAMDAIAAAISG------------
+>sp|B2S7X9|PHS_BRUA1 Putative pterin-4-alpha-carbinolamine dehydratase OS=Brucella abortus (strain S19) OX=430066 GN=BAbS19_I00730 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MARNRLTESEMNEALRAL-D-------GWQKV-----DGREAITR
+SFKFKDFSTAFGFMAQAALYAEKLDHHPEWF-NAYNRVDVTLATHSE-------NG-VTE
+LDIKMARKMNAIAG----------------
+>sp|B1YQ64|PHS_BURA4 Putative pterin-4-alpha-carbinolamine dehydratase OS=Burkholderia ambifaria (strain MC40-6) OX=398577 GN=BamMC406_0076 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MIHKLTSEERKTRLEGL-P-------HWTAV-----PGRDAIQR
+SLRFADFNEAFGFMTRIAIKAQEMNHHPEWF-NVYNRVDITLSTHDA-------HG-LTE
+RDIALAQFIDHVCAHTEPAA----------
+>sp|B1K1I7|PHS_BURCC Putative pterin-4-alpha-carbinolamine dehydratase OS=Burkholderia cenocepacia (strain MC0-3) OX=406425 GN=Bcenmc03_0095 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MIHKLTSEERKTRLEDL-P-------HWTAV-----AGRDAIQR
+RLRFADFNEAFGFMTRVAIKAQEMNHHPEWF-NVYNRVDITLSTHDA-------DG-LTE
+RDIELARFIDGAAAHAQPGA----------
+>sp|A9AJD5|PHS_BURM1 Putative pterin-4-alpha-carbinolamine dehydratase OS=Burkholderia multivorans (strain ATCC 17616 / 249) OX=395019 GN=Bmul_0077 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVHKLTSEERKTRLERL-P-------QWSAV-----PGRDAIQR
+SLRFADFNEAFGFMTRVAIKAQEMNHHPEWF-NVYNRVDVTLSTHDA-------DG-LTE
+RDIELALFIDAVAAHARPAS----------
+>sp|Q62FU4|PHS_BURMA Putative pterin-4-alpha-carbinolamine dehydratase OS=Burkholderia mallei (strain ATCC 23344) OX=243160 GN=BMA2926 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MIHKLTSEERKTQLESL-H-------HWTAV-----PGRDAIQR
+SLRFADFNEAFGFMTRVAIKAQEMNHHPEWF-NVYNRVDVTLSTHDA-------NG-LTE
+RDIKLAHFIDEVGKHAKAA-----------
+>sp|Q9TZH6|PHS_CAEEL Putative pterin-4-alpha-carbinolamine dehydratase OS=Caenorhabditis elegans OX=6239 GN=pcbd-1 PE=3 SV=3
+---------------------------------------M--------------------
+-----------------------------HSSYSHFLQRLRTSVSYLSVSHFPSTSS---
+-HRLFSTTIGVFAR-KKMPLLTESERTEQLSGL-K---T--AGWKLV-----EGRDAIQK
+EFHFKDFNEAFGFMTRVGLKAEKMDHHPEWF-NVYNKVDITLSTHDC-------GG-LSP
+NDVKLATFIESIVKK---------------
+>sp|B0T207|PHS_CAUSK Putative pterin-4-alpha-carbinolamine dehydratase OS=Caulobacter sp. (strain K31) OX=366602 GN=Caul_4648 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MSRPAKIGATAALSQL-Q-------GWAVV-----SEKDAIGK
+TYLFADFNAAFGFMTRVALMADKLDHHPEWF-NVYNRVEVVLTTHDA-------DG-VSD
+LDVTMARFMDGIATA---------------
+>sp|Q9ABI2|PHS_CAUVC Putative pterin-4-alpha-carbinolamine dehydratase OS=Caulobacter vibrioides (strain ATCC 19089 / CB15) OX=190650 GN=CC_0245 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MSRPRI---GAAAAITQL-E-------GWAIA----PNHKDAIVK
+TFRFDDFNQAFGFMTRVALMADKLDHHPEWF-NVYNRVEVLLTTHDA-------DG-VTD
+LDLTLAKFMDSAA-----------------
+>sp|Q11D07|PHS_CHESB Putative pterin-4-alpha-carbinolamine dehydratase OS=Chelativorans sp. (strain BNC1) OX=266779 GN=Meso_3347 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MARQKLDRKEIENGLSEL-D-------EWELA-----EGGNAIHR
+RFVFSNFNEAFGFMTRAALAAEKLDHHPEWT-NVYKTVDVTLTTHAS-------GG-LTE
+LDFKLAKKMNAYAAK---------------
+>sp|B8G3F7|PHS_CHLAD Putative pterin-4-alpha-carbinolamine dehydratase OS=Chloroflexus aggregans (strain MD-66 / DSM 9485) OX=326427 GN=Cagg_0395 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MARLSEAEITEHLAQR-P-------DWSLE------NNNEIVR
+TFRLANFPAAIAFVTHVAFLAEAAGHHPDID-IRYNRVRIALTTHDA-------GG-LTE
+KDFALAAAIDEILG----------------
+>sp|B3ECB9|PHS_CHLL2 Putative pterin-4-alpha-carbinolamine dehydratase OS=Chlorobium limicola (strain DSM 245 / NBRC 103803 / 6330) OX=290315 GN=Clim_1125 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--NELKHMACVPCA-EAGSPLAADEIDRLRQEL-P-------DWEVVT---EEGMVRLRR
+TFTFPDFGQALAFTNRVGELAEAEGHHPRLV-TEWGRVTVEWWTHSA-------GG-LHR
+NDFIMAARTGGLHEG---------------
+>sp|B3QQ83|PHS_CHLP8 Putative pterin-4-alpha-carbinolamine dehydratase OS=Chlorobaculum parvum (strain NCIB 8327) OX=517417 GN=Cpar_1693 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TQLEKKHCVPCE-GTEAPMAPEELQRQLSHI-P-------DWNVVD---DSGTPKLVR
+VFTFKDFNDALDFTVRVGQLAESEGHHPALL-TEWGKVTVSWWTHAI-------GG-IHL
+NDVIMATKTEKLV-----------------
+>sp|Q8KFI4|PHS_CHLTE Putative pterin-4-alpha-carbinolamine dehydratase OS=Chlorobaculum tepidum (strain ATCC 49652 / DSM 12025 / NBRC 103806 / TLS) OX=194439 GN=CT0342 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TQLENKHCVPCE-GTAAPMASEELQRQLSSL-P-------EWTLVD---DSGTSKLVR
+VFTFKDFQSALDFTNRVGQLAEAEGHHPALL-TEWGKVTVSWWTHAI-------GG-IHL
+NDVIMATKTEKLV-----------------
+>sp|Q1QXY2|PHS_CHRSD Putative pterin-4-alpha-carbinolamine dehydratase OS=Chromohalobacter salexigens (strain ATCC BAA-138 / DSM 3043 / CIP 106854 / NCIMB 13768 / 1H11) OX=290398 GN=Csal_1321 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--SELSELKCEACS-ADAPTVSEAEMHSLGADV-P-------EWRIVE---RDGIMQLER
+EFTFRNFAQALAFTNQVGDLAEAQGHHPALI-TEWGKVTVTWWSHKI-------GG-LHK
+NDFIMAARTDEVAQSNVRAD----------
+>sp|Q7NVH7|PHS_CHRVO Putative pterin-4-alpha-carbinolamine dehydratase OS=Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757) OX=243365 GN=CV_2366 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+--MNLLELSCTP-Q-HGQSPLADNTVKQLLSTL-P-------DWEIV-------GIELRK
+TYRFANYHETMAFVNALAWIANQEDHHPDMS-VHYNRAVVNFSTHDA-------GG-LTL
+NDFICAAKTEALFRR-------P-------
+>sp|Q47XN8|PHS_COLP3 Putative pterin-4-alpha-carbinolamine dehydratase OS=Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX=167879 GN=CPS_3765 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------MTVQ
+SNNKLASQVCEACH-VDAPKVSDEELKELIGLI-P-------DWVPQV---RDNVMMLER
+EYKFKNYKLAWAFANKVSELAESEFHHPSIL-LEWGKVTVTWWTHSI-------GG-LHK
+NDFICAAKTDQLGD----------------
+>sp|B8HU56|PHS_CYAP4 Putative pterin-4-alpha-carbinolamine dehydratase OS=Cyanothece sp. (strain PCC 7425 / ATCC 29141) OX=395961 GN=Cyan7425_2038 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MAQLLSDIEINSQIGQL-P-------DWSVV-------GQEIQM
+VRKFKDFIAAIDFVNKLVEPAEAAGHHPDIA-ISYNKVTITLTTHDA-------GG-LTQ
+KDFDLAQVISQLSRIWV-------------
+>sp|Q11PN9|PHS_CYTH3 Putative pterin-4-alpha-carbinolamine dehydratase OS=Cytophaga hutchinsonii (strain ATCC 33406 / DSM 1761 / CIP 103989 / NBRC 15051 / NCIMB 9469 / D465) OX=269798 GN=CHU_3388 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------MYV-LVNKNPCNSLFKLFLFIM-N-------KWTEQ-------NNRLIK
+QFQFKDFKEAFEFMKRVAVVADKMDHHPYWT-NCYNKVYIELNTHSA-------GGVVTK
+KDFSLAEAIDTLAHESDN------------
+>sp|Q47IX1|PHS_DECAR Putative pterin-4-alpha-carbinolamine dehydratase OS=Dechloromonas aromatica (strain RCB) OX=159087 GN=Daro_0453 PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------ATS---
+--CNLADRQCTPCE-GGIAPLENSVAAVMLDTL-P-------GWTLD-------GQRLDK
+TYVFRNHYEAMAFVNAIAWVSHRENHHPELI-VGYKDVRVRYWTHAI-------GG-LSE
+NDFICAAKLEKLLEI---------------
+>sp|Q54RY8|PHS_DICDI Pterin-4-alpha-carbinolamine dehydratase OS=Dictyostelium discoideum OX=44689 GN=pcbd PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MAPTLLTEEQRKELIPK----------DWEMV-----VGRDAIKK
+TFTFKDFNQAFSFMTRVALVAEQMNHHPEWF-NVYNRVEITLATHDC-------SG-LSV
+NDTKMADIMNQFFNQLHQ------------
+>sp|A8LKP0|PHS_DINSH Putative pterin-4-alpha-carbinolamine dehydratase OS=Dinoroseobacter shibae (strain DSM 16493 / NCIMB 14021 / DFL 12) OX=398580 GN=Dshi_0134 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MAQKLDDSTRDEHLAPL-M---R--AGWEMV-----EGRDAIKK
+TFVFGDFTEAFAFMTGTALWAEKWDHHPEWS-NVYKTVEVTLTTHDV-------GG-LSE
+LDIKLASKMDNLA-----------------
+>sp|O76454|PHS_DROME Pterin-4-alpha-carbinolamine dehydratase OS=Drosophila melanogaster OX=7227 GN=Pcd PE=1 SV=2
+---------------------------------------MLLTIKCAQNVIKPNCQKVAN
+LLASSRRAGLFPTTATTATSRSLSQISVLYSPAAREAARAATGGS-ANLRRIHNTPT---
+-TEATATAITAKKR-KMVVRLNEQERAEKLQPL-L---D--AGWTLV-----EGRDAIFK
+QFVLKDFNQAFSFMTGVALLAEKINHHPEWF-NCYNKVDVTLSTHDV-------GG-LSS
+QDIRMATHLETTANLLK-------------
+>sp|P58249|PHS_DROVI Pterin-4-alpha-carbinolamine dehydratase OS=Drosophila virilis OX=7244 GN=Pcd PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVAKLTEQERVEKLQPL-L---D--AGWCLV-----EGRDAIYK
+EFLFKDFNQAFSFMTGVALLAEKMNHHPEWF-NVYNKLQVTLSTHDV-------GG-LSS
+QDIRMATYLETQAKLLH-------------
+>sp|A0M1H4|PHS_GRAFK Putative pterin-4-alpha-carbinolamine dehydratase OS=Gramella forsetii (strain KT0803) OX=411154 GN=GFO_1496 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MMNKLSEEEIQDKLKKF-D-------GWTYA-------KKSIHT
+SFQFENFKEAFTVMTRIAFEAEAQQHHPNWG-NVFNELEISLSTHDA-------DG-VTE
+KDFKLARAIEDIVESTN-------------
+>sp|Q2SCE8|PHS_HAHCH Putative pterin-4-alpha-carbinolamine dehydratase OS=Hahella chejuensis (strain KCTC 2396) OX=349521 GN=HCH_04986 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+--MSDTIPSCEACR-PDAEKVDPAKLEKYLSQV-P-------EWRLEE---RNGVQMISR
+DYKFKNFALALEFTNKVGAIAEEINHHPELV-TEWGKVRVTWWSHTI-------KG-LHE
+LDFAMAKRCEAVFNA---------------
+>sp|A1WWH9|PHS_HALHL Putative pterin-4-alpha-carbinolamine dehydratase OS=Halorhodospira halophila (strain DSM 244 / SL1) OX=349124 GN=Hhal_1266 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+--MSLTDKTCVPCQ-GGVAPMDRQQAEQMLVQV-P-------EWSLD-----TDARMIYR
+RFKFRNFIDALSFVNRVTEVAEAEDHHPDIL-LGYGYAEVRIQTHKI-------EG-LHE
+NDFILAAKVDALGA----------------
+>sp|B9LPE3|PHS_HALLT Putative pterin-4-alpha-carbinolamine dehydratase OS=Halorubrum lacusprofundi (strain ATCC 49239 / DSM 5036 / JCM 8891 / ACAM 34) OX=416348 GN=Hlac_1646 PE=3 SV=1
+---------------------------------------M--------------------
+--------------------------------------------------------S---
+--SPLADEPVEPAD-EGAEPLTDDEYAEYLAELGP-------VWEVV------DDHHLEA
+TYEFDDFADALAFTNEIGELAEAEGHHPDLH-LSWGEVGVEMWSHDI-------GG-LHE
+SDFVMAARMDRIYDGDGGD-----------
+>sp|Q5V1I9|PHS_HALMA Putative pterin-4-alpha-carbinolamine dehydratase OS=Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809) OX=272569 GN=rrnAC1707 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MADLLSDAEISDRLPE----------EWTRE-------DDEIVR
+VFEFDGYLDASGFLSAAAGLAEDAWHHPEMT-IRWGEVEVRLTTHDA-------GG-ITE
+NDIDLAERLNGIHD----------------
+>sp|B0R6B9|PHS_HALS3 Putative pterin-4-alpha-carbinolamine dehydratase OS=Halobacterium salinarum (strain ATCC 29341 / DSM 671 / R1) OX=478009 GN=OE_3495R PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MSDRLDDDTISDRLPD----------DWIHD-------GDAITR
+TYTFEEYLDGVAFASEVGDLADEAFHHPEIT-IRYDEVEVRFTDHEA-------GG-VTS
+QDIELARRTDDRR-----------------
+>sp|A9AXS2|PHS_HERA2 Putative pterin-4-alpha-carbinolamine dehydratase OS=Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785 / 114-95) OX=316274 GN=Haur_2248 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MPVLAKAALQQALEQR-S-------GWTVV-------DGQISK
+TYGLATFPFAIEFVRRIADAAEEVNHHPDID-IRYNKVTIALSTHDE-------KG-ITE
+KDFGLADTIDRIFAAAQ-------------
+>sp|Q31HZ6|PHS_HYDCU Putative pterin-4-alpha-carbinolamine dehydratase OS=Hydrogenovibrio crunogenus (strain XCL-2) OX=317025 GN=Tcr_0631 PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------TTE---
+--IALKDQSCETIE-KGSKAMIIPRIESYLSQM-P-------GWDVP-----LDYQTLTK
+TFSFKNYHQTVAFVNAITWVAHKEDHHPEIC-FGYNECKVILTTHSI-------KG-ISQ
+NDFIMAAKIDALLD----------------
+>sp|P0C8L6|PHS_HYPDU Probable pterin-4-alpha-carbinolamine dehydratase OS=Hypsibius dujardini OX=232323 GN=Pcd PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MDPRLTHEDRILHLAPL-T---E--KGWLLV-----EGRDAIHK
+EFKFKDFNAAFGFMTRVALLAEKMDHHPEWF-NVYNKVQITLSSHDV-------AG-LSQ
+RDIKLASFIEKAAVGASTS-----------
+>sp|Q5QU19|PHS_IDILO Putative pterin-4-alpha-carbinolamine dehydratase OS=Idiomarina loihiensis (strain ATCC BAA-735 / DSM 15497 / L2-TR) OX=283942 GN=IL0724 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--SNLENARCEACH-ADAPQVSDEELKELMREI-P-------DWTPVT---NDNVMMLQR
+EFKFKNFKQALAFTNRVGDLAEEEKHHPELV-TEWGKVTVTWWTHAI-------NG-LHK
+NDFIMAAKTDSVVDA---------------
+>sp|Q28VA7|PHS_JANSC Putative pterin-4-alpha-carbinolamine dehydratase OS=Jannaschia sp. (strain CCS1) OX=290400 GN=Jann_0438 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MAEKLDDAARAKAVASL-A---D--SGWEDV-----QGRDAIHK
+TFVFKNFTRAFGWMTQVAIVAEKMDHHPEWS-NVYKTVEVTLATHDV-------GG-LSE
+LDVTLAQKMDRLAQ----------------
+>sp|Q1IP68|PHS_KORVE Putative pterin-4-alpha-carbinolamine dehydratase OS=Koribacter versatilis (strain Ellin345) OX=204669 GN=Acid345_2331 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MSKTLTDPELQTALGSL-H-------GWAKN-------GIAIER
+KYEFKDFLEAMKFVNKVADAAEAAGHHPDIQ-IVYSRVTLQLTSHDS-------GG-VTH
+RDIKMAGRLNEIHP----------------
+>sp|Q5X3Q4|PHS_LEGPA Putative pterin-4-alpha-carbinolamine dehydratase OS=Legionella pneumophila (strain Paris) OX=297246 GN=lpp1980 PE=3 SV=1
+---------------------------------------M--------------------
+--------------------------------------------------------T---
+--SDLSSKHCESCE-GIGAALNSEQIKNLLPQLNT-------KWEVT-----EDNRIIKR
+AFSFKNFYETMAFVNAIAWIANIENHHPDLE-VGYNYCRVHFMTHAL-------NG-LTH
+NDFICAAKIDKLLVD---------------
+>sp|A1TZA3|PHS_MARHV Putative pterin-4-alpha-carbinolamine dehydratase OS=Marinobacter hydrocarbonoclasticus (strain ATCC 700491 / DSM 11845 / VT8) OX=351348 GN=Maqu_0976 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--SNLGQQSCSACS-ADAPQVTDAEKQTLLKDV-P-------EWQLIV---QDGEEQLQR
+VFTFKNFVQAQAFTNKVADLAEEEGHHPAIL-LEWGKATVRWWTHKI-------GG-LHK
+NDFIMAARTDELY-----------------
+>sp|A6VSD2|PHS_MARMS Putative pterin-4-alpha-carbinolamine dehydratase OS=Marinomonas sp. (strain MWYL1) OX=400668 GN=Mmwyl1_0423 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MTHRKLEQHEIEQALNQL-NTEAS--EGWAIE-------DEKLSK
+TFKFKDFQHAFGFMTMCALYAEKQDHHPEWF-NVYNKVSIQLTSHDV-------SG-ISN
+KDFDLAKKMETFALSV--------------
+>sp|Q60BH8|PHS_METCA Putative pterin-4-alpha-carbinolamine dehydratase OS=Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath) OX=243233 GN=MCA0497 PE=3 SV=1
+---------------------------------------M--------------------
+-------------------------------------------------------DA---
+--CSLTAKQCTPCQ-GGIPPLTAEEAEKLLVHV-P-------RWELK-----DAATKLKR
+TFRFENFMEALDFARKVGELCEAEGHHPDIG-IGWGYCRVEFQTHKI-------NG-LHE
+NDFIMAAKVDELAAEA--------------
+>sp|A4YEM3|PHS_METS5 Putative pterin-4-alpha-carbinolamine dehydratase OS=Metallosphaera sedula (strain ATCC 51363 / DSM 5348 / JCM 9185 / NBRC 15509 / TH2) OX=399549 GN=Msed_0700 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MPRLSVQEIDQALKGL-R-------NWRFE-------NGELVK
+EFKFADFDSSIRFLNMVQPVADSLDHHPDLC-VYYNRVIVHLTTHDE-------GG-VTD
+LDLKLAQKLDELEKMVH-------------
+>sp|B0JQV0|PHS_MICAN Putative pterin-4-alpha-carbinolamine dehydratase OS=Microcystis aeruginosa (strain NIES-843) OX=449447 GN=MAE_39970 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TELAQQKCQPYQ-SGSSPITAEEITALQAKI-P-------DWNLLE---YEGIPRLQK
+LYKFANFQGAIAFTNAVGEAAEKEGHHPALL-TEWGKVTVSWWTHDV-------GG-LHQ
+NDFIMAARTDDIYRQQNA------------
+>sp|A0QCA6|PHS_MYCA1 Putative pterin-4-alpha-carbinolamine dehydratase OS=Mycobacterium avium (strain 104) OX=243243 GN=MAV_1299 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MAVLTDEQIDAALPDL-D-------GWERA-------DGALRR
+SIKFPSFLDGIDAVRRVAEHAESKDHHPDID-IRWRTVTFALVTHSE-------GG-ITQ
+NDVDMARDINGIVGS---------------
+>sp|B1MLG8|PHS_MYCA9 Putative pterin-4-alpha-carbinolamine dehydratase OS=Mycobacteroides abscessus (strain ATCC 19977 / DSM 44196 / CIP 104536 / JCM 13569 / NCTC 13031 / TMC 1543) OX=561007 GN=MAB_1307c PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MALLTDDQINAALAGL-P-------GWTRE-------GDSLRR
+AVTFDAFLDGIDAVRRIAEHAESVDHHPDID-IRWRTVTFVLSTHSE-------GG-ITD
+KDLALAETIDTQIGR---------------
+>sp|P0A5S3|PHS_MYCBO Putative pterin-4-alpha-carbinolamine dehydratase OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) OX=233413 GN=BQ2027_MB1191C PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MAVLTDEQVDAALHDL-N-------GWQRA-------GGVLRR
+SIKFPTFMAGIDAVRRVAERAEEVNHHPDID-IRWRTVTFALVTHAV-------GG-ITE
+NDIAMAHDIDAMFGA---------------
+>sp|B8ZRQ6|PHS_MYCLB Putative pterin-4-alpha-carbinolamine dehydratase OS=Mycobacterium leprae (strain Br4923) OX=561304 GN=MLBr01503.1 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MTVLTDEQVDAALLDL-N-------DWKHT-------DGALCR
+SIKFPTFLAGIDAVCRVAEHAETKDHHPDID-IRYRTVTFILVTHYA-------DG-ITK
+KDITMARDIDRLIGD---------------
+>sp|A0R2K7|PHS_MYCS2 Putative pterin-4-alpha-carbinolamine dehydratase OS=Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155) OX=246196 GN=MSMEG_5150 PE=1 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MAVLSNDQVDAALPNL-P-------GWERA-------AGALRR
+SVKFPTFLDGIDAVRRVAEFAEEKDHHPDID-IRWRTVTFALVTHAA-------GG-ITE
+KDVQMAEEINRILSD---------------
+>sp|A3Q4G7|PHS_MYCSJ Putative pterin-4-alpha-carbinolamine dehydratase OS=Mycobacterium sp. (strain JLS) OX=164757 GN=Mjls_4273 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MAVLTDDQVDAALPEL-G-------GWERA-------DGVLRR
+SVKFPAFLDGIEAVRRVAERAEAKDHHPDID-IRWRTVTFVLVTHSE-------GG-ITE
+KDLQMAREIDEILDR---------------
+>sp|A1TDS4|PHS_MYCVP Putative pterin-4-alpha-carbinolamine dehydratase OS=Mycolicibacterium vanbaalenii (strain DSM 7251 / JCM 13017 / NRRL B-24157 / PYR-1) OX=350058 GN=Mvan_4549 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MAVLTDEQVDAALPDL-N-------GWERA-------DGALRR
+SVKFSAFLDGIDAVRRVAEHAEAKDHHPDID-IRWRTVTFALVTHSE-------GG-ITD
+KDVQMARDIDGILG----------------
+>sp|Q3ISB3|PHS_NATPD Putative pterin-4-alpha-carbinolamine dehydratase OS=Natronomonas pharaonis (strain ATCC 35678 / DSM 2160 / CIP 103997 / NBRC 14720 / NCIMB 2260 / Gabara) OX=348780 GN=NP_1766A PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MSDRLTDDEIQAQLPA----------AWDRD-------GDEIVR
+TFEFESYLEGVGFASAAGGLAEEAFHHPEMT-IGWREVEVRLTTHDA-------GG-ITQ
+KDIDLAERFDELAE----------------
+>sp|Q0ADS7|PHS_NITEC Putative pterin-4-alpha-carbinolamine dehydratase OS=Nitrosomonas eutropha (strain DSM 101675 / C91 / Nm57) OX=335283 GN=Neut_2288 PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------TNI---
+--CDLADRKCKPCE-GGVPPLRKEEAENLLKQL-E------QGWQLA-------DNRISR
+TFSFKNYYQTMAFVNAVAWVSHQEDHHPDMM-VGYNQCRVEYTTHAI-------GG-LSE
+NDFICAAKVDMLLIS---------------
+>sp|Q82Y13|PHS_NITEU Putative pterin-4-alpha-carbinolamine dehydratase OS=Nitrosomonas europaea (strain ATCC 19718 / CIP 103999 / KCTC 2705 / NBRC 14298) OX=228410 GN=NE0077 PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------TNV---
+--CDLTDRKCKPCE-GGVPPLEMEEAEKLLKQL-E------QGWQLA-------DNKISR
+TFSFKNYYQTMAFVNAIAWVSHREDHHPDMM-VGYDWCRVEYMTHAI-------GG-LSE
+NDFICAAKVDMLFKS---------------
+>sp|Q1QHE0|PHS_NITHX Putative pterin-4-alpha-carbinolamine dehydratase OS=Nitrobacter hamburgensis (strain DSM 10229 / NCIMB 13809 / X14) OX=323097 GN=Nham_3629 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MAERLSEDARKAAVKAL-S-------GWSEV-----AGREAIAR
+VFTFRDFNEAFGFMARVALVAEKNDHHPEWR-NVYKTVEVVLATHDA-------GG-VTE
+RDIRLAEAMNAIARQFGVA-----------
+>sp|Q2YB52|PHS_NITMU Putative pterin-4-alpha-carbinolamine dehydratase OS=Nitrosospira multiformis (strain ATCC 25196 / NCIMB 11849 / C 71) OX=323848 GN=Nmul_A0712 PE=3 SV=1
+---------------------------------------MD-------------------
+------------------------------------------------------TTI---
+--DDLATKQCKPCE-GAMPPLSQEEITQLMRQL-D-------GWNYL-------GKTIRK
+EFSFKNYYQTMAFVNAVAWISHREDHHPDIT-VGYNKCQVEYTTHAI-------GG-LSE
+NDFICAAKIDTLFQI---------------
+>sp|Q3SNS9|PHS_NITWN Putative pterin-4-alpha-carbinolamine dehydratase OS=Nitrobacter winogradskyi (strain ATCC 25391 / DSM 10237 / CIP 104748 / NCIMB 11846 / Nb-255) OX=323098 GN=Nwi_2809 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVERFSDEARNTALNEL-P-------GWSQV-----AGREAITR
+TFTFRDFNEAFGFMARVALVAEKTDHHPEWR-NVYRTVEVVLATHDA-------GG-VTE
+RDIRLAEAMNAIARQCGGI-----------
+>sp|Q5YQC8|PHS_NOCFA Putative pterin-4-alpha-carbinolamine dehydratase OS=Nocardia farcinica (strain IFM 10152) OX=247156 GN=NFA_47610 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MTTELLSDEQIATALQDL-P-------DWTRS-------GDEISR
+TVQAESFPAAIALVDRVAEAAERAGHHPDID-IRWRTVTFTLSTHSA-------GG-LTG
+RDIDLARQIDELAR----------------
+>sp|B2IVV2|PHS_NOSP7 Putative pterin-4-alpha-carbinolamine dehydratase OS=Nostoc punctiforme (strain ATCC 29133 / PCC 73102) OX=63737 GN=Npun_F4554 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MTQLLTKTEIQEQAKVL-S-------GWTVE-------ESKLHI
+TRTFKDFIQAIEFVNKLVEPAESAGHHPDIK-ISYNKVKITLTTHDA-------GG-LTQ
+ADFDVAQTISQIK-----------------
+>sp|Q8YNL6|PHS_NOSS1 Putative pterin-4-alpha-carbinolamine dehydratase OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX=103690 GN=asr4549 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MAQLLSDVEIQSQASKL-S-------GWTLE-------GSKLQT
+TRKFKDFIEAIAFVNKLVEPAESAGHHPDIE-ISYNKVKVTLTTHDA-------GG-LTQ
+KDFDVAATISQIN-----------------
+>sp|Q2G9B0|PHS_NOVAD Putative pterin-4-alpha-carbinolamine dehydratase OS=Novosphingobium aromaticivorans (strain ATCC 700278 / DSM 12444 / CIP 105152 / NBRC 16084 / F199) OX=279238 GN=Saro_1118 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MTVARLTDAERDALLAEL-P-------EWALR-----EDGLAIVR
+TFRFADFSQAWGFMNRVALHAEKTDHHPEWF-NVYNRVEVTLTTHDA-------DG-LSA
+RDADMARAMESFL-----------------
+>sp|A6WV21|PHS_OCHA4 Putative pterin-4-alpha-carbinolamine dehydratase OS=Ochrobactrum anthropi (strain ATCC 49188 / DSM 6882 / JCM 21032 / NBRC 15819 / NCTC 12168) OX=439375 GN=Oant_0094 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MARNRLTENELNEALTEL-D-------GWQKV-----DGREAIAK
+SFKFKDFNAAFGFMTRAALHAEKLDHHPEWF-NVYNRVDVTLATHSE-------NG-ITE
+LDIKLARKMNAIA-----------------
+>sp|B6JAT9|PHS_OLICO Putative pterin-4-alpha-carbinolamine dehydratase OS=Oligotropha carboxidovorans (strain ATCC 49405 / DSM 1227 / KCTC 32145 / OM5) OX=504832 GN=OCAR_4303 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MGDLLSDEARRAALVEL-P-------GWREA-----DGGKAFTR
+TFTFRNFNEAFGFMTRAALVAEKNDHHPDWR-NVYKTVEVNLSTHDA-------GG-ITA
+RDVALAKKMNEIAARFGI------------
+>sp|B1ZY08|PHS_OPITP Putative pterin-4-alpha-carbinolamine dehydratase OS=Opitutus terrae (strain DSM 11246 / JCM 15787 / PB90-1) OX=452637 GN=Oter_1924 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MPTILTQADIQQVLGEL-K-------GWAWE-------RDALEK
+TYRFGSFREAMSFMVRAAFEAEALNHHPEWA-NVYDRVTVRLATHDA-------GGKVTA
+KDVELARRFEKISWVG--------------
+>sp|A1B3I3|PHS_PARDP Putative pterin-4-alpha-carbinolamine dehydratase OS=Paracoccus denitrificans (strain Pd 1222) OX=318586 GN=Pden_1985 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----MTGLDRERIV-DGAPALSAEELQAALAGL-P-------GWQLA-----GDGKSICR
+EWRFKNFKQAAQLANLAAWQAEAAGHHPDIA-FGWGHARVSYSTHSA-------GG-VSR
+NDLIMAARLDAATG----------------
+>sp|A7HSX5|PHS_PARL1 Putative pterin-4-alpha-carbinolamine dehydratase OS=Parvibaculum lavamentivorans (strain DS-1 / DSM 13023 / NCIMB 13966) OX=402881 GN=Plav_1388 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MSGKLTGKAREKALAGL-K-------GWSKV-----KGRDAIEK
+TFKFKDFNEAFGFMTRVALVAEKMDHHPEWA-NVYNRLDVVLTTHDA-------DG-LSD
+KDVTLATLMDKWAGKAGKTTKK--------
+>sp|B2T7M8|PHS_PARPJ Putative pterin-4-alpha-carbinolamine dehydratase OS=Paraburkholderia phytofirmans (strain DSM 17436 / LMG 22146 / PsJN) OX=398527 GN=Bphyt_3922 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MIQKLTSEQRATQLAGL-H-------GWQAV-----ADRDAIQR
+QFKFADFNEAFGFMTRVAIKAQEMDHHPEWF-NVYNKVEITLSTHDA-------GG-LTE
+RDIKLATFIDSITA----------------
+>sp|Q13SM2|PHS_PARXL Putative pterin-4-alpha-carbinolamine dehydratase OS=Paraburkholderia xenovorans (strain LB400) OX=266265 GN=Bxeno_A4379 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MIHKLTSEERATQIAAL-H-------GWQAA-----TGRDAIQR
+QFKFADFNEAFGFMTRVAIKAQEMDHHPEWF-NVYDKVEITLSTHEA-------NG-VTE
+RDIRLAAFIDSITA----------------
+>sp|Q3A282|PHS_PELCD Putative pterin-4-alpha-carbinolamine dehydratase OS=Pelobacter carbinolicus (strain DSM 2380 / NBRC 103641 / GraBd1) OX=338963 GN=Pcar_2286 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--ERLSEQTCEICR-VGAPLATAEEIAGFRSQI-P-------DWQILT---IDGVQRLSR
+TYRFRNFAEALEFTNRVGALAETEGHHPAIV-TAWGEVTVQWWTHKI-------KG-LHR
+NDLIMAAKTDALLE----------------
+>sp|Q3B6N5|PHS_PELLD Putative pterin-4-alpha-carbinolamine dehydratase OS=Pelodictyon luteolum (strain DSM 273 / 2530) OX=319225 GN=Plut_0106 PE=3 SV=2
+------------------------------------------------------------
+--------------------------------------------------------M---
+--GELNKTKCVSCS-EGLPPLAERESEELLKEI-P-------EWVIVS---EDGVSRLVR
+TFTFENFREAMAFAGSVGELAESEQHHPKLV-TEWGKVRVEWWTHAV-------HG-LHM
+NDFVMAARTDELFQEL--------------
+>sp|B4SAU0|PHS_PELPB Putative pterin-4-alpha-carbinolamine dehydratase OS=Pelodictyon phaeoclathratiforme (strain DSM 5477 / BU-1) OX=324925 GN=Ppha_0103 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--KGLNYMLCIPHT-SVSRSMLEAQCRRLINNI-P-------GWELIR---VENMMRLRC
+TFTFPDFREALAFTNSVGELAEAEQHHPELI-TEWGKVTVTWWTHSV-------KG-VHM
+NDFIMAARTGVVANI---------------
+>sp|B4RBN1|PHS_PHEZH Putative pterin-4-alpha-carbinolamine dehydratase OS=Phenylobacterium zucineum (strain HLK1) OX=450851 GN=PHZ_c0077 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MSRPKKIGAEAALARL-P-------TWAKA----EGGRDAICK
+TFRFKDFNAAFGFMTRVAIRADQLDHHPEWF-NVYNRVEVTLATHDA-------DG-VTE
+LDMTLAGFMDEISGN---------------
+>sp|Q6LI45|PHS_PHOPR Putative pterin-4-alpha-carbinolamine dehydratase OS=Photobacterium profundum (strain SS9) OX=298386 GN=PBPRB1163 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--SNLHELKCEACH-IDAPKVTDLELEEMLQGI-S-------QWRVIE---RDGIKQLER
+EFTFKNFKLAWAFSNKIAELAEAEFHHPTIT-LEWGKVTVCWWSHSA-------KG-LHK
+NDFICAAKTDRCLE----------------
+>sp|A3PBL6|PHS_PROM0 Putative pterin-4-alpha-carbinolamine dehydratase OS=Prochlorococcus marinus (strain MIT 9301) OX=167546 GN=P9301_05181 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MEPYILQDEELNELVVKI-P-------GWEIK-------SKQIQR
+EFNFANFIEAFAFMTKVALICEKYNHHPNWE-NVYAKVIIKLNTHDL-------GG-ITN
+LDQTLASEINKIFDQ---------------
+>sp|A2C7K4|PHS_PROM3 Putative pterin-4-alpha-carbinolamine dehydratase OS=Prochlorococcus marinus (strain MIT 9303) OX=59922 GN=P9303_07131 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MTATLLTAEQLSSVAEKL-P-------GWTLA-------DQRLRR
+QWRFRNFVEAFGFMTRVALLAEAMNHHPEWS-NVYATVTIELTTHDV-------NG-LSD
+RDLKLAEAINLLEPG---------------
+>sp|A2BVF3|PHS_PROM5 Putative pterin-4-alpha-carbinolamine dehydratase OS=Prochlorococcus marinus (strain MIT 9515) OX=167542 GN=P9515_05551 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MKPHLLQNEELKELIAKI-P-------GWEII-------SNHLER
+EFNFGDFIEAFSFMTKIALICEKYNHHPNWE-NVYSKVIIKLSTHDL-------GG-ITN
+LDQKIASEINEIFEK---------------
+>sp|Q7VD93|PHS_PROMA Putative pterin-4-alpha-carbinolamine dehydratase OS=Prochlorococcus marinus (strain SARG / CCMP1375 / SS120) OX=167539 GN=Pro_0490 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MENKLLSSQEIQELRKSL-P-------TWEEA-------EGKLVK
+RFKFTNFIEAFGFMTKIAIISESLSHHPEWT-NIYSEVIIRLSTHDM-------GG-ITM
+LDYKLAKAIDAIKYE---------------
+>sp|Q7V2I5|PHS_PROMP Putative pterin-4-alpha-carbinolamine dehydratase OS=Prochlorococcus marinus subsp. pastoris (strain CCMP1986 / NIES-2087 / MED4) OX=59919 GN=PMM0491 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MKPYLLEHEELKELSAKI-G-------GWRIM-------TNHIER
+EFNFSNFVEAFSFMTKIALICEKHNHHPNWE-NVYSKVIIKLSTHDL-------GG-ITN
+LDQTIASEINDIFEK---------------
+>sp|Q46GT1|PHS_PROMT Putative pterin-4-alpha-carbinolamine dehydratase OS=Prochlorococcus marinus (strain NATL2A) OX=59920 GN=PMN2A_1824 PE=3 SV=2
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVSLIEKNQLDSFIEKN-P-------SWIID-------NKTIKK
+EFKFENFIEAFGFMSKVALLSEKIDHHPDWQ-NIYNKVKINLTTHDK-------GG-ITT
+NDIKLAEAIDKLINS---------------
+>sp|Q48G05|PHS_PSE14 Putative pterin-4-alpha-carbinolamine dehydratase OS=Pseudomonas savastanoi pv. phaseolicola (strain 1448A / Race 6) OX=264730 GN=PSPPH_3532 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--STLNQAHCEACR-ADAPQVSEAELPELLKQI-P-------DWNIEV---RDGVMQLEK
+VFLFKNFKFALAFTNAVGEIAEAEGHHPGLL-TEWGKVTVTWWSHSI-------KG-LHR
+NDFIMAARTDGVASGAEGRK----------
+>sp|A6VAA4|PHS_PSEA7 Putative pterin-4-alpha-carbinolamine dehydratase OS=Pseudomonas aeruginosa (strain PA7) OX=381754 GN=PSPA7_4645 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TALTQAHCEACR-ADAPHVSDEELPVLLRQI-P-------DWNIEV---RDGIMQLEK
+VYLFKNFRHALAFTNAIGEISEAEGHHPGLL-TEWGKVTVTWWSHSI-------KG-LHR
+NDFIMAARTDEVAKTAEGRK----------
+>sp|Q1I6Y2|PHS_PSEE4 Putative pterin-4-alpha-carbinolamine dehydratase OS=Pseudomonas entomophila (strain L48) OX=384676 GN=PSEEN3893 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--NALNQAHCEACR-ADAPKVSDDELAELILQI-P-------DWNIEV---RDGHMELER
+VFLFKNFKHALAFTNAIGEIAEAEGHHPGLL-TEWGKVTVTWWSHSI-------KG-LHR
+NDFIMCARTDEVAKTAEGRK----------
+>sp|Q3IIZ3|PHS_PSET1 Putative pterin-4-alpha-carbinolamine dehydratase OS=Pseudoalteromonas translucida (strain TAC 125) OX=326442 GN=PSHAa2042 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--SSLSAQKCEACH-ADAPKVSDEELAQLITKI-P-------DWVPEV---RDGIMQLER
+VYKFKNFKQAIAFTNKVGDMAEDEGHHPGLL-TEWGKVTVTWWSHSI-------KG-LHK
+NDFICAAKTDDVFNAL--------------
+>sp|A4VQE0|PHS_PSEU5 Putative pterin-4-alpha-carbinolamine dehydratase OS=Pseudomonas stutzeri (strain A1501) OX=379731 GN=PST_3563 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TALAQAQCEACR-ADAPKVSDEELAELIREI-P-------DWNIEV---RGDHMELER
+VFLFRNFRHALAFTNAVGAIAEEVGHHPALL-TEWGKVTVTWWSHEM-------RG-LHR
+NDFIMAARTDQLAASAEGRK----------
+>sp|Q4FVF3|PHS_PSYA2 Putative pterin-4-alpha-carbinolamine dehydratase OS=Psychrobacter arcticus (strain DSM 17307 / VKM B-2377 / 273-4) OX=259536 GN=Psyc_0131 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MSSLSNQQVDLQLEEL-P-------GWQRD-------GNAIVK
+TYHFSDFVEAMSFMNQAAFHAEALEHHPEWS-NAYNVVEVRLTTGDT-------GG-ITS
+HDVRLAKRMEHIVQPKCL------------
+>sp|A1SSU3|PHS_PSYIN Putative pterin-4-alpha-carbinolamine dehydratase OS=Psychromonas ingrahamii (strain 37) OX=357804 GN=Ping_0706 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MDLKKLSGSELLIELEKL-NCDLA--IPWKIE-------DEKLSK
+TFKFKNFMQAFAFMTQSALYAEKKNHHPEWF-NIYNKVVIQLTTHDV-------AG-ISF
+KDFDLAKKMESFIPHF--------------
+>sp|B2UGY6|PHS_RALPJ Putative pterin-4-alpha-carbinolamine dehydratase OS=Ralstonia pickettii (strain 12J) OX=402626 GN=Rpic_3550 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MMPTLNEDQRKALFAEV-P-------GWTLQ-----SERDAIQK
+TFTFADFNAAFGFMTRVAIKAEQMNHHPEWF-NVWNRVDITLSTHDA-------NG-LTH
+RDADLARFIEQAAKGTGAK-----------
+>sp|Q8XU38|PHS_RALSO Putative pterin-4-alpha-carbinolamine dehydratase OS=Ralstonia solanacearum (strain GMI1000) OX=267608 GN=phhB PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MMPTLNDEQRKALFAEL-P-------GWSLQ-----NDRDAIHK
+RFTFTDFNAAFGFMTRVALKAEQVNHHPEWF-NVWNRVDITLSTHDA-------NG-LTH
+RDADLARFIEQAAQLTGAK-----------
+>sp|Q2K3A7|PHS_RHIEC Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhizobium etli (strain CFN 42 / ATCC 51251) OX=347834 GN=RHE_CH03934 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MKSERLERTAVEAELAGL-A-------GWALN-----DAASSISK
+TFKFSNFIEAFGFMTEAAITAEKLNHHPEWF-NVYSRVDVTLNTHDA-------GG-LTE
+LDFKLARAMEKAAARRLR------------
+>sp|Q1MAM8|PHS_RHIL3 Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhizobium leguminosarum bv. viciae (strain 3841) OX=216596 GN=RL4526 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MKMERLERTAVEAQLTEL-S-------GWALN-----DAGSSISK
+TFKFANFVEAFGFMTQAALAAEKLNHHPEWF-NVYSRVDVTLNTHDA-------GG-LTE
+LDFKLAKAMEKAAARGVV------------
+>sp|Q98E92|PHS_RHILO Putative pterin-4-alpha-carbinolamine dehydratase OS=Mesorhizobium japonicum (strain LMG 29417 / CECT 9101 / MAFF 303099) OX=266835 GN=mlr4350 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MTREKLSKDAITAALAEL-G-------DWSLA-----TDGASIKR
+SFVFRNFSEAFAFMTRVALAAEKMDHHPDWS-NVYKTVDVTLNTHDA-------GG-VTA
+LDIALAKKMNHYFGG---------------
+>sp|B5ZTF5|PHS_RHILW Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhizobium leguminosarum bv. trifolii (strain WSM2304) OX=395492 GN=Rleg2_3728 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MKMERLERATIEAEMAGL-A-------GWALN-----DAASSISK
+TFKFANFVEAFGFMTEAAIRAEKLNHHPEWF-NVYSRVDVTLNTHDA-------GG-LTE
+LDFKLAKAMEKAAARRGV------------
+>sp|Q92L66|PHS_RHIME Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhizobium meliloti (strain 1021) OX=266834 GN=pcbD PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MRPEKLDAAAIAEHLHKM-E-------GWVLA-----EDGGSIWK
+TFRFKTFAEAFTFMTQCAFAAEKLNHHPEWF-NVYNKVDVTLSTHDA-------DG-LTE
+LDFKLAAKMDQAAEGRMPDHM---------
+>sp|Q2J3Z9|PHS_RHOP2 Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhodopseudomonas palustris (strain HaA2) OX=316058 GN=RPB_0099 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVERLTGRERQQALQSI-A-------GWREV-----EGRDAIAR
+SFVFTDFNEAFGFMTRVALVAEKADHHPEWR-NVYKTVEVVLTTHDA-------GG-VTR
+RDIDLAAAMNAIAGQFGVA-----------
+>sp|Q07N39|PHS_RHOP5 Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhodopseudomonas palustris (strain BisA53) OX=316055 GN=RPE_2708 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVERLSEAARRAALDAL-P-------DWSEL-----PDREAITR
+TLKFKDFGQAFGFMAQVALVAEKHDHHPEWR-NVYNTVEVTLTTHDA-------GG-VTA
+RDVDLARAIDAIAAPLSPR-----------
+>sp|P61734|PHS_RHOPA Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009) OX=258594 GN=RPA0404 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MNRLSASERQAALREL-P-------GWLEL-----EEREAIGR
+SYQFKDFSEAFGFMTRVALAAEKADHHPEWR-NVYRTVDVVLTTHDA-------GG-VTE
+RDVKLAKAMDAIAERCGAR-----------
+>sp|Q214W1|PHS_RHOPB Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhodopseudomonas palustris (strain BisB18) OX=316056 GN=RPC_2524 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVKRLTDEDRHAALREL-P-------GWSAA-----EGREAIAR
+TFVFKDFNEAFGFMARVALIAEKHDHHPEWR-NVYKTVEVVLTTHDA-------GG-VTA
+RDIDLARAMNAIAAQLSPR-----------
+>sp|Q13D98|PHS_RHOPS Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhodopseudomonas palustris (strain BisB5) OX=316057 GN=RPD_0703 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MVERLAAAERHKALQGV-P-------GWREV-----DGREAIAR
+IFTFKDFNEAFGFMTRAALVAEKNDHHPEWR-NVYKTVEVVLTTHDA-------GG-ITR
+RDIDLASAMDAIARQFGVA-----------
+>sp|Q2RNC0|PHS_RHORT Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhodospirillum rubrum (strain ATCC 11170 / ATH 1.1.1 / DSM 467 / LMG 4362 / NCIB 8255 / S1) OX=269796 GN=Rru_A3581 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MTDRLDDPALDRQLADH-P-------DWTIT-----SARTALTR
+SFGFKDFSEAFGFMARVALEAQAQDHHPDWS-NSYNRVDITLSTHDS-------GG-LSA
+KDFALAKAIDRIVG----------------
+>sp|Q3IZF4|PHS_RHOS4 Putative pterin-4-alpha-carbinolamine dehydratase OS=Rhodobacter sphaeroides (strain ATCC 17023 / 2.4.1 / NCIB 8253 / DSM 158) OX=272943 GN=RHOS4_25120 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------MADALDLAPLLA-A-------GWSHD-----PERGVLSK
+TFGFETFVAAFGFMTRVALWAEKWNHHPDWS-NSYGTVEVSLTSHDA-------GG-LTE
+RDLKLARKIDELAAA---------------
+>sp|A8EXY4|PHS_RICCK Putative pterin-4-alpha-carbinolamine dehydratase OS=Rickettsia canadensis (strain McKiel) OX=293613 GN=A1E_01360 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TVLSEKKCIPCE-GGVPPLEKKEIDKLLAEL-Q------NEWQVN------ELGHLYK
+KYKFPNFVKALDFANKIAAIAEQEVHHPNLN-ISWGVCNVEIWTHKI-------NG-LTE
+NDFILAAKIESKI-----------------
+>sp|Q4UKS5|PHS_RICFE Putative pterin-4-alpha-carbinolamine dehydratase OS=Rickettsia felis (strain ATCC VR-1525 / URRWXCal2) OX=315456 GN=RF_0997 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TVLSEKKCIPCE-GGIPPLEKKEIDKLLVQL-Q------SKWQVN------ELGHLYK
+KYKFPNFVKAMEFANKITEIAEQEAHHPDLT-ISWGACSVEIWTHKI-------DG-LTE
+SDFILAAKIESINS----------------
+>sp|A7NS25|PHS_ROSCS Putative pterin-4-alpha-carbinolamine dehydratase OS=Roseiflexus castenholzii (strain DSM 13941 / HLO8) OX=383372 GN=Rcas_4347 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MAALLNDAEIEERLGDL-T-------GWTRQ-------GNEIRK
+TFQLPSFPSAIAFVVNVAFLAEAAGHHPDID-IRWRKVTLSLSTHDA-------GG-LTG
+KDFDLAAQIDEII-----------------
+>sp|Q16BN1|PHS_ROSDO Putative pterin-4-alpha-carbinolamine dehydratase OS=Roseobacter denitrificans (strain ATCC 33942 / OCh 114) OX=375451 GN=RD1_0944 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MTEKLSTETRGPLLEPL-F---A--SGWEMV-----EGRDAIKK
+TFVFDNFVDAFGWMTRVAIWAEKWNHHPEWD-NVYKTVNVVLTTHDV-------GG-LST
+LDAKLARKMDSLAG----------------
+>sp|Q5LM31|PHS_RUEPO Putative pterin-4-alpha-carbinolamine dehydratase OS=Ruegeria pomeroyi (strain ATCC 700808 / DSM 15171 / DSS-3) OX=246200 GN=SPO3733 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MSERLSEETRGPLLGPL-F---A--NGWAMV-----DGRDAIAK
+TFAFDNFVEAMGWMMRVAIWAEKWNHHPEWS-NVYGKVAVVLTTHDV-------DG-LSA
+LDAKLARKMDSLC-----------------
+>sp|Q1GDR0|PHS_RUEST Putative pterin-4-alpha-carbinolamine dehydratase OS=Ruegeria sp. (strain TM1040) OX=292414 GN=TM1040_2474 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MTEKLSDETRGPLLEPL-F---A--TGWELE-----TGRDAIRK
+TYEFADFVEAFAFMTKAAIWAEKWNHHPEWS-NIYNKVTVVLTTHDV-------GG-VSS
+LDAKLARKMDGLTS----------------
+>sp|Q21MC6|PHS_SACD2 Putative pterin-4-alpha-carbinolamine dehydratase OS=Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024) OX=203122 GN=Sde_0891 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TDLYQQTCEVCR-ADAPRVPVDEAEVMLEEI-P-------LWRIQQ---QEGVKQLAR
+NFKFKNFIEALAFTNTVANLAEEEGHHPKLV-LEWGSVEVVWWTHKI-------KG-LHK
+NDFVMAAKTDKLYEG---------------
+>sp|Q97WM6|PHS_SACS2 Putative pterin-4-alpha-carbinolamine dehydratase OS=Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) OX=273057 GN=SSO2187 PE=3 SV=2
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MSGISSKELEEL--KI-N-------GWIVL-----ENGKKIKK
+EFRFKDFKQSVDFLKDIQPSADALDHHPDVC-VYYNRVVVELTTHDV-------GG-LTD
+LDYKLAIKLDELYKMKTS------------
+>sp|O42658|PHS_SCHPO Pterin-4-alpha-carbinolamine dehydratase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=omt2 PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------------
+-------------------NTSARLLALVSKSK-N-------NWILQ-----QGDTKLFK
+SFRFKNFIEAWGFMSCVALRAQQLNHHPEWT-NVYNKVDITLTTHDT-------KG-LTE
+KDLKLAEFIDTLAKDN--------------
+>sp|A1S7S0|PHS_SHEAM Putative pterin-4-alpha-carbinolamine dehydratase OS=Shewanella amazonensis (strain ATCC BAA-1098 / SB2B) OX=326297 GN=Sama_2221 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--SELASMKCEACQ-ADAPKVTDAELAELIRMI-P-------DWSVQV---RDGIMQLER
+VYKFKNFKLAMAFSNKLAELAEEEFHHPGIF-TEWGKVTVTWWSHSI-------KG-LHR
+NDFIMAAKTDQLLD----------------
+>sp|A3D2P0|PHS_SHEB5 Putative pterin-4-alpha-carbinolamine dehydratase OS=Shewanella baltica (strain OS155 / ATCC BAA-1091) OX=325240 GN=Sbal_1485 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TALSNMKCEACQ-ADAPKVTDEELAELIRMI-P-------DWGVQV---RDGVMQLER
+IYKFKNFKLAMAFTNKLADLAEEEFHHPGIF-TEWGKVTVTWWSHSI-------KG-LHK
+NDFIMAAKTDQLLV----------------
+>sp|Q12L03|PHS_SHEDO Putative pterin-4-alpha-carbinolamine dehydratase OS=Shewanella denitrificans (strain OS217 / ATCC BAA-1090 / DSM 15013) OX=318161 GN=Sden_2594 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--NALTSMKCEACQ-ADAPKVSDQELAELIRLI-P-------DWGVEV---RDGIMQLER
+VYKFKNFKLAMAFTNKLADAAEEEGHHPGIL-TEWGKVTVTWWSHSI-------KG-LHK
+NDFIMAAKTDQLLD----------------
+>sp|B0TNB2|PHS_SHEHH Putative pterin-4-alpha-carbinolamine dehydratase OS=Shewanella halifaxensis (strain HAW-EB4) OX=458817 GN=Shal_1532 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TELAQMKCEACQ-ADAPKVTDDELAQLIAKI-P-------DWGVEV---RDGIMQLER
+VYKFKNFKLAMAFTNKLADLAEADFHHPGIL-TEWGKVTVTWWSHSI-------KG-LHK
+NDFIMAAKTDTLLD----------------
+>sp|B1KMK3|PHS_SHEWM Putative pterin-4-alpha-carbinolamine dehydratase OS=Shewanella woodyi (strain ATCC 51908 / MS32) OX=392500 GN=Swoo_1716 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+--TKLADMKCEACQ-ADAPKVTDSELAELIRLI-P-------DWGVEV---RDGIMQLER
+VYKFKNFKLAMEFTNKLAELAEEEFHHPGIL-TEWGKVTVTWWSHSV-------KG-LHR
+NDFIMASKTDQLLG----------------
+>sp|C3MAI8|PHS_SINFN Putative pterin-4-alpha-carbinolamine dehydratase OS=Sinorhizobium fredii (strain NBRC 101917 / NGR234) OX=394 GN=NGR_c32490 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MRPEKLDAEAIAEQLHRM-E-------GWVLA-----EDGASIWK
+AFRFRNFAEAFSFMTQCALAAEKLNHHPEWF-NVYNKVDVTLSTHDA-------SG-LTE
+LDFKLAAKMDQAAAGRMPDHLK--------
+>sp|Q01VX3|PHS_SOLUE Putative pterin-4-alpha-carbinolamine dehydratase OS=Solibacter usitatus (strain Ellin6076) OX=234267 GN=Acid_5239 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MTTKLSESEIQSALRER-S-------AWTVV-------NGKLHR
+EYKFADFIHAFGFMTCAALSAEAMNHHPEWF-NVYNRLTIDLTTHDA-------GG-ITA
+KDFQLAAKLDALAAG---------------
+>sp|A5V667|PHS_SPHWW Putative pterin-4-alpha-carbinolamine dehydratase OS=Sphingomonas wittichii (strain RW1 / DSM 6014 / JCM 10273) OX=392499 GN=Swit_1419 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MSIEPLTDEERADALDAL-P-------DWDYD-----DGRDAISR
+SFTFPDFSAAFAFMTRVALYAEKHDHHPEWS-NVWNRVDILLTTHDA-------GG-LSH
+RDVAMAEAIEALAE----------------
+>sp|Q82M02|PHS_STRAW Putative pterin-4-alpha-carbinolamine dehydratase OS=Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680) OX=227882 GN=dcoH PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MPVEPLSQKEIEDRLAEL-P-------GWSLD-------GDRISR
+SYRLGSHFAAAAMVVHIAQVQEELDHHSDLT-LSYHTVSLTVNTHSV-------GGAVTE
+LDFALARRVEDLAPGHGAS-----------
+>sp|O86722|PHS_STRCO Putative pterin-4-alpha-carbinolamine dehydratase OS=Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145) OX=100226 GN=SCO6540 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+---------------MPAEPLSPQEVEERLATL-P-------GWSLD-------AGRLTR
+SYRLGSHFAAAAMVVHVAQVQEELDHHSDLT-LGYHTVALAVHTHSA-------GGAVTE
+KDVELARRVEDLAAGHGAH-----------
+>sp|B4SPV4|PHS_STRM5 Putative pterin-4-alpha-carbinolamine dehydratase OS=Stenotrophomonas maltophilia (strain R551-3) OX=391008 GN=Smal_2674 PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------ADL---
+--IPLAQARCVPRK-GSDHKLGEARLAELLPQV-P-------GWELS-----EGGQALLR
+TFRFKNYYATMAFVNALAWIAHHEDHHPDLG-VHYDRAVVRFSTHDV-------GG-LSE
+NDFICAAKTSALTEQLP-------------
+>sp|Q4J6J6|PHS_SULAC Putative pterin-4-alpha-carbinolamine dehydratase OS=Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770) OX=330779 GN=Saci_2299 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+------------------MKLDENEIKRRLGEI-E-------GWSYE-------NNKLKK
+TFKFKNFYESVEFVRKIQPIADEMDHHPDLC-VYYNRVVLELSTHSE-------GG-VTE
+KDFELAKKINKIQ-----------------
+>sp|C3MZU9|PHS_SULIA Putative pterin-4-alpha-carbinolamine dehydratase OS=Sulfolobus islandicus (strain M.16.27) OX=427318 GN=M1627_0005 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MSGISSKGLEEL--KN-N-------GWLIL-----EDGKKIKK
+EFKFKDFKQSIDFLKDIQPSADALDHHPDVC-IYYNRVIVELTTHDM-------GG-LTD
+LDYKLAIKIDELYKMKTSNL----------
+>sp|Q96YL0|PHS_SULTO Putative pterin-4-alpha-carbinolamine dehydratase OS=Sulfurisphaera tokodaii (strain DSM 16993 / JCM 10545 / NBRC 100140 / 7) OX=273063 GN=STK_21625 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MKKLTEKEIREELNKM-K-------GWSLK-------GNVIEK
+TFLFHDFKEAVNFLNKVQPIADSMNHHPDVC-IYYNKVIVQLTTHDA-------GG-ITD
+LDVELAKKIDELLT----------------
+>sp|B1XN71|PHS_SYNP2 Putative pterin-4-alpha-carbinolamine dehydratase OS=Synechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6) OX=32049 GN=SYNPCC7002_A2812 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MATRLTDTEIQAQLSQF-P-------EWSKV-------DNKIQR
+RFKFKNFIEAIDFVNKLVEPAEAADHHPDIE-ISYNKVTVNLTTHDA-------GG-LTQ
+KDFDLAGTFDQL------------------
+>sp|A5GMR6|PHS_SYNPW Putative pterin-4-alpha-carbinolamine dehydratase OS=Synechococcus sp. (strain WH7803) OX=32051 GN=SynWH7803_1805 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MASLLPQSERETLSNTL-P-------HWQVE-------AGRLKR
+NWQFKDFSEAFAFMTRVALLAEAMQHHPNWS-NVYNRVSIELTTHDL-------GG-LSD
+LDVQLARSIDALC-----------------
+>sp|Q7U5B3|PHS_SYNPX Putative pterin-4-alpha-carbinolamine dehydratase OS=Synechococcus sp. (strain WH8102) OX=84588 GN=SYNW1794 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+------------MI-AMPTLLSADQRQTLPATL-P-------HWTVH-------EQSISR
+ELVFNDFNEAFGFMSRVALLAEGRNHHPNWS-NVYNRVSITLSTHDL-------GG-LSD
+LDVELAAAIDQLLPA---------------
+>sp|Q0I8H5|PHS_SYNS3 Putative pterin-4-alpha-carbinolamine dehydratase OS=Synechococcus sp. (strain CC9311) OX=64471 GN=sync_2044 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+------------MS-KQAVLLDEAARQSLYSSC-P-------AWTIA-------SDGLVR
+EWRFHSFVEAFGFMTQVALLAERANHHPEWS-NVYNRVTIRLTTHDL-------GG-LSS
+RDAELAQAIDSLSPTT--------------
+>sp|P73790|PHS_SYNY3 Putative pterin-4-alpha-carbinolamine dehydratase OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=ssl2296 PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------------
+---------------ATPQRLTDPEIQTALGEL-G-------GWSLQ-------GNKLHR
+QFKFANFNQAFGFMTRLALVAETLNHHPEWS-NVYNRVTIDLTTHDA-------GG-ITE
+LDVKFATKANSFAD----------------
+>sp|Q8DHW8|PHS_THEEB Putative pterin-4-alpha-carbinolamine dehydratase OS=Thermosynechococcus elongatus (strain BP-1) OX=197221 GN=tsl1825 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MAERLSPADIEAQLANL-P-------GWKQV-------GDRLEQ
+TFTFKDFLGSIAFVNRLVDPAEQAGHHPDLS-ISWNRVTVCLTTHDV-------GG-ITQ
+KDIDLAKVISNLAVV---------------
+>sp|B9L1Y8|PHS_THERP Putative pterin-4-alpha-carbinolamine dehydratase OS=Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 / P-2) OX=309801 GN=trd_1889 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MARLDDATIASLLQEI-P-------GWERQ-------GDALVR
+TYVFKNFREAMAFVNRVAELAEEARHHPDIT-IRYNRVHLLLTTHEA-------GG-ITE
+RDIALARKLAELAS----------------
+>sp|Q3SHT9|PHS_THIDA Putative pterin-4-alpha-carbinolamine dehydratase OS=Thiobacillus denitrificans (strain ATCC 25259) OX=292415 GN=Tbd_1841 PE=3 SV=1
+---------------------------------------MP-------------------
+------------------------------------------------------TIV---
+--EELVRKKCAPCE-GGIAPLTDAQVAPMLKGL-S-------GWQRD-------GIKIVK
+EYKFKDHYQAQAFTNAVMWVSHREDHHPYLI-VGYNTVKVEFWTHAI-------EG-LSE
+NDFICAAKVDSLLDL---------------
+>sp|Q116J2|PHS_TRIEI Putative pterin-4-alpha-carbinolamine dehydratase OS=Trichodesmium erythraeum (strain IMS101) OX=203124 GN=Tery_1232 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MTELLAVEEINQRISQI-S-------DWKLE-------GNKLKY
+IKTVKNFVEAINFVNKLVAPAEASQHHPDLE-VSYNKVTIILTTHNS-------GG-LTE
+KDFKMAKTISGLS-----------------
+>sp|A5F0J0|PHS_VIBC3 Putative pterin-4-alpha-carbinolamine dehydratase OS=Vibrio cholerae serotype O1 (strain ATCC 39541 / Classical Ogawa 395 / O395) OX=345073 GN=phhB PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+----LDELRCEACS-AGAIGLTSEEQQQLLSEL-D-------GWALIH---RDGIAQLEK
+RYRFKNFKQAWAFSNQIAELAEQEFHHPAIL-LEWGNVTVTWWSHSI-------KG-LHK
+NDFICAAKCDALT-----------------
+>sp|A7N3S9|PHS_VIBCB Putative pterin-4-alpha-carbinolamine dehydratase OS=Vibrio campbellii (strain ATCC BAA-1116 / BB120) OX=338187 GN=VIBHAR_05422 PE=3 SV=1
+------------------------------------------------------------
+--------------------------------------------------------M---
+----LNEQKCEACS-IDAIALSKEEQQSLLLQL-S-------DWQIIE---RDEIPQLEK
+VYKFKNFKQAWAFSNKIAELAEDEFHHPSIL-LEWGKVTITWWSHSI-------KG-LHK
+NDFICASKCDALAIEE--------------
+>sp|Q8PKQ3|PHS_XANAC Putative pterin-4-alpha-carbinolamine dehydratase OS=Xanthomonas axonopodis pv. citri (strain 306) OX=190486 GN=phhB PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------TDL---
+--IPLEQAHCLPRK-GSDHKLGEARLAELLPQV-P-------GWELA-----EAGMALTR
+TFRFADYYRTLAFVNALAWIAHREDHHPDLG-VHYDRVVVRYSTHDV-------GG-LSE
+NDFICAAKTAQLYDQGITA-----------
+>sp|Q91901|PHS_XENLA Pterin-4-alpha-carbinolamine dehydratase OS=Xenopus laevis OX=8355 GN=pcbd PE=3 SV=3
+------------------------------------------------------------
+------------------------------------------------------------
+------------MA-GKVHRLSGEEREQLLPNL-R---A--VGWHEL-----DGRDAICK
+EFHFKDFNRAFGFMTRVALQAEKLDHHPEWF-NVYDKVHITLSTHDC-------GG-LSE
+RDINLASFIEQIAASLS-------------
+>sp|B2I9W6|PHS_XYLF2 Putative pterin-4-alpha-carbinolamine dehydratase OS=Xylella fastidiosa (strain M23) OX=405441 GN=XfasM23_2085 PE=3 SV=1
+---------------------------------------M--------------------
+------------------------------------------------------NDR---
+--ITLAQAHCQPRE-KKEHKLGQARLAELLTQV-P-------GWELS-----NNGHALTR
+TFQFDNYYRTLAFVNALAFIAHCEDHHPDMN-VHYGRAVVCFSTHKI-------GG-ISE
+IDFICAAKTSALYEQGI-------------
+>sp|P38744|PHS_YEAST Putative pterin-4-alpha-carbinolamine dehydratase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YHL018W PE=1 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-------MHNKIVR-IASSALTGGKLLEKLKPL-T-------RWEVQWDPNKTKCLGITR
+EVTFKDYETTWAFLTRVSMRSHLWGHHPLIH-TSYTWVKLELHTHDIDPKDGAHSQ-LSD
+IDVRMAKRIDSYIDEMTT------------

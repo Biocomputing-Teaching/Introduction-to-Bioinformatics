@@ -1,0 +1,372 @@
+>sp|Q6F7G9|RPOZ_ACIAD DNA-directed RNA polymerase subunit omega OS=Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1) OX=62977 GN=rpoZ PE=3 SV=1
+MARVTVEDCLDHVDNRFELVLVASKRARQLARQGIEPTVE---W-DNDKPTVVSLREIAE
+GHVTKDILKQRDQ--------DYQTSSLDLALSANSLNLEGFS-----------------
+-----------------------------------------------F--Q
+>sp|B7J583|RPOZ_ACIF2 DNA-directed RNA polymerase subunit omega OS=Acidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) OX=243159 GN=rpoZ PE=3 SV=1
+MARVTVEDCLEHVDNRFELTLVAARRARQLAS-GAAPEVE---P-GRDKNTVIALREVAA
+GKVSRAILDEQMP--------PPLPNFPGAANREAT-GAEDAAGE---------------
+---------------------------------------------------
+>sp|A6VN44|RPOZ_ACTSZ DNA-directed RNA polymerase subunit omega OS=Actinobacillus succinogenes (strain ATCC 55618 / DSM 22257 / 130Z) OX=339671 GN=rpoZ PE=3 SV=1
+MARVTVQDAVEKIGNRFDLILTAARRARQLQLNHREPLVP---E-DNDKPTVIALREIEK
+GLINNDIMDAQER--------QDALMQHQAEDAAVS-LLTA-------------------
+---------------------------------------------------
+>sp|A0KR23|RPOZ_AERHH DNA-directed RNA polymerase subunit omega OS=Aeromonas hydrophila subsp. hydrophila (strain ATCC 7966 / DSM 30187 / JCM 1027 / KCTC 2358 / NCIMB 9240) OX=380703 GN=rpoZ PE=3 SV=1
+MARVTVEDAVKQVGNRFDLVLVAARRARQIAVQGKDPLVD---E-ENDKPTVIALREIEL
+GLVNNQVMDTQDR--------YEQQEQEAAELAAVA-AIAEGRG----------------
+---------------------------------------------------
+>sp|B9JUN3|RPOZ_AGRVS DNA-directed RNA polymerase subunit omega OS=Agrobacterium vitis (strain S4 / ATCC BAA-846) OX=311402 GN=rpoZ PE=3 SV=1
+MARVTVEDCIDKVDNRFELVLLASHRARQISQ-GAQITID---R-DNDKNPVVALREIAD
+ETLSPDDLKEDLIHSL-----QKHVEVDEPEQDAAS-IAEGQLTS-GSQDEDEMPETVAF
+DQMSEEELLAGI-----EGLVPPE--------------KSDDY--------
+>sp|Q0VT95|RPOZ_ALCBS DNA-directed RNA polymerase subunit omega OS=Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2) OX=393595 GN=rpoZ PE=3 SV=1
+MARVTVEDCLEKLDNRFELVLVAGKRAHQLQSGGKEPRVA---W-ENDKPTVVALREIAE
+GLVTAESVDNPIA--------DRSADVDELALLTQS------------------------
+--FGE----------------------------------------------
+>sp|Q5E8P6|RPOZ_ALIF1 DNA-directed RNA polymerase subunit omega OS=Aliivibrio fischeri (strain ATCC 700601 / ES114) OX=312309 GN=rpoZ PE=3 SV=1
+MARVTVQDAVEKIGNRFDLVLISSRRARQMQTGGKDALVP---E-ENDKTTVIALREIEE
+GLITKELLDARER--------QEQQEQDAAELAAVS-SITHNR-----------------
+---------------------------------------------------
+>sp|Q0A5V4|RPOZ_ALKEH DNA-directed RNA polymerase subunit omega OS=Alkalilimnicola ehrlichii (strain ATCC BAA-1101 / DSM 17681 / MLHE-1) OX=187272 GN=rpoZ PE=3 SV=1
+MARVTVEDCLTNMDNRFQLVLVGSKRARQLAN-GAEAHVD---W-DNDKPTVVALREIAD
+GHVGREILEEQPEPVL-----DFEAEASALMEEEAA-KGNADA-----------------
+-GQGEGDAPK-----------------------------TPGQDG------
+>sp|B4S2X2|RPOZ_ALTMD DNA-directed RNA polymerase subunit omega OS=Alteromonas mediterranea (strain DSM 17117 / CIP 110805 / LMG 28347 / Deep ecotype) OX=1774373 GN=rpoZ PE=3 SV=1
+MARVTVEDAVDKIGNRFDLVLVAARRARQIATEGKDPMVD---V-QNDKPTVTALREIEE
+GLVTAATLEQADL--------QAQEQQEHAEFASVA-NILSDQ-----------------
+---------------------------------------------------
+>sp|A8I0F9|RPOZ_AZOC5 DNA-directed RNA polymerase subunit omega OS=Azorhizobium caulinodans (strain ATCC 43989 / DSM 5975 / JCM 20966 / NBRC 14845 / NCIMB 13405 / ORS 571) OX=438753 GN=rpoZ PE=3 SV=1
+MARVTVEDCIDKVDNRFELVLLAGHRARMISS-GSPITVD---R-DNDKNPVVALREIAD
+ETVSPEDLKEDLIHSL-----QKYTEVDEPEPESVP-LIASSEG--GVDDAD-----IVL
+DRMTEEELLAGL-----QGLVPPE--------------QTDDDEG------
+>sp|A1KCL2|RPOZ_AZOSB DNA-directed RNA polymerase subunit omega OS=Azoarcus sp. (strain BH72) OX=418699 GN=rpoZ PE=3 SV=1
+MARITVEDCLKRIPNRFQLTLAATYRARQLTA-GGTPQIELDPH-DKDKPTVIALREVAA
+GKVGLEMLNRGQA-----------------------------------------------
+---------------------------------------------------
+>sp|C1DI45|RPOZ_AZOVD DNA-directed RNA polymerase subunit omega OS=Azotobacter vinelandii (strain DJ / ATCC BAA-1303) OX=322710 GN=rpoZ PE=3 SV=1
+MARVTVEDCLENVDNRFELVMLASKRARQLATGGKEPRLP---W-ENDKPTVVALREIAA
+GLVDYNVIAQDEI--------VAEEPLFAAFEEDSN-------EAL--------------
+---------------------------------------------------
+>sp|A1US30|RPOZ_BARBK DNA-directed RNA polymerase subunit omega OS=Bartonella bacilliformis (strain ATCC 35685 / NCTC 12138 / KC583) OX=360095 GN=rpoZ PE=3 SV=1
+MARVTVEDCIDKVDNRFELVLLAGHRARQISQ-GAQITVS---R-DNDKNPVVALREIAD
+ETLSPADLKEDLIHSL-----QKHVEVDEPEAVTEF-ISHSSETE-SVLDTSREEENCSF
+DYMSEEDLLAGI-----EGLVVPE--------------KSDDY--------
+>sp|Q6G465|RPOZ_BARHE DNA-directed RNA polymerase subunit omega OS=Bartonella henselae (strain ATCC 49882 / DSM 28221 / Houston 1) OX=283166 GN=rpoZ PE=3 SV=1
+MARVTVEDCIDKVDNRFELVLLAGHRARQISQ-GAQITVD---R-DNDKNPVVALREIAE
+ETLSPADLKEDLIHSL-----QKHVEVDEPEMASEF-ISHSSEAG-GVLGTSSEEEGSSF
+DHMSEEELLAGI-----EGLVVPE--------------KSDDY--------
+>sp|Q6G088|RPOZ_BARQU DNA-directed RNA polymerase subunit omega OS=Bartonella quintana (strain Toulouse) OX=283165 GN=rpoZ PE=3 SV=1
+MARVTVEDCIDKVDNRFELVLLAGHRARQISQ-GAQVTVD---R-DNDKNPVVALREIAE
+ETLSPADLKEDLIHSL-----QKHVEVDEPEMANEF-LSHSGEAE-TVFATTSEEESCSF
+DCMSEEDLLAGI-----EGLVIPE--------------KSDDY--------
+>sp|Q1LTY2|RPOZ_BAUCH DNA-directed RNA polymerase subunit omega OS=Baumannia cicadellinicola subsp. Homalodisca coagulata OX=374463 GN=rpoZ PE=3 SV=1
+MARITVQDAVEKIGNRFNLVLIAARRARQIQINGKDPLVP---E-KNDKSTVIALREIEQ
+GLIGNQIID---------------------------------------------------
+---------------------------------------------------
+>sp|Q491W4|RPOZ_BLOPB DNA-directed RNA polymerase subunit omega OS=Blochmannia pennsylvanicus (strain BPEN) OX=291272 GN=rpoZ PE=3 SV=1
+MARITVQDAVEKVGNIFDLILVAARRARQMQIGGKETLIT---KNNNDKYTVLALREIEE
+DLITKK------------------------------------------------------
+---------------------------------------------------
+>sp|Q9RH70|RPOZ_BRADU DNA-directed RNA polymerase subunit omega OS=Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110) OX=224911 GN=rpoZ PE=3 SV=2
+MARVTVEDCIDKVDNRFDLVLLAAHRARMISS-GSQLTVD---R-DNDKNPVVSLREIAD
+TTISPEDLREELVHSL-----QKFVEVDEPEPDTVP-LIGSAGASVDADDTE-----VAV
+ERMTEEELLKGL-----EGLAPPE--------------EQPEEDE------
+>sp|Q0BHF4|RPOZ_BURCM DNA-directed RNA polymerase subunit omega OS=Burkholderia ambifaria (strain ATCC BAA-244 / AMMD) OX=339670 GN=rpoZ PE=3 SV=1
+MARITVEDCLKQIPNRFELALAATYRARQLAQ-GHTPKIE-----SRDKPTVVALREIAS
+GLVGVEMLKKVPV-----------------------------------------------
+---------------------------------------------------
+>sp|B0T3H0|RPOZ_CAUSK DNA-directed RNA polymerase subunit omega OS=Caulobacter sp. (strain K31) OX=366602 GN=rpoZ PE=3 SV=1
+MARVTVEDCVEKVPNRFALVLLSAHRARGISA-GASLLVD---R-DNDKNPVVALREIAD
+DVVDHEGLREQLITTL-----QRVDEHTEAEEEAET-LALLADPTH--------------
+MQMSELELVRAL---------------------------QSDRDGGQEERY
+>sp|Q1QSI0|RPOZ_CHRSD DNA-directed RNA polymerase subunit omega OS=Chromohalobacter salexigens (strain ATCC BAA-138 / DSM 3043 / CIP 106854 / NCIMB 13768 / 1H11) OX=290398 GN=rpoZ PE=3 SV=1
+MARVTVEDCLDNVDNRFQLVMVATQRSRQLARGSRDAQLP---W-ENDKPTVMALREIAA
+GLVDRSILNEAVEP-------PAAKPRPEREFND--------------------------
+---------------------------------------------------
+>sp|Q7NRL2|RPOZ_CHRVO DNA-directed RNA polymerase subunit omega OS=Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757) OX=243365 GN=rpoZ PE=3 SV=1
+MARITVDDCLDRIQNRFDLTLAAAYRARQVAS-GASAFVE---P-GRHKPTVIALREIAA
+GHVGKEVLNRGKA-----------------------------------------------
+---------------------------------------------------
+>sp|A8ARN6|RPOZ_CITK8 DNA-directed RNA polymerase subunit omega OS=Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696) OX=290338 GN=rpoZ PE=3 SV=1
+MARVTVQDAVEKIGNRFDLVLVAARRARQMQVGGKDPLVP---E-ENDKTTVIALREIEE
+GLINNQILDVRER--------QEQQEQEAAELQAVT-AIAEGRR----------------
+---------------------------------------------------
+>sp|Q47UB2|RPOZ_COLP3 DNA-directed RNA polymerase subunit omega OS=Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX=167879 GN=rpoZ PE=3 SV=1
+MARVTVEDAVDKVGNRFDLVLVASRRARQIATGGKDPLVD---V-ENDKPTVIALREIEA
+GLITTDIMNTSDR--------AQQIQQDTAELDAVA-AIVGGQQEELS------------
+---------------------------------------------------
+>sp|B6J5T7|RPOZ_COXB1 DNA-directed RNA polymerase subunit omega OS=Coxiella burnetii (strain CbuK_Q154) OX=434924 GN=rpoZ PE=3 SV=1
+MARVTVEDCLEHVENRFDLVLKAAKRAHILELGGAEPMVP---R-DNDKPAVLALREIAA
+GYDVTREGQEQE---------TEEVDVDRNVLAETA-KMNKAV-----------------
+ASQKESEV-------------------------------------------
+>sp|Q1LQ33|RPOZ_CUPMC DNA-directed RNA polymerase subunit omega OS=Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34) OX=266264 GN=rpoZ PE=3 SV=1
+MARITVEDCLKHIPNRFELALAATYRARQLVQ-GHTPKVE-----AKDKPTVVALREIAS
+GQVGIEMLKKVPT-----------------------------------------------
+---------------------------------------------------
+>sp|Q479A9|RPOZ_DECAR DNA-directed RNA polymerase subunit omega OS=Dechloromonas aromatica (strain RCB) OX=159087 GN=rpoZ PE=3 SV=1
+MARVTVDDCLKRIPNRFQMTLAAAHRARQLAN-GATPLVD---P-EKHKPTVVALKEMGA
+GKVGLEVLNRGQA-----------------------------------------------
+---------------------------------------------------
+>sp|A5EXW8|RPOZ_DICNV DNA-directed RNA polymerase subunit omega OS=Dichelobacter nodosus (strain VCS1703A) OX=246195 GN=rpoZ PE=3 SV=1
+MARVTVEDCLIHENSRFRLVLAASKRARQLTL-GHQPLVA---P-ENDKPTVLALREIEE
+GKVTVQGLLDGQDV-------SEHLARQA-------------------------------
+---------------------------------------------------
+>sp|Q2N7Q3|RPOZ_ERYLH DNA-directed RNA polymerase subunit omega OS=Erythrobacter litoralis (strain HTCC2594) OX=314225 GN=rpoZ PE=3 SV=1
+MARVTVEDCVDKVPNRFDLVLLAAQRAREISG-GAEMTID---R-DRDKNPVVALREIAE
+QTIKPKDLQEAVVTNL-----QKILPDDDDEFDEVG-SLSQSAEALRITASA--------
+PTRS-TSI-------------------------------GADFDG------
+>sp|B3E4R5|RPOZ_GEOLS DNA-directed RNA polymerase subunit omega OS=Geobacter lovleyi (strain ATCC BAA-1151 / DSM 17278 / SZ) OX=398767 GN=rpoZ PE=3 SV=1
+MARVTVEDCLEKVDNRFMLVMMASKRVKQLYK-GAKPLID---P-KNNRHVVTSLREIAA
+GKLSAELSSKRSA-----------------------------------------------
+---------------------------------------------------
+>sp|Q7VKI2|RPOZ_HAEDU DNA-directed RNA polymerase subunit omega OS=Haemophilus ducreyi (strain 35000HP / ATCC 700724) OX=233412 GN=rpoZ PE=3 SV=1
+MARVTVQEAADKIGNRFDLILTAARRARQLQLHVREPLVP---E-ENDKPTVIALREIEK
+GLINGSIMDQLEN--------SDAVRQEVAEQEAIS-FLTDIQTNAYFYSFN--------
+-------------------------------------------DG------
+>sp|Q4QJK4|RPOZ_HAEI8 DNA-directed RNA polymerase subunit omega OS=Haemophilus influenzae (strain 86-028NP) OX=281310 GN=rpoZ PE=3 SV=1
+MARVTVQDAVEKIGNRFDLILTAARRARQLQLNQSAPLVP---E-DNDKPTVIALREIEK
+GLINQDIMDAQEF--------QKMAKVQETEEAAVA-LITE-------------------
+---------------------------------------------------
+>sp|B8F5Q2|RPOZ_HAEPS DNA-directed RNA polymerase subunit omega OS=Haemophilus parasuis serovar 5 (strain SH0165) OX=557723 GN=rpoZ PE=3 SV=1
+MARVTVQDAVEKIGNRFDLILTAARRARQLQLHTREPLVA---E-EGDKPTVIALREIEE
+GLINNQIMDQQEK--------FDAIVQEVAEKEAIS-FLADVQANS--------------
+---------------------------------------------------
+>sp|Q0I5L9|RPOZ_HAES1 DNA-directed RNA polymerase subunit omega OS=Haemophilus somnus (strain 129Pt) OX=205914 GN=rpoZ PE=3 SV=1
+MARVTVQDAVEKVGNRFDLILTAARRARELQLHKREPLVP---E-DNDKPTVIALREIEK
+GLINNDIMNAHER--------REALEQETAELNTIS-LLYQNN-----------------
+---------------------------------------------------
+>sp|Q2S8R3|RPOZ_HAHCH DNA-directed RNA polymerase subunit omega OS=Hahella chejuensis (strain KCTC 2396) OX=349521 GN=rpoZ PE=3 SV=1
+MARVTVEDCLDHVDNRFELVMLASKRARQISQYGKDPKVE---W-ENDKPTVVALREIAA
+GLITSEMLEQDED-----------------------------------------------
+---------------------------------------------------
+>sp|A1WVN4|RPOZ_HALHL DNA-directed RNA polymerase subunit omega OS=Halorhodospira halophila (strain DSM 244 / SL1) OX=349124 GN=rpoZ PE=3 SV=1
+MARVTVEDCLDNVDNRFELVLAGAKRARQLAK-GIEPLVD---W-ENDKPTVVALREIAA
+GHVTSEILTSTEE--------SAADSLSLGGFSTAD-VEAEVGGGPVQPD----------
+PGASQERAFDEAADGTAQG--------------------SGDPDPTT----
+>sp|C4K473|RPOZ_HAMD5 DNA-directed RNA polymerase subunit omega OS=Hamiltonella defensa subsp. Acyrthosiphon pisum (strain 5AT) OX=572265 GN=rpoZ PE=3 SV=1
+MARVTVQAAVEKVGNRFKLILVAVHRARLLQSGRENSLVP---E-ENDKVTVIALREIEQ
+GLITESILKENNQ--------HEDQIQKKVQMKTIS-STQDFD-----------------
+---------------------------------------------------
+>sp|Q31DP2|RPOZ_HYDCU DNA-directed RNA polymerase subunit omega OS=Hydrogenovibrio crunogenus (strain XCL-2) OX=317025 GN=rpoZ PE=3 SV=1
+MARVTVEDCLDQVENRFELVILSSKRARQLSN-GAEPTLD---W-DKDKPTVMALRELAE
+NTINKEVVMSDPDT--PPFFG---------------------------------------
+---------------------------------------------------
+>sp|Q0C3U4|RPOZ_HYPNA DNA-directed RNA polymerase subunit omega OS=Hyphomonas neptunium (strain ATCC 15444) OX=228405 GN=rpoZ PE=3 SV=1
+MARVTVEDCIQKVPNRFELVLLAAHRARMIRE-GSPLTID---R-DNDKDPVVSLREIAE
+TSIDLKVVKEALISNL-----QDIRPGEENEREADR-VALQAAPAA--------------
+---TEDDVLRAY---------------------------QAELESGRDDRL
+>sp|Q5QYI0|RPOZ_IDILO DNA-directed RNA polymerase subunit omega OS=Idiomarina loihiensis (strain ATCC BAA-735 / DSM 15497 / L2-TR) OX=283942 GN=rpoZ PE=3 SV=1
+MARVTVEDAVDRVGNRFDLILLASRRARQLAN-GKEPLVE---T-KNEKPTVIALREIEQ
+GLIDNERLDIEDQ--------AAQKQQDAEELRAVD-ALRGIE-----------------
+---------------------------------------------------
+>sp|Q28V32|RPOZ_JANSC DNA-directed RNA polymerase subunit omega OS=Jannaschia sp. (strain CCS1) OX=290400 GN=rpoZ PE=3 SV=1
+MARVTVEDCVDKVPNRFELVMLASHRAREIAA-GDPLTID---R-DNDKNPVVSLREIAD
+ETQSADDLRERLIESH-----QTQIEVDEPEEDAMA-LLQGVEQD-RPAQ----------
+DDMSEEQMLRALME--AQGQK------------------------------
+>sp|C1DC35|RPOZ_LARHH DNA-directed RNA polymerase subunit omega OS=Laribacter hongkongensis (strain HLHK9) OX=557598 GN=rpoZ PE=3 SV=1
+MARITVDDCLKRIPNRFDLTLAAAYRARQIAN-GAQLLIDSNAG-SKDKPTVVALREIAA
+GQIGREVLERAIRS----------------------------------------------
+---------------------------------------------------
+>sp|Q5X3P3|RPOZ_LEGPA DNA-directed RNA polymerase subunit omega OS=Legionella pneumophila (strain Paris) OX=297246 GN=rpoZ PE=3 SV=1
+MARVTVEDCLEHVKNRFELVMVATKRARQIAVRGDQPMVE---W-ENDKPTVVALREIAE
+GYVTADILDED-------------------------------------------------
+---------------------------------------------------
+>sp|A0L486|RPOZ_MAGMM DNA-directed RNA polymerase subunit omega OS=Magnetococcus marinus (strain ATCC BAA-1437 / JCM 17883 / MC-1) OX=156889 GN=rpoZ PE=3 SV=1
+MARVTVDDCVQHVSNRFELVILAAKRARQLAK-GAEPEVS---V-DRDKNTVVALREIAE
+SKLNMDDLRRMEET-V-----VEEEVVDEVIRFEIA-DLAVSDDLADGDAAN--------
+DLQGEEDDL---------GLGLDEAEDLGF---------------------
+>sp|Q65RR6|RPOZ_MANSM DNA-directed RNA polymerase subunit omega OS=Mannheimia succiniciproducens (strain MBEL55E) OX=221988 GN=rpoZ PE=3 SV=1
+MARVTVQDAVEKIGNRFDLILTAARRARQLQLHVREPLVP---E-DNDKPTVIALREIEK
+GLIDNNIMNAQER--------QEALEQEKVELNAVS-LLSE-------------------
+---------------------------------------------------
+>sp|A1TYB4|RPOZ_MARHV DNA-directed RNA polymerase subunit omega OS=Marinobacter hydrocarbonoclasticus (strain ATCC 700491 / DSM 11845 / VT8) OX=351348 GN=rpoZ PE=3 SV=1
+MARVTVEDCLENVDNRFQLVMLATKRARQIATKGAEPMVA---E-ENDKPTVIALREIAE
+GKVTRDLLLEEDD--------D--------------------------------------
+---------------------------------------------------
+>sp|A6W3K1|RPOZ_MARMS DNA-directed RNA polymerase subunit omega OS=Marinomonas sp. (strain MWYL1) OX=400668 GN=rpoZ PE=3 SV=1
+MARVTVEDCLENVDNRFELVMVASKRARQLATGGEDAKVP---L-EGDKVTVVALREIAE
+NLINAKNVDQQKR--------PLHE-----------------------------------
+--------------------------------------------------F
+>sp|Q606J4|RPOZ_METCA DNA-directed RNA polymerase subunit omega OS=Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath) OX=243233 GN=rpoZ PE=3 SV=1
+MARITVEDCLDKVENRFQLVLLASKRARVLARHPEEAKVT---W-DNDKPTVVALREIAE
+GHITPAYMKEKVK--------TDRYPIERPMPAPRD-DLADLDDDI--------------
+---------------------------------------------------
+>sp|Q1GXB8|RPOZ_METFK DNA-directed RNA polymerase subunit omega OS=Methylobacillus flagellatus (strain KT / ATCC 51484 / DSM 6875) OX=265072 GN=rpoZ PE=3 SV=1
+MARITVDDCLEKIPNRFQLTLVAAYRARQLAN-GAEPLVNVH-G-SKDKPTVLALREIAA
+GKVGLEVLNRGHA-----------------------------------------------
+---------------------------------------------------
+>sp|Q5F776|RPOZ_NEIG1 DNA-directed RNA polymerase subunit omega OS=Neisseria gonorrhoeae (strain ATCC 700825 / FA 1090) OX=242231 GN=rpoZ PE=3 SV=1
+MARITTEDCTGKISNHFDLTLVAARRARQLEN-GNTPLVDD--V-RNNKPTVTALREIAA
+GHIGTELLTRNK------------------------------------------------
+---------------------------------------------------
+>sp|Q82SQ2|RPOZ_NITEU DNA-directed RNA polymerase subunit omega OS=Nitrosomonas europaea (strain ATCC 19718 / CIP 103999 / KCTC 2705 / NBRC 14298) OX=228410 GN=rpoZ PE=3 SV=1
+MARITVEDCLEVIPNRFDMTLAATVRARQVSV-GSTPMID---S-ERDKPIVIALRELAQ
+KKYGEEILNTLR------------------------------------------------
+---------------------------------------------------
+>sp|Q2YD11|RPOZ_NITMU DNA-directed RNA polymerase subunit omega OS=Nitrosospira multiformis (strain ATCC 25196 / NCIMB 11849 / C 71) OX=323848 GN=rpoZ PE=3 SV=1
+MARITVDDCLKKIPNRFDMTLVATIRARQLSV-GGSPMVE---P-ARDKPTVIALREISQ
+GLVGTDILTTGPI-----------------------------------------------
+---------------------------------------------------
+>sp|Q3JBT2|RPOZ_NITOC DNA-directed RNA polymerase subunit omega OS=Nitrosococcus oceani (strain ATCC 19707 / BCRC 17464 / NCIMB 11848 / C-107) OX=323261 GN=rpoZ PE=3 SV=1
+MARLTVEDCIDNIDNRFLLVLAAAKRARQLAM-GATPTVP---W-DKDKPTVVALREIAE
+GHIDVGVMDTASA--------REHAKESQVSEEEVR-EES--------------------
+---------------------------------------------------
+>sp|Q2GC33|RPOZ_NOVAD DNA-directed RNA polymerase subunit omega OS=Novosphingobium aromaticivorans (strain ATCC 700278 / DSM 12444 / CIP 105152 / NBRC 16084 / F199) OX=279238 GN=rpoZ PE=3 SV=1
+MARVTVEDCVDKVPNRFDLVLLAAERARAISG-GAELTVD---R-DRDKNPVVALREIAE
+ETVRPAVLKENLIQSL-----QRVLPDDDDEVDEIG-SLSQSAEALRITAAA--------
+PVRN-TSL-------------------------------GADYDG------
+>sp|A1B1V8|RPOZ_PARDP DNA-directed RNA polymerase subunit omega OS=Paracoccus denitrificans (strain Pd 1222) OX=318586 GN=rpoZ PE=3 SV=1
+MARVTVEDCVDKVPNRFDLVMLAAHRAREIAA-GSPLTVD---R-DNDKNPVVSLREIAD
+ETQPVDDLRERMIEAQ-----QTQIEVDEPEEDAMA-LLLGAEMD-RPKPA---------
+DEESEERMLRMMLE--AQGRN------------------------------
+>sp|Q9CMB2|RPOZ_PASMU DNA-directed RNA polymerase subunit omega OS=Pasteurella multocida (strain Pm70) OX=272843 GN=rpoZ PE=3 SV=1
+MARVTVQGAVEKIGNRFDLILTAARRARQLQLHIREPLVP---E-DNDKPTVIALREIEK
+GLINNEIMNAQER--------YDALEKENSELHAVS-LLSNQ------------------
+---------------------------------------------------
+>sp|A1ARN6|RPOZ_PELPD DNA-directed RNA polymerase subunit omega OS=Pelobacter propionicus (strain DSM 2379 / NBRC 103807 / OttBd1) OX=338966 GN=rpoZ PE=3 SV=1
+MARVTVEDCLDKVENRFLLVMLASKRVKQLYK-GARPLVD---P-KNNRLVVTSLREIAA
+GKVGYEMIKRQRT--------QQ-------------------------------------
+---------------------------------------------------
+>sp|Q7N9P3|RPOZ_PHOLL DNA-directed RNA polymerase subunit omega OS=Photorhabdus laumondii subsp. laumondii (strain DSM 15139 / CIP 105565 / TT01) OX=243265 GN=rpoZ PE=3 SV=1
+MARVTVQDAVEKIGNRFDLVLVAARRARQLQTGGKDPLVA---E-ENDKVTVIALREVEE
+GLINGKILDVRER--------QEQQEQEAAEMQAVS-AIAESRR----------------
+---------------------------------------------------
+>sp|Q6LVP6|RPOZ_PHOPR DNA-directed RNA polymerase subunit omega OS=Photobacterium profundum (strain SS9) OX=298386 GN=rpoZ PE=3 SV=1
+MARVTVQDAVDKIGNRFDLIQIASRRARQLQTGGKDPLVP---E-ENDKYTVIALREIEE
+GLITKDILDARER--------QELQEQEAAELAAVS-AIAGDHHHHR-------------
+---------------------------------------------------
+>sp|A4SXS9|RPOZ_POLAQ DNA-directed RNA polymerase subunit omega OS=Polynucleobacter asymbioticus (strain DSM 18221 / CIP 109841 / QLW-P1DMWA-1) OX=312153 GN=rpoZ PE=3 SV=1
+MARITVEDCLKTIPNRFELVLAATYRARQLVQ-GHSPRVE-----SRDKATVVALREVAA
+GVTDRDMLTKVPL-----------------------------------------------
+---------------------------------------------------
+>sp|Q48Q16|RPOZ_PSE14 DNA-directed RNA polymerase subunit omega OS=Pseudomonas savastanoi pv. phaseolicola (strain 1448A / Race 6) OX=264730 GN=rpoZ PE=3 SV=2
+MARVTVEDCLEHVDNRFELVMLSTKRARQLATGGKEPKLA---W-ENDKPTVMALREIAA
+GLMDYAVIAEAEI--------VEDEPLFAAFEDESN-------EAV--------------
+---------------------------------------------------
+>sp|Q15Z09|RPOZ_PSEA6 DNA-directed RNA polymerase subunit omega OS=Pseudoalteromonas atlantica (strain T6c / ATCC BAA-1087) OX=342610 GN=rpoZ PE=3 SV=1
+MARVTVEDAVDKIGNRFDLVLVAARRARQLAIEGKVAHVS---V-GTDKPTVVALREIEE
+GHVTASTLDAENL--------RDQHAQDQAQFESVA-NILQEQ-----------------
+---------------------------------------------------
+>sp|A6VEE4|RPOZ_PSEA7 DNA-directed RNA polymerase subunit omega OS=Pseudomonas aeruginosa (strain PA7) OX=381754 GN=rpoZ PE=3 SV=1
+MARVTVEDCLDNVDNRFELVMLATKRARQLATGGKEPKVA---W-ENDKPTVVALREIAS
+GLVDENVVQQEDI--------VEDEPLFAAFDDEAN------TEAL--------------
+---------------------------------------------------
+>sp|Q1I2S9|RPOZ_PSEE4 DNA-directed RNA polymerase subunit omega OS=Pseudomonas entomophila (strain L48) OX=384676 GN=rpoZ PE=3 SV=1
+MARVTVEDCLEHVDNRFELVMLSTKRARQLATGGKEPRVA---W-ENDKPTVVALREIAE
+GIVTPEFIAAEEI--------VTEDPVFAAFEDENN-------EAV--------------
+---------------------------------------------------
+>sp|C3K482|RPOZ_PSEFS DNA-directed RNA polymerase subunit omega OS=Pseudomonas fluorescens (strain SBW25) OX=216595 GN=rpoZ PE=3 SV=1
+MARVTVEDCLEHVDNRFELVMLSTKRARQLATGGKEPLVQ---W-ENDKPTVVALREIAE
+GLMSYEFIANAEI--------VEDEPLFAAFEDESN-------EAV--------------
+---------------------------------------------------
+>sp|A4Y0M0|RPOZ_PSEMY DNA-directed RNA polymerase subunit omega OS=Pseudomonas mendocina (strain ymp) OX=399739 GN=rpoZ PE=3 SV=1
+MARVTVEDCLDNVDNRFELVMLATKRSRQLATGGKEPKVA---W-ENDKPTVVALREIAA
+GLVDYEVVAQEDI--------VEEEPLFAAFEEEAN-------EPL--------------
+---------------------------------------------------
+>sp|Q3IJH7|RPOZ_PSET1 DNA-directed RNA polymerase subunit omega OS=Pseudoalteromonas translucida (strain TAC 125) OX=326442 GN=rpoZ PE=3 SV=1
+MARVTVEDAVDAIGNRFDLILVAARRARQIAVGGKRPLVD---P-ENDKPTVIALREIEL
+GLVDSSSMDVIDR--------EEQQHQEAAELAAVA-AIVGGNQ----------------
+---------------------------------------------------
+>sp|A4VGR5|RPOZ_PSEU5 DNA-directed RNA polymerase subunit omega OS=Pseudomonas stutzeri (strain A1501) OX=379731 GN=rpoZ PE=3 SV=1
+MARVTVEDCLDNVDNRFELVMLATKRARQLATGGKEPKVA---W-ENDKPTVVALREIAS
+GLVDYDVIAQDEI--------VDDEPLFTQYEEEPN-------EAI--------------
+---------------------------------------------------
+>sp|Q4FQY6|RPOZ_PSYA2 DNA-directed RNA polymerase subunit omega OS=Psychrobacter arcticus (strain DSM 17307 / VKM B-2377 / 273-4) OX=259536 GN=rpoZ PE=3 SV=1
+MARVTIEDCLDNVDNRFELVLVASKRARQLAKGIAEPLVD---V-DNDKPTVLALREIAA
+GKITRDILNQPEH--------NFATSSLDLALSGDH-SF---------------------
+---------------------------------------------------
+>sp|A1T0P2|RPOZ_PSYIN DNA-directed RNA polymerase subunit omega OS=Psychromonas ingrahamii (strain 37) OX=357804 GN=rpoZ PE=3 SV=1
+MARVTVEDAVNVVGNRFDLILMASRRARQLATQGKTPLVD---P-ENDKPTVIALREIEE
+NLITNELMDIQDR--------QEKHEKQTAELAAVA-AIAEGRG----------------
+---------------------------------------------------
+>sp|A5WCZ0|RPOZ_PSYWF DNA-directed RNA polymerase subunit omega OS=Psychrobacter sp. (strain PRwf-1) OX=349106 GN=rpoZ PE=3 SV=1
+MARVTVEDCLHAVDNRFELVLVASKRAHQLAKGVSEPLVE---V-NNDKPTVLALREIAA
+GLVTKDILNQPDH--------HFATNSLDLALSGGQ-GF---------------------
+---------------------------------------------------
+>sp|Q985B3|RPOZ_RHILO DNA-directed RNA polymerase subunit omega OS=Mesorhizobium japonicum (strain LMG 29417 / CECT 9101 / MAFF 303099) OX=266835 GN=rpoZ PE=3 SV=1
+MARVTVEDCIDKVDNRFELVLLAGHRARQISQ-GAQITVP---R-DNDKNPVIALREIAD
+ETLSPDDLKEDLIHSL-----QKHVEVDEPEADGEV-IADQTGAAVAATETDDAEDNITF
+DRMTEEDLLAGI-----EGLVPPE--------------KSDDY--------
+>sp|B6IN07|RPOZ_RHOCS DNA-directed RNA polymerase subunit omega OS=Rhodospirillum centenum (strain ATCC 51521 / SW) OX=414684 GN=rpoZ PE=3 SV=1
+MARVTVEDCVEKVPNRFELVMMAAQRARDIAA-GSPLSVD---R-DNDKNPVVALREIAD
+ETVTLETLRNSLIKGH-----QRVPEQDEPEEEIVE-LMAGENAW-SVPEAGG-------
+---DEGGDASELLD--DEGEGAAAGAEPDFSEMDVPLADLADEDK-----I
+>sp|A3PGF2|RPOZ_RHOS1 DNA-directed RNA polymerase subunit omega OS=Rhodobacter sphaeroides (strain ATCC 17029 / ATH 2.4.9) OX=349101 GN=rpoZ PE=3 SV=1
+MARVTVEDCVDKVPNRFELVMLAAHRAREIAS-GSSLTID---R-DNDKNPVVALREIAE
+ETQSAESLRERMIESH-----QTQIEVDEPEEDQMA-LLMGSEVD-RPVQ----------
+DDMSEEKLLRALME--AQGQN------------------------------
+>sp|Q16AJ3|RPOZ_ROSDO DNA-directed RNA polymerase subunit omega OS=Roseobacter denitrificans (strain ATCC 33942 / OCh 114) OX=375451 GN=rpoZ PE=3 SV=1
+MARVTVEDCVDKVPNRFELVMLAAHRAREISA-GSAPTVN---R-DNDKNPAVSLREIAE
+ETQSADDLRERLIESN-----QHQIEVDEPEEDAMA-LLMGAEQD-KPEE----------
+DSMSEEMLLRQLMA--AQGQG------------------------------
+>sp|Q1GDG8|RPOZ_RUEST DNA-directed RNA polymerase subunit omega OS=Ruegeria sp. (strain TM1040) OX=292414 GN=rpoZ PE=3 SV=1
+MARVTVEDCVDKVPNRFELVMLAAHRAREISA-GAELTVD---R-DNDKNPVVSLREIAE
+ETQSADALRERLIESN-----QSQIEVDEPEEDSMA-LLMGGEAD-KPQE----------
+DDMSEEKLLRALME--AQGQG------------------------------
+>sp|A1AW62|RPOZ_RUTMC DNA-directed RNA polymerase subunit omega OS=Ruthia magnifica subsp. Calyptogena magnifica OX=413404 GN=rpoZ PE=3 SV=1
+MARVTVEECLEHVENRFELVLVAAKRAHQLSSGDYKPLLD---A-GKDKPTVVALREIEA
+GLIDASILSETYEM-------QEQLSAQQK------------------------------
+---------------------------------------------------
+>sp|Q21EC8|RPOZ_SACD2 DNA-directed RNA polymerase subunit omega OS=Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024) OX=203122 GN=rpoZ PE=3 SV=1
+MARITVEDCLDYVDNRFELVIVGSKRARQIATQGKEPLVA---P-ENDKPTVIALREIEL
+GLIDDAFLAATDA--------EPVEHFAEPSEENAD-NLYPEA-----------------
+---------------------------------------------------
+>sp|Q12IL7|RPOZ_SHEDO DNA-directed RNA polymerase subunit omega OS=Shewanella denitrificans (strain OS217 / ATCC BAA-1090 / DSM 15013) OX=318161 GN=rpoZ PE=3 SV=1
+MARVTVEDAVDQIGNRFDMILVAARRARQIAVQGKDPMVD---E-MNDKPTVIALREIEL
+GLVNATTLDADER--------QTVRDREAAEVAAVS-AIAEGRTL---------------
+---------------------------------------------------
+>sp|A8H9F1|RPOZ_SHEPA DNA-directed RNA polymerase subunit omega OS=Shewanella pealeana (strain ATCC 700345 / ANG-SQ1) OX=398579 GN=rpoZ PE=3 SV=1
+MARVTVEDAVNQIGNRFDMILVAARRARQIAVQGKDPMVE---E-ENDKPTVIALREIEL
+GLVTADTLDADER--------QTVREREAAEIAAVA-AIAEGRNNVI-------------
+---------------------------------------------------
+>sp|Q1GSQ7|RPOZ_SPHAL DNA-directed RNA polymerase subunit omega OS=Sphingopyxis alaskensis (strain DSM 13593 / LMG 18877 / RB2256) OX=317655 GN=rpoZ PE=3 SV=1
+MARVTVEDCVDKVPNRFDLVLLSAHRAREISG-GSELTVD---R-DRDKNPVVALREIAE
+QTIRPKDLHEALVGSL-----QKVVIDDDDTPDEIS-SISRSAEALRLTAAA--------
+PPRSPAGG-------------------------------GGDFE-------
+>sp|A5VC58|RPOZ_SPHWW DNA-directed RNA polymerase subunit omega OS=Sphingomonas wittichii (strain RW1 / DSM 6014 / JCM 10273) OX=392499 GN=rpoZ PE=3 SV=1
+MARVTVEDCVDKISNRFDLVLMAAQRARQISG-GAELTID---R-DRDKNPVVALREIAE
+QTVTPEELHEAVVSTL-----QRVRVDDDDAPDEIG-SLAASAEALRLTAAA--------
+PPRN-QNI-------------------------------GGDYE-------
+>sp|B4STZ5|RPOZ_STRM5 DNA-directed RNA polymerase subunit omega OS=Stenotrophomonas maltophilia (strain R551-3) OX=391008 GN=rpoZ PE=3 SV=1
+MARITVEDCLEVVNNRFELVMMASKRARQLAN-GVQATLDN-SE-TEDKPTVLALREIAA
+RKIDNALIDEVEK--------AERERAEREALEWAA-AEVVAD-----------------
+EDMSKNDD-------------------------------------------
+>sp|C5BLF6|RPOZ_TERTT DNA-directed RNA polymerase subunit omega OS=Teredinibacter turnerae (strain ATCC 39867 / T7901) OX=377629 GN=rpoZ PE=3 SV=1
+MARITVEDCLDHVDNRFELVIVGTKRARQLAVQGKTPMVP---E-ENDKPTVIALREIEE
+GFIDASILDEKDE--------PQDTLIMGDADHSLDLGMHNSPEA---------------
+---------------------------------------------------
+>sp|B8GQN1|RPOZ_THISH DNA-directed RNA polymerase subunit omega OS=Thioalkalivibrio sulfidiphilus (strain HL-EbGR7) OX=396588 GN=rpoZ PE=3 SV=1
+MARITVEDCLTNMDNRFQLVLVAAKRARQLSM-GHQPRVA---E-ENDKPTVIALREIAD
+GHVGREVLDEVVA--------EEHAAVSSRISEDEV-RAE--------------------
+--------------------------------------------------L
+>sp|C4L810|RPOZ_TOLAT DNA-directed RNA polymerase subunit omega OS=Tolumonas auensis (strain DSM 9187 / TA4) OX=595494 GN=rpoZ PE=3 SV=1
+MARVTVEDAVKQVGNRFDLVLVAARRARQLAVQGKEPLVD---E-ENDKPTVIALREIEE
+GLISNQFMDAQER--------IEQQQQEASELAAVA-ALTQDRDYGF-------------
+---------------------------------------------------
+>sp|A5CX12|RPOZ_VESOH DNA-directed RNA polymerase subunit omega OS=Vesicomyosocius okutanii subsp. Calyptogena okutanii (strain HA) OX=412965 GN=rpoZ PE=3 SV=1
+MARVTVEDCLDHVENRFELVLIAAKRAHQLSSGGYKPLLN---A-GKDKPTVVALREIEA
+GLIDSSILSEIYVI-------DEQLSAQQKVLDSVK--MSEIKDELSVTAVD-----KVI
+DEITEIEE-------------------------------------------
+>sp|B7VHI0|RPOZ_VIBA3 DNA-directed RNA polymerase subunit omega OS=Vibrio atlanticus (strain LGP32) OX=575788 GN=rpoZ PE=3 SV=1
+MARVTVQDAVEKVGNRFDLVLIAARRARQMQTGGKDSLVP---E-ENDKPTVIALREIEE
+GLITKDVLDARER--------QEQQEQEAAELAAVS-SIAHTR-----------------
+---------------------------------------------------
+>sp|Q8D2E9|RPOZ_WIGBR DNA-directed RNA polymerase subunit omega OS=Wigglesworthia glossinidia brevipalpis OX=36870 GN=rpoZ PE=3 SV=1
+MARITVQDAVEKIGNRFDLVLVASQRAREMQIFGKSPMVD---K-ENDKYTVIALREIEQ
+GLIEKQ------------------------------------------------------
+---------------------------------------------------
+>sp|P66732|RPOZ_XANAC DNA-directed RNA polymerase subunit omega OS=Xanthomonas axonopodis pv. citri (strain 306) OX=190486 GN=rpoZ PE=3 SV=1
+MARITVEDCLEVVNNRFELVMMASKRARQLAN-GVQPLIEN-AD-ASDKPTVMALREIAA
+RRIDNALIDEVEK--------AERERAEREALEWAA-AEVVAD-----------------
+EDMSKNDD-------------------------------------------
+>sp|A7IM18|RPOZ_XANP2 DNA-directed RNA polymerase subunit omega OS=Xanthobacter autotrophicus (strain ATCC BAA-1158 / Py2) OX=78245 GN=rpoZ PE=3 SV=1
+MARVTVEDCIDKVDNRFELVLLAAHRARMISS-GAQITVD---R-DNDKNPVVALREIAD
+EHVGPEDLKEDLIHSL-----QKYTEVDEPEPEAVP-MIASGDSS-GGEDSD-----VML
+DRMTEEELLAGL-----QGLVPPE--------------HTDDDEG------
+>sp|Q9PD77|RPOZ_XYLFA DNA-directed RNA polymerase subunit omega OS=Xylella fastidiosa (strain 9a5c) OX=160492 GN=rpoZ PE=3 SV=1
+MARITVEDCLEVVNNRFELVMMASKRARQLAN-GVPPLIEN-TN-SEDKPTVLALREIAA
+RKIDSKMIDEIEK--------AERERTEREAMEWAA-AEVVAD-----------------
+EDMSKSDD-------------------------------------------
+>sp|Q5NLR6|RPOZ_ZYMMO DNA-directed RNA polymerase subunit omega OS=Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4) OX=264203 GN=rpoZ PE=3 SV=1
+MARVTVEDCIDKVHNRFDLILLAAQRARQISG-GAELTLD---R-DRDKNPVVALREIAD
+ELITPVQLREALLNDL-----QQVHLDDDDVPDEVG-SLSASAEALRLTAET--------
+PARNQTSSRRAA-----AAAAAA---------------AAVDYD-------

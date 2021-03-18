@@ -1,0 +1,372 @@
+>sp|A1TIF0|MINE_ACIAC Cell division topological specificity factor OS=Acidovorax citrulli (strain AAC00-1) OX=397945 GN=minE PE=3 SV=1
+M-------ASFLSF-LLGE---KKKTASVAKERLQIILAHERN--G-RN-ASEPDYLPAL
+QRELVAVISKYVK-ISPEDLKVQLERQ--DNLEVLEVKIELPDTVR--------------
+----------------
+>sp|B9MA02|MINE_ACIET Cell division topological specificity factor OS=Acidovorax ebreus (strain TPSY) OX=535289 GN=minE PE=3 SV=1
+--------MSLLSF-LLGE---KKKTASVAKERLQIILAHERS--G-RS-AGQPDYLPAL
+QRELVAVISKYVK-INADDLKVHFERQ--DDLEVLEVKIELPEATAK-------------
+----------------
+>sp|B7J3B2|MINE_ACIF2 Cell division topological specificity factor OS=Acidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455) OX=243159 GN=minE PE=3 SV=1
+--------MSFLDY-FLGS---RKKSANVAKDRLKLILAHERD--A-----DGPDFLPAL
+QEELLAVIAKYIP-VDKENIKVSMERR--GDFEVLELNVLFPDQH---------------
+----------------
+>sp|A0KK55|MINE_AERHH Cell division topological specificity factor OS=Aeromonas hydrophila subsp. hydrophila (strain ATCC 7966 / DSM 30187 / JCM 1027 / KCTC 2358 / NCIMB 9240) OX=380703 GN=minE PE=3 SV=1
+--------MSLLDY-FRSN--KKQSTAQLAKERLQIIVAHERS--S-R---GGPDYLPQL
+KQDILDVIRKYVQ-IDPDKITVQLDKK-SDELSVLELNITFADDKKG-------------
+----------------
+>sp|Q8UAX0|MINE_AGRFC Cell division topological specificity factor OS=Agrobacterium fabrum (strain C58 / ATCC 33970) OX=176299 GN=minE PE=3 SV=1
+--------MSIFSI-F--R---KQKSAPLARERLQVLLAHERA--S-S---G-TDLVAVL
+REEILSVIAKHVQ-IDNDRVHVKMDRD--EHVSILEIDVEIPLGAHLRAA----------
+----------------
+>sp|B9JRA5|MINE_AGRVS Cell division topological specificity factor OS=Agrobacterium vitis (strain S4 / ATCC BAA-846) OX=311402 GN=minE PE=3 SV=1
+--------MSIFNL-F--R---RPTSAPMARERLQVLLAHERA--A-Q---G-SDLVAIL
+REEILAVISKHVQ-VDADKVRIKVDRD--EHVSILEIDVEIPRDAQALAA----------
+----------------
+>sp|Q0VQI2|MINE_ALCBS Cell division topological specificity factor OS=Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2) OX=393595 GN=minE PE=3 SV=1
+--------MSIFSY-LLPK---KQNTASVAKERLQIIVARERS--T-R---GGPDYLPQL
+QEELLQVVRKYVP-VDQDAVNVQVDRE--SGCEILELNITLPEG----------------
+----------------
+>sp|Q5E445|MINE_ALIF1 Cell division topological specificity factor OS=Aliivibrio fischeri (strain ATCC 700601 / ES114) OX=312309 GN=minE PE=3 SV=1
+--------MALLEF-FRPQ---KKATANIAKERLQIIVAERRN--G-G---PAPSYLPQL
+KEDILKVISKYVE-VNPDMVTVSLEQK-EEDLSVLELNVTLPDEDDH-------------
+----------------
+>sp|Q0A749|MINE_ALKEH Cell division topological specificity factor OS=Alkalilimnicola ehrlichii (strain ATCC BAA-1101 / DSM 17681 / MLHE-1) OX=187272 GN=minE PE=3 SV=1
+--------MGFLSY-FRSQ---KKRSASVAKERLQIIVARERS--Q-T--ATGPDYLPML
+KEELLDVIRKYVQ-VDRDAVNFQLDRE--GDCEVLELNITLPDQQDQAAAHDRG------
+----------------
+>sp|B4RWR9|MINE_ALTMD Cell division topological specificity factor OS=Alteromonas mediterranea (strain DSM 17117 / CIP 110805 / LMG 28347 / Deep ecotype) OX=1774373 GN=minE PE=3 SV=1
+--------MGIFDL-LKKK--QKPSTAAVAKERLQIIVAHERK--K-R---TEPDYLPMM
+QQEIIQVIRKYVT-IADDQVSVQLDNN--DECSVLELNVTLPDSNS--------------
+----------------
+>sp|Q5NY33|MINE_AROAE Cell division topological specificity factor OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=minE PE=3 SV=1
+--------MTFLAR-LFGE---KKKTAEIAKNRLSLLIAHERG--D-G--VPKVDFLPAL
+QRELIEVISKYVP-VNSDDIKVHLDKQ--NNYEVLEVNIVLPEQNQGR------------
+----------------
+>sp|A1K616|MINE_AZOSB Cell division topological specificity factor OS=Azoarcus sp. (strain BH72) OX=418699 GN=minE PE=3 SV=1
+--------MSLLAR-LFGE---KKKTAEIAKNRLSLLIAHERS--G-G--AGTADFLPAL
+QKDLIDVISKYVN-VNPDDIKVQLDKQ--DNVEVLEVNIVLPEHGR--------------
+----------------
+>sp|C1DQM6|MINE_AZOVD Cell division topological specificity factor OS=Azotobacter vinelandii (strain DJ / ATCC BAA-1303) OX=322710 GN=minE PE=3 SV=1
+--------MNLFDF-FRER--KKQSSASIAKERLQIIVAHERG--Q-R---SAPDYLPDL
+QKELIEVIRKYVN-IDNDQVQVVLEDQ--GNCSILELNVTLPDR----------------
+----------------
+>sp|Q1LT27|MINE_BAUCH Cell division topological specificity factor OS=Baumannia cicadellinicola subsp. Homalodisca coagulata OX=374463 GN=minE PE=3 SV=1
+--------MALFNF-LFSR---KRNTANLAKERLQIIIAKKRQ--N-E---IIPDYLPQL
+KYDLLQVLCKYAS-ITPEMLSVQLEMK-NGDISILEVQVIRPEMLDNNRLNNE-------
+----------------
+>sp|B2ICQ8|MINE_BEII9 Cell division topological specificity factor OS=Beijerinckia indica subsp. indica (strain ATCC 9039 / DSM 1715 / NCIB 8712) OX=395963 GN=minE PE=3 SV=1
+--------MSLFDF-F--R---RPTSAPVARERLQILLAHERA--V-I---GRSDLIAIL
+REEILAVIAKHVT-MEPEKVNVKMERG--DTVSTLEVEVEVPTSATARAGKKVVEAA---
+----------------
+>sp|Q2KVW5|MINE_BORA1 Cell division topological specificity factor OS=Bordetella avium (strain 197N) OX=360910 GN=minE PE=3 SV=1
+--------MSFLSF-LLGQ---KKSSASVAKERLQIILAHERS--G-R--GDSPDYLPQL
+QQELVAVISKYVK-INPDDIKVHLERQ--DTLEVLEVKIEMPQSETQASV----------
+----------------
+>sp|Q89MI0|MINE_BRADU Cell division topological specificity factor OS=Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110) OX=224911 GN=minE PE=3 SV=2
+--------MGLLRL-LR-G---NKASAPVARERLQILLAHERG--M-R---GQPDLLGVL
+REEILAVVSKHVT-LDPTKVIVRLERG--DEVSTLEVDIEVPNDLERKRVAVA-------
+----------------
+>sp|A5EAM9|MINE_BRASB Cell division topological specificity factor OS=Bradyrhizobium sp. (strain BTAi1 / ATCC BAA-1182) OX=288000 GN=minE PE=3 SV=1
+--------MSVLRL-FT-G---RAASAPVARERLQILLAHERS--L-R---GQPDLLMQL
+REEILAVVSRHVL-LDPDKVIVRMDRG--KHVSTLEVDIELPNGADRAFASAG-------
+----------------
+>sp|B2SBS0|MINE_BRUA1 Cell division topological specificity factor OS=Brucella abortus (strain S19) OX=430066 GN=minE PE=3 SV=1
+--------MSIFRF-FT-R---QQASAPQARERLQVLLAHERA--S-Y--GGQSDLVAVL
+REEILAVIAKHIK-VDREKVSVKMDRG--DQVSTLEVDIELPLTAKKGRAA---------
+----------------
+>sp|B8D9B5|MINE_BUCA5 Cell division topological specificity factor OS=Buchnera aphidicola subsp. Acyrthosiphon pisum (strain 5A) OX=563178 GN=minE PE=3 SV=1
+--------MALLDF-FLSR---NKNTANVAKERLQIIVAEQRK--Y-N---NEPDYFPQL
+KREILSVICKYVN-IEPNMVTVQLDQK-KEDISILELNIILPD-----------------
+----------------
+>sp|Q8K9L8|MINE_BUCAP Cell division topological specificity factor OS=Buchnera aphidicola subsp. Schizaphis graminum (strain Sg) OX=198804 GN=minE PE=3 SV=1
+--------MALLDF-FLSR---NKNTAHVAKERLQIIVAEQRK--F-K---SEPDYLPQL
+KREILSVICKYVN-IDPHMVTIQLEQK-NEDISVLELNIILPD-----------------
+----------------
+>sp|Q89AI4|MINE_BUCBP Cell division topological specificity factor OS=Buchnera aphidicola subsp. Baizongia pistaciae (strain Bp) OX=224915 GN=minE PE=3 SV=1
+--------MALLDF-FLSR---KKNTANIAKERLQIIVAERRR--M-D---TEPQYLPKL
+KKEIFQVICKYIK-INPEKIKIQLDQT-NKNISILELNVTLSE-----------------
+----------------
+>sp|B1YUM1|MINE_BURA4 Cell division topological specificity factor OS=Burkholderia ambifaria (strain MC40-6) OX=398577 GN=minE PE=3 SV=1
+--------MSILSF-LLGE---KKKSASVAKERLQLIIAHERV--G-G--RPPADYLPAL
+QKELVAVISKYVR-ISNDDIRVSLERQ--DDLEVLEVKIEIPQA----------------
+----------------
+>sp|B3PCV7|MINE_CELJU Cell division topological specificity factor OS=Cellvibrio japonicus (strain Ueda107) OX=498211 GN=minE PE=3 SV=1
+--------MSIFDY-FRAK--RAPTSASLAKERLQIIVAHERN--K-RS-LQQPDYLPQM
+REEIIAVIRKYIP-IDSSQVSVNVDNS--ENCSVLELNITLPD-----------------
+----------------
+>sp|Q1QT39|MINE_CHRSD Cell division topological specificity factor OS=Chromohalobacter salexigens (strain ATCC BAA-138 / DSM 3043 / CIP 106854 / NCIMB 13768 / 1H11) OX=290398 GN=minE PE=3 SV=1
+--------MKLLEF-LKRE---RKKSASVAKERLQIIVAHQRG--Q-R---DQPDYMPML
+EKELLEVIRRYVQ-VDQDAINISLDRD--NDCSVLELNVTLPRDE---------------
+----------------
+>sp|Q7NSP3|MINE_CHRVO Cell division topological specificity factor OS=Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757) OX=243365 GN=minE PE=3 SV=1
+--------MSLIDM-IFGK---RQKSAAIARERLQIILAHERN--G-R---HAPDYLPAL
+QRELMEVISKYVS-VNLEDIKVQVERQ--DDYEVLEVNIVLPEHQR--------------
+----------------
+>sp|Q481H1|MINE_COLP3 Cell division topological specificity factor OS=Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX=167879 GN=minE PE=3 SV=1
+--------MALLDY-FLRKKEKQVTTASKAKERLQIIVAHERN--S-R--NKQPDYLPQL
+TEDILKVLRKYIK-VSDESFSINLDKK-DGDLNVLELNIELHDEQTAD------------
+----------------
+>sp|Q1LSF7|MINE_CUPMC Cell division topological specificity factor OS=Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34) OX=266264 GN=minE PE=3 SV=1
+--------MSILSF-LLGE---KKKSASVAKERLQIILAHERS--G-H--SAPADYLPAL
+QRELVAVISKYVK-ISDQDLRVSLERQ--DNLEVLEVKIEIPQA----------------
+----------------
+>sp|Q47JE5|MINE_DECAR Cell division topological specificity factor OS=Dechloromonas aromatica (strain RCB) OX=159087 GN=minE PE=3 SV=1
+--------MSLLSM-LFGN---KPKTAHLAKERLQLIIAHERD--G-G--GSSANFLPDL
+QRELIAVISKYVK-VNTEDIRVSLEKQ--GNYEVLEVNIVLPEKG---------------
+----------------
+>sp|A9BQN8|MINE_DELAS Cell division topological specificity factor OS=Delftia acidovorans (strain DSM 14801 / SPH-1) OX=398578 GN=minE PE=3 SV=1
+--------MSMLSF-LLGE---KKKTASVAKERLQIILARERV--G-GN-GGGPDYLPAL
+QKELMAVISKYVD-IDVNDIKVHLERQ--ENLEVLEVKIELPDASR--------------
+----------------
+>sp|Q6AQH6|MINE_DESPS Cell division topological specificity factor OS=Desulfotalea psychrophila (strain LSv54 / DSM 12343) OX=177439 GN=minE PE=3 SV=1
+--------MSLFSF-FKNE--EKPSSAARAKERLQVVIAHERG--A-V---ERPDYLPQL
+QRDLLEVIKKYVD-ISEDKLDIKVDCI--GGLSTLEVNVELPDS----------------
+----------------
+>sp|C5B9V4|MINE_EDWI9 Cell division topological specificity factor OS=Edwardsiella ictaluri (strain 93-146) OX=634503 GN=minE PE=3 SV=1
+--------MALLDF-FLSR---KKTTANIAKERLQIIVAERRR--G-D---SEPHYLPQL
+KRDLLAVICKYVQ-IDPEMVSVQLEQK-GDDISVLELNVTLPENEEAPK-----------
+----------------
+>sp|A4WBG2|MINE_ENT38 Cell division topological specificity factor OS=Enterobacter sp. (strain 638) OX=399742 GN=minE PE=3 SV=1
+--------MALLDF-FLSR---KKSTANIAKERLQIIVAERRR--S-D---AEPHYLPQL
+RKDILEVICKYVQ-IDPEMVTVQLEQK-DGDISILELNVTLPEAEESRP-----------
+----------------
+>sp|B2VJ42|MINE_ERWT9 Cell division topological specificity factor OS=Erwinia tasmaniensis (strain DSM 17950 / CIP 109463 / Et1/99) OX=465817 GN=minE PE=3 SV=1
+--------MALLDF-FLSR---KKSTANIAKERLQIIVAERRR--G-D---CEPHYLPQL
+KRDILEVICKYVK-IDPEMLSVKLDQK-DDDISILELNVTLPESEAEEVHK---------
+----------------
+>sp|A9HLY4|MINE_GLUDA Cell division topological specificity factor OS=Gluconacetobacter diazotrophicus (strain ATCC 49037 / DSM 5601 / CCUG 37298 / CIP 103539 / LMG 7603 / PAl5) OX=272568 GN=minE PE=3 SV=1
+--------MSLLAS-LF-G---RKTSAPVARDRLQILLAHERS--AGE---GQSELIAKL
+QEEILAVITRHIT-VDQDKVQIKMDRG--AGVSMLEIDIEVPELKARAAPQAAAAIK---
+----------------
+>sp|Q5FTW1|MINE_GLUOX Cell division topological specificity factor OS=Gluconobacter oxydans (strain 621H) OX=290633 GN=minE PE=3 SV=1
+--------MSFLSN-IFAR---RQQSSSVAKDRLQILLAHERG--AGE--AGESDLIRQL
+HKEIMEVIARHVA-VDQDKVQIKVDRG--SGCSMLEIDVEVPQELSGKRGS---------
+----------------
+>sp|Q2SL86|MINE_HAHCH Cell division topological specificity factor OS=Hahella chejuensis (strain KCTC 2396) OX=349521 GN=minE PE=3 SV=1
+--------MSFWDY-FRSN---KQATASVAKERLQIIVAHERS--Q-R---NQPDYLPQL
+QQEILEVIGKYVK-INREDIQVQIDRN--DDCAVLELNITLPE-----------------
+----------------
+>sp|A1WXE1|MINE_HALHL Cell division topological specificity factor OS=Halorhodospira halophila (strain DSM 244 / SL1) OX=349124 GN=minE PE=3 SV=1
+--------MGIADY-FRERRRSRRGSASVAKERLQIIVSHERA--E-R---GGPDYLPML
+RQELLEVVRRYVT-VDPDAVRVDVERD--GPHEVLELNITLPEREEEGAQR---------
+----------------
+>sp|Q31GG2|MINE_HYDCU Cell division topological specificity factor OS=Hydrogenovibrio crunogenus (strain XCL-2) OX=317025 GN=minE PE=3 SV=1
+--------MALLDY-LLGQ--KKKKSANLAKDRLQILLAHERS--E-R---SAPEYLPKM
+REEILAVISKYVT-IDQEQLQISIDEA--NGFEVLELNLVLPDK----------------
+----------------
+>sp|A6SX66|MINE_JANMA Cell division topological specificity factor OS=Janthinobacterium sp. (strain Marseille) OX=375286 GN=minE PE=3 SV=1
+--------MALLSF-LFNS---KPKTASAAKERLQIIIARERN--G-R---AGPDFLPAL
+HQELIAVISKYVK-VNPDDIKISLNSQ--GNLEVLDVNVVLPDDAIEAVK----------
+----------------
+>sp|C1DBV9|MINE_LARHH Cell division topological specificity factor OS=Laribacter hongkongensis (strain HLHK9) OX=557598 GN=minE PE=3 SV=1
+--------MSLIEK-LFGK---RQKTASIARERLQIILAHERN--G-R---AEPDYLPQL
+QQELIAVISKYVK-IAPEDIKVQLERQ--DDLEVLEVNIVLPEPQQRTVA----------
+----------------
+>sp|Q5X4I6|MINE_LEGPA Cell division topological specificity factor OS=Legionella pneumophila (strain Paris) OX=297246 GN=minE PE=3 SV=1
+--------MSIFNY-LR-R---RASTASVAKERLQIIISHERS--Q-R---NTPDYLPKL
+QEEILAVIAKYVN-ISRDQVSVNLERM--EDSAVLELNITMPDKALEDSNS---------
+----------------
+>sp|B1Y580|MINE_LEPCP Cell division topological specificity factor OS=Leptothrix cholodnii (strain ATCC 51168 / LMG 8142 / SP-6) OX=395495 GN=minE PE=3 SV=1
+--------MSLLSF-LIGE---KKSTASVAKERLQIILAHERS--G-RN-ASRPDYLPAL
+QRELLAVISKYVS-IEPGDIKVHLERQ--DNLEVLEVKIELPDVQR--------------
+----------------
+>sp|A1U344|MINE_MARHV Cell division topological specificity factor OS=Marinobacter hydrocarbonoclasticus (strain ATCC 700491 / DSM 11845 / VT8) OX=351348 GN=minE PE=3 SV=1
+--------MSFFDY-FRSK---KNSTASVAKERLQIIVAHERG--Q-R---EQPDYLPQL
+QQELLQVIRKYVQ-ISDDMVQVEVDRN--DHCSVLELNVTLPEK----------------
+----------------
+>sp|A6VXU5|MINE_MARMS Cell division topological specificity factor OS=Marinomonas sp. (strain MWYL1) OX=400668 GN=minE PE=3 SV=1
+--------MGIFDY-FKSK--SAPSSASVAKDRLQIIVAHERS--K-R---HQPDYLPQM
+QQEIIDVIRKYVN-IGNEDVQIQLDNT--DDCSILELNVTLPEQN---------------
+----------------
+>sp|Q602J5|MINE_METCA Cell division topological specificity factor OS=Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath) OX=243233 GN=minE PE=3 SV=1
+--------MGLLDY-FRGS---RTDSAAVAKERLQILVAHERA--E-R---NKPDYLPLL
+QKELLEVIRKYVN-VGQDAITVTMEKD--DNREVLELNVVLPDAIESRPKRKRG------
+----------------
+>sp|B1ZCM6|MINE_METPB Cell division topological specificity factor OS=Methylorubrum populi (strain ATCC BAA-705 / NCIMB 13946 / BJ001) OX=441620 GN=minE PE=3 SV=1
+--------MSVLTF-L--K---PRGSSSVARERLQLILAHERA--E-RSETGRPDLIITL
+REEILNVIAKHVT-VERDKVQIKLERG--EGVSTLGVDIEFPVDAISKAKPKAKRAIA--
+----------------
+>sp|A2SL57|MINE_METPP Cell division topological specificity factor OS=Methylibium petroleiphilum (strain ATCC BAA-1232 / LMG 22953 / PM1) OX=420662 GN=minE PE=3 SV=1
+--------MSLLSF-LLGE---KKKTASVAKERLQIILAHERS--G-RG-GSRPDYLEAL
+QRELVAVISKYVS-IKPEDIKVHLQKQ--DNLEVLEVKLELPEAARG-------------
+----------------
+>sp|B1LSP9|MINE_METRJ Cell division topological specificity factor OS=Methylobacterium radiotolerans (strain ATCC 27329 / DSM 1819 / JCM 2831 / NBRC 15690 / NCIMB 10815 / 0-1) OX=426355 GN=minE PE=3 SV=1
+--------MSILGL-F--Q---KRSSGAVARDRLQLILAHERA--E-S---GRPDLVIQL
+REEILAVIANHVA-VEPDKVKVTLERG--EGVSTLGLDIELPLGASGKLDAKLAAKLAEV
+AANKGGAKPASSKKAA
+>sp|Q5F5V5|MINE_NEIG1 Cell division topological specificity factor OS=Neisseria gonorrhoeae (strain ATCC 700825 / FA 1090) OX=242231 GN=minE PE=3 SV=1
+--------MSLIEL-LFGR---KQKTATVARDRLQIIIAQERA--Q-E--GQTPDYLPTL
+RKELMEVLSKYVN-VSLDNIRISQEKQ--DGMDVLELNITLPEQKKV-------------
+----------------
+>sp|Q0AGZ0|MINE_NITEC Cell division topological specificity factor OS=Nitrosomonas eutropha (strain DSM 101675 / C91 / Nm57) OX=335283 GN=minE PE=3 SV=1
+--------MSLLDY-FKSS---KSKTASVAKERLQILVAHERY--Y-R---NKPSYLPQL
+QEELMQVIRKYVQ-VDQDAISVKFEQD--DNQETLELNITLPDTQNPRNTQQDMIRNAL-
+----------------
+>sp|Q3JDR7|MINE_NITOC Cell division topological specificity factor OS=Nitrosococcus oceani (strain ATCC 19707 / BCRC 17464 / NCIMB 11848 / C-107) OX=323261 GN=minE PE=3 SV=1
+--------MSWFNY-FRAT---RGNSARTAKERLQIVIAHERI--D-R---SGPSYLPRL
+RGDIIEVIRKYIE-IDEDQVKIQMEQE--GDMDVLALNIQLPDASPPLSETRHSSKQ---
+----------------
+>sp|A1BB78|MINE_PARDP Cell division topological specificity factor OS=Paracoccus denitrificans (strain Pd 1222) OX=318586 GN=minE PE=3 SV=1
+----------MFGFSFRQR---KPSSAQTAKERLQILLAHERS--S-G--GSNPDFLPLL
+QRDILEVVRRHME-IDSDAVDVKLERS--DDLSSLEINIELPYAKQLKRA----------
+----------------
+>sp|B2JEH0|MINE_PARP8 Cell division topological specificity factor OS=Paraburkholderia phymatum (strain DSM 17167 / CIP 108236 / LMG 21445 / STM815) OX=391038 GN=minE PE=3 SV=1
+--------MSILSF-LLGE---KKKSASIAKERLQLIIAHERV--G-G--KAPADYLPAL
+QRELVAVISKYVK-ISDDDIRVNLERH--DDLEVLEVKIEIPQV----------------
+----------------
+>sp|Q7N524|MINE_PHOLL Cell division topological specificity factor OS=Photorhabdus laumondii subsp. laumondii (strain DSM 15139 / CIP 105565 / TT01) OX=243265 GN=minE PE=3 SV=1
+--------MALLDF-FLSR---KKTTANIAKERLQIIVAERRR--G-D---SEPAYLPDM
+KRDILAVICKYIQ-VDPDMLSVQFEQK-GDDISVLELNITLPEAEETQK-----------
+----------------
+>sp|Q6LT88|MINE_PHOPR Cell division topological specificity factor OS=Photobacterium profundum (strain SS9) OX=298386 GN=minE PE=3 SV=1
+--------MALLEF-FRPK---KTTTASVAKERLQIIVAERRS--AGQ---STPSYLPQL
+KLDLLEVIRKYVN-INPDQVSVNLDQK-DEDLSVLELNVTLPEDK---------------
+----------------
+>sp|A1VI55|MINE_POLNA Cell division topological specificity factor OS=Polaromonas naphthalenivorans (strain CJ2) OX=365044 GN=minE PE=3 SV=1
+M-------ASFFSF-LLGE---KKKTANVAKERLQIILAHERS--G-RN-SHEPDYLPAL
+QRDLIAVIAKYIN-INPNDIKLNLERQ--ENLDVLEVKIELPDK----------------
+----------------
+>sp|Q12HK7|MINE_POLSJ Cell division topological specificity factor OS=Polaromonas sp. (strain JS666 / ATCC BAA-500) OX=296591 GN=minE PE=3 SV=1
+M-------ASFLSF-LLGE---KKQTASVAKERLQIILAHERT--G-R--SHKPDYLPAL
+QRDLIAVIAKYIH-INPNDIKLHLERQ--DNLDVLEVKIELPDAK---------------
+----------------
+>sp|A8G2Y1|MINE_PROM2 Cell division topological specificity factor OS=Prochlorococcus marinus (strain MIT 9215) OX=93060 GN=minE PE=3 SV=1
+MM----TLRDLINK-LLGR---ETSSANTARERLQLVLAHDRV--D-MS-SLTTDLLDKM
+RKEILDVVAKYVE-IDFEEVAVSLETE--DRMTALVANLPIKRTISGEIKFKKTDKANKD
+IKK-------------
+>sp|B4EVV5|MINE_PROMH Cell division topological specificity factor OS=Proteus mirabilis (strain HI4320) OX=529507 GN=minE PE=3 SV=1
+--------MALLDF-FLSR---KKSTANIAKERLQIIVAERRR--G-D---TEPAYLPDM
+KRDLLGVICKYVQ-IDPDMLSVQFEQK-GDDISVLELNVTLPENEESPK-----------
+----------------
+>sp|Q48L75|MINE_PSE14 Cell division topological specificity factor OS=Pseudomonas savastanoi pv. phaseolicola (strain 1448A / Race 6) OX=264730 GN=minE PE=3 SV=1
+--------MNIFDF-FRDR--KKESTASVAKERLQIIVAHERG--Q-R---STPDYLPAL
+QKELVEVIRKYVN-IESDQVQVALESQ--GSCSILELNITLPDR----------------
+----------------
+>sp|Q15XD5|MINE_PSEA6 Cell division topological specificity factor OS=Pseudoalteromonas atlantica (strain T6c / ATCC BAA-1087) OX=342610 GN=minE PE=3 SV=1
+--------MSIFNY-FLKK--EKKSSASLAKERLQIIVAHERS--K-R---QQPDYLPLM
+QKEIMDVIRKYVN-IDEEQVIVQLDNN--EDCSVLELNITLPE-----------------
+----------------
+>sp|A6V2H6|MINE_PSEA7 Cell division topological specificity factor OS=Pseudomonas aeruginosa (strain PA7) OX=381754 GN=minE PE=3 SV=1
+--------MSLLDF-FRSR--KSQNSASIAKERLQIIVAHERG--Q-R---AQPDYLPQL
+QKDLLEVIRKYVP-IDQEQIQVELENQ--GNCSILELNITLPDR----------------
+----------------
+>sp|Q1IDE4|MINE_PSEE4 Cell division topological specificity factor OS=Pseudomonas entomophila (strain L48) OX=384676 GN=minE PE=3 SV=1
+--------MNLFDF-FRGR--QKQTSASVAKERLQIIVAHERG--Q-R---STPDYLPAL
+QKELVEVIRKYVN-IGNDDVQVALENQ--GSCSILELNITLPER----------------
+----------------
+>sp|C3K0D5|MINE_PSEFS Cell division topological specificity factor OS=Pseudomonas fluorescens (strain SBW25) OX=216595 GN=minE PE=3 SV=1
+--------MKFLDF-FRAN--KKPSTASVAKERLQIIVAHERG--Q-R---STPDYLPAL
+QKELVEVIRKYVN-IGNDDVHVALEND--GSCSILELNITLPDR----------------
+----------------
+>sp|Q3ICG2|MINE_PSET1 Cell division topological specificity factor OS=Pseudoalteromonas translucida (strain TAC 125) OX=326442 GN=minE PE=3 SV=1
+--------MSLLDY-FRSE---KKNSASLAKERLQIIVAHERS--Q-R---GTPDYLPQL
+KQDILDVIRKYVN-VSSDAVQVQFDQN-EDDLAVLELNVTLPDEEPK-----------I-
+----------------
+>sp|A4VJG3|MINE_PSEU5 Cell division topological specificity factor OS=Pseudomonas stutzeri (strain A1501) OX=379731 GN=minE PE=3 SV=1
+--------MNLLDF-FRER-KKKETPAAIAKERLQIIVAHERG--Q-R---SEPDYLPAL
+QKELVEVIRKYVN-IDSDQVHVALEDQ--GSCSILELNITLPDR----------------
+----------------
+>sp|Q4FQQ0|MINE_PSYA2 Cell division topological specificity factor OS=Psychrobacter arcticus (strain DSM 17307 / VKM B-2377 / 273-4) OX=259536 GN=minE PE=3 SV=1
+MSKKKGFWSSLFGT-DDNS---NTGSANMATERLKVIVASENRLSN-R---LTADRIEKM
+KREILEVVNKYVNGVQIDDVNINHRSE--DSLDVLEMNINLPEHKK--------------
+----------------
+>sp|A1STV3|MINE_PSYIN Cell division topological specificity factor OS=Psychromonas ingrahamii (strain 37) OX=357804 GN=minE PE=3 SV=1
+--------MGLLGY-FRSD-IPKKSSAKLAKDRLQIIVAHEHS--N-A---VCPAYLPEM
+QNEIIEVIRKFMK-ISNDDVKCEFSDNAEDDMSVLEVNITLPKNR---------------
+----------------
+>sp|B2UGZ9|MINE_RALPJ Cell division topological specificity factor OS=Ralstonia pickettii (strain 12J) OX=402626 GN=minE PE=3 SV=1
+--------MSILSF-LLGE---KKKTASVAKERLQIILAHERT--A-S--GAPADYLPAL
+QRELVAVISKYVK-IGNDDIKVNLERQ--DNLEVLEVKIEIPQA----------------
+----------------
+>sp|P58153|MINE_RHILO Cell division topological specificity factor OS=Mesorhizobium japonicum (strain LMG 29417 / CECT 9101 / MAFF 303099) OX=266835 GN=minE PE=3 SV=1
+M-------MNVFDL-F--K---RRSSAPVARERLQVLLAYERR--N-R---SQPDLVSIL
+REEIMAVIAKHVQ-IDQDYLQVSMDRG--ETMSTLEIDIQIPNKSAVPMAIAG-------
+----------------
+>sp|Q92TZ1|MINE_RHIME Cell division topological specificity factor OS=Rhizobium meliloti (strain 1021) OX=266834 GN=minE PE=3 SV=1
+--------MSIFRF-F--S---KQTSAPTARERLQVLLAHERA--S-V---GQSDLVAVL
+REEILAVIAKHVQ-VDRDKVNVTMERG--EHVTTLEVDIEIPMKAGVRAA----------
+----------------
+>sp|B6IX35|MINE_RHOCS Cell division topological specificity factor OS=Rhodospirillum centenum (strain ATCC 51521 / SW) OX=414684 GN=minE PE=3 SV=1
+--------MNLMDF-FRRN---KEPTATTAKDRLQIVLAHERA--D-R---NAPDFLPAL
+QKELLAVIKKYVP-IDDDKVAVKLERE--SGCSMLEVNVELPAPTKGAPRQPAATAAG--
+----------------
+>sp|Q223G5|MINE_RHOFT Cell division topological specificity factor OS=Rhodoferax ferrireducens (strain ATCC BAA-621 / DSM 15236 / T118) OX=338969 GN=minE PE=3 SV=1
+--------MSFFSF-FVGE---KKKSASVAKERLQIILAHERS--G-RN-AAEPDYLPAL
+QRELMAVISKYVK-INLEDIKVNVERQ--DDLEVLEVKIELPDSR---------------
+----------------
+>sp|A8GFG9|MINE_SERP5 Cell division topological specificity factor OS=Serratia proteamaculans (strain 568) OX=399741 GN=minE PE=3 SV=1
+--------MALLDF-FLSR---KKQTANIAKERLQIIVAERRR--G-D---SEPPYLPDL
+KRDILAVICKYIQ-IDPEMLHVQFEQK-GDDISVLELNVTLPESEEVTK-----------
+----------------
+>sp|A1S6Y1|MINE_SHEAM Cell division topological specificity factor OS=Shewanella amazonensis (strain ATCC BAA-1098 / SB2B) OX=326297 GN=minE PE=3 SV=1
+--------MSLLDY-FRSN--KKASSASLAKERLQIIVAHQRT--E-R---GAPDYFPQM
+KQEIIEVIRKYVY-ISEEQVSVQLEQN-DDNLSVLELNVTLPER----------------
+----------------
+>sp|B8E7G2|MINE_SHEB2 Cell division topological specificity factor OS=Shewanella baltica (strain OS223) OX=407976 GN=minE PE=3 SV=1
+--------MSLLDY-FKSK--KKPSTAVMAKERLQIIVAHQRG--Q-R---DTPDYFPQM
+KQEIIAVIRKYVQ-ISDDQVSVQLDQN-DANLSVLELNVTLPDR----------------
+----------------
+>sp|Q12NR5|MINE_SHEDO Cell division topological specificity factor OS=Shewanella denitrificans (strain OS217 / ATCC BAA-1090 / DSM 15013) OX=318161 GN=minE PE=3 SV=1
+--------MSLLDY-FRST--KKPNTASLAKERLQIIVAHQRS--G-RG-GGAPEYLPKM
+KQEIIEVIRKYVQ-ISEDQVSVQLDQN-DDNLSVLELNVTLPDTK---------------
+----------------
+>sp|B0TRI1|MINE_SHEHH Cell division topological specificity factor OS=Shewanella halifaxensis (strain HAW-EB4) OX=458817 GN=minE PE=3 SV=1
+--------MSLLDY-FKTK--KEPSTAVTAKERLQIIVAHQRG--E-R---GAPDYFPQM
+KQEIIEVIRKYVQ-VGPDQVSVQLEQT-DDNFSVLELNVTLPEQS---------------
+----------------
+>sp|A3QF04|MINE_SHELP Cell division topological specificity factor OS=Shewanella loihica (strain ATCC BAA-1088 / PV-4) OX=323850 GN=minE PE=3 SV=1
+--------MSLLDY-FRAK--KEPTTATTAKERLQIIVAHQRG--E-R---DAPDYFPAM
+KQEIIEVIRKYVQ-IDSDQVSVQLDQN-DDNLSVLELNVTLPEKP---------------
+----------------
+>sp|A8FWA5|MINE_SHESH Cell division topological specificity factor OS=Shewanella sediminis (strain HAW-EB3) OX=425104 GN=minE PE=3 SV=1
+--------MSLLDY-FKSK--KKPNTAVTAKERLQIIVAHQRG--E-R---DAPDYFPQM
+KQEIIEVIKKYVH-IDPDQVTVQLDQN-DDKLSVLELNVTLPEEK---------------
+----------------
+>sp|Q2NTB6|MINE_SODGM Cell division topological specificity factor OS=Sodalis glossinidius (strain morsitans) OX=343509 GN=minE PE=3 SV=1
+--------MALLDF-FLSR---KKSTANIAKERLQIIVAERRR--G-D---NEPHYLPQL
+KRDLLEVISKYVQ-IDPEMLSVQLEKK-DGDISILELNVTLPETEETTK-----------
+----------------
+>sp|A9GN39|MINE_SORC5 Cell division topological specificity factor OS=Sorangium cellulosum (strain So ce56) OX=448385 GN=minE PE=3 SV=1
+--------MSIMDY-FRRS---QPKSATVAKERLQIIVARERA--R-P--TGEPDYLPRL
+KQELLQVISKYER-IDLDQVSVNVERS--GDCDVLELNVVLSESERAAVRAAASRAGAAA
+VRN------------C
+>sp|B4SNY7|MINE_STRM5 Cell division topological specificity factor OS=Stenotrophomonas maltophilia (strain R551-3) OX=391008 GN=minE PE=3 SV=1
+--------MGLFDF-LKA----KKTTAETAKNRLQIIIAQERS--N-R---GGPDYLPLL
+QRELLEVIKKYVN-IDVDAVKVDLVKD--GQHDVLDISVALPEGPDKP------------
+----------------
+>sp|Q2LRX3|MINE_SYNAS Cell division topological specificity factor OS=Syntrophus aciditrophicus (strain SB) OX=56780 GN=minE PE=3 SV=2
+--------MSILDY-LRSL--QKRRSASIAKERLQIIVAHERNGLS-R---RTLDFLPLL
+QKELLDVVRKYVE-VSDSQIKVNLEKN--GNYEVLEVNIALADAEGRFSMS---------
+----------------
+>sp|Q3SGJ3|MINE_THIDA Cell division topological specificity factor OS=Thiobacillus denitrificans (strain ATCC 25259) OX=292415 GN=minE PE=3 SV=1
+--------MSWLSL-IFGE---KKSTASVAKERLQLIIAHERV--G-L---SGRDFLPDL
+QKDLVAVISKYVK-IDPDDIKVGLEKQ--GNYEVIEVNIVLPEMR---------------
+----------------
+>sp|B8GT00|MINE_THISH Cell division topological specificity factor OS=Thioalkalivibrio sulfidiphilus (strain HL-EbGR7) OX=396588 GN=minE PE=3 SV=1
+--------MNFFNY-FRSQ---KKKSAQVAKERLQVIVARERV--H-R---DGPDYLPRL
+QEEILNVIRKYVQ-VDEDAVSIQLERD--GDCEVLELNVTLPEHKA--------------
+----------------
+>sp|C4LF07|MINE_TOLAT Cell division topological specificity factor OS=Tolumonas auensis (strain DSM 9187 / TA4) OX=595494 GN=minE PE=3 SV=1
+--------MSLLDF-FLKS--RKENTAKLAKERLQIIVAHERT--S-R---SGPDYLPQL
+KQDILDVIRKYVQ-IDPEQVTVQLDKK-GEQLSVLELNIMLSDDKPQNADDNTEETKS--
+----------------
+>sp|C5CW30|MINE_VARPS Cell division topological specificity factor OS=Variovorax paradoxus (strain S110) OX=543728 GN=minE PE=3 SV=1
+--------MSFFSF-LLGE---KKKTASVAKERLQIILAHERS--S-LSGKKRPDYLPDL
+QRELMAVISKYVK-INADDIKVHLEKQ--DDLEVLDIKIELPDPAPSPAR----------
+----------------
+>sp|Q9KQN7|MINE_VIBCH Cell division topological specificity factor OS=Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961) OX=243277 GN=minE PE=3 SV=1
+--------MSLLEF-FRPQ---KKTSASVAKERLQIIVAERRS--Q-N--DPAPSYLPQL
+KEDILKVIAKYVA-IDPSMVELSFEHK-GDDISVLELNVKLPDDEK--------------
+----------------
+>sp|Q8D2I1|MINE_WIGBR Cell division topological specificity factor OS=Wigglesworthia glossinidia brevipalpis OX=36870 GN=minE PE=3 SV=1
+--------MALLKF-FISK---KEITSDIAKERLQIIVSEQRK--N-S---KEPNYLPML
+KKDLIKVIKKYIN-LNSETLCVKLDHKNKKNIKIFELNIVFPEKNFLNKK----------
+----------------
+>sp|Q8PN49|MINE_XANAC Cell division topological specificity factor OS=Xanthomonas axonopodis pv. citri (strain 306) OX=190486 GN=minE PE=3 SV=1
+--------MGLLDF-LKS----KKNTAETAKNRLQIIIAQERN--H-R---GGPDYLPLM
+QRELLEVIKKYVN-IDADAVRVDLVKD--GEHDVLDISVALPEDGDK-------------
+----------------
+>sp|B2I965|MINE_XYLF2 Cell division topological specificity factor OS=Xylella fastidiosa (strain M23) OX=405441 GN=minE PE=3 SV=1
+--------MGLIDF-LRN----KTKTAETAKNRLQIIIAQERT--Q-R---GGPDYLPLL
+QRELLEVIKKYVK-IDADAVKVDLIKD--GANDVLDISVALPDDSER-------------
+----------------

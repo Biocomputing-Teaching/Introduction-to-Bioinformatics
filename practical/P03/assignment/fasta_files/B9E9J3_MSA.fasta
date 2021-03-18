@@ -1,0 +1,585 @@
+>sp|Q4G363|RK23_EMIHU 50S ribosomal protein L23, chloroplastic OS=Emiliania huxleyi OX=2903 GN=rpl23 PE=3 SV=1
+---MC--TSSKSLLDLIKYPILTEKTSRLIE-QNQYSFAVDRKADKISIKSAVEALFD-V
+QVVAVNTANQPLKKR----RVG---KFIGKKSRVKRAVVTLAPE-NSIT----FFENA--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q6B8V5|RK23_GRATL 50S ribosomal protein L23, chloroplastic OS=Gracilaria tenuistipitata var. liui OX=285951 GN=rpl23 PE=3 SV=1
+MTKTIK-VKKSALIDIIKYPILTDKTTQMIE-ENKYSFAVEVKAKKPKIKEAIEQLFD-V
+KVQQINTLIVKPQKK----RVG---KYIGYKSKYKKAVIKLYDP-YKIN----LFADN--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q9MUT8|RK23_MESVI 50S ribosomal protein L23, chloroplastic OS=Mesostigma viride OX=41882 GN=rpl23 PE=3 SV=1
+------------MIDIVKYPVLTEKATRLLE-NNQYTFDVDPKANKITIKALIEDFFN-V
+KVLSVNTHRPPRKKR----RIG---RSEGYRPNYKRVIVTLKTG-DSIK----LLPET--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A0T0I0|RK23_PHATC 50S ribosomal protein L23, chloroplastic OS=Phaeodactylum tricornutum (strain CCAP 1055/1) OX=556484 GN=rpl23 PE=3 SV=1
+MI-NSS-DFSRSSAQIIKYPIITDKATRLLE-NNQYSFVVDRYSNKITIKSAIEYLFN-V
+KVIKINTCRLPRKQK----RVG---KYVGWKPQYKKAIVTLSEG-DIIN----LFTDS--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A0T0X4|RK23_THAPS 50S ribosomal protein L23, chloroplastic OS=Thalassiosira pseudonana OX=35128 GN=rpl23 PE=3 SV=1
+-------MVNSLDMNVIKYPIITDKATRLLA-NNQYSFIVSPKSDKPTIKAAIEYLFN-V
+KVVKINTAHLPKKKK----RIG---QYLGWKAHYKKAIVTLSEG-DTIN----LFAEEN-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|P49559|RK23_TRICV 50S ribosomal protein L23, chloroplastic OS=Trieres chinensis OX=1514140 GN=rpl23 PE=3 SV=1
+MV-DSS-YFNRSSTNIIKYPIITDKATRLLE-NNQYSFIVNPYSDKITIKAAIEYLFN-V
+KVIKVNTCHLPKKKK----RVG---KYLGWKSHYKKAIVTLSQG-DRIN----LFAEN--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B0C1D5|RL23_ACAM1 50S ribosomal protein L23 OS=Acaryochloris marina (strain MBIC 11017) OX=329726 GN=rplW PE=3 SV=1
+---MTK-VTPTSLADLIRRPIVTEKATLLLE-NNQYVFEVDPRATKPQIKAAIEELFE-V
+KVTGISTSNMPIKKK----RIG---KFIGHKAQYKRATVTLAPE-FTIN----LFPEV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A0LRM2|RL23_ACIC1 50S ribosomal protein L23 OS=Acidothermus cellulolyticus (strain ATCC 43068 / 11B) OX=351607 GN=rplW PE=3 SV=1
+--------MSSDPRDVLLAPVISEKSYGLLD-QNKYTFLVPPESNKTQIKIAVEKVFN-V
+RVLDVNTINRQGKRK----RTR---RGWGQRKNTKRAIVTVAPG-DRID----IFGPPVS
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C4ZBS1|RL23_AGARV 50S ribosomal protein L23 OS=Agathobacter rectalis (strain ATCC 33656 / DSM 3377 / JCM 17463 / KCTC 5835 / VPI 0990) OX=515619 GN=rplW PE=3 SV=1
+-------MANVQYYDVILKPVVTEKSMNAMA-EKKYTFLVHPDANKTMIKEAVERMFEGT
+KVAKVNTMNCEGKNK----RRG---MVTGKTAKTKKAIVQLTADSKDIE----IFAGL--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A6TWI0|RL23_ALKMQ 50S ribosomal protein L23 OS=Alkaliphilus metalliredigens (strain QYMF) OX=293826 GN=rplW PE=3 SV=1
+---------MTNPHDIIIKPVVTENSMMEMA-EKKYTFVVAKKANKIEIKKAVEKIFD-V
+KVEKVNTMNMIGKMK----RMG---KHIGRRSNWKKAVVTLTDGSKGIE----FFEGM--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A8MLE2|RL23_ALKOO 50S ribosomal protein L23 OS=Alkaliphilus oremlandii (strain OhILAs) OX=350688 GN=rplW PE=3 SV=1
+---------MTNPHDIIIKPIITENSMDDMA-SKKYTFAVNKKANKIQVKQAVEAVFG-V
+KVEKVNTMNMIGKVK----RMG---AKEGKRADWKKAIVTLRPDSKEIE----FFEGM--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B7GJ69|RL23_ANOFW 50S ribosomal protein L23 OS=Anoxybacillus flavithermus (strain DSM 21510 / WK1) OX=491915 GN=rplW PE=3 SV=1
+---------MKDPRDIIKRPVITERSTELMT-EKKYTFEVDVKANKTEVKDAIEAIFG-V
+KVAKVNIMNYKGKFK----RVG---RYSGLTNRRRKAIVTLTPDSKEIE----LFEV---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|O66433|RL23_AQUAE 50S ribosomal protein L23 OS=Aquifex aeolicus (strain VF5) OX=224324 GN=rplW PE=3 SV=1
+-------MSQRKPWEIIIRPIITEKSNRLMEDYNKYTFEVALDASKPEIKYAVEKLFN-V
+KVKKVNTMIVKPKKK----RVWNKFRQYGTTKKWKKAIVTLEKG-HKID----ILEFAQK
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q9ZI48|RL23_AQUPY 50S ribosomal protein L23 OS=Aquifex pyrophilus OX=2714 GN=rplW PE=3 SV=1
+-------MSQRKPWEILIRPIITEKSNRLMEDYNKYTFEVALDASKPEIKEAVEKLFN-V
+KVKKVNTMIVKPKKK----RVWERFRQYGTTKKWKKAIVTLEKGINRHPW---VCSEVRC
+RDGC--------------------------------------------------------
+----------------------------------------------------------
+>sp|A0JZ82|RL23_ARTS2 50S ribosomal protein L23 OS=Arthrobacter sp. (strain FB24) OX=290399 GN=rplW PE=3 SV=1
+---MSA-ATIKDPRDVVLAPVVSEKSYGLID-EGKYTFLVDPRSNKTEIKLAVEKIFS-V
+KVESINTINRAGKRK----RTK---FGWGTRKNTKRAIVTLKEG--TID----IFGGPLA
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C3P9Q7|RL23_BACAA 50S ribosomal protein L23 OS=Bacillus anthracis (strain A0248) OX=592021 GN=rplW PE=3 SV=1
+---------MRDPRDIIKRPVITERSMEMMA-EKKYTFDVDVKSNKTEVKDALEAIFG-V
+KVEKVNIMNYKPKAK----RVG---RHAGFTSRRRKAIVKLTADSKEIE----IFQGV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q9Z9L2|RL23_BACHD 50S ribosomal protein L23 OS=Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125) OX=272558 GN=rplW PE=3 SV=1
+---------MSNARDVIKRPVITERSTEVMG-DKKYTFEVDVRANKTQIKDAIEEIFD-V
+KVAKVNTMNYKGKPK----RFG---RYTGFTARRKKAIVTLTPDSKELD----FFEGV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q65PA5|RL23_BACLD 50S ribosomal protein L23 OS=Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46) OX=279010 GN=rplW PE=3 SV=1
+---------MKDPRDVLKRPVITERSADLMT-EKKYTFEVDVKANKTEVKDAVEQIFG-V
+KVEKVNIMNYKGKFK----RVG---RYSGMTNKRRKAIVKLTEDSKEIE----IFEA---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A8F987|RL23_BACP2 50S ribosomal protein L23 OS=Bacillus pumilus (strain SAFR-032) OX=315750 GN=rplW PE=3 SV=1
+---------MKDPRDVLKRPIITERSADLMT-EKKYTFEVDVRANKTEVKDAVEEIFG-V
+KVEKVNVQNYKGKSK----RVG---RYTGMTSRRRKAIVKLTADSKEIE----IFEA---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q5WLR0|RL23_BACSK 50S ribosomal protein L23 OS=Bacillus clausii (strain KSM-K16) OX=66692 GN=rplW PE=3 SV=1
+---------MSNARDIIKRPVITERSTELME-DKKYTFEVDVRANKTQIKDAIEEIFE-V
+KVTNVNTVNYKGKAK----RFG---RYTGFTPKRKKAIVQLSADSKELD----FFEV---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C0ZII2|RL23_BREBN 50S ribosomal protein L23 OS=Brevibacillus brevis (strain 47 / JCM 6285 / NBRC 100599) OX=358681 GN=rplW PE=3 SV=1
+---------MKSLHDVLKRPVITERTTDMMA-EKKYVFEVPLKANKTEIKQAVEKVFG-V
+KVEAVNTVRVPAKPK----RYG---KYSGYTSEWKKAIVKLTDDSKELA----FYEGV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B9MKH9|RL23_CALBD 50S ribosomal protein L23 OS=Caldicellulosiruptor bescii (strain ATCC BAA-1888 / DSM 6725 / Z-1320) OX=521460 GN=rplW PE=3 SV=1
+----------MLPEEIIKRPIITEKSMSMIP-QKKYTFEVDRRANKIEIKKAVEQLFG-V
+EVEKVWTMNVKPKRK----RVG---RFEGRTKAWKKAIVKLTDRSKTIE----FFDSLI-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q3A9R8|RL23_CARHZ 50S ribosomal protein L23 OS=Carboxydothermus hydrogenoformans (strain ATCC BAA-161 / DSM 6008 / Z-2901) OX=246194 GN=rplW PE=3 SV=1
+---------MKNPRDIIIRPLITEKSMDLAQ-ENKYTFIVDKNANKIEIKNAIEELFK-V
+KVEKVNTIRVKGKMK----RVG---RFVGRTPEYKKAIVKLRAG-DKIE----LFEGV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A5CUB1|RL23_CLAM3 50S ribosomal protein L23 OS=Clavibacter michiganensis subsp. michiganensis (strain NCPPB 382) OX=443906 GN=rplW PE=3 SV=1
+----MS-ATQKDPRDIIIAPVVSEKSYGLID-QGKYTFIVDPRSNKTEIKLAIEKIFG-V
+QVASVNTLNKQGKTR----RTK---FGMGKRKDTKRAIVSLKSG--SID----IFTTVG-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q97EI0|RL23_CLOAB 50S ribosomal protein L23 OS=Clostridium acetobutylicum (strain ATCC 824 / DSM 792 / JCM 1419 / LMG 5710 / VKM B-1787) OX=272562 GN=rplW PE=3 SV=1
+--------MYTNSHDIIRKPVITEKSMAEMA-DKKYTFIVDPHANKVQIKKAIEEVFG-V
+KVEKVNTSNILGKTK----RVG---VHVGKRADYKKAIVKLTEDSKAIE----FFEGMQ-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A7FZ67|RL23_CLOB1 50S ribosomal protein L23 OS=Clostridium botulinum (strain ATCC 19397 / Type A) OX=441770 GN=rplW PE=3 SV=1
+--------MKLTNYDIIRRPLITEKTMASMA-DKKYTFVVDIHANKSQIKNAIETIFD-V
+KVEDVKTARIMGKTK----RVG---VHIGKRPDYKKAIVKLTEDSKTIE----FFEGL--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A6LPR3|RL23_CLOB8 50S ribosomal protein L23 OS=Clostridium beijerinckii (strain ATCC 51743 / NCIMB 8052) OX=290402 GN=rplW PE=3 SV=1
+--------MKLTSHDIIRKPIITEKSMASMA-EKRYTFIVHVDANKSQIKRAVEEVFN-V
+KVESVNTINGLGKTK----RMG---VHVGKRSDYKKAIVTLTEESNGIE----FFEGMQ-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B2UYB2|RL23_CLOBA 50S ribosomal protein L23 OS=Clostridium botulinum (strain Alaska E43 / Type E3) OX=508767 GN=rplW PE=3 SV=1
+--------MKLTSHDIIRKPVITEKSMAAMA-EKKYTFIVHVNANKSQVKRAVEEVFD-V
+KVKDVNTINGLGKTK----RMG---VHVGKRSDYKKAIVTLTEESKAIE----FFDGLQ-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q18CF8|RL23_CLOD6 50S ribosomal protein L23 OS=Clostridioides difficile (strain 630) OX=272563 GN=rplW PE=3 SV=1
+---------MTNPHDVIIRPVVTEHSMAEMG-EKKYTFVVAKDANKTEIKKAVEKVFG-V
+SVDKVNTLNYDGKVK----RMG---RTQGRTSSFKKAVVKLTADSKEIE----FFQGM--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B9DYB1|RL23_CLOK1 50S ribosomal protein L23 OS=Clostridium kluyveri (strain NBRC 12016) OX=583346 GN=rplW PE=3 SV=1
+--------MKYTNYDIIRRPVITEKSMGAMN-EKKYTFIVDIRANKSMIKRAIEDVFG-V
+TVETVNTSRYKGKKK----RVG---VHIGKRPDYKKAIVKLTEESKTIE----FFEGIQ-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A0PXU8|RL23_CLONN 50S ribosomal protein L23 OS=Clostridium novyi (strain NT) OX=386415 GN=rplW PE=3 SV=1
+---------MLNSYDLIRRPVITEKSMAAMA-DRQYTFIVDIRADKTQIKKAVEKVFG-V
+KVEEVRTARFDGKVK----RVG---VHVGKRSDYKKAMVKLTEDSKTIE----FFEGM--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q0TMP8|RL23_CLOP1 50S ribosomal protein L23 OS=Clostridium perfringens (strain ATCC 13124 / DSM 756 / JCM 1290 / NCIMB 6125 / NCTC 8237 / Type A) OX=195103 GN=rplW PE=3 SV=1
+--------MKLTSHDIIRKPVITEKSMAAMA-ENKYTFIVHMAANKVQIKRAVEEVFN-V
+KVADVKTMRFEGKTK----RVG---VHIGKRADFKKAVITLAEGS-SIE----FFEGMQ-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C3PKQ4|RL23_CORA7 50S ribosomal protein L23 OS=Corynebacterium aurimucosum (strain ATCC 700975 / DSM 44827 / CIP 107346 / CN-1) OX=548476 GN=rplW PE=3 SV=1
+---M---AKLANPRDVIIAPVVSEKSYGLME-QNVYTFYVSTDSNKTQIKDAVEQIFG-V
+KVASVNTVNRAGKRK----RTR---TGYGQRKSTKRAYVTLREGSDSID----VFGAGA-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q6NJD2|RL23_CORDI 50S ribosomal protein L23 OS=Corynebacterium diphtheriae (strain ATCC 700971 / NCTC 13129 / Biotype gravis) OX=257309 GN=rplW PE=3 SV=1
+---M---AKIADPRDIILAPVVSEKSYGLME-QNTYAFFVAPTANKTEIKIAIEQIFG-V
+KVDSVNTANRAGKRK----RSR---TGYGVRKATKRAYVTLREGSDAID----IFGGNAA
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q8FS78|RL23_COREF 50S ribosomal protein L23 OS=Corynebacterium efficiens (strain DSM 44549 / YS-314 / AJ 12310 / JCM 11189 / NBRC 100395) OX=196164 GN=rplW PE=3 SV=1
+---M---ATIANPRDIILAPVVSEKSYGLME-QNVYTFFVARDANKTQIKIAVEEIFG-V
+KVASVNTVNREGKRK----RSR---SGFGVRKATKRAYVTLREGSDSID----IFNGSVA
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q4JT49|RL23_CORJK 50S ribosomal protein L23 OS=Corynebacterium jeikeium (strain K411) OX=306537 GN=rplW PE=3 SV=1
+---M---STVADPRDIIIAPVVSEKSYGLME-QNVYTFLVHPSSNKTQIKIAVEQIFG-V
+KVASVNTVNREGKRK----RTR---TGYGQRKATKRAMVTLVAGSDPID----IFGGATA
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C4LL50|RL23_CORK4 50S ribosomal protein L23 OS=Corynebacterium kroppenstedtii (strain DSM 44385 / JCM 11950 / CIP 105744 / CCUG 35717) OX=645127 GN=rplW PE=3 SV=1
+---M---SDLNNPRDIIIAPVVSEKSYGLME-QGTYTFLVRPDSNKTQIKIAVEKIFG-V
+KVSSVNTLNREGKTK----RTR---FGYGRRKSTKRAMVTLAAGSDPID----IFGGSAS
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B1WQR2|RL23_CROS5 50S ribosomal protein L23 OS=Crocosphaera subtropica (strain ATCC 51142 / BH68) OX=43989 GN=rplW PE=3 SV=1
+---MTE-YNPRDLADLVIKPIITEKATLLLE-QNKYVFDVLPKATKPEIKAAIESLFD-V
+KVTGVNTIKPPRKKR----RVG---RFIGHKPLYKRAIITLEEG-DTIN----LFPDV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q6A6M8|RL23_CUTAK 50S ribosomal protein L23 OS=Cutibacterium acnes (strain DSM 16379 / KPA171202) OX=267747 GN=rplW PE=3 SV=1
+---MSE-LKIRDPRDIILAPVVSEKSYGLLD-QNTYTFVVKPTANKTEIKIAIEQIFG-V
+KVTSVNTMNRKGKVR----RTR---TGVGKRPDTKRAIVTVAEG-DRID----IFTGPVA
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q3Z979|RL23_DEHM1 50S ribosomal protein L23 OS=Dehalococcoides mccartyi (strain ATCC BAA-2266 / KCTC 15142 / 195) OX=243164 GN=rplW PE=3 SV=1
+----------MNLYEVLRRPLISEKNSVQAV-QNKYVFEIAKGANKRMVKLAVEQAFN-V
+TVEDVNMLHIPGKQK----RMG---RNLVQTAGLRKAIITLKEG-DKIT----LFEGV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C1CXG4|RL23_DEIDV 50S ribosomal protein L23 OS=Deinococcus deserti (strain VCD115 / DSM 17065 / LMG 22923) OX=546414 GN=rplW PE=3 SV=1
+----------MSHYDIIHKPVISEKAYAGME-RGVYSFWVSPNATKTDIKSAIQKAFD-V
+TVVGISTMNVRGKRK----RVG---RFIGQRADRKKAIVRLAEG-QTIA----ALEGQA-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q1IX74|RL23_DEIGD 50S ribosomal protein L23 OS=Deinococcus geothermalis (strain DSM 11300 / AG-3a) OX=319795 GN=rplW PE=3 SV=1
+----------MSQYDIIKQPVISEKAYAGME-RGVYSFWVDPKATKPEIKAAIQNVFG-V
+TVVGISTMNVPGKRK----RVG---KFVGYRADRKKAIVRLAEG-QTIT----ALEGQA-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q9RXK0|RL23_DEIRA 50S ribosomal protein L23 OS=Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422) OX=243230 GN=rplW PE=1 SV=3
+----------MSHYDILQAPVISEKAYSAME-RGVYSFWVSPKATKTEIKDAIQQAFG-V
+RVIGISTMNVPGKRK----RVG---RFIGQRNDRKKAIVRLAEG-QSIE----ALAGQA-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B8G1W8|RL23_DESHD 50S ribosomal protein L23 OS=Desulfitobacterium hafniense (strain DCB-2 / DSM 10664) OX=272564 GN=rplW PE=3 SV=1
+---------MRDARDVLKRPVISEKSVGLIE-ENKYSFWVDTAANKIEIKNAVEKMFK-V
+KVVDVRTINVDGKKK----RVG---KHVGRTADRKKAIVTLKAG-DRIE----GFAGL--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A8ZV59|RL23_DESOH 50S ribosomal protein L23 OS=Desulfococcus oleovorans (strain DSM 6200 / Hxd3) OX=96561 GN=rplW PE=3 SV=1
+----------MVYHDLIRRPVTTEKTTLQKETANQVTFEVDRRANRVEIKRAVEQVFN-A
+KVAAVNTATVKGKKK----RMG---RNIGKRKDWKKAVVTLMPG-ERID----FFEGV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A4J113|RL23_DESRM 50S ribosomal protein L23 OS=Desulfotomaculum reducens (strain MI-1) OX=349161 GN=rplW PE=3 SV=1
+---------MKNPRDILIKPVVTEKSTGLLA-ENKYTFIVDLNANKTEVKKAVEEIFK-V
+KVEKVNTMRVKGKLK----RVR---QFTGKTPDRKKAIVTLKEG-DKIE----IFEGL--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q839G2|RL23_ENTFA 50S ribosomal protein L23 OS=Enterococcus faecalis (strain ATCC 700802 / V583) OX=226185 GN=rplW PE=3 SV=1
+----------MELLDVIKRPVITEKSMLAMD-EKKYTFEVDTRANKTLVKQAVESAFD-V
+KVANVNILNVRPKFK----RMG---KYAGYTKKRRKAIVTLTEDSKEIQ----LFEAAE-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C4Z2T2|RL23_EUBE2 50S ribosomal protein L23 OS=Eubacterium eligens (strain ATCC 27750 / VPI C15-48) OX=515620 GN=rplW PE=3 SV=1
+-------MANVQYYDVILKPVITEKSMADMA-DKKYTFLVHTDANKTMIKDAVEKMFEGT
+KVASVNTMNLDGKKK----RRG---RTAGTTSKTKKAIVQLTADSKEIE----IFEGL--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B1YGV2|RL23_EXIS2 50S ribosomal protein L23 OS=Exiguobacterium sibiricum (strain DSM 17290 / CIP 109462 / JCM 13490 / 255-15) OX=262543 GN=rplW PE=3 SV=1
+---------MANAHDIIKRPVITERSVNQMA-EKKYTFEVDVKASKTQIKDAVEAIFG-V
+KVEKINTLISKPKAK----RVG---RHAGYTARRKKAVVTLTADSKELD----YLG----
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B0RZU2|RL23_FINM2 50S ribosomal protein L23 OS=Finegoldia magna (strain ATCC 29328 / DSM 20472 / WAL 2508) OX=334413 GN=rplW PE=3 SV=1
+---------MKSPYDIILKPIISEDSMEKME-DKKYVFKVDKNANKIEIRNAIEKIFD-V
+KVKSVNTMNVKGKVK----RMG---AHSGKRSDWKKAIVALTEDSKEIE----FFEGM--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q0RRR9|RL23_FRAAA 50S ribosomal protein L23 OS=Frankia alni (strain ACN14a) OX=326424 GN=rplW PE=3 SV=1
+--------MIPDPRDVILRPVVSEKSYGLLD-ENVYTFIVHPDANKTQIKLAVQQIFS-V
+RVLRVNTINRQGKRK----RTK---HGWGHRSATKRALVSLAPG-DTIE----IFGGPGA
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q5L3Z5|RL23_GEOKA 50S ribosomal protein L23 OS=Geobacillus kaustophilus (strain HTA426) OX=235909 GN=rplW PE=3 SV=1
+---------MKDPRDIIKRPIITENTMNLIG-QKKYTFEVDVKANKTEVKDAVEKIFG-V
+KVAKVNIMNYKGKFK----RVG---RYSGYTNRRRKAIVTLTPDSKEIE----LFEV---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q39Y04|RL23_GEOMG 50S ribosomal protein L23 OS=Geobacter metallireducens (strain ATCC 53774 / DSM 7210 / GS-15) OX=269799 GN=rplW PE=3 SV=1
+----------MNIYDILKKPLVTEKTTLEKDAKNVISFEVDRSANKIEIKNAVEKLFK-V
+EVSEVNTVNVAGKLK----RVG---RHYGKRSNWKKAYVTLKEG-NNVD----FFEI---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q748Z1|RL23_GEOSL 50S ribosomal protein L23 OS=Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA) OX=243231 GN=rplW PE=3 SV=1
+----------MNLYDVIKKPLITEKTTIEKDSKNVVSFEVDRDANKIEIKEAVEKLFK-V
+EVAEVNTVNVAGKVK----RFG---RHYGKRSNWKKAYVTLKEG-SSVD----FFEI---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q7NPG8|RL23_GLOVI 50S ribosomal protein L23 OS=Gloeobacter violaceus (strain ATCC 29082 / PCC 7421) OX=251221 GN=rplW PE=3 SV=1
+---MSS-GTKRALADIIRRPLITEKGTRLLE-ENKYLFEVTPGANKIQIAQAIEELFS-V
+KVTKVNTFNPPARQR----RVG---KYLGTRSSYKRAIVTLQEG-DSIT----LFPEV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B0TC58|RL23_HELMI 50S ribosomal protein L23 OS=Heliobacterium modesticaldum (strain ATCC 51547 / Ice1) OX=498761 GN=rplW PE=3 SV=1
+---------MRSPYDVLKKPVITERSMDLAQ-ENKYTFVVEPKANKIEIKHAVEQLFN-V
+KVLDVHTMNVKGKPK----RMG---KYAGRTADKKKAIVTLKEG-DKIE----IFEGV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A9B414|RL23_HERA2 50S ribosomal protein L23 OS=Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785 / 114-95) OX=316274 GN=rplW PE=3 SV=1
+----------MNAHDIIIRPVITEKNTALME-EGKYTFEVAQEANKPMIKAAVQQIFN-V
+NVKAVNTMNVKGKLKVRRTRNG---QQSGYSRSWKKAIVTLAPG-ERIE----IFEDL--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A3DJH4|RL23_HUNT2 50S ribosomal protein L23 OS=Hungateiclostridium thermocellum (strain ATCC 27405 / DSM 1237 / JCM 9322 / NBRC 103400 / NCIMB 10682 / NRRL B-4536 / VPI 7372) OX=203119 GN=rplW PE=3 SV=1
+---------MRPAEDIIKRPYITEKSNAEIA-NGKYTFIVDAKATKTEIRQAVEKLFQ-V
+KVLKVNTVNYKGKRK----RLG---VHEGFRPDWKKAIVKIDTEPKPVT----YLTEGGK
+TATTTKKY--------KTSIEEFGAAQ---------------------------------
+----------------------------------------------------------
+>sp|B2GIZ5|RL23_KOCRD 50S ribosomal protein L23 OS=Kocuria rhizophila (strain ATCC 9341 / DSM 348 / NBRC 103217 / DC2201) OX=378753 GN=rplW PE=3 SV=1
+---MSV-IYNKDPRDVIIRPVVSEKSYGLID-EGKYTFQVDPSANKTEIKYAIEHIFG-V
+KVASVNTLNRPGKRK----RTR---FGWGQRKATKRAVVSLREG--SID----IFGGPLS
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C5CGR2|RL23_KOSOT 50S ribosomal protein L23 OS=Kosmotoga olearia (strain ATCC BAA-1733 / DSM 21960 / TBF 19.5.1) OX=521045 GN=rplW PE=3 SV=1
+---MA--NPKLTLNDVLIRPIITEKSFSGEE-YNKYTFEVHRDASKHLIKEAIEKIFN-V
+KVEKINVINVKPKPK----RRG---IAVGRTRSWKKAVVTLVEG-YRIK----ELEGQH-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q03PV9|RL23_LACBA 50S ribosomal protein L23 OS=Lactobacillus brevis (strain ATCC 367 / JCM 1170) OX=387344 GN=rplW PE=3 SV=1
+----------MESRDIILRPVVTEATMATMD-DKRYTFDVDVRATKTQVKHAIEDIFD-V
+KVVKVNVMNLKGKKK----RQG---RYEGYTKKRRKAIVSLSADSKEIK----LFNEE--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B3WAL5|RL23_LACCB 50S ribosomal protein L23 OS=Lactobacillus casei (strain BL23) OX=543734 GN=rplW PE=3 SV=1
+----------MEARDIILRPIVTEQSMAEMD-NRKYTFEVALHATKPQVRKAVEEIFG-V
+KVVNVNIANVRGKKK----RQG---RYEGMTRRRRKALIALSADSKEIK----IFADEDN
+DKK---------------------------------------------------------
+----------------------------------------------------------
+>sp|Q1GBL6|RL23_LACDA 50S ribosomal protein L23 OS=Lactobacillus delbrueckii subsp. bulgaricus (strain ATCC 11842 / DSM 20081 / JCM 1002 / NBRC 13953 / NCIMB 11778) OX=390333 GN=rplW PE=3 SV=1
+----------MDARDIILRPVITEKSADLMD-SKKYTFDVALTATKLQVRDAIEEIFD-V
+KVKSVNIMNVRGKEK----RVG---RYTGKIARRRKAIVALTEDSNDIK----IFKDENN
+E-----------------------------------------------------------
+----------------------------------------------------------
+>sp|A8YXK7|RL23_LACH4 50S ribosomal protein L23 OS=Lactobacillus helveticus (strain DPC 4571) OX=405566 GN=rplW PE=3 SV=1
+----------MDVRDIILRPVITEKSTNLMD-DKKYTFDVLLTATKTQVRNAVEEIFD-V
+KVKNVNIMNVRGKDK----RVG---RYTGKTARRRKAIVTLTNDSNDIK----IFQDENK
+EDNK--------------------------------------------------------
+----------------------------------------------------------
+>sp|Q74L87|RL23_LACJO 50S ribosomal protein L23 OS=Lactobacillus johnsonii (strain CNCM I-12250 / La1 / NCC 533) OX=257314 GN=rplW PE=3 SV=1
+----------MDARDIILRPVVTEKSMNLMD-DKKYTFDVLVSATKTQVRNAIEEIFD-V
+KVKNVNIMNVRGKEK----RVG---RYTGKTARRRKAIVTLTEDSNDIK----IFNDNKE
+N-----------------------------------------------------------
+----------------------------------------------------------
+>sp|Q02W26|RL23_LACLS 50S ribosomal protein L23 OS=Lactococcus lactis subsp. cremoris (strain SK11) OX=272622 GN=rplW PE=3 SV=1
+----------MSLYDIIRKPIITEASMAAMD-QKKYTFEVDSRAHKLLIKQAVEAVFD-V
+KVASVNTISVKPKSK----RVG---KYTGTKSGYKKAIVTLTEDSKKIE----IFGEDAE
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q88XY4|RL23_LACPL 50S ribosomal protein L23 OS=Lactobacillus plantarum (strain ATCC BAA-793 / NCIMB 8826 / WCFS1) OX=220668 GN=rplW PE=3 SV=1
+----------MEARDVILRPVVTESSMADLD-DKRYTFDVNVQATKTQVKKAIEEIFD-V
+KVVKVNVMNVKGKLK----RQG---RYAGYTKKRRKAIVTLSSDSNEIK----LFNDDQQ
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A5VLK3|RL23_LACRD 50S ribosomal protein L23 OS=Lactobacillus reuteri (strain DSM 20016) OX=557436 GN=rplW PE=3 SV=1
+----------MEARDIILRPVVTEASMAGMD-NKRYTFDVDLRATKTQVKNAVEEIFG-V
+KVVKVNIMNVKGKLK----RQG---RYEGYTKRRRKAIVTLSADSNEIK----LFNDNNE
+N-----------------------------------------------------------
+----------------------------------------------------------
+>sp|Q1WS92|RL23_LACS1 50S ribosomal protein L23 OS=Lactobacillus salivarius (strain UCC118) OX=362948 GN=rplW PE=3 SV=1
+----------MESRDVILRPVITEASMAELD-NKRYTFDVDTRATKSQIKDAVEDIFE-V
+KVAKVNVMNVKGKKK----RMG---RYEGYTKKRRKAIVTLTAESKEIK----LFEE---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q38UR4|RL23_LACSS 50S ribosomal protein L23 OS=Lactobacillus sakei subsp. sakei (strain 23K) OX=314315 GN=rplW PE=3 SV=1
+----------MEARDVILRPVVTESSMAAMD-DKKYTFDVDVRANKTQVRYAIEEIFG-V
+NVKNVNIMNVRGKLK----RQG---RYAGYTKKRRKAIVTLTADSKEIK----IFED---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q6ACZ7|RL23_LEIXX 50S ribosomal protein L23 OS=Leifsonia xyli subsp. xyli (strain CTCB07) OX=281090 GN=rplW PE=3 SV=1
+----MA-AVNKDPRDVIIAPVVSEKSYGLID-EGKYTFLVDPRSNKTEIKLAIESIFR-V
+EVASVNTLNRQGKTR----RTK---FGLGKRKDTKRAIVTLKSG--SID----IFTAVG-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B1MW12|RL23_LEUCK 50S ribosomal protein L23 OS=Leuconostoc citreum (strain KM20) OX=349519 GN=rplW PE=3 SV=1
+----------MDARDIIRRPIITEASMAQTE-RKRYVFEVDTRATKPEIKKAIEEIFD-V
+QVSGLNTANVRGKKK----RQG---RYVGYTRKLKKATVTLSKDSKDIQ----IFNEG--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q927K9|RL23_LISIN 50S ribosomal protein L23 OS=Listeria innocua serovar 6a (strain ATCC BAA-680 / CLIP 11262) OX=272626 GN=rplW PE=3 SV=1
+----------MDARDIIKRPVVTEESTSILD-DKKYTFEVDTRATKTQVKYAIEEIFD-V
+KVAKVNVMNYKGKLK----RMG---RYAGYTNKRRKAIVTVTADSKEIQ----FFEV---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B1HMX8|RL23_LYSSC 50S ribosomal protein L23 OS=Lysinibacillus sphaericus (strain C3-41) OX=444177 GN=rplW PE=3 SV=1
+----------MEARDILKRPVITERSSELMA-EKKYTFEVDTRANKTQVKDAVEEIFG-V
+KVEKVNVLNYKGKFK----RVG---RYGGYTNKRRKAIVKLTADSKEIE----LFEM---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B9E9J3|RL23_MACCJ 50S ribosomal protein L23 OS=Macrococcus caseolyticus (strain JCSC5402) OX=458233 GN=rplW PE=3 SV=1
+----------MENRDIIKRPVITERSSEQMA-QDKYTFDVDTRANKTQIKIAIEDIFN-V
+KVDKVNVMNYKAKKK----RVG---RYNGYTNKRRKAIVTLKEGS--ID----FFN----
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q6F1Z2|RL23_MESFL 50S ribosomal protein L23 OS=Mesoplasma florum (strain ATCC 33453 / NBRC 100688 / NCTC 11704 / L1) OX=265311 GN=rplW PE=3 SV=1
+----------MHLTEVIKKPVLTEKSFLGHA-NGVYTFLVDRRANKVQIKKTFEEIFE-V
+KVESVRTMNYDGKEK----RMG---RFVGKTNNYKKAIITLKDG-ETLD----ILSDL--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C5CC60|RL23_MICLC 50S ribosomal protein L23 OS=Micrococcus luteus (strain ATCC 4698 / DSM 20030 / JCM 1464 / NBRC 3333 / NCIMB 9278 / NCTC 2665 / VKM Ac-2230) OX=465515 GN=rplW PE=3 SV=1
+---MSG-SINKDPRDVIIAPVVSEKSYGLID-EGKYTFLVDPRSNKSEIKQAVERIFN-V
+DVASVNTLNRSGKRR----RTR---FGWGQRKSTKRAIVTLKDG--TID----IFGGPLA
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q2RFP9|RL23_MOOTA 50S ribosomal protein L23 OS=Moorella thermoacetica (strain ATCC 39073 / JCM 9320) OX=264732 GN=rplW PE=3 SV=1
+---------MRTPEEIIIRPLVTEKSTGLMA-DNKYTFLVDPGANKIEIKHAIEKLFN-V
+KVLKVNTLMERGKLR----RVG---RFQGRQSDRKKAIVTLRPG-DKIQ----VFEGLE-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A0QL16|RL23_MYCA1 50S ribosomal protein L23 OS=Mycobacterium avium (strain 104) OX=243243 GN=rplW PE=3 SV=1
+---M---ATVTDPRDIILAPVISEKSYSLLD-DNVYTFVVHPDSNKTQIKIAIEKIFS-V
+KVASVNTANRQGKRK----RTR---TGFGKRKSTKRAIVTLAPGSKPID----LFGAPA-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|P10140|RL23_MYCCT 50S ribosomal protein L23 OS=Mycoplasma capricolum subsp. capricolum (strain California kid / ATCC 27343 / NCTC 10154) OX=340047 GN=rplW PE=3 SV=1
+----------MHITEVLKKPVLTEKSFAGHK-DNVYTFLVDKKANKVQIKKTFEEIFE-V
+KVESVRTINYDAKEK----RLG---KYVGKKPSYKKAIITLKEG-QKLD----VLSDL--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A4T1U0|RL23_MYCGI 50S ribosomal protein L23 OS=Mycolicibacterium gilvum (strain PYR-GCK) OX=350054 GN=rplW PE=3 SV=1
+---M---ANVVDPRDIILSPVISEKSYGLIE-DNVYTFIVHPDSNKTQIKIAIEKIFK-V
+KVDSVNTANRPGKRK----RTR---TGYGQRKATKRAIVTLAAGSKPID----LFGAPA-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B8ZSB7|RL23_MYCLB 50S ribosomal protein L23 OS=Mycobacterium leprae (strain Br4923) OX=561304 GN=rplW PE=3 SV=1
+---M---ATIADSRDIILAPVISEKSYGLLD-DNVYTFVVHPDSNKTQIKIAIEKIFS-V
+KVASVNTSNRKGKCK----RTR---TGFGRRKNTKRAIVTLAPGSKSID----LFGTPA-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q6KI53|RL23_MYCMO 50S ribosomal protein L23 OS=Mycoplasma mobile (strain ATCC 43663 / 163K / NCTC 11711) OX=267748 GN=rplW PE=3 SV=1
+----------MNHNEIIKYPLLTEKSYKTMA-QNVYVFAVDRRARKIEIKDAIEFIFE-V
+KVEKINLFNVPQKEK----KVG---RFKGLTNSYKKAYVYLREG--KIN----IFPEEIE
+KEQKVEKQLIKEKSTSELKLEEKIAAKIAAKEQSEIKDEIVKSVPKKVTSIKKEITSKEV
+TPIKKTTSVKKETSPKEITSVKKTTTKEKDKTLVVAKKATIDTKVKSTTTKKTTTKKV
+>sp|B2A4E1|RL23_NATTJ 50S ribosomal protein L23 OS=Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) OX=457570 GN=rplW PE=3 SV=1
+----------MDPRDVIIKPWITEQSTDQME-ENKYTFVVAKDANKTQIKDAVQKLFG-V
+KVKQVNTMNMKGKPK----RLG---IYQGKTPSWKKAIITLTDDSKAID----LFE----
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B2ITQ3|RL23_NOSP7 50S ribosomal protein L23 OS=Nostoc punctiforme (strain ATCC 29133 / PCC 73102) OX=63737 GN=rplW PE=3 SV=1
+---MPS-FDPRDLADLVRRPIVTEKATILME-QNKYTFEVIPKASKPEIKAAIEDLFQ-V
+KVVKVNTNLPPRKKR----RVG---KFIGYKPQYKRAIVTVAPG-DEDKIRQVLFPEV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q8YPI1|RL23_NOSS1 50S ribosomal protein L23 OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX=103690 GN=rplW PE=3 SV=1
+---MAK-FDPRNLPDLVRRPILTEKATIMME-QNKYTFEVTPKASKPQIRAAIEDLFQ-V
+KVVKVNTALPPRRKK----RVG---KFIGFKPQYKKAIVTIAPG-DVDKIRQVLFPEV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q8ETY0|RL23_OCEIH 50S ribosomal protein L23 OS=Oceanobacillus iheyensis (strain DSM 14371 / CIP 107618 / JCM 11309 / KCTC 3954 / HTE831) OX=221109 GN=rplW PE=3 SV=1
+---------MKDLRDVIKRPVITEHSADLMA-EKKYTFEVSPKANKTEIKDAVETIFG-V
+KVEKVNTMNQKGKFK----RMG---RYGGYRPNRKKAVVQLTADSKELD----FFEA---
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q04G83|RL23_OENOB 50S ribosomal protein L23 OS=Oenococcus oeni (strain ATCC BAA-331 / PSU-1) OX=203123 GN=rplW PE=3 SV=1
+----------MQARDVILRPIITESSMAGAD-RKVYQFEVNRKATKTDVKVAVADVFG-V
+TVKKVNIANVRGKNK----RMG---RYQGLTRNRKKATVSLTADSKDIE----VFKNQEE
+NK----------------------------------------------------------
+----------------------------------------------------------
+>sp|Q03EB8|RL23_PEDPA 50S ribosomal protein L23 OS=Pediococcus pentosaceus (strain ATCC 25745 / CCUG 21536 / LMG 10740 / 183-1w) OX=278197 GN=rplW PE=3 SV=1
+----------MESRDIILRPVVTEASMALID-NKRYTFDVDPRATKTQVKKAIEEIFE-V
+TVIKINIMNVKGKLK----RQG---RYAGYTKKRRKAIVQLSADSKEIQ----LFGEE--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A5D5J2|RL23_PELTS 50S ribosomal protein L23 OS=Pelotomaculum thermopropionicum (strain DSM 13744 / JCM 10971 / SI) OX=370438 GN=rplW PE=3 SV=1
+---------MKDPRDILRKPVVTEKSTSLLQ-DNKYTFIVDPRANKTEIKEAVEKIFK-V
+KVEKVNTMRVKGRIK----RVR---NIPGKTPDYKKAIVKLRQG-DKIE----LFEGM--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A3PF45|RL23_PROM0 50S ribosomal protein L23 OS=Prochlorococcus marinus (strain MIT 9301) OX=167546 GN=rplW PE=3 SV=1
+---MSK-LFNSRLADVIRKPVITEKATNALD-FNQYTFEVDHRAAKPQIKAAIEALFS-V
+KVIGVNTMNPPRRTR----RVG---KFSGKRSQVKKAIVRLAEG-DKIQ----LFPES--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A2C4Z7|RL23_PROM1 50S ribosomal protein L23 OS=Prochlorococcus marinus (strain NATL1A) OX=167555 GN=rplW PE=3 SV=1
+---MTK-FFEKRLTDVIKRPLITEKATKALD-LNQYTFEVDPRAAKPDIKAAVEKMFD-V
+KVLGISTMNPPRKSR----RVG---RFSGKRPQVKKAVVRLAEG-NSIQ----LFPESEE
+A-----------------------------------------------------------
+----------------------------------------------------------
+>sp|A2CC29|RL23_PROM3 50S ribosomal protein L23 OS=Prochlorococcus marinus (strain MIT 9303) OX=59922 GN=rplW PE=3 SV=1
+---MTE-RFNGRLADVIRRPLITEKATSALE-QNQYTFEVDHRAAKPDIKAAVEQLFD-V
+RVVGISTMNPPRRSR----RVG---RFTGKRAQVKKAIVRLAEG-NTIQ----LFPES--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q7V9W4|RL23_PROMA 50S ribosomal protein L23 OS=Prochlorococcus marinus (strain SARG / CCMP1375 / SS120) OX=167539 GN=rplW PE=3 SV=1
+---MTE-MFKERLADVIRRPLITEKATKGLD-INQYTFEVDHRAAKPDIKAAVEKLFD-V
+KVIGISTMNPPRRSR----RVG---RFSGKRAQVKKAIVRLAEG-NSIQ----LFPDSES
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A8F4R3|RL23_PSELT 50S ribosomal protein L23 OS=Pseudothermotoga lettingae (strain ATCC BAA-301 / DSM 14385 / NBRC 107922 / TMO) OX=416591 GN=rplW PE=3 SV=1
+---MN--QQKLTHYDILIKPITTEKTMLDRE-KRKYVFEVNVLSNKALVKNAVESLFN-V
+KVEKVNISLVKPKPK----RRG---RFEGKTRRWKKAVVTLKEG-YTIK----ELEGQQ-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C3PPA5|RL23_RICAE 50S ribosomal protein L23 OS=Rickettsia africae (strain ESF-5) OX=347255 GN=rplW PE=3 SV=1
+-------MSSYKYYDLIRKPIITEKTTTLSE-QNKYAFYVDKFAKKLTLKKAIEEIFK-V
+KVKKVNILNVKGKKK----RFK---GIIGTQINRKKAIVTLEKD-HNID----FAGGIK-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A8GVB6|RL23_RICB8 50S ribosomal protein L23 OS=Rickettsia bellii (strain OSU 85-389) OX=391896 GN=rplW PE=3 SV=1
+-------MSSYKYYDLIRRPVITEKTTLLSE-QNKYTFYVDKLAEKLAVKKAIEEIFK-V
+KVKKVNILNVKGKKK----RFK---GVIGRQVDRKKAVVTLEKD-HNID----FAGGIK-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B7K333|RL23_RIPO1 50S ribosomal protein L23 OS=Rippkaea orientalis (strain PCC 8801) OX=41431 GN=rplW PE=3 SV=1
+---MIP-KNPRQLADLVLKPIITEKATRLLE-NNKYVFEVVPQATKPDIKAAIESLFD-V
+SVIKVNTVRPPRKKK----RVG---RFIGYKPLYKRAIVTLQDG-DTIT----LFPEV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A7NR61|RL23_ROSCS 50S ribosomal protein L23 OS=Roseiflexus castenholzii (strain DSM 13941 / HLO8) OX=383372 GN=rplW PE=3 SV=1
+----------MNAHQIIIRPLITEKNTNLMR-FNKYSFEVDRNATKQQIKRAIEEIFS-V
+RVTAVHTMNVRGKLR----RRG---RQYGYTPDWKKAIVTLAEG-DRID----LFEGA--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q1AU31|RL23_RUBXD 50S ribosomal protein L23 OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129 / PRD-1) OX=266117 GN=rplW PE=3 SV=1
+----------MDPHQIIIRPVISEKSYNLIENEGQYTFEVDRRANKNQIKKAVEEAFD-V
+KVKKVNTVNVKSKPK----RQG---FTRGRTSTWKKAVVKLAEG-DRIE----LFEGV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A7X5G1|RL23_STAA1 50S ribosomal protein L23 OS=Staphylococcus aureus (strain Mu3 / ATCC 700698) OX=418127 GN=rplW PE=3 SV=1
+----------MEARDILKRPVITEKSSEAMA-EDKYTFDVDTRVNKTQVKMAVEEIFN-V
+KVASVNIMNYKPKKK----RMG---RYQGYTNKRRKAIVTLKEGS--ID----LFN----
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q49ZG6|RL23_STAS1 50S ribosomal protein L23 OS=Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM 20229 / NCIMB 8711 / NCTC 7292 / S-41) OX=342451 GN=rplW PE=3 SV=1
+----------MEARDVLKRPVITEKSSAAMA-EDKYTFDVDTRANKTQVKIAVEEIFD-V
+KVDNVNIINYKPKKK----RMG---RYQGYTNKKRVAIVKLKEGS--ID----LFN----
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|C0M6X1|RL23_STRE4 50S ribosomal protein L23 OS=Streptococcus equi subsp. equi (strain 4047) OX=553482 GN=rplW PE=3 SV=1
+----------MNLYDVIKKPVITEKSMYALE-EGKYTFEVDTRAHKLLIKQAVEAAFDGV
+KVASVNTVNVKPKAK----RVG---RYTGFTSKTKKAIITLTADSKAIE----LFAVEAE
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A4VYP5|RL23_STRS2 50S ribosomal protein L23 OS=Streptococcus suis (strain 98HAH33) OX=391296 GN=rplW PE=3 SV=1
+----------MNLYDVIKKPVITESSMGQLE-AGKYVFEVDTRAHKLLIKQAVEAAFEGV
+KVANVNTINVKPKTK----RVG---RYVGRTNKVKKAIITLAADSKAIE----LFATADA
+E-----------------------------------------------------------
+----------------------------------------------------------
+>sp|A3CK65|RL23_STRSV 50S ribosomal protein L23 OS=Streptococcus sanguinis (strain SK36) OX=388919 GN=rplW PE=3 SV=1
+----------MNLYDVIKKPVITEGSMAQYE-AGKYVFEVDTRAHKLLIKQAVEAAFEGV
+KVANVNTINVKPKAK----RVG---RYTGFTNKTKKAIVTLTADSKAIE----LFGAEEE
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q67JU5|RL23_SYMTH 50S ribosomal protein L23 OS=Symbiobacterium thermophilum (strain T / IAM 14863) OX=292459 GN=rplW PE=3 SV=1
+----------MEARDIILKPLITEKSVAKMS-EGKYAFKVRLDANKTQIKQAIEEIFG-V
+TVVRVNTMRVRGKLR----RQG---KYIGRRSDWKKAIVQLKEG-DSIK----VFEGL--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q31L09|RL23_SYNE7 50S ribosomal protein L23 OS=Synechococcus elongatus (strain PCC 7942 / FACHB-805) OX=1140 GN=rplW PE=3 SV=1
+---MAE-ANIRALADIIRRPIITEKATRLLE-NNQYTFEVDPRASKPEIKAAIEALFQ-V
+KVVGLSTQLPPRKAR----RVG---RFAGHRAQVKRAVARLADG-DSIT----LFPEV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A0LIJ2|RL23_SYNFM 50S ribosomal protein L23 OS=Syntrophobacter fumaroxidans (strain DSM 10017 / MPOB) OX=335543 GN=rplW PE=3 SV=1
+--------MNEKSYRILKRPLVTEKSTTEKDEHNKLFFEVDRRANKIEIKEAVEQIFK-V
+DVLDVATMNVRGKKK----RVG---RYFTKRADRKKAMVTIKPG-QRVE----FFEGV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q2JV83|RL23_SYNJA 50S ribosomal protein L23 OS=Synechococcus sp. (strain JA-3-3Ab) OX=321327 GN=rplW PE=3 SV=1
+---MT--ESKRILADVLLRPVITEKATALME-QRKYVFEVMPTATKPLIRAAVEEMFG-V
+RVTAVNTLKLPRKQR----RVG---RSVGYRSRPKRAIVTLAEG-DSIT----LFPDT--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q7U4J8|RL23_SYNPX 50S ribosomal protein L23 OS=Synechococcus sp. (strain WH8102) OX=84588 GN=rplW PE=3 SV=1
+---MTE-RFQGRLADVIRRPLITEKATRALE-FNQYTFEVDHRAAKPDIKAAIEQLFD-V
+KVTGISTMNPPRRTR----RMG---RFAGKRAQVKKAVVRLAEG-NSIQ----LFPES--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|A5GVW2|RL23_SYNR3 50S ribosomal protein L23 OS=Synechococcus sp. (strain RCC307) OX=316278 GN=rplW PE=3 SV=1
+---MAE-RFSSRLADVIRRPLITEKATRALE-MNQYTFEVDPRAAKPDIKAAVEHLFD-V
+KVIGVSTMNPPRRTR----RVG---RFAGRRSQVKKAVVRLAEG-NSIQ----LFPES--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q0AUI2|RL23_SYNWW 50S ribosomal protein L23 OS=Syntrophomonas wolfei subsp. wolfei (strain DSM 2245B / Goettingen) OX=335541 GN=rplW PE=3 SV=1
+---------MRDYRDIIIKPVVTEKSMNLLA-DNKYTFIVDKRANKTEIKNAIENIFE-V
+RVASVNTMNIKGKPK----RMG---RFEGKKPDRKKAVISLKPG-HKIR----LFEGM--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|P73318|RL23_SYNY3 50S ribosomal protein L23 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=rplW PE=3 SV=1
+---MSKVIDQRRLADLIIKPIVTEKATLQLE-DNKYVFDVRPEATKPEIKAAIELLFD-V
+KVTGVNTARMPRRKK----RVG---RFMGFKAQVKRAVVTLKEG-DSIQ----LFPDV--
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|P38512|RL23_THEMA 50S ribosomal protein L23 OS=Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099) OX=243274 GN=rplW PE=3 SV=1
+---MK--QEKLSLHDVLIRPIITEKALILRE-QRKYVFEVNPLANKNLVKEAVEKLFN-V
+KVEKVNILNMKPKPK----RRG---IFEGKTRSWKKAVVTLKEG-YTIK----ELEGEH-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|B0KCK2|RL23_THEP3 50S ribosomal protein L23 OS=Thermoanaerobacter pseudethanolicus (strain ATCC 33223 / 39E) OX=340099 GN=rplW PE=3 SV=1
+----------MEARDIIIRPVITEKSMNLMS-ERKYTFIVDKRANKIQIKKAVEDIFG-V
+KVDKVYTMNYKGKPK----RMG---KYEGRTEAYKKAIVKLTPDSKGIE----FFEGLQA
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q72I06|RL23_THET2 50S ribosomal protein L23 OS=Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039) OX=262724 GN=rplW PE=1 SV=1
+---------MKTAYDVILAPVLSEKAYAGFA-EGKYTFWVHPKATKTEIKNAVETAFK-V
+KVVKVNTLHVRGKKK----RLG---RYLGKRPDRKKAIVQVAPG-QKIE----ALEGLI-
+------------------------------------------------------------
+----------------------------------------------------------
+>sp|Q110A9|RL23_TRIEI 50S ribosomal protein L23 OS=Trichodesmium erythraeum (strain IMS101) OX=203124 GN=rplW PE=3 SV=1
+---MK--LDSRDLVDIIKNPVVTEKATRLME-LNQYTFDVDPRATKPMIKQVIEQIFE-V
+KVIGINTLNLPRKKR----RVG---KYIGFKPRYKRAIVTLEDG-EPIR--KVLFPDL--
+------------------------------------------------------------
+----------------------------------------------------------

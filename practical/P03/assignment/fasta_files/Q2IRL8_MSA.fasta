@@ -1,0 +1,412 @@
+>sp|A0LW38|EX7S_ACIC1 Exodeoxyribonuclease 7 small subunit OS=Acidothermus cellulolyticus (strain ATCC 43068 / 11B) OX=351607 GN=xseB PE=3 SV=1
+----------MTEPPL---PHESAD-D------------GRARLSYEDARDELIQIVQRL
+ELGGLPLEEALRLWERGEELARVCQAWLDGARARLEAYRAPEQ-SAANDVSAPGSAEEHD
+HGR------------
+>sp|A4SJQ1|EX7S_AERS4 Exodeoxyribonuclease 7 small subunit OS=Aeromonas salmonicida (strain A449) OX=382245 GN=xseB PE=3 SV=1
+----------MA------------S-K------------KIDRLSFDATLEELETIVHQL
+EQGSLPLEEALKQFEQGVHLVRAGQQKLEQAEQKIQILLTQAD-GTE--QAVPFQPEQGE
+E--------------
+>sp|Q8UHD5|EX7S_AGRFC Exodeoxyribonuclease 7 small subunit OS=Agrobacterium fabrum (strain C58 / ATCC 33970) OX=176299 GN=xseB PE=3 SV=1
+--------MNMTEN---------ANTA------------DVSGYSFEKAVAELESIVARL
+ERGDVALDESIAIYERGEALKKHCETLLNAAEKRIEKIRLDRA-GKP-QGVEPLDGE---
+---------------
+>sp|B9JAL9|EX7S_AGRRK Exodeoxyribonuclease 7 small subunit OS=Agrobacterium radiobacter (strain K84 / ATCC BAA-868) OX=311403 GN=xseB PE=3 SV=1
+----------MSES---------AK-L------------DVSDYSFEKAVAELESIVARL
+ERGDVALDESIAIYERGEALKKHCETLLSAAENRIEKIRLDRA-GKP-QGTEPLDGQ---
+---------------
+>sp|B9JSL3|EX7S_AGRVS Exodeoxyribonuclease 7 small subunit OS=Agrobacterium vitis (strain S4 / ATCC BAA-846) OX=311402 GN=xseB PE=3 SV=1
+----------MTDV---------AA-T------------DIAAYSFEKAVAELESIVARL
+ERGDVALDESISIYERGELLKKHCEALLSAAENRIEKIRLDRA-GKP-VGAEPLDKD---
+---------------
+>sp|Q5E6Y8|EX7S_ALIF1 Exodeoxyribonuclease 7 small subunit OS=Aliivibrio fischeri (strain ATCC 700601 / ES114) OX=312309 GN=xseB PE=3 SV=1
+----------MA------------V-K------------KPENLSFEAAIEELDSVVNQL
+ESGDLPLEDALKKFERGISLARAGQEKLTQAEQRVEILLQADD--NA--ELTPFDGQDD-
+---------------
+>sp|Q0AA37|EX7S_ALKEH Exodeoxyribonuclease 7 small subunit OS=Alkalilimnicola ehrlichii (strain ATCC BAA-1101 / DSM 17681 / MLHE-1) OX=187272 GN=xseB PE=3 SV=1
+----------MD----------TPS-S------------GSDSFDFEAALKELEGLVERM
+ERGELSLEESLRQFERGVELTRACQKALQEAEQKVETLIGQGA--DA--HEQAFEDPAHR
+DT-------------
+>sp|Q2GLP1|EX7S_ANAPZ Exodeoxyribonuclease 7 small subunit OS=Anaplasma phagocytophilum (strain HZ) OX=212042 GN=xseB PE=3 SV=1
+------------------------M-S------------IHISSKFEEAMKELENIVAEL
+ESGNVPLERSVELFNKGKELHKYCDKVIKEISLHIESVDPDDK-----ELSAKFSDD---
+---------------
+>sp|A0JYU5|EX7S_ARTS2 Exodeoxyribonuclease 7 small subunit OS=Arthrobacter sp. (strain FB24) OX=290399 GN=xseB PE=3 SV=1
+--------MAAEHN---------PN-A------------DIEALSYEEAREQLVAVVGKL
+EAGGASLEDSLALWERGEALARRCEEWLEGARKRLAAARNQAG-PES-------------
+---------------
+>sp|A1K4R2|EX7S_AZOSB Exodeoxyribonuclease 7 small subunit OS=Azoarcus sp. (strain BH72) OX=418699 GN=xseB PE=3 SV=1
+----------MP------------K-P------------ASSPTSFEAAVAELETIVQQM
+ESGQLSLEDALARYQRGVGLLKFCQETLSGAEQRIRQLEGG--------ELVELRIDTNA
+DGSQECA--------
+>sp|C3P7V8|EX7S_BACAA Exodeoxyribonuclease 7 small subunit OS=Bacillus anthracis (strain A0248) OX=592021 GN=xseB PE=3 SV=1
+---------------------------------------MENKLSFEEAISQLEHLVSKL
+EQGDVPLEEAISYFKEGMELSKLCDEKLKNVQEQMAVILGEDG------ELEPFTALGDE
+A--------------
+>sp|Q9K968|EX7S_BACHD Exodeoxyribonuclease 7 small subunit OS=Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125) OX=272558 GN=xseB PE=3 SV=1
+----------MI------------K-N------------EQPPLSFEEAMEQLEEVVEQL
+EQGDVPLEEAISMFQKGMNLSKVCHEKLATVEKQMDQILKEDG------NFEETVLQEEQ
+E--------------
+>sp|Q65HJ0|EX7S_BACLD Exodeoxyribonuclease 7 small subunit OS=Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46) OX=279010 GN=xseB PE=3 SV=1
+----------MAEE---------NK-T------------NRDDLTFEEAMKGLEQIVSKL
+EEGDVPLEKAIDYFQEGMALSKICHEKLQNVEKQMDFILRENG------ELAPFSVREEE
+KGDR-----------
+>sp|A8FF13|EX7S_BACP2 Exodeoxyribonuclease 7 small subunit OS=Bacillus pumilus (strain SAFR-032) OX=315750 GN=xseB PE=3 SV=1
+----------MTES---------NK-Q------------KEEQMTFEEAMKGLEEIVGKL
+EEGDVPLEQAIHYFQEGMTLSKLCHEKLQHVEKQMDFILKEDG------ELAPFSVKEAD
+SGDK-----------
+>sp|Q5WF61|EX7S_BACSK Exodeoxyribonuclease 7 small subunit OS=Bacillus clausii (strain KSM-K16) OX=66692 GN=xseB PE=3 SV=1
+----------M---------------A------------ETKDLPFEEAMRQLEWLVEKL
+EEGNVPLEQAIDMFKEGMDLSQSCHEKLLKVEKQLDQIMHEDG------ELVEANLEEEA
+NE-------------
+>sp|P54522|EX7S_BACSU Exodeoxyribonuclease 7 small subunit OS=Bacillus subtilis (strain 168) OX=224308 GN=xseB PE=3 SV=3
+----------MT-----------DV-K------------KNENMTFEEAMKGLESIVSKL
+EEGDVPLEQAINYFQEGMALSKMCHEKLQKVEKQMDFILKEDG------ELAPFSVQEED
+EGDK-----------
+>sp|A7Z6J7|EX7S_BACVZ Exodeoxyribonuclease 7 small subunit OS=Bacillus velezensis (strain DSM 23117 / BGSC 10A6 / FZB42) OX=326423 GN=xseB PE=3 SV=1
+----------MT-----------ET-K------------KSEELTFEEAMKGLEGIVAKL
+EEGDVPLEQAINYFQEGMALSKMCHEKLQHVEKQMDFILKDNG------ELAPFSVQEED
+EGDK-----------
+>sp|A1URW5|EX7S_BARBK Exodeoxyribonuclease 7 small subunit OS=Bartonella bacilliformis (strain ATCC 35685 / NCTC 12138 / KC583) OX=360095 GN=xseB PE=3 SV=1
+----------MKQE--------IKK-D------------DISGLSFEEALKQLEVIVENL
+ERGDVPLEQSIDIYERGEALKNHCDKLLKVAEAKIEKIQLSNN-GTP-EGVKPLDPE---
+---------------
+>sp|Q6G4D2|EX7S_BARHE Exodeoxyribonuclease 7 small subunit OS=Bartonella henselae (strain ATCC 49882 / DSM 28221 / Houston 1) OX=283166 GN=xseB PE=3 SV=1
+----------MKQE--------IQK-G------------DVATLSFEQALKQLEVIVENL
+ERGDVPLEQSIDIYERGEALKKHCEKLLKAAEAKVEKIQLSEG-GTP-EGVEPLDSE---
+---------------
+>sp|Q6G0D5|EX7S_BARQU Exodeoxyribonuclease 7 small subunit OS=Bartonella quintana (strain Toulouse) OX=283165 GN=xseB PE=3 SV=1
+----------MKQE--------IQT-G------------DITALSFEQALKQLEVIVENL
+ERGDVPLEQSIDIYERGEALRKHCDRLLKAAEAKVEKIQLSEE-GSP-KGVEPLDSK---
+---------------
+>sp|A9IQP0|EX7S_BART1 Exodeoxyribonuclease 7 small subunit OS=Bartonella tribocorum (strain CIP 105476 / IBS 506) OX=382640 GN=xseB PE=3 SV=1
+----------MKKE--------IQE-G------------DITTLSFEQALKQLEVIVENL
+ERGDVPLEQSIDIYERGEALKKHCEKLLKVAEAKVEKIQLSQE-GSP-EGVEPLDAQ---
+---------------
+>sp|Q6MR96|EX7S_BDEBA Exodeoxyribonuclease 7 small subunit OS=Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100) OX=264462 GN=xseB PE=3 SV=1
+-------------------------------------------MDFEKKLGRLEEIVQKM
+EKGDLALEESLKLFEEGVKLSRECHQRLNEAESKVKLLMSVGADGQP--VTTDFTSEEN-
+---------------
+>sp|C5C0V6|EX7S_BEUC1 Exodeoxyribonuclease 7 small subunit OS=Beutenbergia cavernae (strain ATCC BAA-8 / DSM 12333 / NBRC 16432) OX=471853 GN=xseB PE=3 SV=1
+--------MSQEPP---------AR-P------------DPATLSYEQARAELVDVVQRL
+EQGAATLEDSLALWERGEALAARCQEWLDGARDRLARVSPASG-GAT-EAPAPAERDR--
+---------------
+>sp|Q7WL39|EX7S_BORBR Exodeoxyribonuclease 7 small subunit OS=Bordetella bronchiseptica (strain ATCC BAA-588 / NCTC 13252 / RB50) OX=257310 GN=xseB PE=3 SV=1
+----------MASSK-----QADPQ-TDA----------RPLPQDFETALAELESLVSAM
+ENGTLPLEQSLSAYRRGVELARVCQDRLAQAEQQVKVLEGD--------LLRPLDPAALD
+DE-------------
+>sp|A9ITB6|EX7S_BORPD Exodeoxyribonuclease 7 small subunit OS=Bordetella petrii (strain ATCC BAA-461 / DSM 12804 / CCUG 43448) OX=340100 GN=xseB PE=3 SV=1
+----------MATSP-----QTDPQ-HDD----------RPLPQDFETALAELETLVAAM
+EDGSLPLEQSLAAYRRGVELTRVCQERLAQAEQQVKVLEDG--------LLRPLDPRALD
+DE-------------
+>sp|Q89RW0|EX7S_BRADU Exodeoxyribonuclease 7 small subunit OS=Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110) OX=224911 GN=xseB PE=3 SV=1
+----------MAEN---------TQ-V------------DVSRLTFERAIEELETIVKRL
+EDGKVPLEESVTIYERGEALKRRCEELLRQAEARVDKITTDAS-GQA-TGTAPLDVQ---
+---------------
+>sp|A5EEQ1|EX7S_BRASB Exodeoxyribonuclease 7 small subunit OS=Bradyrhizobium sp. (strain BTAi1 / ATCC BAA-1182) OX=288000 GN=xseB PE=3 SV=1
+----------MADN---------TV-T------------DVKKLSFERAIEELESIVKRL
+EDGKVPLEESVAIYERGEALKRRCEELLRQAEARVEKITTDAS-GRA-TGVAPLDVQ---
+---------------
+>sp|P67454|EX7S_BRUME Exodeoxyribonuclease 7 small subunit OS=Brucella melitensis biotype 1 (strain 16M / ATCC 23456 / NCTC 10094) OX=224914 GN=xseB PE=3 SV=1
+----------MTEP---------SN-A------------DIAVMSFEDALKQLEKIVDDL
+ERGDVPLEESIRIYERGEALKKHCDTLLKSAEDKVEKIRIGRD-GQP-VGTEPLDPE---
+---------------
+>sp|B0T3Y0|EX7S_CAUSK Exodeoxyribonuclease 7 small subunit OS=Caulobacter sp. (strain K31) OX=366602 GN=xseB PE=3 SV=1
+----------MI-----------SP-Q------------DLEGMSFEQALARLEQIVGEL
+ESGKAELERSIEIYEDGAALKAHCEKKLEAARLKVEKIVLGQG-GAV--SAEAAEFN---
+---------------
+>sp|Q9A6M3|EX7S_CAUVC Exodeoxyribonuclease 7 small subunit OS=Caulobacter vibrioides (strain ATCC 19089 / CB15) OX=190650 GN=xseB PE=3 SV=1
+----------MTDA-------ANPP-A------------DISALSFEEALSQLERIVQEL
+ESGQAALERSIDIYERGAALKAHCEKKLEAARLKVEKIVLGQG-GAV--AAEPAEFN---
+---------------
+>sp|B3PF20|EX7S_CELJU Exodeoxyribonuclease 7 small subunit OS=Cellvibrio japonicus (strain Ueda107) OX=498211 GN=xseB PE=3 SV=1
+----------MP--------------P------------KKKPIDFEQSLNALEALVNRM
+EQGDMPLEESLQAFESGIALTRECQARLAAAELQVTKLIEEQG--NI--SLTGFDQDQDD
+AL-------------
+>sp|A8AK32|EX7S_CITK8 Exodeoxyribonuclease 7 small subunit OS=Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696) OX=290338 GN=xseB PE=3 SV=1
+----------MP------------K-K------------NEAPASFETALSELEQIVTRL
+ESGDLPLEEALNEFERGVQLARQGQAKLQQAEQRVQILLSDNE--DA--SPEPFTPDNE-
+---------------
+>sp|Q487D1|EX7S_COLP3 Exodeoxyribonuclease 7 small subunit OS=Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX=167879 GN=xseB PE=3 SV=1
+----------MA------------K-K------------KLENLSFEESLNELDTIVQSL
+EQGELSLEESMTLFERGLNLSQLSQVKLQAAEQKVQILLDKNG--TA--KLTDFDSSAGE
+S--------------
+>sp|C3PFD4|EX7S_CORA7 Exodeoxyribonuclease 7 small subunit OS=Corynebacterium aurimucosum (strain ATCC 700975 / DSM 44827 / CIP 107346 / CN-1) OX=548476 GN=xseB PE=3 SV=1
+MT-DTIGAGQPGQD---------AF-P------------PVEELSYEQARDELIETVKIL
+ELGQMGLDESLKYWERGEALAKACEAHLDGASKRVEEALRKNA-EGT--DSAAHNEEAGE
+D--------------
+>sp|Q6NI38|EX7S_CORDI Exodeoxyribonuclease 7 small subunit OS=Corynebacterium diphtheriae (strain ATCC 700971 / NCTC 13129 / Biotype gravis) OX=257309 GN=xseB PE=3 SV=1
+MPHDIIG-QGTGTN---------AF-A------------PVEELSYEQARDELVEVVRIL
+ELGQMGLDESLAYWERGEALAKRCEEHLNGAQQRIEKALGETS-QGH-------------
+------------E-Q
+>sp|A7MFH4|EX7S_CROS8 Exodeoxyribonuclease 7 small subunit OS=Cronobacter sakazakii (strain ATCC BAA-894) OX=290339 GN=xseB PE=3 SV=1
+----------MP------------K-K------------NEQPASFETALTELEQIVTRL
+ESGDLPLEEALNEFERGVQLARQGQVKLQQAEQRVQILLSQNE--DA--PLTPFTPDAE-
+---------------
+>sp|Q6AA93|EX7S_CUTAK Exodeoxyribonuclease 7 small subunit OS=Cutibacterium acnes (strain DSM 16379 / KPA171202) OX=267747 GN=xseB PE=3 SV=1
+M-------TDTTPN---------SA-P------------EEPEITYEAARDELVEIVTRL
+ESGGISLAETMTLWERGEKLADICQSWLNGARARIEAARSDAE-TAQ-------------
+--------------P
+>sp|Q47BJ2|EX7S_DECAR Exodeoxyribonuclease 7 small subunit OS=Dechloromonas aromatica (strain RCB) OX=159087 GN=xseB PE=3 SV=1
+----------MD------------Q-T------------PIADMKFETALAELEDIVASM
+EGGKLELEASIAAYKRGMELMKHCQNQLADAEAQIRVLENGQF-KDV--DRSTLEAQ---
+---------------
+>sp|C5BCI1|EX7S_EDWI9 Exodeoxyribonuclease 7 small subunit OS=Edwardsiella ictaluri (strain 93-146) OX=634503 GN=xseB PE=3 SV=1
+----------MA------------K-K------------APAAPAFEQALSELEQIVVRL
+ESGDLPLEEALSEFERGIRLARQGQQTLQQAEQRVKILLSDDQ--DA--PLSPFNAEQE-
+---------------
+>sp|A4W793|EX7S_ENT38 Exodeoxyribonuclease 7 small subunit OS=Enterobacter sp. (strain 638) OX=399742 GN=xseB PE=3 SV=1
+----------MP------------K-K------------NDAPASFETALNELEQIVNRL
+ESGDLPLEDALNEFERGVQLARQGQVKLQQAEQRVQILLSDSE--DA--APTPFTPDAE-
+---------------
+>sp|Q836W5|EX7S_ENTFA Exodeoxyribonuclease 7 small subunit OS=Enterococcus faecalis (strain ATCC 700802 / V583) OX=226185 GN=xseB PE=3 SV=1
+--------------------------M------------PAKEKTFEESLNALEEIVQRL
+ERGDVPLEEALAAFQEGMALSKQCQDTLEKAEKTLTKMMTENN------EEIVFEESEEA
+---------------
+>sp|B2VHS1|EX7S_ERWT9 Exodeoxyribonuclease 7 small subunit OS=Erwinia tasmaniensis (strain DSM 17950 / CIP 109463 / Et1/99) OX=465817 GN=xseB PE=3 SV=1
+----------MP------------K-K------------TQQSVSFEASLQQLEQIVSRL
+ESGDLALEEALNEFERGVQLARAGQQVLQQAEQRVQILLSDDK--NA--ELTPFTPEKE-
+---------------
+>sp|Q75TB9|EX7S_GEOKA Exodeoxyribonuclease 7 small subunit OS=Geobacillus kaustophilus (strain HTA426) OX=235909 GN=xseB PE=3 SV=2
+----------MT-----------DV-K------------KNENMTFEEAMKKLEEIVEKL
+EEGNVPLEEAIAFFQEGMKLSKLCHDKLQHVEKQLEYMLREDG------ELVPFSPEEE-
+---------------
+>sp|A4IQR9|EX7S_GEOTN Exodeoxyribonuclease 7 small subunit OS=Geobacillus thermodenitrificans (strain NG80-2) OX=420246 GN=xseB PE=3 SV=1
+----------M---------------S------------EEKEMTFEEAMKQLESIVEKL
+EEGNVPLEDAIAFFQEGMKLSKLCHDKLQHVEKQLEYMLREDG------ELVPFSPEEA-
+---------------
+>sp|A9HIR6|EX7S_GLUDA Exodeoxyribonuclease 7 small subunit OS=Gluconacetobacter diazotrophicus (strain ATCC 49037 / DSM 5601 / CCUG 37298 / CIP 103539 / LMG 7603 / PAl5) OX=272568 GN=xseB PE=3 SV=1
+-----------------------MT-E------------DLSQLSFEDALAQLEEIVRQL
+EGGQLRLQDAIASYERGAALRRYCDTKLNEADARVQAIIQRAD-GAL--ETKSMD-----
+---------------
+>sp|Q5FUB3|EX7S_GLUOX Exodeoxyribonuclease 7 small subunit OS=Gluconobacter oxydans (strain 621H) OX=290633 GN=xseB PE=3 SV=1
+-----------------------MP-E------------PIDAMSFEDALSELERIVRGL
+EGGQMKLEDAISAYERGAALRRHCDAKLGEAEMRVRAIVQNDD-GTT--GTEPLADTGES
+GR-------------
+>sp|A4G1W7|EX7S_HERAR Exodeoxyribonuclease 7 small subunit OS=Herminiimonas arsenicoxydans OX=204773 GN=xseB PE=3 SV=1
+----------MSKK---------ST-S------------AALPSSFEEAMAELEQLVARM
+EAGELPLEASVAAYKRGSELVKYCAAQLEKVDSQVKVLEGD--------MLKPFNADRAI
+EADE-----------
+>sp|B5Y0W9|EX7S_KLEP3 Exodeoxyribonuclease 7 small subunit OS=Klebsiella pneumoniae (strain 342) OX=507522 GN=xseB PE=3 SV=1
+----------MP------------K-K------------NEAPASFETALGELEQIVNRL
+ESGDLPLEEALSEFERGVQLARQGQSQLQKAEQRVQILLADSE--DS--PTTPFTPDAE-
+---------------
+>sp|Q38XU7|EX7S_LACSS Exodeoxyribonuclease 7 small subunit OS=Lactobacillus sakei subsp. sakei (strain 23K) OX=314315 GN=xseB PE=3 SV=1
+--------------------------M------------AEKKLTFEENLAQLEVIVNEL
+ETGDVPLEKAMTAFQEGVKLSQTLEETLSQAEKTMAKVMADNG------EEVPLDAEEQQ
+---------------
+>sp|Q5X2W0|EX7S_LEGPA Exodeoxyribonuclease 7 small subunit OS=Legionella pneumophila (strain Paris) OX=297246 GN=xseB PE=3 SV=1
+---------------------------------------MSKGIHFEQSITELEEIVRQL
+EKGELTLEESLKQFEKGISLARRCQNALNQAEQKIETLTGTDS--NI--ELDSDEQTSD-
+---------------
+>sp|Q6ADU8|EX7S_LEIXX Exodeoxyribonuclease 7 small subunit OS=Leifsonia xyli subsp. xyli (strain CTCB07) OX=281090 GN=xseB PE=3 SV=1
+----------MDAM---------PL-S------------DISALGYEEARDELVRVVTEL
+EQGSATLEESLALWERGEALARRCEEWLIGAKARLDAARAGAA-ESAGTAKSAVAADSRG
+AADSA----------
+>sp|Q04TB2|EX7S_LEPBJ Exodeoxyribonuclease 7 small subunit OS=Leptospira borgpetersenii serovar Hardjo-bovis (strain JB197) OX=355277 GN=xseB PE=3 SV=1
+----------MA--------------E------------ARSKISFEDALVELEQIAEKL
+ERQDFSLEESLKAYERGMELKKICRGILDSAEGKIEALTKDES-QKT--NKTGFRTESKS
+TSQTSSDSVLEEDLF
+>sp|Q72RZ8|EX7S_LEPIC Exodeoxyribonuclease 7 small subunit OS=Leptospira interrogans serogroup Icterohaemorrhagiae serovar copenhageni (strain Fiocruz L1-130) OX=267671 GN=xseB PE=3 SV=1
+----------MV--------------E------------TKSKISFEDALMELEQIAEKL
+ERQDFSLEESLKAYERGMELKKICQGILDTAEGKIEALTKDES-KKT--NKTGFRGESKT
+TE-TKNNTAQEEDLF
+>sp|Q92BZ2|EX7S_LISIN Exodeoxyribonuclease 7 small subunit OS=Listeria innocua serovar 6a (strain ATCC BAA-680 / CLIP 11262) OX=272626 GN=xseB PE=3 SV=1
+--------------------------M------------ATKKKTFEEAIAELETIVEAL
+ENGSASLEDSLDMYQKGIELTKLCQDKLQSAEQRMAKVVTEAG------EEIPFEADGE-
+---------------
+>sp|B1HRX6|EX7S_LYSSC Exodeoxyribonuclease 7 small subunit OS=Lysinibacillus sphaericus (strain C3-41) OX=444177 GN=xseB PE=3 SV=1
+--------------------------M------------TEKQQTFAEAMTALEEIVRQL
+EQGDVPLENAIDLYKQGMELSKFCHSKLQHAEEQLVSIVQETG------ETTAFDPLKGE
+N--------------
+>sp|A0L6H5|EX7S_MAGMM Exodeoxyribonuclease 7 small subunit OS=Magnetococcus marinus (strain ATCC BAA-1437 / JCM 17883 / MC-1) OX=156889 GN=xseB PE=3 SV=1
+------------------------M-S------------SDKKQGFEASLERLEALVGEL
+ERGELPLEEALAAYEEGMKLARLCQKRLDSAEKRIEKIATPSG------DEEA-------
+---------------
+>sp|Q2W369|EX7S_MAGSA Exodeoxyribonuclease 7 small subunit OS=Magnetospirillum magneticum (strain AMB-1 / ATCC 700264) OX=342108 GN=xseB PE=3 SV=1
+----------MAE----------IS-T------------DIAAMSFEEALAELDLIVRRL
+EEGKGRLDDSIVAYERGALLKKHCEAKLEEARTKVERIVSGPD-GSV--ALQAVDNV---
+---------------
+>sp|Q65TP2|EX7S_MANSM Exodeoxyribonuclease 7 small subunit OS=Mannheimia succiniciproducens (strain MBEL55E) OX=221988 GN=xseB PE=3 SV=1
+----------MA------------R-KPK----------ESSTVDFETTLNQLETIVTRL
+EAGDLPLEEALKEFENGIKLAKLGQERLQQAEQRIQILLQKSD--TA--ELTDYQPTDE-
+---------------
+>sp|Q60AM9|EX7S_METCA Exodeoxyribonuclease 7 small subunit OS=Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath) OX=243233 GN=xseB PE=3 SV=1
+----------M----------------------------ARKPPSFEEALTELEQLVERM
+EQGNLPLEESLKLFERGIELTRTCQKSLQDAEQKVQILLEENS--LP--TLKPFRDEP--
+---------------
+>sp|Q73WH3|EX7S_MYCPA Exodeoxyribonuclease 7 small subunit OS=Mycolicibacterium paratuberculosis (strain ATCC BAA-968 / K-10) OX=262316 GN=xseB PE=3 SV=1
+M-------ANNKKDE-----QAAAA-T------------PISRLGYEACRDELIEVVRQL
+EQGGLDLDASLNLWERGEQLAKRCEEHLAGARKRIEDALAAGE-ADD-------------
+------------D--
+>sp|Q1QQ39|EX7S_NITHX Exodeoxyribonuclease 7 small subunit OS=Nitrobacter hamburgensis (strain DSM 10229 / NCIMB 13809 / X14) OX=323097 GN=xseB PE=3 SV=1
+----------MAEN---------AL-A------------DVKTLSFERAIEELESIVKRL
+EDGKVPLEESVAIYERGEALKRRCEELLRQAEARVEKITTDAS-GQV-TGTEPLDVQ---
+---------------
+>sp|Q3SUZ0|EX7S_NITWN Exodeoxyribonuclease 7 small subunit OS=Nitrobacter winogradskyi (strain ATCC 25391 / DSM 10237 / CIP 104748 / NCIMB 11846 / Nb-255) OX=323098 GN=xseB PE=3 SV=1
+----------MAEN---------VP-A------------DVNTLSFELAIEELETIVKRL
+EDGKVALEESVAIYERGEALKRRCEELLRRAEARVEKITTDAS-GHV-TGTEPLDVR---
+---------------
+>sp|Q5YQ91|EX7S_NOCFA Exodeoxyribonuclease 7 small subunit OS=Nocardia farcinica (strain IFM 10152) OX=247156 GN=xseB PE=3 SV=1
+M-------ADSDKD---------EL-A------------EIAGFGYERARDELVNVVKML
+EQGGMDLDESLALWERGEALANRCEEHLAGARKRVEDALAGSE-SDE-------------
+------------S--
+>sp|Q2G632|EX7S_NOVAD Exodeoxyribonuclease 7 small subunit OS=Novosphingobium aromaticivorans (strain ATCC 700278 / DSM 12444 / CIP 105152 / NBRC 16084 / F199) OX=279238 GN=xseB PE=3 SV=1
+----------MG-----------TV-P------------ELASLSFEEALKELENVVRRL
+ESGEAPLDESIELYARGDALRAHCQARLDAAQARIEAIVADRD-GKA-QGLRPFDETVG-
+---------------
+>sp|Q8EQ45|EX7S_OCEIH Exodeoxyribonuclease 7 small subunit OS=Oceanobacillus iheyensis (strain DSM 14371 / CIP 107618 / JCM 11309 / KCTC 3954 / HTE831) OX=221109 GN=xseB PE=3 SV=1
+--------------------------M------------ATKDLTFEQAMEKLEGIVSKL
+EEGDVPLEKAIEYYQEGMNLSKLCSEKLNHVQDKMVQIMNEQG------ELEPFDIQEDS
+SS-------------
+>sp|B6JFI3|EX7S_OLICO Exodeoxyribonuclease 7 small subunit OS=Oligotropha carboxidovorans (strain ATCC 49405 / DSM 1227 / KCTC 32145 / OM5) OX=504832 GN=xseB PE=3 SV=1
+----------MASN---------AS-A------------DVTTMTFERAIEELESIVKRL
+EDGKVPLEESVAIYERGETLKRRCEELLRQAEARVDKITTDAN-GAP-VGTEPLDVR---
+---------------
+>sp|Q8L1H9|EX7S_PARZE Exodeoxyribonuclease 7 small subunit OS=Paracoccus zeaxanthinifaciens OX=187400 GN=xseB PE=3 SV=1
+----------M---------------S------------DIQTLSFEEAMRELEATVGKL
+ETGEATLEDSIALYERGAALRAHCETRLREAEERVEKITLAAN-GQP-SGTEPAEGL---
+---------------
+>sp|Q6D842|EX7S_PECAS Exodeoxyribonuclease 7 small subunit OS=Pectobacterium atrosepticum (strain SCRI 1043 / ATCC BAA-672) OX=218491 GN=xseB PE=3 SV=1
+----------MP------------K-K------------TEQPVSFESSLNELEKIVTRL
+ESGELPLDDALNEFEHGIQLARQGQQKLQQAEQRVQILLSDDP--DA--PLSPFTPDNDT
+L--------------
+>sp|A5D2Z3|EX7S_PELTS Exodeoxyribonuclease 7 small subunit OS=Pelotomaculum thermopropionicum (strain DSM 13744 / JCM 10971 / SI) OX=370438 GN=xseB PE=3 SV=1
+--------------------------M------------AEKEMNFEEALARLEAVVKEL
+EDGRLPLQKALELFAEGIGLSRICNRYLEDAEQRIAILTADEK-GGV--VLRELGPSPAA
+REDTNDEL-------
+>sp|B4RGV8|EX7S_PHEZH Exodeoxyribonuclease 7 small subunit OS=Phenylobacterium zucineum (strain HLK1) OX=450851 GN=xseB PE=3 SV=1
+----------MS-----------EP-A------------DIAAMTFEQALAELEQIVARL
+ESGQAPLEDSIRMYERGAALKAHCETRLEAARLRVEKIVMGAG-GAP--ASEPAEFG---
+---------------
+>sp|Q7N0J8|EX7S_PHOLL Exodeoxyribonuclease 7 small subunit OS=Photorhabdus laumondii subsp. laumondii (strain DSM 15139 / CIP 105565 / TT01) OX=243265 GN=xseB PE=3 SV=1
+----------MP------------K-KNAISESTNSTPETAPAMTFESSLKELEQIVARL
+ESGELALEEALSKFERGIQLARQGQQTLQQAEQRVQILLNDDT--QS--PLSHFSPDTE-
+---------------
+>sp|A6V060|EX7S_PSEA7 Exodeoxyribonuclease 7 small subunit OS=Pseudomonas aeruginosa (strain PA7) OX=381754 GN=xseB PE=3 SV=1
+----------MA---------------------------RKKTLDFEQSLTELQTLVERL
+ESGELSLEESLGAFEQGIRLTRECQASLSQAEQKVQILLERDG--EL--SEAPFDTEGDE
+A--------------
+>sp|Q1IFK9|EX7S_PSEE4 Exodeoxyribonuclease 7 small subunit OS=Pseudomonas entomophila (strain L48) OX=384676 GN=xseB PE=3 SV=1
+----------MA--------------R------------KKASIDFEQSLADLQALVERL
+ENGELSLEESLAAFEQGIALTRDCQGALAQAEQKVQILLERDG--EL--AAQPFDAEPEA
+---------------
+>sp|Q4K5A7|EX7S_PSEF5 Exodeoxyribonuclease 7 small subunit OS=Pseudomonas fluorescens (strain ATCC BAA-477 / NRRL B-23932 / Pf-5) OX=220664 GN=xseB PE=3 SV=1
+----------MA--------------R------------KKAALDFEQSLADLQTLVERL
+ENGELSLEDSLTAFEQGIGLTRDCQAALAQAEQKVQILLERDG--EL--AEQPFDAEQPE
+---------------
+>sp|Q3II11|EX7S_PSET1 Exodeoxyribonuclease 7 small subunit OS=Pseudoalteromonas translucida (strain TAC 125) OX=326442 GN=xseB PE=3 SV=1
+----------MA------------T-K------------KPENLSFEQALEELTTIVSEM
+EQGDLSLEQSLKQFERGIALAGASSSKLQQAEQKVAILMGKDE--KS--VLTDFDNDME-
+---------------
+>sp|Q4ZYU6|EX7S_PSEU2 Exodeoxyribonuclease 7 small subunit OS=Pseudomonas syringae pv. syringae (strain B728a) OX=205918 GN=xseB PE=3 SV=1
+----------MA--------------R------------KKAALDFEQSLADLQALVERL
+ENGELSLEDSLTAFEQGVRLTRDCQSALTQAEQKVQVLLERDG--EL--SEEPFDDAELP
+E--------------
+>sp|B2U932|EX7S_RALPJ Exodeoxyribonuclease 7 small subunit OS=Ralstonia pickettii (strain 12J) OX=402626 GN=xseB PE=3 SV=1
+----------MPRAPNDAPS-ASAT-P------------SATPASYEAAMAELETLVASM
+ESGELPLEASLAAYRRGAELVKYCQQVLERVEQQVRVLDGD--------ALKPLGDDSNT
+NEQGDA---------
+>sp|Q8XX93|EX7S_RALSO Exodeoxyribonuclease 7 small subunit OS=Ralstonia solanacearum (strain GMI1000) OX=267608 GN=xseB PE=3 SV=1
+----------MPRAQDVAQSDATLS-S------------PATPASYEAAMAELETLVASM
+ESGELPLEASLAAYRRGAELVRYCQQVLERVEQQVRVLDGD--------ALKPLAGEGTN
+EQ-GGA---------
+>sp|B3PS72|EX7S_RHIE6 Exodeoxyribonuclease 7 small subunit OS=Rhizobium etli (strain CIAT 652) OX=491916 GN=xseB PE=3 SV=1
+----------MTDS---------AK-P------------EVAGLSFEKAVAELESIVARL
+ERGDVALDESIEIYERGEALKKHCETLLSAAENRIEKIRLDRA-GKP-QGVEPLDGA---
+---------------
+>sp|Q985Y6|EX7S_RHILO Exodeoxyribonuclease 7 small subunit OS=Mesorhizobium japonicum (strain LMG 29417 / CECT 9101 / MAFF 303099) OX=266835 GN=xseB PE=3 SV=2
+----------MAGE---------TN-E------------DVKAMSFEQALDALEKIVDDL
+ERGDVPLDQSIRIYERGEALKAHCDRLLKAAEDKVEKIRLSRD-GKP-VGTEPLDAD---
+---------------
+>sp|Q92RI9|EX7S_RHIME Exodeoxyribonuclease 7 small subunit OS=Rhizobium meliloti (strain 1021) OX=266834 GN=xseB PE=3 SV=1
+----------MNNN---------AQ-P------------DVSALSFEQAVEELERIVSAL
+ERGDVALDKSIEIYERGEALKKHCEALLKAAEDRIEKIRLDRA-GRP-QGVEPLDAE---
+---------------
+>sp|Q2IRL8|EX7S_RHOP2 Exodeoxyribonuclease 7 small subunit OS=Rhodopseudomonas palustris (strain HaA2) OX=316058 GN=xseB PE=3 SV=1
+----------MADA---------AP-A------------DVKKLSFERAMEELETIVKRL
+EDGKVPLEESVAIYERGEALKRRCEELLRQAEARVDKITTDAQ-GQP-VGTEPLDVQ---
+---------------
+>sp|C3PN64|EX7S_RICAE Exodeoxyribonuclease 7 small subunit OS=Rickettsia africae (strain ESF-5) OX=347255 GN=xseB PE=3 SV=1
+----------MT----------NTK-T------------LEANISFEEALKELEEIVKKI
+DKGQESLETAVNSFERGILLKNHCEKKLKEARLKIEKITKLAD-STV--VLEEMEV----
+---------------
+>sp|A8GWU6|EX7S_RICB8 Exodeoxyribonuclease 7 small subunit OS=Rickettsia bellii (strain OSU 85-389) OX=391896 GN=xseB PE=3 SV=1
+----------MT----------TNK-N------------LDENISFEEALSELEEIVKKI
+DNGQETLEAAVNSFERGILLKNHCEKKLKEARLKIEKITKLAD-STI--TLEEVEV----
+---------------
+>sp|Q5LX40|EX7S_RUEPO Exodeoxyribonuclease 7 small subunit OS=Ruegeria pomeroyi (strain ATCC 700808 / DSM 15171 / DSS-3) OX=246200 GN=xseB PE=3 SV=1
+-------------------------------------------MSFEQAMKELETVVGQL
+ERGDVALDQSIALYERGAALKKRCEDELKRAEEKVAAITLDSN-GQP-TGTKPVEGL---
+---------------
+>sp|Q1GCG2|EX7S_RUEST Exodeoxyribonuclease 7 small subunit OS=Ruegeria sp. (strain TM1040) OX=292414 GN=xseB PE=3 SV=1
+----------MT-----------TE-T------------PVEEMSFETAMQELERVVDQL
+ERGDVALDASISLYERGAALKKRCEDELKRAEEKVAAITLDAN-GQP-TGTQPLDAG---
+---------------
+>sp|A8GAP4|EX7S_SERP5 Exodeoxyribonuclease 7 small subunit OS=Serratia proteamaculans (strain 568) OX=399741 GN=xseB PE=3 SV=1
+----------MP------------K-KPAQSDS------TEQSVSFESSLSELESIVTRL
+ESGELPLEDALNEFERGVQLARQGQQKLQQAEQRVQILLNDSA-DDA--ALTPFTPDAE-
+---------------
+>sp|Q2NV92|EX7S_SODGM Exodeoxyribonuclease 7 small subunit OS=Sodalis glossinidius (strain morsitans) OX=343509 GN=xseB PE=3 SV=1
+----------MP------------K-K------------AEKPASFETALKELEQIVTRL
+ESGELPLEQALNEFEQGVQLARQGQKTLQQAEQRVQILLNDTP--DA--PLAPFAPENDA
+L--------------
+>sp|A7X2P9|EX7S_STAA1 Exodeoxyribonuclease 7 small subunit OS=Staphylococcus aureus (strain Mu3 / ATCC 700698) OX=418127 GN=xseB PE=3 SV=1
+--------------------------M------------TKETQSFEEMMQELEQIVQKL
+DNETVSLEESLDLYQRGMKLSAACDTTLKNAEKKVNDLIKEEA-EDV-KNDESTDE----
+---------------
+>sp|Q5HP30|EX7S_STAEQ Exodeoxyribonuclease 7 small subunit OS=Staphylococcus epidermidis (strain ATCC 35984 / RP62A) OX=176279 GN=xseB PE=3 SV=1
+--------------------------M------------SKEKQSFEEMMKELENIVQKL
+DNEAVSLEESLDLYQRGMKLSANCDSTLKEAEKKVNELMQEEV-GDK-GNEETTDE----
+---------------
+>sp|Q4L6M3|EX7S_STAHJ Exodeoxyribonuclease 7 small subunit OS=Staphylococcus haemolyticus (strain JCSC1435) OX=279808 GN=xseB PE=3 SV=1
+--------------------------M------------SKDQQSFEEMMQELENIVQKL
+DNETVSLEESLELYQRGMKLSATCDATLKDAEKKVNQLIKDEA-EDE-ENGKEVNE----
+---------------
+>sp|Q82IE6|EX7S_STRAW Exodeoxyribonuclease 7 small subunit OS=Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680) OX=227882 GN=xseB PE=3 SV=1
+--------MTSRTD---------ET-A------------NATALGYEQARDELIEVVRRL
+EAGGTTLEESLALWERGEELAKVCRTWLEGARKRLDAALAEEE-NAG-DDSE--------
+---------------
+>sp|B4SQZ7|EX7S_STRM5 Exodeoxyribonuclease 7 small subunit OS=Stenotrophomonas maltophilia (strain R551-3) OX=391008 GN=xseB PE=3 SV=1
+----------MAKK--------SPE-N------------ASPVAQFEQSLESLEQLVEQM
+ETGELSLEASLSAYERGVGLYRQCQQALEQAELRVRLLSDPAQ--PE--AAEPFDPPSHD
+G--------------
+>sp|P67467|EX7S_STRP1 Exodeoxyribonuclease 7 small subunit OS=Streptococcus pyogenes serotype M1 OX=301447 GN=xseB PE=3 SV=1
+---------------------------------------MSKTKTFEENLQDLETIVNKL
+ENGDVPLEEAISEFQKGMLLSKELQKTLQAAEKTLVKVMQADG------TEVDMDD----
+---------------
+>sp|B9DUT8|EX7S_STRU0 Exodeoxyribonuclease 7 small subunit OS=Streptococcus uberis (strain ATCC BAA-854 / 0140J) OX=218495 GN=xseB PE=3 SV=1
+---------------------------------------MATKKTFEERLQELETIVSKL
+ESGEVPLEEAIAEFQKGMILSKDLQKTLQNAEKTLVKVMQADG------SEIEIED----
+---------------
+>sp|Q67NB3|EX7S_SYMTH Exodeoxyribonuclease 7 small subunit OS=Symbiobacterium thermophilum (strain T / IAM 14863) OX=292459 GN=xseB PE=3 SV=1
+---------------------------------------MTQELSFEEAIQRLEQVVREL
+ESGDLPLERGLELFQEGVALARHCTALLDRAEARIEQLLERDG--GV--ETLPFEPE---
+---------------
+>sp|Q9X290|EX7S_THEMA Exodeoxyribonuclease 7 small subunit OS=Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099) OX=243274 GN=xseB PE=3 SV=2
+-------------------------------------------MNFEEMMKELEEIVNRL
+ENEDLPLEESIKLFERGVELYRKCKEILQQNRLKIIDVMKELE-GEI--DASGRDQENEL
+R--------------
+>sp|B8GN64|EX7S_THISH Exodeoxyribonuclease 7 small subunit OS=Thioalkalivibrio sulfidiphilus (strain HL-EbGR7) OX=396588 GN=xseB PE=3 SV=1
+----------MA------------K-KNA----------PSAPADFEQALGELEALVERM
+EQGELSLEASLAEFERGIALARQCQQALQAAEQKVRLLSGEGE--EV--PLDTPDAEDGD
+GE-------------
+>sp|Q8DFA5|EX7S_VIBVU Exodeoxyribonuclease 7 small subunit OS=Vibrio vulnificus (strain CMCP6) OX=216895 GN=xseB PE=3 SV=1
+----------MA------------T-K------------KPENMSFEATIEELDNLVDQL
+ENGDLALDDALKKFERGIALARASQAKLTEAEQRVSILLSDSD--DA--PLSDFSTLAE-
+---------------
+>sp|Q4UWI8|EX7S_XANC8 Exodeoxyribonuclease 7 small subunit OS=Xanthomonas campestris pv. campestris (strain 8004) OX=314565 GN=xseB PE=3 SV=1
+----------MAKK--------SLN-E------------SSPVARFEQSLEELEQLVQKM
+EVGEMSLEQSLTAYERGIGLYRDCQQALEQAELRVRLVTDPAR--PE--QAEAFEPPSLD
+GG-------------
+>sp|B2I7B1|EX7S_XYLF2 Exodeoxyribonuclease 7 small subunit OS=Xylella fastidiosa (strain M23) OX=405441 GN=xseB PE=3 SV=1
+----------MPKR--------SPP-D------------TSPVARFEQSLQELEQLVQNM
+ETGALSLEQSLGAYERGIALYRECHQALEQAQLRVRILSDPMH--PD--DGEPFDPSLVS
+TSQ------------
+>sp|A1JNR4|EX7S_YERE8 Exodeoxyribonuclease 7 small subunit OS=Yersinia enterocolitica serotype O:8 / biotype 1B (strain NCTC 13174 / 8081) OX=393305 GN=xseB PE=3 SV=1
+----------MP------------K-KAA-------SP-ETKAASFETSLSELEQIVTRL
+ESGELPLEEALNEFERGVQLARIGQQTLLQAEQRVQVLLSDDV--DA--PLTPFTPDTE-
+---------------
+>sp|Q9RME6|EX7S_ZYMMO Exodeoxyribonuclease 7 small subunit OS=Zymomonas mobilis subsp. mobilis (strain ATCC 31821 / ZM4 / CP4) OX=264203 GN=xseB PE=3 SV=1
+----------MS-----------QE-K------------NISELSFEEALKKLEEIVRRL
+ESGDTTLEDSIQMYSQGDALKKQCEARLKAAQKKIEQISLDQD-GRA-TGTSPFDAE---
+---------------
