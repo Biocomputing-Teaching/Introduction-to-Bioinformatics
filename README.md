@@ -100,10 +100,12 @@ For the assignment of practical session 01, please see this notebook:
 
 [P02 - Pairwise alignments](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P02)
 
+[P02 - Assignment](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P02/assignment/assignment_instructions.ipynb)
+
 [P03 - Multiple sequence alignments](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P03)
 
+[P03 - Assignment](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P03/assignment/assignment_instructions.ipynb)
 
-
-[P05 - Phylogenetic trees](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P05)
+[P04 - Phylogenetic trees](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P04)
 
 Happy programming!
