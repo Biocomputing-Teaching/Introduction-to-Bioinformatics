@@ -94,31 +94,31 @@ The course will be divided into theoretical, practical, and methodological cases
 
 Practical session 01 
 
-&nbsp; &nbsp; [P01 - Working with sequence data](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P01)
+&nbsp; &nbsp; &nbsp; &nbsp; [P01 - Working with sequence data](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P01)
 
-  For the assignment of practical session 01, please see this notebook:
+&nbsp; &nbsp; &nbsp; &nbsp; For the assignment of practical session 01, please see this notebook:
 
-  [P01 - Assignment](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P01/assignment/assignment_instructions.ipynb)
+&nbsp; &nbsp; &nbsp; &nbsp; [P01 - Assignment](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P01/assignment/assignment_instructions.ipynb)
 
 
 Practical session 02
 
-  [P02 - Pairwise alignments](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P02)
+&nbsp; &nbsp; &nbsp; &nbsp; [P02 - Pairwise alignments](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P02)
 
-  For the assignment of practical session 02, please see this notebook:
+&nbsp; &nbsp; &nbsp; &nbsp; For the assignment of practical session 02, please see this notebook:
 
-  [P02 - Assignment](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P02/assignment/assignment_instructions.ipynb)
+&nbsp; &nbsp; &nbsp; &nbsp; [P02 - Assignment](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P02/assignment/assignment_instructions.ipynb)
 
 Practical session 03
 
-  [P03 - Multiple sequence alignments](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P03)
+&nbsp; &nbsp; &nbsp; &nbsp; [P03 - Multiple sequence alignments](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P03)
 
-  For the assignment of practical session 03, please see this notebook:
+&nbsp; &nbsp; &nbsp; &nbsp; For the assignment of practical session 03, please see this notebook:
 
-  [P03 - Assignment](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P03/assignment/assignment_instructions.ipynb)
+&nbsp; &nbsp; &nbsp; &nbsp; [P03 - Assignment](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P03/assignment/assignment_instructions.ipynb)
 
 Practical session 04
 
-  [P04 - Phylogenetic trees](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P04)
+&nbsp; &nbsp; &nbsp; &nbsp; [P04 - Phylogenetic trees](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P04)
 
 Happy programming!
