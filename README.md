@@ -92,13 +92,15 @@ The course will be divided into theoretical, practical, and methodological cases
 
 ### Practical Sessions
 
-Practical session 01 <br />
+<pre>
+Practical session 01 
 
-  [P01 - Working with sequence data](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P01)
+  [P01 - Working with sequence data](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/practical/P01)
 
   For the assignment of practical session 01, please see this notebook:
 
   [P01 - Assignment](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P01/assignment/assignment_instructions.ipynb)
+</pre>
 
 Practical session 02
 
