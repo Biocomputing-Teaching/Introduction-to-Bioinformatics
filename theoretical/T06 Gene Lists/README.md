@@ -10,6 +10,6 @@ In this session we deal with the [gene ontology](http://geneontology.org/docs/in
 
 >GO is also at the hub of a major effort to represent the vast amount of biomedical knowledge in a computable form. GO is linked to many other biomedical ontologies, and is a foundation for research applying computer science in biology and medicine.
 
-We will use a subset of the electronic exercises (with solutions) accompanying the book chapter ["A Gene Ontology Tutorial in Python"](https://link.springer.com/protocol/10.1007/978-1-4939-3743-1_16) by Alex Warwick Vesztrocy and Christophe Dessimoz, to appear in _The Gene Ontology Handbook_, C Dessimoz and N Skunca Eds, Springer Humana. The complete file is available [here](http://gohandbook.org/doku.php).
+We will use a subset of the electronic exercises (with solutions) accompanying the book chapter ["A Gene Ontology Tutorial in Python"](https://link.springer.com/protocol/10.1007/978-1-4939-3743-1_16) by Alex Warwick Vesztrocy and Christophe Dessimoz, from _The Gene Ontology Handbook_, C Dessimoz and N Skunca Eds, Springer Humana. The complete file is available [here](http://gohandbook.org/doku.php).
 
 You can access the practical exercise [here](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/tree/main/theoretical/T06%20Gene%20Lists/GO%20Tutorial%20in%20Python.ipynb).

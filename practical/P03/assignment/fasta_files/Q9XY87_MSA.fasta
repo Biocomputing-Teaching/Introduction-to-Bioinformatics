@@ -1,0 +1,612 @@
+>sp|P15228|AEP1_MESMA Toxin BmKAEP OS=Mesobuthus martensii OX=34649 PE=1 SV=2
+-MKLFLLLVI-SASMLID-GLVN--ADGYIR----GS-N--GCKVSC--L-LG----NEG
+CNKECR--------A--YGAS-YGYCWT---WKLACWCQGLPDD-K--------TW-KSE
+S---NTCGGKK-------
+>sp|P0C5F1|KURT2_PARGR Toxin PgKL2 OS=Parabuthus granulatus OX=242110 PE=1 SV=1
+----------------------K--IDGYPV----DY-W--NCKRIC--W-YN----NKY
+CNDLCK--------G--LKAD-SGYCWG---WTLSCYCQGLPDNAR--------IK---R
+S---GRCRA---------
+>sp|D9U2A4|LV1A1_LYCMC Lipolysis-activating peptide 1-alpha chain OS=Lychas mucronatus OX=172552 PE=2 SV=1
+-MNITLFCSVFILISLAGLSVSDDVPGNYPM----SL-Y--GNKYSCGVL-GE----NEY
+CRKICK--------S--HGVS-YGYCFN-----SRCWCEYLEDKDVD-------FW-AAH
+K---NHCKNDKLYPPKK-
+>sp|P84810|LV1A_BUTOC Lipolysis-activating peptide 1-alpha chain OS=Buthus occitanus tunetanus OX=6871 PE=1 SV=1
+MMKLVLFGIIVILFSLIGSIHGI--SGNYPL----NP-Y--GGYYYCTIL-GE----NEY
+CKKICR--------I--HGVR-YGYCYD-----SACWCETLKDEDVS-------VW-NAV
+K---KHCKNPYL------
+>sp|Q6WJF5|LV1A_MESMA Lipolysis-activating peptide 1-alpha chain OS=Mesobuthus martensii OX=34649 GN=LVP1a PE=1 SV=3
+MMKFVLFGMIVILFSLMGSIRGDDDPGNYPT----NA-Y--GNKYYCTIL-GE----NEY
+CRKICK--------L--HGVT-YGYCYN-----SRCWCEKLEDKDVT-------IW-NAV
+K---NHCTNTILYPNGK-
+>sp|P0CI44|LVPAY_LYCMC Lipolysis-activating peptide 1-alpha chain OS=Lychas mucronatus OX=172552 PE=2 SV=1
+-MNIILFYFMPILISLPGLLA----SGTYPN----DV-Y--GLTYDCGKL-GE----NEH
+CLKICK--------I--HGVE-YGYCYG-----WRCWCDKLSDKNKL-------FW-DVY
+K---EHC-----------
+>sp|Q86BW9|MKTX2_MESMA Makatoxin-2 OS=Mesobuthus martensii OX=34649 PE=2 SV=1
+-MNYLIVISF-ALLLMTS-VESG--RDAYIA----DS-E--NCTYFC----GS----NPY
+CNDLCT--------E--NGAK-SGYCQWAGRYGNACWCIDLPDKVP--------IR--IP
+G----PCRGR--------
+>sp|Q9NJC5|SC10_MESMA Toxin BmKaTx10 OS=Mesobuthus martensii OX=34649 PE=2 SV=1
+-MNYLVMVSF-ALLLMTG-VESV--RDGYIA----LP-H--NCAYGC----LL----NEF
+CNDLCT--------K--NGAK-IGYCNIQGKYGNACWCIELPDNVP--------IR--VP
+G----RCHPS--------
+>sp|Q9NJC7|SC11_MESMA BmK AGP-SYPU2 OS=Mesobuthus martensii OX=34649 PE=1 SV=1
+-MNYMVIISL-ALLVMTG-VESV--KDGYIA----DD-R--NCPYFC----GR----NAY
+CDGECK--------K--NRAE-SGYCQWASKYGNACWCYKLPDDAR--------IM--KP
+G----RCNGG--------
+>sp|Q9NJC8|SC13_MESMA Toxin BmKaTx13 OS=Mesobuthus martensii OX=34649 PE=2 SV=1
+-MNYLVMISF-ALLLMKG-VESV--RDAYIA----KP-E--NCVYHC----AG----NEG
+CNKLCT--------D--NGAE-SGYCQWGGRYGNACWCIKLPDDVP--------IR--VP
+G----KCHR---------
+>sp|Q9GNG8|SC15_MESMA Toxin BmKaTX15 OS=Mesobuthus martensii OX=34649 PE=2 SV=1
+-MNYLVFFSL-ALLVMTG-VESV--RDGYIA----DD-K--NCAYFC----GR----NAY
+CDDECK--------K--NGAE-SGYCQWAGVYGNACWCYKLPDKVP--------IR--VP
+G----KCNGG--------
+>sp|Q9GQV6|SC16_MESMA Toxin BmKaTx16 OS=Mesobuthus martensii OX=34649 PE=2 SV=1
+-MNYLVMISF-ALLLMTG-VESV--RDAYIA----KP-H--NCVYEC----AR----NEY
+CNDLCT--------K--NGAK-SGYCQWVGKYGNGCWCKELPDNVP--------IR--VP
+G----KCHR---------
+>sp|Q9NJC4|SC17_MESMA Toxin BmKaTx17 (Fragment) OS=Mesobuthus martensii OX=34649 PE=2 SV=1
+-------------LLMTG-VESG--RDAYIA----KN-Y--NCVYHC----FR----DDY
+CNGLCT--------E--NGAD-SGYCYLAGKYGNACWCINLPDDKP--------IR--IP
+G----KCHRR--------
+>sp|P59899|SC2B_CENLI Toxin Cll2b OS=Centruroides limpidus OX=6876 PE=1 SV=1
+-MNSLLMIT--ACLALVG-TVWA--KEGYLV----NHST--GCKYECYKL-GD----NDY
+CLRECK--------QQYGKGA-GGYCYA-----FGCWCTHLYEQAV--------VW-PLP
+K---KTCNGK--------
+>sp|C0HLF8|SC52_CENOR Toxin Co52 OS=Centruroides ornatus OX=2338500 PE=1 SV=1
+----------------------K--EDGYLV----DK-T--GCKKSCYKL-GE----NDY
+CNRECK--------WKHVGGS-YGYCYG-----FGCYCEGLSDSTP--------TW-PLP
+N---KTC-----------
+>sp|Q9UAC9|SCAS_MESMA Beta-toxin BmKAS OS=Mesobuthus martensii OX=34649 PE=1 SV=1
+-MKTVIFLIV-SSLLLIG--VKT--DNGYLL----DKYT--GCKVWC--V-IN----NES
+CNSECK--------I--RGGY-YGYCYF---WKLACFCQGARKS-E--------LW-NYN
+T---NKCNGKL-------
+>sp|P0C5H3|SCB1_LEIHE Beta-mammal/insect toxin Lqhb1 OS=Leiurus hebraeus OX=6884 PE=1 SV=1
+-MKIIIFLIV-SSLMLIG--VKT--DNGYLL----NKAT--GCKVWC--V-IN----NAS
+CNSECK--------L--RRGN-YGYCYF---WKLACYCEGAPKS-E--------LW-AYA
+T---NKCNGKL-------
+>sp|M4GX67|SCBTY_MESMA BmKBT-like peptide OS=Mesobuthus martensii OX=34649 PE=2 SV=1
+-MKAALLLVI-STLMLIG-VLTK--KSGYPI----QH-D--GCKNWC--V-F-----NHF
+CENICE--------T--YGG--SGYCYF---WKLACWCDNIHNWVP--------TW-SRE
+T---NKCRAK--------
+>sp|Q9NBW2|SCBT_MESMA Toxin BmKBT OS=Mesobuthus martensii OX=34649 PE=1 SV=1
+-MKAALLLVI-FSLMLIG-VLTK--KSGYPT----DH-E--GCKNWC--V-L-----NHS
+CGILCE--------G--YGG--SGYCYF---WKLACWCDDIHNWVP--------TW-SRA
+T---NKCRAK--------
+>sp|Q56TT9|SCIT_HOTJU Alpha-insect toxin BjaIT OS=Hottentotta judaicus OX=6863 PE=1 SV=1
+-MNYLVVICF-ALLLMTG-VESG--RDAYIA----DN-L--NCAYTC----GS----NSY
+CNTECT--------K--NGAV-SGYCQWLGKYGNACWCINLPDKVP--------IR--IP
+G----ACRGR--------
+>sp|P56678|SCL3_LEIHE Alpha-like toxin Lqh3 OS=Leiurus hebraeus OX=6884 PE=1 SV=1
+----------------------V--RDGYIA----QP-E--NCVYHC--F-PG----SSG
+CDTLCK--------E--KGGT-SGHCGFKVGHGLACWCNALPDNVG--------II--VE
+G---EKCHS---------
+>sp|P59357|SCL7_LEIHE Alpha-like toxin Lqh7 OS=Leiurus hebraeus OX=6884 PE=1 SV=1
+----------------------V--RDGYIA----KP-E--NCAHHC--F-PG----SSG
+CDTLCK--------E--NGGT-GGHCGFKVGHGTACWCNALPDKVG--------II--VD
+G---VKCH----------
+>sp|Q9BKJ0|SCN3_MESMA Anti-neuroexcitation peptide 3 OS=Mesobuthus martensii OX=34649 PE=2 SV=2
+-MKLSLLLVI-SASMLID-GLVN--ADGYIR----GS-N--GCKISC--L-WG----NEG
+CNKECK--------G--FGAY-YGYCWT---WGLACWCEGLPDD-K--------TW-KSE
+S---NTCGGKK-------
+>sp|C9X4J9|SCNA1_TITDI Toxin TdNa1 OS=Tityus discrepans OX=57059 PE=1 SV=1
+-MKGIILFI--SCLMLIDVVVES--RDAYPA----DW-R--GCKFSC--F-WGS---SSW
+CNEECT--------S--LGGS-SGYCAW-----PACWCYGLPDSVR--------YY----
+N---NKCHK---------
+>sp|C9X4K1|SCNA3_TITDI Toxin TdNa3 OS=Tityus discrepans OX=57059 PE=1 SV=1
+-MKGMIMLI--SCLMLIDVVVES--KNGYII----EP-K--GCKYSC--S-WGS---STW
+CNRECK--------F--KKGS-SGYCAW-----PACWCYGLPDNVK--------IF-DYY
+N---NKCGK---------
+>sp|C9X4K3|SCNA5_TITDI Toxin TdNa5 OS=Tityus discrepans OX=57059 PE=2 SV=1
+-MKTIIFFI--ACLMLIDVVVES--KDGYII----EH-R--GCKYSC--F-FGT---NSW
+CNTECT--------L--KKGS-SGYCAW-----PACWCYGLPDNVK--------IF-DSN
+N---NKCGK---------
+>sp|C9X4K4|SCNA6_TITDI Toxin TdNa6 OS=Tityus discrepans OX=57059 PE=1 SV=1
+-MKGMIMLI--SCLMLIEVVVGG--KEGYLL----DRSN--GCKRSC--F-FGS---TSW
+CNTECK--------S--KSAD-KGYCAW-----PSCYCYGFTDDSK--------MW-HLK
+T---NKC-----------
+>sp|C9X4J8|SCNA7_TITDI Toxin TdNa7 OS=Tityus discrepans OX=57059 PE=1 SV=1
+-MTRFVLFL--SCFFLIGMVVEC--KDGYLM----GP-D--GCKLDC--L-MRK---GTF
+CAETCS--------L--RKGK-DGYCYA---W-LACYCYNMPDWVK--------TW-ERA
+T---NTCGKGK-------
+>sp|C9X4K6|SCNA8_TITDI Toxin TdNa8 OS=Tityus discrepans OX=57059 PE=1 SV=1
+-MNYLTLIAA-ASLLTAG-TESK--KDGYPV----KE-G--DCAFPC--G-YD----NAY
+CDKLCK--------E--RKAD-SGYCYW---GNILCYCYGLPDKAA--------IK---G
+Y---GRCRPGKK------
+>sp|Q68PG5|SCX10_CENEX Neurotoxin Cex10 OS=Centruroides exilicauda OX=6879 PE=2 SV=1
+-------------------------KDGYLV----EV-T--GCKKSCYKL-GE----NKF
+CNRECK--------MKHRGGS-YGYCYF-----FGCYCEGLAESTP--------TW-PLP
+N---KSCGKK--------
+>sp|Q1I173|SCX11_TITDI Toxin Td11 (Fragment) OS=Tityus discrepans OX=57059 PE=2 SV=1
+----------------IGVAVEC--KDGYLM----GS-D--GCKLDC--L-MKK---GTY
+CADECS--------R--VKGK-DGYCYL---W-LACYCYNMPDSVK--------VW-ERA
+T---NRCGKGK-------
+>sp|H1ZZI0|SCX11_TITOB Toxin To11 OS=Tityus obscurus OX=1221240 PE=2 SV=1
+-MTRFVLFI--SCFFLIGMIVEC--KDGYLV----GN-D--GCKYNC--L-TRP---GHY
+CANECS--------R--VKGK-DGYCYA---W-MACYCYNMPNWVK--------TW-SRA
+T---NKCGKRK-------
+>sp|Q68PG3|SCX12_CENEX Toxin Cex12 OS=Centruroides exilicauda OX=6879 PE=2 SV=1
+-MNSLLMIT--TCLILVG-TVWA--NDGYLF----DKRK--RCTLECIDK-TG----DKN
+CDRNCK--------K--EGGS-FGKCSY-----SACWCKGLPGITP--------IS-RTP
+G---KTCRK---------
+>sp|Q1I172|SCX12_TITDI Toxin Td12 (Fragment) OS=Tityus discrepans OX=57059 PE=2 SV=1
+----------------IGMVIEC--KDGYLM----EP-N--GCKRGC--L-TRP---ARY
+CANECS--------R--VKGT-DGYCYA---W-LACYCYNMPNWVK--------TW-DRA
+T---NTCGRGK-------
+>sp|H1ZZI1|SCX12_TITOB Toxin To12 OS=Tityus obscurus OX=1221240 PE=2 SV=1
+-MKGLILFI--CGFMMIG-VILA--KEGYPM----DH-E--GCKFSC--F-IRP---SGF
+CERYCK--------T-HLSAS-TGYCAW-----PACYCYGVPANQK--------VW-DYY
+N---NKCGK---------
+>sp|Q68PG2|SCX13_CENEX Neurotoxin Cex13 (Fragment) OS=Centruroides exilicauda OX=6879 PE=2 SV=1
+---------------ATG-NVWA--KDGYLV----IIKT--GCKYNCYIL-GK----NKY
+CNSECK--------E--VGAG-YGYCYA-----FGCWCEGLPESIP--------TW-PLP
+D---KTCGTK--------
+>sp|H1ZZI2|SCX13_TITOB Toxin To13 OS=Tityus obscurus OX=1221240 PE=2 SV=1
+-MKTLFLII--TSFILLE-VEGI--KNGYPR----DS-K--GCTFEC--G-QDAKHGDDY
+CDKMCK--------T-TLKGE-GGDCDF---EYAECWCDNIPDTVV--------TW-KNK
+E---PKCKQI--------
+>sp|H1ZZI3|SCX14_TITOB Toxin To14 OS=Tityus obscurus OX=1221240 PE=2 SV=1
+-MNCLMLIFV-VFLLAFG-VECK--KDDYPV----DT-AKRNCMLDCNVW-DD----EGY
+CDKFCK--------G--RKAD-SGYCYK---LKAACYCYGLPDDSP--------TK---T
+S---GRCNPNVR------
+>sp|H1ZZI4|SCX15_TITOB Toxin To15 OS=Tityus obscurus OX=1221240 PE=2 SV=1
+-MKGIILLI--SCLMLIEVVVGG--KEGYPL----DS-S--GCKAGC--F-FGT---NSW
+CNTECK--------R--KSAA-KGYCAW-----PSCYCYEFTDDSK--------IW-NAK
+T---NKCYK---------
+>sp|D5HR50|SCX1A_ANDCR Alpha-toxin Ac1 (Fragment) OS=Androctonus crassicauda OX=122909 PE=2 SV=1
+---YIVMISL-ALVVMIG-VESV--RDGYIV----YP-N--NCVYHC--I--------PA
+CDGLCK--------K--NGGT-SGSCSFLIGSGIACWCKDLPDNVP--------IK--DP
+S---QKCTR---------
+>sp|P0DQH5|SCX1A_TITFA Beta-toxin Tf1a OS=Tityus fasciolatus OX=203543 PE=1 SV=1
+-MKGMILFI--SCLLLIGIVVEC--KEGYLM----DH-E--GCKLSC--F-IRP---SGY
+CGSECK--------I--KKGS-SGYCAW-----PACYCYGLPNWVK--------VW-ERA
+T---NRCGKK--------
+>sp|Q86SE1|SCX1_ANDAM Toxin Aam1 OS=Androctonus amoreuxi OX=112024 GN=H1 PE=1 SV=1
+-MNYLVMISL-ALLLMIG-VESV--RDGYIV----YP-H--NCVYHC--I--------PS
+CDGLCK--------E--NGAT-SGSCGYIIKVGIACWCKDLPENVP--------IY--DR
+S---YKCYR---------
+>sp|P01479|SCX1_ANDAU Neurotoxin-1'' OS=Androctonus australis OX=6858 PE=1 SV=3
+-MNYLVMISL-ALLLMIG-VESK--RDGYIV----YP-N--NCVYHC--V--------PP
+CDGLCK--------K--NGGS-SGSCSFLVPSGLACWCKDLPDNVP--------IK--DT
+S---RKCTR---------
+>sp|Q68PH4|SCX1_CENEX Neurotoxin Cex1 OS=Centruroides exilicauda OX=6879 PE=1 SV=1
+-MNSLLMIT--TCLVLFG-TVWA--KEGYLV----SKST--GCKYECFWL-GK----NEG
+CDKECK--------APNQGGG-YGYCHA-----FACWCENLPESTP--------TY-PIP
+G---KSCGKK--------
+>sp|P15223|SCX1_CENNO Toxin Cn1 OS=Centruroides noxius OX=6878 PE=1 SV=3
+-MNSLLMIT--ACFVLIG-TVWA--KDGYLV----DA-K--GCKKNCYKL-GK----NDY
+CNRECR--------MKHRGGS-YGYCYG-----FGCYCEGLSDSTP--------TW-PLP
+N---KTCSGK--------
+>sp|P01492|SCX1_CENSC Toxin CsEv1 OS=Centruroides sculpturatus OX=218467 PE=1 SV=3
+-MNSLLIIT--ACFALVG-TVWA--KEGYLV----KKSD--GCKYDCFWL-GK----NEH
+CDTECK--------AKNQGGS-YGYCYA-----FACWCEGLPESTP--------TY-PLP
+N---KSCGKK--------
+>sp|C0HLR6|SCX1_RHOCR Beta-toxin Rc1 (Fragments) OS=Rhopalurus crassicauda OX=2718978 PE=1 SV=1
+-------------------------KGGYPV----DS-K--GCKISC--V-IN----NEY
+CSRDCT----------------SGYCYFL-RWGLACWCDGVPPQ-R--------------
+------------------
+>sp|Q1I180|SCX1_TITDI Toxin Td1 OS=Tityus discrepans OX=57059 PE=1 SV=2
+-MIRFILFI--SCFFLIGMVIEC--KDGYLM----EP-N--GCKRGC--L-TRP---ARY
+CPNECS--------R--LKGK-DGYCYL---W-LACYCYNMPESAP--------VW-ERA
+T---NRCGKGK-------
+>sp|C0HLL9|SCX1_TITMA Beta-mammal toxin Tma1 OS=Tityus macrochirus OX=2599738 PE=1 SV=1
+-----------------------K-KEGYLV----GN-D--GCKYGC--F-TRP---AQY
+CESECS--------L--RKGT-GGYCYA---W-LACYCYNMPDWVP--------TW-NSA
+K---NRCGK---------
+>sp|P60214|SCX1_TITOB Beta-mammal/insect toxin To1 OS=Tityus obscurus OX=1221240 PE=1 SV=2
+-MTRFVLFI--SCFFLIDMIVECK-KEGYLV----GN-D--GCKYGC--I-TRP---HQY
+CVHECE--------L--KKGT-DGYCAY---W-LACYCYNMPDWVK--------TW-SSA
+T---NKCKGK--------
+>sp|Q2NME3|SCX1_TITZU Beta-toxin Tz1 OS=Tityus zulianus OX=288787 PE=1 SV=1
+-MTRFVLFI--CCFFLIGMVVEC--KDGYLV----GN-D--GCKYSC--F-TRP---GTY
+CANECS--------R--VKGK-DGYCYA---W-MACYCYSMPNWVK--------TW-DRA
+T---NRCGRGK-------
+>sp|E7CLP6|SCX2F_RHOJU Putative beta-neurotoxin RjAa2f OS=Rhopalurus junceus OX=419285 PE=3 SV=1
+-MKILIFII--ASFMLIG--VEC--KEGYPM----GS-D--GCKISC--V-VN----NEY
+CKGQCSYISTQEDKK--WKGS-DGYCYF---WGLACYCTGLPENAK--------VW-DSK
+T---NKCGG---------
+>sp|Q86SE0|SCX2_ANDAM Toxin Aam2 OS=Androctonus amoreuxi OX=112024 PE=1 SV=1
+-MNYLITISL-ALLLMTG-VASG-VRDGYIA----DA-G--NCGYTC----VA----NDY
+CNTECT--------K--NGAE-SGYCQWFGRYGNACWCIKLPDKVP--------IK--VP
+G----KCNGR--------
+>sp|P01493|SCX2_CENSC Toxin CsEv2 OS=Centruroides sculpturatus OX=218467 PE=1 SV=2
+-MNSLLIIT--ACLFLIG-TVWA--KEGYLV----NKST--GCKYGCLKL-GE----NEG
+CDKECK--------AKNQGGS-YGYCYA-----FACWCEGLPESTP--------TY-PLP
+N---KSCSRK--------
+>sp|P0DJK8|SCX2_ISOMC Beta-toxin Im-2 OS=Isometrus maculatus OX=497827 PE=1 SV=1
+-------------------------KDGYPMVRAGRE-K--GCKIWC--V-IN----NES
+CDSECK--------I--RKGK-KGYCYF---WKLACYCEGLPANEQ--------VW-TYE
+K---NTCKP---------
+>sp|P15221|SCX2_MESEU Toxin BeI2 OS=Mesobuthus eupeus OX=34648 PE=1 SV=1
+-------------------------ADGYVK----GK-S--GCKISC--F-LD----NDL
+CNADCK--------Y--YGGKLNSWCIP--DKSGYCWCPNKGWNSI-----------KSE
+T---NTC-----------
+>sp|Q1I179|SCX2_TITDI Toxin Td2 OS=Tityus discrepans OX=57059 PE=1 SV=2
+-MTRFVLFL--NCFFLICMVVEC--KEGYLM----GA-D--GCKRSC--L-TRP---GHY
+CANECS--------R--VKGT-DGYCYA---W-LACYCYNMPNWVK--------TW-DRA
+T---NTCGRGK-------
+>sp|C0HJM9|SCX2_TITFA Toxin Tf2 OS=Tityus fasciolatus OX=203543 PE=1 SV=1
+-MKRFLLFI--SILMMIGTIVVG--KEGYAM----DH-E--GCKFSC--F-IRP---SGF
+CDGYCK--------T-HLKAS-SGYCAW-----PACYCYGVPSNIK--------VW-DYA
+T---NKCGK---------
+>sp|P60212|SCX2_TITOB Alpha-toxin To2 OS=Tityus obscurus OX=1221240 PE=1 SV=3
+-MIRFVLFI--SCFFLIGTVVECN-KDGYLM----EG-D--GCKMGC--L-TRK---ASY
+CVDQCK--------E--VGGK-DGYCYA---W-LSCYCYNMPDSVE--------IW-DSK
+N---NKCGKGK-------
+>sp|P84631|SCX2_TITPA Beta-mammal toxin Tpa2 OS=Tityus pachyurus OX=288781 PE=1 SV=1
+-----------------------K-KEGYLV----GN-D--GCKYSC--F-TRP---AQY
+CVHECE--------L--RKGT-DGYCYA---W-LACYCYNMPDHVR--------TW-SRA
+T---NRCGS---------
+>sp|E7CLP1|SCX32_RHOJU Putative beta-neurotoxin RjAa32 (Fragment) OS=Rhopalurus junceus OX=419285 PE=2 SV=1
+-------------------------KEGYPM----GR-D--GCKISC--V-IN----NNF
+CKVECQ-------AK--WRQS-DGYCYF---WGLSCYCTIYQKTPRFGILAPINVE-DNV
+TV--TQCLGHLINVMYSH
+>sp|Q5G8A8|SCX38_TITCO Toxin-like TcoNTxP1 OS=Tityus costatus OX=309814 PE=1 SV=1
+-MKRMILFT--SCLLLIDIVVGG--KEGYPA----DS-K--GCKVTC--F-LTA---AGY
+CNTECK--------L--QKAS-SGYCAW-----PACYCYGLPDSAS--------VW-DSA
+T---NKCGKK--------
+>sp|Q86SD9|SCX3_ANDAM Toxin Aam3 OS=Androctonus amoreuxi OX=112024 PE=1 SV=1
+-MNYLVMISL-ALLFMIG-VESA--RDGYIA----QP-N--NCVYHC--I-PL----SPG
+CDKLCR--------E--NGAT-SGKCSFLAGSGLACWCVALPDNVP--------IK--II
+G---QKCTR---------
+>sp|P01480|SCX3_ANDAU Alpha-mammal toxin Aah3 OS=Androctonus australis OX=6858 PE=1 SV=3
+-MNYLVMISL-ALLLMTG-VESV--RDGYIV----DS-K--NCVYHC--V--------PP
+CDGLCK--------K--NGAK-SGSCGFLIPSGLACWCVALPDNVP--------IK--DP
+S---YKCHSR--------
+>sp|P13488|SCX3_BUTOM Alpha-like toxin Bom3 OS=Buthus occitanus mardochei OX=6869 PE=1 SV=1
+----------------------G--RDGYIA----QP-E--NCVYHC--F-PG----SSG
+CDTLCK--------E--KGAT-SGHCGFLPGSGVACWCDNLPNKVP--------IV--VG
+G---EKCH----------
+>sp|Q7Z1K9|SCX3_CENLI Toxin Cll3 OS=Centruroides limpidus OX=6876 PE=2 SV=1
+-MNSLLMIT--ACLAVIG-TVWA--KEGYIV----NYYD--GCKYACLKL-GE----NDY
+CLRECK--------ARYYKSA-GGYCYA-----FACWCTHLYEQAV--------VW-PLP
+N---KTCYGK--------
+>sp|P15225|SCX3_ORTSC Neurotoxin Os3 OS=Orthochirus scrobiculosus OX=6892 PE=1 SV=1
+---------------------GV--RDGYIA----QP-H--NCVYHC--F-PG----SGG
+CDTLCK--------E--NGAT-QGSSCFILGRGTACWCKDLPDRVG--------VI--VD
+G---EKCH----------
+>sp|P01496|SCX3_TITSE Alpha-mammal toxin Ts3 (Fragment) OS=Tityus serrulatus OX=6887 PE=1 SV=4
+-------LVV-VCLLTAG-TEGK--KDGYPV----EY-D--NCAYIC--WNYD----NAY
+CDKLCK--------D--KKAD-SGYCYW---VHILCYCYGLPDSEP--------TK---T
+N---GKCKSGKK------
+>sp|D5HR53|SCX4A_ANDCR Anti-insect Ac4 OS=Androctonus crassicauda OX=122909 PE=3 SV=1
+------MISL-SLLLMIG-VESV--RDGYIV----DF-K--NCVYRC--V--------PP
+CDGLCK--------K--NGGK-GGSCSFLIGSGLACWCNALPDNVP--------IK--DP
+L---HKCPKR--------
+>sp|P45658|SCX4_ANDAU Toxin Aah4 OS=Androctonus australis OX=6858 PE=1 SV=2
+-MNYLIMFSL-ALLLVIG-VESG--RDGYIV----DS-K--NCVYHC--Y--------PP
+CDGLCK--------K--NGAK-SGSCGFLVPSGLACWCNDLPENVP--------IK--DP
+S---DDCHKR--------
+>sp|Q68PH1|SCX4_CENEX Neurotoxin Cex4 OS=Centruroides exilicauda OX=6879 PE=2 SV=1
+-MNSLLMIT--ACLFLIG-TVWA--KEGYLV----NKST--GCKYECFWL-GK----NEF
+CDKECK--------AKNQGGS-YGYCYS-----FACWCEGLPESTS--------TY-PLP
+N---KSCGRK--------
+>sp|F8UWP3|SCX4_CENVT Alpha-toxin CvIV4 OS=Centruroides vittatus OX=120091 PE=1 SV=2
+-MNYFILILV-AALLILD-VNCK--KDGYPV----EH-S--GCKYTC----WK----NEY
+CDKVCK--------D--LKGE-GGYCYI----NLTCWCTGLPDNVP--------LK---T
+N---QRCNGKRK------
+>sp|P60215|SCX4_TITOB Toxin To4 OS=Tityus obscurus OX=1221240 PE=1 SV=2
+-MTRFVLFI--SCFFLIGMIVEC--KDGYLM----EY-G--GCKMSC--L-MKK---GTF
+CAEECT--------R--MKGK-DGYCYA---W-LACYCYNMPDWVK--------IW-NRA
+T---NKCGKRK-------
+>sp|H1ZZI5|SCX4_TITPA Toxin Tpa4 OS=Tityus pachyurus OX=288781 PE=2 SV=1
+-MNYFVLIAV-ACLLTAG-TESK--KDGYPL----EY-D--NCAYDC--LGYD----NKK
+CDKLCK--------D--KKAD-SGYCYW---AHILCYCYGLPDNEP--------IK---T
+S---GRCRPGKK------
+>sp|O77463|SCX4_TITSE Toxin Ts4 OS=Tityus serrulatus OX=6887 PE=1 SV=1
+-MKRMILFI--SCLLLIDIVVGG--REGYPA----DS-K--GCKITC--F-LTA---AGY
+CNTECT--------L--KKGS-SGYCAW-----PACYCYGLPDSVK--------IW-TSE
+T---NKCGKK--------
+>sp|E7D082|SCX5B_MESEU Sodium channel neurotoxin MeuNaTxalpha-5* OS=Mesobuthus eupeus OX=34648 PE=1 SV=1
+-MNYLILISF-ALLVITG-VESA--RDAYIA----KP-H--NCVYEC--FDAF----SSY
+CNGVCT--------K--NGAK-SGYCQILGTYGNGCWCIALPDNVP--------IR--IP
+G----KCHRR--------
+>sp|Q7YT61|SCX5C_CENLI Toxin Cll5c OS=Centruroides limpidus OX=6876 PE=2 SV=1
+-MNSLLMIT--ACLVLFG-TVWA--KEGYLV----NKST--GCKYGCFWL-GK----NEN
+CDMECK--------AKNQGGS-YGYCYS-----FACWCEGLPDSTP--------TY-PLP
+N---KSCSKK--------
+>sp|P58779|SCX5_CENSC Alpha-like toxin CsEv5 OS=Centruroides sculpturatus OX=218467 PE=1 SV=1
+-------------------------KDGYPV----DS-K--GCKLSC--V-A-----NNY
+CDNQCK--------M--KKAS-GGHCYA-----MSCYCEGLPENAK--------VS-DSA
+T---NIC-----------
+>sp|P0C5K8|SCX5_TITBA Toxin TbTx5 OS=Tityus bahiensis OX=50343 PE=3 SV=1
+-MNDFVFLVV-ACLLTAG-TEGK--KDGYPV----EG-D--NCAFVC--FGYD----NAY
+CDKLCK--------D--KKAD-SGYCYW---VHILCYCYGLPDKEP--------TK---T
+N---GRCKPGKK------
+>sp|P84693|SCX5_TITOB Toxin To5 OS=Tityus obscurus OX=1221240 PE=1 SV=2
+-MKAIIFFI--GCLMLIDLVAGS--RSGYPV----TQ-K--GCVYSC--F-WGS---NWW
+CNAECT--------A--LGGS-SGYCAW-----PSCWCYSLPDNRN--------IW-GSY
+P---NNCGKK--------
+>sp|M1INJ1|SCX6_ANDCR Putative insect toxin Acra6 OS=Androctonus crassicauda OX=122909 PE=3 SV=1
+--------V----------------RDGYIR----RK-D--EFKFKC--Y-VD----GKD
+CDDVCK--------S--EGGS-AGYCTA---LGFLCYCAGLPDD-K--------AW-KPT
+S---S-------------
+>sp|Q7Z1K5|SCX6_CENLI Toxin Cll6 OS=Centruroides limpidus OX=6876 PE=2 SV=1
+-MNSLLMII--GCLVLIG-TVWT--KEGYLV----NMKT--GCKYGCYEL-GD----NGY
+CDRKCK--------A--ESGN-YGYCYT-----VGCWCEGLPNSKP--------TW-PLP
+G---KSCSGK--------
+>sp|Q1I167|SCX6_TITDI Toxin Td6 (Fragment) OS=Tityus discrepans OX=57059 PE=2 SV=1
+----------------IGMIVECE-KEGYLM----EA-N--GCKRSC--T-LRP---GHY
+CANECS--------Y--VKGK-NGYCYA---W-VACYCYNMPDSVK--------IW-DSA
+T---NTCGRGK-------
+>sp|M1JB54|SCX7_ANDCR Putative sodium channel alpha-toxin Acra7 OS=Androctonus crassicauda OX=122909 PE=3 SV=1
+----------------------V--RDGYIV----KP-T--NCVIHC--I-PF----SPG
+CDKDCK--------E--KGAA-SGYCQAFGKHGNGCWCIDLPDKVP--------IK--DP
+N---QDCTR---------
+>sp|P59865|SCX7_CENLI Toxin Cll7 OS=Centruroides limpidus OX=6876 PE=2 SV=1
+-MNSLLMIT--ACLVLFG-TVWA--KEGYLV----NTYT--GCKYICWKL-GE----NKY
+CIDECK--------E--IGAG-YGYCYG-----FGCYCEGFPENKP--------TW-PLP
+N---KTCGRK--------
+>sp|P59854|SCX7_MESMA Alpha-like toxin BmK-M7 OS=Mesobuthus martensii OX=34649 PE=1 SV=1
+----------------------V--RDGYIA----LP-H--NCAYGC----LN----NEY
+CNNLCT--------K--DGAK-IGYCNIVGKYGNACWCIQLPDNVP--------IR--VP
+G----RCHPA--------
+>sp|Q1I164|SCX7_TITDI Toxin Td7 (Fragment) OS=Tityus discrepans OX=57059 PE=2 SV=1
+----------------IGMAVEC--KDGYLV----GA-D--GCKYGC--F-TRP---GHF
+CASECS--------L--LKGK-DGYCYA---W-LACYCYNLPDSVP--------VW-DSA
+T---NRCGKGK-------
+>sp|H1ZZI8|SCX7_TITPA Toxin Tpa7 OS=Tityus pachyurus OX=288781 PE=2 SV=1
+-MKGMILLI--SCLMLIEVVVEC--KEGYPL----DTLN--GCKVGC--F-FGT---NSW
+CNDKCK--------S--KTAA-KGYCAW-----PSCYCYGFTDDSK--------IW-DLK
+K---NKC-----------
+>sp|M1JMR8|SCX8_ANDCR Sodium channel alpha-toxin Acra8 OS=Androctonus crassicauda OX=122909 PE=3 SV=1
+----------------------V--RDGYIV----DD-K--NCTFFC----GR----NAY
+CNDECK--------K--KGGE-SGYCQWASPYGNACWCYKLPDRVP--------IK--EK
+G----RCNGR--------
+>sp|P0CH40|SCX8_CENEL Beta-toxin CeII8 OS=Centruroides elegans OX=217897 PE=1 SV=1
+----------------------K--KDGYPV----NM-E--ECRYNC----WK----NAY
+CDKLCK--------E--KKGQ-SGYCYG---WNLSCWCIGLPDNTN--------TK---M
+N---PFCQTAD-------
+>sp|Q68PG7|SCX8_CENEX Toxin Cex8 (Fragment) OS=Centruroides exilicauda OX=6879 PE=2 SV=1
+----------------------A--KEGYLV----NIYT--GCKYSCWLL-GE----NEY
+CIAECK--------E--IGAG-YGYCHG-----FGCWCEQFPENKP--------SY-PYP
+E---KSCGRK--------
+>sp|Q7Z1K4|SCX8_CENLI Toxin Cll8 (Fragment) OS=Centruroides limpidus OX=6876 PE=2 SV=1
+-------------------TVSA--KEGYLV----KKSN--GCKYECFKL-GE----NEH
+CDTECK--------APNQGGS-YGYCDT-----FECWCEGLPESTP--------TW-PLP
+N---KSCGKK--------
+>sp|Q95WD1|SCX8_CENSC Toxin CsE8 OS=Centruroides sculpturatus OX=218467 PE=2 SV=1
+-MNSLLMIT--ACLVLFG-TVWS--EKGYLV----HEDT--GCRYKCTFS-GE----NSY
+CDKECK--------S--QGGD-SGICQS-----KACYCQGLPEDTK--------TW-PLI
+G---KLCGRK--------
+>sp|B7SNV8|SCX8_PARGR Toxin Pg8 OS=Parabuthus granulatus OX=242110 PE=1 SV=1
+-MNYLLVLTL-ASLLALG-VNGK--KDGYPV----DH-A--NCKYEC--W-YD----DKY
+CDDLCK--------K--RKAD-SGYCYK---LNISCYCLGLPDNAA--------IK---D
+Y---GRCRP---------
+>sp|Q1I163|SCX8_TITDI Toxin Td8 OS=Tityus discrepans OX=57059 PE=1 SV=2
+-MTRFVLFL--SCFFLIGMVVEC--KDGYLV----GD-D--GCKMHC--F-TRP---GHY
+CASECS--------R--VKGK-DGYCYA---W-LACYCYNMPNWAP--------IW-NSA
+T---NRCRGRK-------
+>sp|H1ZZH7|SCX8_TITOB Toxin To8 OS=Tityus obscurus OX=1221240 PE=2 SV=1
+-MTRFVLFI--SCFFLIGMVVEC--KEGYLL----GS-R--GCKMNC--L-TRP---EKF
+CELECS--------L--VGGE-NGYCAY---W-LACYCYNVPESVK--------LW-ESD
+T---NECGKRK-------
+>sp|P04099|SCX9_BUTOC Alpha-toxin Bot9 OS=Buthus occitanus tunetanus OX=6871 PE=1 SV=2
+-----------------A-EIKV--RDGYIV----YP-N--NCVYHC----GL----NPY
+CNDLCT--------K--NGAK-SGYCQWLTKWGNACYCYALPEKVP--------IK--DP
+S---YKCYS---------
+>sp|F1CGT6|SCX9_CENSU Beta-neurotoxin Css9 OS=Centruroides suffusus OX=6880 PE=1 SV=1
+-MKLLMLIV---ALMIIG--VQS--KDGYPM----DH-K--GCKISC--V-IN----NKY
+CETECV-------TV--LKGK-KGYCYF---WKLACYCEGLPNWAK--------VW-DRA
+T---NKCRA---------
+>sp|Q9BLM4|SCXA_ANDAU Toxin AahP1005 OS=Androctonus australis OX=6858 PE=2 SV=1
+-MNYLVMISL-ALLFMTG-VESK--KDGYIV----DD-K--NCTFFC----GR----NAY
+CNDECK--------K--KGAE-SGYCQWASPYGNACYCYKLPDRVS--------TK--KK
+G----GCNGR--------
+>sp|Q94435|SCXA_CENNO Insect-toxin Cn10 (Fragment) OS=Centruroides noxius OX=6878 PE=1 SV=2
+-------IT--ACLVLIG-TVCA--KEGYLV----NKST--GCKYNCLIL-GE----NKN
+CDMECK--------AKNQGGS-YGYCYK-----LACWCEGLPESTP--------TY-PIP
+G---KTCRTK--------
+>sp|O61705|SCXA_MESMA Neurotoxin BmK-M10 OS=Mesobuthus martensii OX=34649 PE=1 SV=1
+-MNYLVMISF-ALLLMKG-VESV--RDAYIA----KP-E--NCVYEC----GI----TQD
+CNKLCT--------E--NGAE-SGYCQWGGKYGNACWCIKLPDSVP--------IR--VP
+G----KCQR---------
+>sp|Q9BLM3|SCXB_ANDAU Toxin AahP985 OS=Androctonus australis OX=6858 PE=2 SV=1
+-MNYLVMISL-ALLI-AG-VDSA--RDAYIA----KN-D--NCVYEC----FQ----DSY
+CNDLCT--------K--NGAK-SGTCDWIGTYGDACLCYALPDNVP--------IK--LS
+G----ECHR---------
+>sp|P58296|SCXB_CENNO Toxin Cn11 OS=Centruroides noxius OX=6878 PE=1 SV=1
+----------------------A--RDGYPV----DE-K--GCKLSC--L-IN----DKW
+CNSACH--------S--RGGK-YGYCYT---GGLACYCEAVPDNVK--------VW-TYE
+T---NTC-----------
+>sp|P86992|SCXB_RHOJU Putative beta-neurotoxin (Fragment) OS=Rhopalurus junceus OX=419285 PE=1 SV=1
+-------------------------KEGY-M----GS-D--GCKMSC--V-IN----DQF
+CDTECQ-------AK--LKGS-TGYCYF---XGLACYXXG--------------------
+------------------
+>sp|Q9BLM0|SCXC_ANDAU Probable neurotoxin pcD-993 OS=Androctonus australis OX=6858 PE=2 SV=1
+-MNYLVMISF-ALLLVIG-VESV--RDGYFV----EP-D--NCVVHC--M-PS----SEM
+CDRGCK--------H--NGAT-SGSCKAFSKGGNACWCKGLR------------------
+------------------
+>sp|Q9BLM1|SCXD_ANDAU Probable neurotoxin pcD-996 OS=Androctonus australis OX=6858 PE=2 SV=1
+-MNYLVMISF-ALLLVIG-VESV--RDGYFV----EP-D--NCLVYC--M-PS----PEI
+CDRGCK--------R--YGAT-SGFCKEFSKGENFCWCKGLR------------------
+------------------
+>sp|Q17254|SCXE_BUTOC Alpha-insect toxin Bot14 OS=Buthus occitanus tunetanus OX=6871 PE=2 SV=1
+-MSS-LMIST-AMKGKAP-YRQV--RDGYIA----QP-H--NCAYHC--L-KI----SSG
+CDTLCK--------E--NGAT-SGHCGHKSGHGSACWCKDLPDKVG--------II--VH
+G---EKCHR---------
+>sp|P09982|SCXE_MESEU Toxin BeM14 OS=Mesobuthus eupeus OX=34648 PE=1 SV=1
+----------------------A--RDAYIA----DD-R--NCVYTC----AL----NPY
+CDSECK--------K--NGAD-GSYCQWLGRFGNACWCKNLPDDVP--------IR-KIP
+G---EECR----------
+>sp|P0DPT3|SCXIT_ANDMA Beta-toxin Am IT OS=Androctonus mauritanicus mauritanicus OX=6860 PE=1 SV=1
+-------------------------EHGYLL----DKYT--GCKVWC--V-IN----NES
+CNGECN-------KR--RGGY-YGYCYF---WKLACYCQGARKS-E--------LW-NYK
+T---NKCKS---------
+>sp|P01491|SCXI_CENSC Beta-toxin CsEI OS=Centruroides sculpturatus OX=218467 PE=1 SV=3
+-MNSLLMIT--ACLVLIG-TVWA--KDGYLV----EK-T--GCKKTCYKL-GE----NDF
+CNRECK--------WKHIGGS-YGYCYG-----FGCYCEGLPDSTQ--------TW-PLP
+N---KTCGKK--------
+>sp|P60275|SCXI_TITBA Insect toxin TbIT-1 OS=Tityus bahiensis OX=50343 PE=1 SV=1
+----------------------G--KEGYPV----DS-R--GCKVTC--F-FTG---AGY
+CDKECK--------L--KKAS-SGYCAW-----PACYCYGLPDSVP--------VY-DNA
+S---NKCB----------
+>sp|P86408|SCXN1_MESEU Sodium channel neurotoxin MeuNaTxalpha-1 OS=Mesobuthus eupeus OX=34648 PE=1 SV=2
+-MNSLVMISL-ALLVMTG-VESV--RDGYIA----DD-K--NCAYFC----GR----NAY
+CDEECK--------K--KGAE-SGYCQWAGQYGNACWCYKLPDKVP--------IK--VS
+G----KCNGR--------
+>sp|P86403|SCXN2_MESEU Sodium channel neurotoxin MeuNaTxalpha-2 OS=Mesobuthus eupeus OX=34648 PE=1 SV=2
+-MNYLVMISL-ALLLMTG-VESA--RDAYIA----ND-R--NCVYTC----AL----NPY
+CDSECK--------K--NGAD-SGYCQWFGRFGNACWCKNLPDKVP--------IR--IP
+G----ECRGR--------
+>sp|P86406|SCXNF_MESEU Sodium channel neurotoxin MeuNaTxalpha-15 OS=Mesobuthus eupeus OX=34648 PE=1 SV=2
+MMKIIIFLIV-SSLVLIG--VKT--DNGYLL----DKYT--GCKVWC--V-IN----NES
+CNSECK--------I--RRGN-YGYCYF---WKLACYCEGAPKS-E--------LW-HYE
+T---NKCNGRM-------
+>sp|P46066|SCXV_CENSC Alpha-toxin CsE5 OS=Centruroides sculpturatus OX=218467 PE=1 SV=1
+----------------------K--KDGYPV----DS-G--NCKYEC----LK----DDY
+CNDLCL--------E--RKAD-KGYCYW---GKVSCYCYGLPDNSP--------TK---T
+S---GKCNPA--------
+>sp|Q95WD3|SCXX_CENSC Neurotoxin E1x OS=Centruroides sculpturatus OX=218467 PE=2 SV=1
+-MNSLLMIT--ACLVVIG-TVWA--KEGYLV----DV-K--GCKKNCWKL-GD----NDY
+CNRECK--------WKHIGGS-YGYCYG-----FGCYCEGLPDSTQ--------TW-PLP
+N---KTCGKK--------
+>sp|P68721|SIX1A_LEIHE Beta-insect excitatory toxin LqhIT1a OS=Leiurus hebraeus OX=6884 PE=3 SV=1
+-MKFFLLFL--VVLPIMG-VLGK--KNGYAV----DS-K--GKAPEC--F-L-----SNY
+CNNECT--------K-VHYAD-KGYCCL-----LSCYCFGLNDDKK--------VL-EIS
+GTTKKYCDFTIIN-----
+>sp|P68724|SIX1D_LEIHE Beta-insect excitatory toxin LqhIT1d OS=Leiurus hebraeus OX=6884 PE=1 SV=1
+-MKFFLLFL--VVLPIMG-VLGK--KNGFAV----DS-N--GKAPEC--F-F-----DHY
+CNSECT--------K-VYYAE-KGYCCT-----LSCYCVGLDDDKK--------VL-DIS
+DTRKKLCDFTLFN-----
+>sp|P82811|SIX1_HOTTS Insect toxin BsIT1 OS=Hottentotta tamulus sindicus OX=42519 PE=1 SV=1
+--------------------------DGYIL----MR-N--GCKIPC--L-FG----NDG
+CNKECK--------A--YGGS-YGYCWT---YGLACACEGQPEDKK--------HL-NYH
+K---KTC-----------
+>sp|O61668|SIX1_MESMA Beta-insect excitatory toxin BmKIT1 OS=Mesobuthus martensii OX=34649 PE=1 SV=1
+-MKFFLIFL--VIFPIMG-VLGK--KNGYAV----DS-S--GKVSEC--L-L-----NNY
+CNNICT--------K-VYYAT-SGYCCL-----LSCYCFGLDDDKA--------VL-KIK
+DATKSYCDVQIIG-----
+>sp|P59863|SIX2_BUTOC Beta-toxin BotIT2 OS=Buthus occitanus tunetanus OX=6871 PE=1 SV=1
+--------------------------DGYIK----GY-K--GCKITC--V-IN----DDY
+CDTECK--------A--EGGT-YGYCWK---WGLACWCEDLPDE-K--------RW-KSE
+T---NTC-----------
+>sp|P24336|SIX2_HOTJU Beta-insect depressant toxin BjIT2 OS=Hottentotta judaicus OX=6863 PE=1 SV=1
+-MKLLLLLVI-SASMLLE-CLVN--ADGYIR----KK-D--GCKVSC--I-IG----NEG
+CRKECV--------A--HGGS-FGYCWT---WGLACWCENLPDA-V--------TW-KSS
+T---NTCGRKK-------
+>sp|P82812|SIX2_HOTTS Insect toxin BsIT2 OS=Hottentotta tamulus sindicus OX=42519 PE=1 SV=1
+--------------------------DGYIK----KS-K--GCKVSC--V-IN----NVY
+CNSMCK--------S--LGGS-YGYCWT---YGLACWCEGLPNA-K--------RW-KYE
+T---KTCK----------
+>sp|Q26292|SIX2_LEIHE Beta-insect depressant toxin LqhIT2 OS=Leiurus hebraeus OX=6884 PE=1 SV=1
+-MKLLLLLIV-SASMLIE-SLVN--ADGYIK----RR-D--GCKVAC--L-IG----NEG
+CDKECK--------A--YGGS-YGYCWT---WGLACWCEGLPDD-K--------TW-KSE
+T---NTCGGKK-------
+>sp|P68727|SIX2_MESMA Beta-insect depressant toxin BmKIT2 OS=Mesobuthus martensii OX=34649 PE=1 SV=1
+--------------------------DGYIK----GK-S--GCRVAC--L-IG----NQG
+CLKDCR--------A--YGAS-YGYCWT---WGLACWCEGLPDN-K--------TW-KSE
+S---NTCG----------
+>sp|P0C5I3|SIX3A_LEIHE Beta-insect depressant toxin Lqh-dprIT3a OS=Leiurus hebraeus OX=6884 PE=1 SV=1
+-MKLLLLLTI-SASMLIE-GLVN--ADGYIR----GG-D--GCKVSC--V-IN----HVF
+CDNECK--------A--AGGS-YGYCWA---WGLACWCEGLPAD-R--------EW-DYE
+T---NTCGGKK-------
+>sp|P82813|SIX3_HOTTS Insect toxin BsIT3 OS=Hottentotta tamulus sindicus OX=42519 PE=1 SV=1
+--------------------------DGYIL----NS-K--GCKVSC--V-VS----IVY
+CNSMCK--------S--SGGS-YGYCWT---WGLACWCEGLPNS-K--------RW-TSS
+K---NKCN----------
+>sp|P0DJK9|SIX3_ISOMC Beta-insect depressant toxin Im-3 OS=Isometrus maculatus OX=497827 PE=1 SV=1
+-------------------------KEGYGV----GK-D--GCKISC--V-IG----NEF
+CNKECK-------YS--QKGT-GGYCWT---WGLACWCQGLPENAK--------VW-ESS
+T---NTC-----------
+>sp|P21150|SIX4_ANDAU Toxin AaHIT4 OS=Androctonus australis OX=6858 PE=1 SV=1
+-------------------------EHGYLL----NKYT--GCKVWC--V-IN----NEE
+CGYLCN-------KR--RGGY-YGYCYF---WKLACYCQGARKS-E--------LW-NYK
+T---NKCDL---------
+>sp|P82814|SIX4_HOTTS Insect toxin BsIT4 OS=Hottentotta tamulus sindicus OX=42519 PE=1 SV=1
+--------------------------DGYIK----GN-K--GCKVSC--V-IN----NVF
+CNSMCK--------S--SGGS-YGYCWS---WGLACWCEGLPAA-K--------KWLYAA
+T---NTCG----------
+>sp|P81504|SIX5_ANDAU Insect toxin AaHIT5 OS=Androctonus australis OX=6858 PE=1 SV=1
+--------------------------DGYIK----RH-D--GCKVTC--L-IN----DNY
+CDTECK--------R--EGGS-YGYCYS---VGFACWCEGLPDD-K--------AW-KSE
+T---NTCD----------
+>sp|P59864|SIX6_BUTOC Beta-insect depressant toxin BotIT6 OS=Buthus occitanus tunetanus OX=6871 PE=1 SV=1
+--------------------------DGYPK----QK-N--GCKYDC--I-IN----NKW
+CNGICK--------M--HGGY-YGYCWG---WGLACWCEGLPED-K--------KW-WYE
+T---NKCGR---------
+>sp|Q9Y1U3|SIXC_MESMA Toxin BmKITc OS=Mesobuthus martensii OX=34649 PE=3 SV=2
+-MKLFLLLVI-FASMLND-GLVN--ADGYIR----GS-D--GCKVSC--L-WG----NDF
+CDKVCK--------K--SGGS-YGYCWT---WGLACWCEGLPDN-E--------KW-KYE
+S---NTCGSKK-------
+>sp|O76963|SIXI_ORTSC Insect toxin OsI1 OS=Orthochirus scrobiculosus OX=6892 PE=1 SV=1
+--------------------------DGYPK----QK-D--GCKYSC--T-IN----HKF
+CNSVCK--------S--NGGD-YGYCWF---WGLACWCEGLPDN-K--------MW-KYE
+T---NTCGGKK-------
+>sp|O77091|SIXP_MESMA Beta-insect excitatory toxin BmK IT-AP OS=Mesobuthus martensii OX=34649 GN=IT-AP PE=1 SV=1
+-MKFFLIFL--VIFPIMG-VLGK--KNGYAV----DS-S--GKVAEC--L-F-----NNY
+CNNECT--------K-VYYAD-KGYCCL-----LKCYCFGLADDKP--------VL-DIW
+DSTKNYCDVQIIDLS---
+>sp|D9U2A1|SNA17_LYCMC Neurotoxin LmNaTx17 OS=Lychas mucronatus OX=172552 PE=2 SV=1
+-MKILFVIV--LAAFFIG--VHC--KHGYPVQYSGRE-K--GCKIAC--V-IN----NAS
+CDGECK--------R--RGGR-AGYCYF---WKLACFCEYLPNNSP--------TW-DYK
+T---GKCRV---------
+>sp|D9U297|SNA1_LYCMC Neurotoxin LmNaTx1 OS=Lychas mucronatus OX=172552 PE=2 SV=2
+-MKILIIFV--IAITVVG--VQS--KDGYPIYSTGKS-K--GCKIEC--V-IN----NKY
+CDKECT--------L--KGGS-SGYCYF---WKLACYCEGLPDSVA--------VW-TYA
+E---NTCGR---------
+>sp|P0CI58|SNA64_LYCMC Neurotoxin LmNaTx64.1 OS=Lychas mucronatus OX=172552 PE=3 SV=1
+-MKILFLII--LTAFFIG--VHC--KHGYPIIRAGRD-K--GCKVSC--V-IN----NQY
+CDTECK--------Q--LKGR-RGYCYF---WRLACFCEYLPDYVP--------TW-SRA
+T---NKCKAK--------
+>sp|D9U2A0|SNAAA_LYCMC Neurotoxin LmNaTx10 OS=Lychas mucronatus OX=172552 PE=2 SV=1
+-MNFLIFIAV-ASSLALG-ALCK--KEGYPY----DG-N--NCRYIC----FR----NQY
+CDDLCK--------K--LKGE-SGYCYG---WNQSCYCYGLPDTEK--------TK---P
+D---KRCHSKG-------
+>sp|P0CI53|SNAAL_LYCMC Neurotoxin LmNaTx21.1 (Fragment) OS=Lychas mucronatus OX=172552 PE=2 SV=1
+------LILV-ACLMMSC-VHCK--KDGYPV----DW-N--NCMYDC--G-YD----NAY
+CEKICK--------E--KGGE-SGYCYF---WKISCYCEGLPDNVE--------IK---G
+Y---GRCRG---------
+>sp|P0CI57|SNAB6_LYCMC Neurotoxin LmNaTx11.6 OS=Lychas mucronatus OX=172552 PE=2 SV=1
+-MKIVIIFF--IAMMAVG-VYS---KDGYLV----KK-N--GCAYDCTVL-FG----DSN
+CNGECK--------A--FKAS-WGSCYA-----FACYCRGLPDSVP--------TY--PS
+S---KTCSS---------
+>sp|P0CI50|SNAF_LYCMC Neurotoxin LmNaTx15.1 OS=Lychas mucronatus OX=172552 PE=2 SV=1
+-MNFFILIAS-ACLVLTG-VQCR--KDGYLY----DS-K--NCKYAC----VD----NDY
+CLKECK--------S--KGGY-YGYCYR---WYSSCYCEGLPDKVK--------TE---K
+T---GRCTL---------
+>sp|P0CI51|SNAJ_LYCMC Neurotoxin LmNaTx19 OS=Lychas mucronatus OX=172552 PE=2 SV=1
+-MNHLILIVA-MCLMVIG-VQCL--KDGYLY----DD-V--DCKFSC----WD----NEY
+CRKLCK--------S--KKAV-GGYCWR---WRFSCYCTGLPDNEK--------TE---G
+T---YKCGQGRFLMGKDK
+>sp|P0CI52|SNAU_LYCMC Neurotoxin LmNaTx30 OS=Lychas mucronatus OX=172552 PE=2 SV=1
+-MNNLIIIAV-ASWLVLG-ALCK--KDGYPY----DG-N--NCKYDC----WK----NQY
+CDDLCK--------K--KKGA-SGYCYA---LNLSCYCYGLPDKEK--------TS---V
+K---TKCYKGR-------
+>sp|P0CI81|SNAY1_LYCMC Neurotoxin LmNaTx34.1 OS=Lychas mucronatus OX=172552 PE=2 SV=1
+-MKTVILVV--IALMVIE--VQ---GDGYLMVRAGIE-K--GCKIWC--V-IN----NDY
+CNRDCK--------L--KGGT-YGYCYF---WKLACYCEGLPESSPD-------IW-TYE
+K---NTCSP---------
+>sp|P0CI59|SNAY2_LYCMC Neurotoxin LmNaTx34.2 OS=Lychas mucronatus OX=172552 PE=2 SV=1
+-MKTLILVV--IALMVIE--VK---SDGYLMVRAGRE-K--GCKIWC--V-IN----NEY
+CDKDCK--------L--KGGN-YGYCYF---WKLACYCEGLPTSSPD-------IW-TYE
+K---NTCST---------
+>sp|E7CLP3|SX10F_RHOJU Putative beta-neurotoxin RjAa10f OS=Rhopalurus junceus OX=419285 PE=3 SV=1
+-MKILIFII--ASFMLIG--VWC--KEGYPM----GR-D--GCKIPC--A-LN----HKF
+CKTECQ-------AK--WKGS-DGYCYS---TGMSCYCTNLPENAE--------VW-DPN
+N---NKCVG---------
+>sp|E7CLP2|SX12F_RHOJU Putative beta-neurotoxin RjAa12f OS=Rhopalurus junceus OX=419285 PE=1 SV=1
+-MKILIFII--ASFMLIG--VEC--KEGYPM----GR-D--GCKISC--V-IN----NNF
+CKVECQ-------AK--WRQS-DGYCYF---WGLSCYCTNLPEDAQ--------VW-DSS
+T---NKCGG---------
+>sp|F2YLA3|SX14F_RHOJU Putative beta-neurotoxin RjAa14F OS=Rhopalurus junceus OX=419285 PE=3 SV=1
+-MKILIFII--ASFMLIG--VEC--KEGYPT----NS-E--GCKITC--L-FN----DPY
+CKGKCINLSTQADKK--WKGV-EGYCNR---RDIACYCKNLPENAE--------VW-DPN
+N---NKCVG---------
+>sp|E7CLP4|SX15F_RHOJU Putative beta-neurotoxin RjAa15f OS=Rhopalurus junceus OX=419285 PE=3 SV=1
+-MKILIFII--ASFMLIG--VEC--KEGYPM----GR-N--GCKIPC--A-IN----DNI
+CKVECQ-------AK--WKQS-DGYCYS---WGLSCYCTNLLEDAE--------VW-DSS
+N---NKCVG---------
+>sp|P68725|SX21_LEIHE Insect toxin 2-13 OS=Leiurus hebraeus OX=6884 PE=1 SV=1
+-MKLLLLLII-TASMLIE-GLVN--ADVYIR----RH-D--GCKISC--T-VN----DKY
+CDNECK--------S--EGGS-YGYCYA---FG--CWCEGLPND-K--------AW-KSE
+T---NTCGGKK-------
+>sp|P0C292|TX11_ANDCR Toxin Acra1 OS=Androctonus crassicauda OX=122909 PE=1 SV=1
+MMKLVLFSIIVILFSLIGSIHGADVPGNYPL----DS-S--GNKYPCTVL-GD----NQS
+CIDVCK--------K--HGVK-YGYCYS-----FKCWCEFLEDKNVS-------I-----
+------------------
+>sp|E7BLC7|TX30_ANDCR Toxin Acra3 OS=Androctonus crassicauda OX=122909 PE=1 SV=1
+-MK--IIFLV-LMMILSE-VYSD--RDGYPVH---DG-T--NCKYSCDIR-EK----WEY
+CTPLCK--------R--RNAK-TGYCYA-----FACWCIGLPDEVK--------VY-GDD
+G---IFCKSG--------

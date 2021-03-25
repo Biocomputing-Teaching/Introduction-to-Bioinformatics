@@ -1,0 +1,296 @@
+>sp|A3N0A3|IHFB_ACTP2 Integration host factor subunit beta OS=Actinobacillus pleuropneumoniae serotype 5b (strain L20) OX=416269 GN=ihfB PE=3 SV=1
+MTKSELI----ENLVS-----LNPALQVKSVEDGVKEILEQIMLFLERGERVEVRGFGSF
+SLHYRQPRVGRNPKTGESVKLDAKYVPHFKAGKDLKERVDLV------------------
+-----------------------------
+>sp|A6VPK8|IHFB_ACTSZ Integration host factor subunit beta OS=Actinobacillus succinogenes (strain ATCC 55618 / DSM 22257 / 130Z) OX=339671 GN=ihfB PE=3 SV=1
+MTKSELI----ELLAK-----KNPSISTKIVENSVKEILEQMSGSLENSDRIEIRGFGSF
+SLHYRQPRLGRNPKTGESVKLDAKCVPHFKAGKELKERVDFKA-----------------
+-----------------------------
+>sp|A0KJ94|IHFB_AERHH Integration host factor subunit beta OS=Aeromonas hydrophila subsp. hydrophila (strain ATCC 7966 / DSM 30187 / JCM 1027 / KCTC 2358 / NCIMB 9240) OX=380703 GN=ihfB PE=3 SV=1
+MTKSDLI----EQLAA-----SRMHMPAKDVEAAIKEILEQMASTLQNGDRIEIRGFGSF
+SLHYRAPRVGRNPKTGDKVELTGKYVPHFKPGKELRERVNIAE-----------------
+-----------------------------
+>sp|B9JZH2|IHFB_AGRVS Integration host factor subunit beta OS=Agrobacterium vitis (strain S4 / ATCC BAA-846) OX=311402 GN=ihfB PE=3 SV=1
+MIKSELV----QIVAA-----RNPHLYHRDVENIVNAVLDEITDALASGNRVELRGFGAF
+SVKNRPSRTGRNPRTGDTVFVEEKWVPFFKTGKELRERLNPGMDD-EDDGDAD-------
+-----------------------------
+>sp|Q5E3Z3|IHFB_ALIF1 Integration host factor subunit beta OS=Aliivibrio fischeri (strain ATCC 700601 / ES114) OX=312309 GN=ihfB PE=3 SV=1
+MTKSELI----EQLCS-----KKPQLSAKQVEDTVKEILEQMATTLEGGDRIEIRGFGSF
+SLHYREPRLGRNPKTGDKVELDGKFVPHFKPGKELRERVNYS------------------
+-----------------------------
+>sp|Q0AA51|IHFB_ALKEH Integration host factor subunit beta OS=Alkalilimnicola ehrlichii (strain ATCC BAA-1101 / DSM 17681 / MLHE-1) OX=187272 GN=ihfB PE=3 SV=1
+MTKSELI----EVIAG-----KQQHLAHKDVELAVKTLLEQMSETLASGERIEIRGFGSF
+SLHHRPPRIGRNPKTGEPVALPGKYVPHFKPGKELRDRVNAGRHN-PIQS----------
+-----------------------------
+>sp|A8IN83|IHFB_AZOC5 Integration host factor subunit beta OS=Azorhizobium caulinodans (strain ATCC 43989 / DSM 5975 / JCM 20966 / NBRC 14845 / NCIMB 13405 / ORS 571) OX=438753 GN=ihfB PE=3 SV=1
+MIKSELV----QKIAE-----ANPHLYQRDVENIVNAILDQIVDALAQGDRVELRGFGAF
+SVKQREARTGRNPRTGKQVDVSSKVVPYFKTGKEMRERLNGAA-----------------
+-----------------------------
+>sp|A1K4D5|IHFB_AZOSB Integration host factor subunit beta OS=Azoarcus sp. (strain BH72) OX=418699 GN=ihfB PE=3 SV=1
+MTKSELI----AQLAA-----RFPQLVAKDADYAVKMILDAMSDALARGDRIEIRGFGSF
+ALNYRPPRVGRNPKSGEKVHVPEKYVPHFKAGKELRERVDIVE-----------------
+-----------------------------
+>sp|A9IL25|IHFB_BART1 Integration host factor subunit beta OS=Bartonella tribocorum (strain CIP 105476 / IBS 506) OX=382640 GN=ihfB PE=3 SV=1
+MVKSELV----QIIAR-----HNPHLFQRDVENIVNAIFEEISTALANGDRVELRGFGAF
+SVKSRSARNGRNPRTGEAVAVDEKWIPFFKTGKDLRDRLNQ-------------------
+-----------------------------
+>sp|Q7W605|IHFB_BORPA Integration host factor subunit beta OS=Bordetella parapertussis (strain 12822 / ATCC BAA-587 / NCTC 13253) OX=257311 GN=ihfB PE=3 SV=1
+MTKSELI----AALAA-----RYPQLAARDTDYAVKTMLDAMTQALASGQRIEIRGFGSF
+SLSQRSPRIGRNPKSGEQVLVPGKQVPHFKAGKELRERVDLVGND-QGDDSSNGSSD-PL
+QSVMDMHAMH-------------------
+>sp|A9IJJ1|IHFB_BORPD Integration host factor subunit beta OS=Bordetella petrii (strain ATCC BAA-461 / DSM 12804 / CCUG 43448) OX=340100 GN=ihfB PE=3 SV=1
+MTKSELI----AALAA-----RYPQLAARDTDYAVKTMLDAMTQALASGQRIEIRGFGSF
+SLSQRSPRVGRNPKSGEQVLVPGKQVPHFKAGKELRERVDLAGGL-ADTQPDGDAPDQPQ
+PTLLGLHAM--------------------
+>sp|B2S8E6|IHFB_BRUA1 Integration host factor subunit beta OS=Brucella abortus (strain S19) OX=430066 GN=ihfB PE=3 SV=1
+MIKSELV----QIIAS-----RNPHLFQRDVENIVGAVFDEITNALAEGNRVELRGFGAF
+SVKNRPARSGRNPRTGETVDVEEKWVPFFKTGKKLRDRLNGAV-----------------
+-----------------------------
+>sp|B8D999|IHFB_BUCA5 Integration host factor subunit beta OS=Buchnera aphidicola subsp. Acyrthosiphon pisum (strain 5A) OX=563178 GN=ihfB PE=3 SV=1
+MIKSELF----ERIAE-----QKINISNKMIERAAKEMLEHMIISLANGKRIEIRGFGSF
+SLHYRSSRIGRNPKTGKSVKLNEKYVPYFKPGKKLRDRANIHK-----------------
+-----------------------------
+>sp|Q44654|IHFB_BUCAP Integration host factor subunit beta OS=Buchnera aphidicola subsp. Schizaphis graminum (strain Sg) OX=198804 GN=ihfB PE=3 SV=1
+MTKSELF----ERIAE-----RKAHISNKIIECAVKEMLEYISISLSKGKRIEIRGFGTF
+SLHYRSSRIGRNPKTGKKIKLNERYIPYFKPGKQLRDRANYK------------------
+-----------------------------
+>sp|Q057N8|IHFB_BUCCC Integration host factor subunit beta OS=Buchnera aphidicola subsp. Cinara cedri (strain Cc) OX=372461 GN=ihfB PE=3 SV=1
+MIKSELF----ERITE-----KKTYIPAKIIEYVVKNILEYMSLSLEKGNRIEIRGFGSF
+SLHYRFARIGRNPKTGEKVYLKEKYVPHFKPGKQLRDRINNIYKKI--------------
+-----------------------------
+>sp|B1YV36|IHFB_BURA4 Integration host factor subunit beta OS=Burkholderia ambifaria (strain MC40-6) OX=398577 GN=ihfB PE=3 SV=1
+MTKSELV----AQLAL-----RFPQLVLKDADFAVKTMLDAMSDALSKGHRIEIRGFGSF
+GLNRRPARVGRNPKSGEKVQVPEKFVPHFKPGKELRERVDGRAGE----------PL-KA
+DDPDDER----------------------
+>sp|Q9A2H5|IHFB_CAUVC Integration host factor subunit beta OS=Caulobacter vibrioides (strain ATCC 19089 / CB15) OX=190650 GN=ihfB PE=3 SV=1
+MIKSELI----ARLAN-----ENPHLTQKDVERVVGVILERMIGALEDGGRVELRGFGAL
+SVRSRPARTGRNPRTGEAVDVRAKHVPFFKSGKELRARLNADGDE---------------
+-----------------------------
+>sp|Q11C35|IHFB_CHESB Integration host factor subunit beta OS=Chelativorans sp. (strain BNC1) OX=266779 GN=ihfB PE=3 SV=1
+MIKSELV----QTIAN-----RNPHLFLRDVENIVNAIFDEITEALAQGNRVELRGFGAF
+SVKNRPARTGRNPRTGESVHVEEKWVPFFKTGKELRERLNADE-----------------
+-----------------------------
+>sp|Q1QVK5|IHFB_CHRSD Integration host factor subunit beta OS=Chromohalobacter salexigens (strain ATCC BAA-138 / DSM 3043 / CIP 106854 / NCIMB 13768 / 1H11) OX=290398 GN=ihfB PE=3 SV=1
+MTKSELI----EQIAI-----RQPELSAKEVEAAVKIILEDITQSLSSGGRVEIRGFGSF
+SLHFREPRTGRNPKTGDPVDLQGKYVPHFKPGKELREQVNASRAL-GY------------
+-----------------------------
+>sp|Q7NTK9|IHFB_CHRVO Integration host factor subunit beta OS=Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757) OX=243365 GN=ihfB PE=3 SV=1
+MTKSELIARLSERLAE-----RNSQLVYKDAELAVKTILDAMANNLAQGSRIEIRGFGSF
+DLNYRPPRVGRNPKSGASVSVPEKYVPHFKAGKELRERVDLSLLE-QTQA----------
+-----------------------------
+>sp|Q482G2|IHFB_COLP3 Integration host factor subunit beta OS=Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX=167879 GN=ihfB PE=3 SV=1
+MTKSELI----EKLAD-----KLSHLSAKEVEKSIKEILELMAQSLSKGERIEIRGFGSF
+SLHYRAPRVGRNPKTGESVELSGKYVPHFKPGKELRERVNLSVA----------------
+-----------------------------
+>sp|Q1LQG7|IHFB_CUPMC Integration host factor subunit beta OS=Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34) OX=266264 GN=ihfB PE=3 SV=1
+MTKSELV----EKLAA-----RFPQLLLRDADISVKTILDAMSEALADGHRIEIRGFGSF
+GLNKRPPRVGRNPKSGERVLVPEKRVPHFKAGKELRERVDRTVTQ-GGGMNGNGHAP-HG
+KTGQSQLGSQ--SPASLHDDGQLNLVRS-
+>sp|Q46Y54|IHFB_CUPPJ Integration host factor subunit beta OS=Cupriavidus pinatubonensis (strain JMP 134 / LMG 1197) OX=264198 GN=ihfB PE=3 SV=1
+MTKSELV----EKLAA-----RFPQLLLRDADISVKTILDAMSDALADGHRIEIRGFGSF
+GLNRRPPRVGRNPKSGERVLVPEKRVPHFKAGKELRERVDRNLTP-SSGGSGNGHLT-GT
+PSGKGPQGAAPGSPAVLHEGGGLNLARS-
+>sp|Q47GJ8|IHFB_DECAR Integration host factor subunit beta OS=Dechloromonas aromatica (strain RCB) OX=159087 GN=ihfB PE=3 SV=1
+MTKSELI----AQLAE-----RFPQLVAKDADFAVKMILDAMSEALVRGDRIEIRGFGSF
+ALNYRPPRVGRNPKSGEKVSVPAKWVPHFKAGKELRERVDQAI-----------------
+-----------------------------
+>sp|A5EWQ2|IHFB_DICNV Integration host factor subunit beta OS=Dichelobacter nodosus (strain VCS1703A) OX=246195 GN=ihfB PE=3 SV=1
+MTKSELI----ERLVM-----KYPQLRAQDVEDTVKLMIERICHTLEKGDRVEIRGFGSF
+SLHYRESRQGRNPKTGESVRVPAKSIPYFRAGKELRERVDEEINQ---------------
+-----------------------------
+>sp|A4W8T1|IHFB_ENT38 Integration host factor subunit beta OS=Enterobacter sp. (strain 638) OX=399742 GN=ihfB PE=3 SV=1
+MTKSELI----ERLAS-----QQSHIPAKAVEDAVKEMLEHMASTLAQGERIEIRGFGSF
+SLHYRAPRTGRNPKTGDKVDLEGKYVPHFKPGKELRDRANIYGN----------------
+-----------------------------
+>sp|A9H0B5|IHFB_GLUDA Integration host factor subunit beta OS=Gluconacetobacter diazotrophicus (strain ATCC 49037 / DSM 5601 / CCUG 37298 / CIP 103539 / LMG 7603 / PAl5) OX=272568 GN=ihfB PE=3 SV=1
+MTKSELI----AELAA-----ANPHLLSRDVELIVQTIFSEISAALARGDRVELRGFGAF
+TVKKRDARTGRNPRTGEMVAVDEKVVPFFKAGKELRERVNNGAPA-ED------------
+-----------------------------
+>sp|Q0BQI4|IHFB_GRABC Integration host factor subunit beta OS=Granulibacter bethesdensis (strain ATCC BAA-1260 / CGDNIH1) OX=391165 GN=ihfB PE=3 SV=1
+MTKSELI----ASLKA-----DNPHLTERDVETIVSTIFDEISNALARGARVELRGFGAF
+TIKRRDARVGRNPRTGETVSVDEKVVPFFKAGKELRERVNNGTRK-NGGSADAASGG---
+-----------------------------
+>sp|Q7VLR8|IHFB_HAEDU Integration host factor subunit beta OS=Haemophilus ducreyi (strain 35000HP / ATCC 700724) OX=233412 GN=ihfB PE=3 SV=1
+MTKSELI----EKLIA-----LNPSLPEKAVEDGVKDILENIMLTLEQAKRVEIRGFGSF
+SLHYRQPRIGRNPKTGASVKLDAKYVPHFKAGKDLKERVDLV------------------
+-----------------------------
+>sp|Q4QJU8|IHFB_HAEI8 Integration host factor subunit beta OS=Haemophilus influenzae (strain 86-028NP) OX=281310 GN=ihfB PE=3 SV=1
+MTKSELM----EKLSA-----KQPTLSAKEIENMVKDILEFISQSLENGDRVEVRGFGSF
+SLHHRQPRLGRNPKTGDSVNLSAKSVPYFKAGKELKARVDVQA-----------------
+-----------------------------
+>sp|B8F475|IHFB_HAEPS Integration host factor subunit beta OS=Haemophilus parasuis serovar 5 (strain SH0165) OX=557723 GN=ihfB PE=3 SV=1
+MTKSELI----ANLVA-----QYPSLSVKSVDESVKEILEQIMGSLEQGERIEVRGFGSF
+SLHYRQPRVGRNPKTGESVKLDAKYVPHFKAGKELKERVDLA------------------
+-----------------------------
+>sp|Q0I390|IHFB_HAES1 Integration host factor subunit beta OS=Haemophilus somnus (strain 129Pt) OX=205914 GN=ihfB PE=3 SV=1
+MTKSELI----ENLAS-----TNPNVPLKDIENAVKDILEQLSQALENGERIEIRGFGSF
+SLHFRQSRIGRNPKTGEKVDLSAKYVPHFKAGKELKERVNIYS-----------------
+-----------------------------
+>sp|Q2SCF7|IHFB_HAHCH Integration host factor subunit beta OS=Hahella chejuensis (strain KCTC 2396) OX=349521 GN=ihfB PE=3 SV=1
+MTKSELV----EIIAQ-----KQPQLSIKDVELAVKTIIEYMSQSLSQGQRIEIRGFGSF
+SLHYRAPRVGRNPKTGETVHLPAKYVPHFKPGKELRDEVNASLKA-GY------------
+-----------------------------
+>sp|A1WUI6|IHFB_HALHL Integration host factor subunit beta OS=Halorhodospira halophila (strain DSM 244 / SL1) OX=349124 GN=ihfB PE=3 SV=1
+MTKSELI----EAIAS-----KQPHLAHKDVEDAVKKMLEHMSETLANGKRIEIRGFGSF
+SLHHRPARMGRNPKTGEPVALPAKYVPHFKPGKELRERVNSSRHQ-APLRSQ--------
+-----------------------------
+>sp|A4G858|IHFB_HERAR Integration host factor subunit beta OS=Herminiimonas arsenicoxydans OX=204773 GN=ihfB PE=3 SV=1
+MTKSELI----ARLAE-----RYPQLVAKDADYAVKTILDAMSDALATGQRIEIRGFGSF
+ALNSRPPRIGRNPKSGDKVMVPEKRVPHFKPGKQLRERVDAMVGQ----------PI-IE
+D----------------------------
+>sp|Q5QZ46|IHFB_IDILO Integration host factor subunit beta OS=Idiomarina loihiensis (strain ATCC BAA-735 / DSM 15497 / L2-TR) OX=283942 GN=ihfB PE=3 SV=1
+MTKSELI----ERLTL-----KH-ELPPKQVEASVKEILEQMVQSLSQGKRVEIRGFGSF
+SLHYRAPRVGRNPKTGDPVELDGKYVPHFKAGKELRERVDTLS-----------------
+-----------------------------
+>sp|Q28LB0|IHFB_JANSC Integration host factor subunit beta OS=Jannaschia sp. (strain CCS1) OX=290400 GN=ihfB PE=3 SV=1
+MIRSELI----QKLSD-----ENPHLYQRDVERIVNSIFEEVIDALAAGDRVELRGFGAF
+SVKKRDARIGRNPRTGESVSVEEKHVPFFKAGKLLRDRLNGHES----------------
+-----------------------------
+>sp|C1D546|IHFB_LARHH Integration host factor subunit beta OS=Laribacter hongkongensis (strain HLHK9) OX=557598 GN=ihfB PE=3 SV=1
+MTKSELI----ARLAE-----RYPHLVAKDTELAVKTILDAMAVSLASGQRIEIRGFGSF
+DLNYRPPRTGRNPKSGSSVHVPEKFVPHFKAGKELRERVDTSSML-QEA-----------
+-----------------------------
+>sp|P95519|IHFB_MANHA Integration host factor subunit beta OS=Mannheimia haemolytica OX=75985 GN=ihfB PE=3 SV=1
+MTKSELI----ESLAS-----KNPSLPIKMVEHCVKELLEQLTATLEEGERIEVRGFGSF
+SLHYRQPRLGRNPKTGESVLLGAKYVPHFKAGKDLKERVDLL------------------
+-----------------------------
+>sp|Q65SH8|IHFB_MANSM Integration host factor subunit beta OS=Mannheimia succiniciproducens (strain MBEL55E) OX=221988 GN=ihfB PE=3 SV=1
+MTKSELI----ESLVE-----KNHSISVKSVENAVKEILEHMSQALESGDRIEIRGFGSF
+SLHFRQPRVGRNPKTGAQVKLDAKCVPHFKAGKELRERVDFNA-----------------
+-----------------------------
+>sp|A1TZF1|IHFB_MARHV Integration host factor subunit beta OS=Marinobacter hydrocarbonoclasticus (strain ATCC 700491 / DSM 11845 / VT8) OX=351348 GN=ihfB PE=3 SV=1
+MTKSELV----ELIAS-----KQTQLSVKDVELAVKSIIEHMSQSLADGQRIEIRGFGSF
+SLHHRAARTGRNPKTGDAVQLPAKFVPHFKPGKELREQVNDSMKK-GF------------
+-----------------------------
+>sp|Q0ATJ4|IHFB_MARMM Integration host factor subunit beta OS=Maricaulis maris (strain MCS10) OX=394221 GN=ihfB PE=3 SV=1
+MIKSELI----DQLAE-----ANPHLYHRDVERVVNTILDGITDALARGERVELRGFGAF
+SVRHRPARVGRNPRTGESVAVKEKHVPFFKTGKELRERVDASRES-NPEIA---------
+-----------------------------
+>sp|A6W0A0|IHFB_MARMS Integration host factor subunit beta OS=Marinomonas sp. (strain MWYL1) OX=400668 GN=ihfB PE=3 SV=1
+MTKSELI----ELLID-----QQSHLPVKDVEQAIKAMLEHMSDSLANGERIEIRGFGSF
+SLHYRAPRIGRNPKTGESVELSAKYVPHFKPGKELRELVNLPENS-EINELN--------
+-----------------------------
+>sp|Q608S8|IHFB_METCA Integration host factor subunit beta OS=Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath) OX=243233 GN=ihfB PE=3 SV=1
+MTKSELI----ESLAG-----KYPHLSPRDIEHAIKEMIGCMSEALAGGERIEIRGFGSF
+SLHHRPPRVGRNPKTGESVHLPSRRVPHFKPGKELRDRVNSIKD----------------
+-----------------------------
+>sp|B8EMZ0|IHFB_METSB Integration host factor subunit beta OS=Methylocella silvestris (strain DSM 15510 / CIP 108128 / LMG 27833 / NCIMB 13906 / BL2) OX=395965 GN=ihfB PE=3 SV=1
+MIKSELV----QRIAD-----RNPHLYLRDVEKIVNAILDEITNALSRGDRVELRGFGAF
+SVKHRDARVGRNPRTGAHVSVDEKVVPFFKTGKEMRERLNNGVDD---------------
+-----------------------------
+>sp|P0A0U3|IHFB_NEIGO Integration host factor subunit beta OS=Neisseria gonorrhoeae OX=485 GN=ihfB PE=3 SV=1
+MTKSELM----VRLAEVFAAKNGTHLLAKDVEYSVKVLVDTMTRSLARGQRIEIRGFGSF
+DLNHRPARIGRNPKTGERVEVPEKHVPHFKPGKELRERVDLALKE-NAN-----------
+-----------------------------
+>sp|Q0AIZ2|IHFB_NITEC Integration host factor subunit beta OS=Nitrosomonas eutropha (strain DSM 101675 / C91 / Nm57) OX=335283 GN=ihfB PE=3 SV=1
+MTKSELI----SKLAE-----RFPQLLAKDAELVVKIILDAMAKSLARGERIEIRGFGSF
+DLNYRPSRVGRNPKSGEKVHVPEKYVPHFKAGKKMRELIDSSHKQ-HN----------LL
+DQATG------------------------
+>sp|Q2Y7A9|IHFB_NITMU Integration host factor subunit beta OS=Nitrosospira multiformis (strain ATCC 25196 / NCIMB 11849 / C 71) OX=323848 GN=ihfB PE=3 SV=1
+MTKSELI----ARLAA-----RHPQLGTKDAELAVKVILDAMAKSLSQGQRIEIRGFGSF
+DLNYRPPRVGRNPKSGEKVRVPEKYVPHFKAGKEMRERVDQKN-----------------
+-----------------------------
+>sp|B6JCN9|IHFB_OLICO Integration host factor subunit beta OS=Oligotropha carboxidovorans (strain ATCC 49405 / DSM 1227 / KCTC 32145 / OM5) OX=504832 GN=ihfB PE=3 SV=1
+MIKSELV----QRIAE-----HNPHLYQRDVENIVNAILEEIVSALARGDRVELRGFGAF
+SVKHRPARAGRNPRTGEHVPVEQKSVPFFKTGKEMRERLNRDGLD-GATPPSPPAA----
+-----------------------------
+>sp|B2JF07|IHFB_PARP8 Integration host factor subunit beta OS=Paraburkholderia phymatum (strain DSM 17167 / CIP 108236 / LMG 21445 / STM815) OX=391038 GN=ihfB PE=3 SV=1
+MTKSELV----AQLAT-----RFPQLVLKDADFAVKTMLDAMSDALANGHRIEIRGFGSF
+GLNRRPSRVGRNPKSGEKVLVPEKHVPHFKPGKELRERVDRNAGE----------PL-KA
+DAADDDL----------------------
+>sp|Q9CML8|IHFB_PASMU Integration host factor subunit beta OS=Pasteurella multocida (strain Pm70) OX=272843 GN=ihfB PE=3 SV=1
+MTKSELI----ERLVQ-----KCHAVAAKDVENAVKEILDQMSFALESGKRIEVRGFGSF
+SLHYRQPRLGRNPKTGEQVKLDAKSVPHFKAGKELRERVDIYA-----------------
+-----------------------------
+>sp|Q6LPE4|IHFB_PHOPR Integration host factor subunit beta OS=Photobacterium profundum (strain SS9) OX=298386 GN=ihfB PE=3 SV=1
+MTKSELI----ERLCS-----QQTHLSAKQVEDAIKEILEHMAGTLAEGDRIEIRGFGSF
+SLHYRAPRVGRNPKTGDKVELDGKYVPHFKPGKELRDRVNAAIAA---------------
+-----------------------------
+>sp|B4ET28|IHFB_PROMH Integration host factor subunit beta OS=Proteus mirabilis (strain HI4320) OX=529507 GN=ihfB PE=3 SV=1
+MTKSELI----ERLAG-----LQSHLSAKTVEEAVKEMLDHMADTLADGERIEVRGFGSF
+SLHYRAPRTGRNPKTGDKVELEGKYVPHFKPGKELRDRVNIYTE----------------
+-----------------------------
+>sp|Q15T07|IHFB_PSEA6 Integration host factor subunit beta OS=Pseudoalteromonas atlantica (strain T6c / ATCC BAA-1087) OX=342610 GN=ihfB PE=3 SV=1
+MTKSELI----ERLAD-----KARHVPSRDVELAIKEMLEQMAQTLQKGERIEIRGFGSF
+SLHYRAPRVGRNPKTGETVELDGKHVPHFKPGKELRERVNEDLIA---------------
+-----------------------------
+>sp|P0A128|IHFB_PSEPK Integration host factor subunit beta OS=Pseudomonas putida (strain ATCC 47054 / DSM 6125 / NCIMB 11950 / KT2440) OX=160488 GN=ihfB PE=3 SV=1
+MTKSELI----ERIVT-----HQGLLSSKDVELAIKTMLEQMSQCLATGDRIEIRGFGSF
+SLHYRAPRVGRNPKTGQSVSLEGKFVPHFKPGKELRDRVNEDEHE-EAHT----------
+-----------------------------
+>sp|Q3IL99|IHFB_PSET1 Integration host factor subunit beta OS=Pseudoalteromonas translucida (strain TAC 125) OX=326442 GN=ihfB PE=3 SV=1
+MTKSELI----ETLAQ-----QHAHVPVKDVENAVKEILEQMAGSLSSSDRIEIRGFGSF
+SLHYRAPRTGRNPKTGETVELDGKHVPHFKPGKELRDRVNESIA----------------
+-----------------------------
+>sp|A1SYZ9|IHFB_PSYIN Integration host factor subunit beta OS=Psychromonas ingrahamii (strain 37) OX=357804 GN=ihfB PE=3 SV=1
+MTKSDLI----ERLTS-----KHFQLSVKEVEDSVKETLTLMANSLAQGERIEVRGFGSF
+SLHYRAPRVGRNPKTGDRVELDGKYVPHFKPGKALRERVNAANA----------------
+-----------------------------
+>sp|Q8Y0Y3|IHFB_RALSO Integration host factor subunit beta OS=Ralstonia solanacearum (strain GMI1000) OX=267608 GN=ihfB PE=3 SV=1
+MTKSELV----EKLAA-----RFPQLLLRDADIAVKTILDAMSDALADGHRIEIRGFGSF
+GLNRRPPRVGRNPKSGEKVLVPEKRVPHFKAGKELRERVDRSLER-QGDSSSEGEPV-SL
+TAVKAARQAGGHHAAGFPAEATPTLVMSR
+>sp|B6IUP4|IHFB_RHOCS Integration host factor subunit beta OS=Rhodospirillum centenum (strain ATCC 51521 / SW) OX=414684 GN=ihfB PE=3 SV=1
+MTKSELI----LRLAE-----RNPHLYQRDVEKIVTTIFDEITDALARGDRVELRGFGAF
+SVKKRDARLGRNPRTGETVDVNQKFIPFFKTGKQLRERLNTD------------------
+-----------------------------
+>sp|B3Q602|IHFB_RHOPT Integration host factor subunit beta OS=Rhodopseudomonas palustris (strain TIE-1) OX=395960 GN=ihfB PE=3 SV=1
+MIKSELV----QRIAE-----HNPHLYQRDVENIVNAILDEIVDALARGDRVELRGFGAF
+SVKHRPARAGRNPRTGAHVPVDQKTVPFFKTGKEMRERLNRDSGD-DAPTSDTA------
+-----------------------------
+>sp|Q2RXP8|IHFB_RHORT Integration host factor subunit beta OS=Rhodospirillum rubrum (strain ATCC 11170 / ATH 1.1.1 / DSM 467 / LMG 4362 / NCIB 8255 / S1) OX=269796 GN=ihfB PE=3 SV=1
+MTKSELI----ARIAE-----RNPHLYQRDVERIVSTIFDEIADALARGDRVELRGFGAF
+SVKRRDARMGRNPRTGETVDVDAKVAPYFKTGKQLRELLNGGESE-SDDD----------
+-----------------------------
+>sp|A3PPV4|IHFB_RHOS1 Integration host factor subunit beta OS=Rhodobacter sphaeroides (strain ATCC 17029 / ATH 2.4.9) OX=349101 GN=ihfB PE=3 SV=1
+MIRSELI----QKIAD-----ENPHLTQRHVERIVNTVFEEIIEALARGDRVELRGFGAF
+SVKARDARVGRNPRTGEAVEVEDKKVPFFKTGKLLRDRLNTK------------------
+-----------------------------
+>sp|Q1GK81|IHFB_RUEST Integration host factor subunit beta OS=Ruegeria sp. (strain TM1040) OX=292414 GN=ihfB PE=3 SV=1
+MIRSELI----QKIAD-----ENPHLYQRDVERIVNTVFEEVTNAMSRGDRVELRGFGAF
+SVKKRDARVGRNPRTGETVHVEEKHVPFFKTGKLLRDRLNGKEE----------------
+-----------------------------
+>sp|Q21IT4|IHFB_SACD2 Integration host factor subunit beta OS=Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024) OX=203122 GN=ihfB PE=3 SV=1
+MTKSELI----ERIAE-----RQDQLSAKDIELAVKLVLEYMSQALSTGERIEIRGFGSF
+SLHFRAPRTGRNPKTGESVTLPGKYVPHFKPGKEMRDRVNESIQS-EG------------
+-----------------------------
+>sp|A1S6D6|IHFB_SHEAM Integration host factor subunit beta OS=Shewanella amazonensis (strain ATCC BAA-1098 / SB2B) OX=326297 GN=ihfB PE=3 SV=1
+MTKSELI----EKLAT-----RQSQLSAKEVESAVKEMLEQMATTLESGERIEIRGFGSF
+SLHYRAPRTGRNPKTGTSVELEGKYVPHFKPGKELRERVDAVNV----------------
+-----------------------------
+>sp|A8FVN3|IHFB_SHESH Integration host factor subunit beta OS=Shewanella sediminis (strain HAW-EB3) OX=425104 GN=ihfB PE=3 SV=1
+MTKSELI----EKLAT-----RQSQMSAKEVESAIKEMLEQMAQTLEGGDRIEIRGFGSF
+SLHFRAPRTGRNPKTGTSVDLDGKYVPHFKPGKELRERVDAINA----------------
+-----------------------------
+>sp|Q2NUA6|IHFB_SODGM Integration host factor subunit beta OS=Sodalis glossinidius (strain morsitans) OX=343509 GN=ihfB PE=3 SV=1
+MTKSELI----ERLAG-----QHAHIQAKVVEDAVKEMLEHMATTLASGERIEIRGFGSF
+SLHYRAPRIGRNPKTGDRVELEGKYVPHFKPGKELRDRANIYG-----------------
+-----------------------------
+>sp|C5BSK5|IHFB_TERTT Integration host factor subunit beta OS=Teredinibacter turnerae (strain ATCC 39867 / T7901) OX=377629 GN=ihfB PE=3 SV=1
+MTKSELI----ERIAE-----RQDQLSAKDIELAVKLILEYMSQCLANGDRIEIRGFGSF
+SLHYRAPRTGRNPKTGESVELEGKFVPHFKPGKEMRDRVNESLEE-LP------------
+-----------------------------
+>sp|B8GRS4|IHFB_THISH Integration host factor subunit beta OS=Thioalkalivibrio sulfidiphilus (strain HL-EbGR7) OX=396588 GN=ihfB PE=3 SV=1
+MTKSELI----EILAR-----KQSHLAYKDVELSVKTMLEHLSQALATGDRIEIRGFGSF
+SLHFRPPRVGRNPKTGETVSLPGKYVPHFKPGKELRERVNAVHEQ---------------
+-----------------------------
+>sp|C4LF00|IHFB_TOLAT Integration host factor subunit beta OS=Tolumonas auensis (strain DSM 9187 / TA4) OX=595494 GN=ihfB PE=3 SV=1
+MTKSDLI----ERLSS-----SQQHLAAKDVEAAVREILECMAATLESGNRIEIRGFGSF
+SLHYRAPRVGRNPKTGEKVELLAKSVPHFKPGKELRERVNSL------------------
+-----------------------------
+>sp|B7VH32|IHFB_VIBA3 Integration host factor subunit beta OS=Vibrio atlanticus (strain LGP32) OX=575788 GN=ihfB PE=3 SV=1
+MTKSELI----ERLCA-----EQTHLSAKEIEDAVKDILEHMASTLESGDRIEIRGFGSF
+SLHYREPRVGRNPKTGDKVELEGKYVPHFKPGKELRERVNSGL-----------------
+-----------------------------
+>sp|Q8PK78|IHFB_XANAC Integration host factor subunit beta OS=Xanthomonas axonopodis pv. citri (strain 306) OX=190486 GN=ihfB PE=3 SV=1
+MTKSELI----EILAR-----RQAHLKSDDVDLAVKSLLEMMGQALSDGDRIEIRGFGSF
+SLHYRPPRLGRNPKTGESVALPGKHVPHFKPGKELRERVSSVVPV-DVADTAD-------
+-----------------------------
+>sp|A7IHH0|IHFB_XANP2 Integration host factor subunit beta OS=Xanthobacter autotrophicus (strain ATCC BAA-1158 / Py2) OX=78245 GN=ihfB PE=3 SV=1
+MIKSELV----QKIAE-----ANPHLYQRDVENIVNAILEQVASALERGDRVELRGFGAF
+SVKKRDARVGRNPRTGKQVDVSEKTVPYFKTGKEMRERLNTGK-----------------
+-----------------------------
+>sp|B2I6X0|IHFB_XYLF2 Integration host factor subunit beta OS=Xylella fastidiosa (strain M23) OX=405441 GN=ihfB PE=3 SV=1
+MTKSELI----EILTK-----RQAHLKSDDVDLAVKSLLEMMGGALSGGDRIEIRGFGSF
+SLHYRPPRCGRNPKTGESVALPGKYVPHFKPGKELRERVASVVPLGECGDITE-------
+-----------------------------

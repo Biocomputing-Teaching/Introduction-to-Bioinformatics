@@ -1,0 +1,364 @@
+>sp|A9NE64|RL34_ACHLI 50S ribosomal protein L34 OS=Acholeplasma laidlawii (strain PG-8A) OX=441768 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKIKHQRRHGFRARMATANGRKVLARRRAKGRQSLTV-------
+--
+>sp|Q6F6K7|RL34_ACIAD 50S ribosomal protein L34 OS=Acinetobacter baylyi (strain ATCC 33305 / BD413 / ADP1) OX=62977 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSELKRKRVHGFRARMATKAGRQVLARRRAKGRHSLTV-------
+--
+>sp|A5G0F5|RL34_ACICJ 50S ribosomal protein L34 OS=Acidiphilium cryptum (strain JF-5) OX=349163 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKLVRKRRHGFRSRMETVGGRKVLASRRAKGRKRLSA-------
+--
+>sp|A3N3N0|RL34_ACTP2 50S ribosomal protein L34 OS=Actinobacillus pleuropneumoniae serotype 5b (strain L20) OX=416269 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSVLKRARTHGFRARMATKNGRQVLARRRAKGRKSLSA-------
+--
+>sp|Q5E8Z6|RL34_ALIF1 50S ribosomal protein L34 OS=Aliivibrio fischeri (strain ATCC 700601 / ES114) OX=312309 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSVLKRKRSHGFRARMATKNGRNVINARRAKGRKRLSK-------
+--
+>sp|Q0A4L3|RL34_ALKEH 50S ribosomal protein L34 OS=Alkalilimnicola ehrlichii (strain ATCC BAA-1101 / DSM 17681 / MLHE-1) OX=187272 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSVTKRKRTHGFRARMATKNGRAVLARRRAKGRHRLCP-------
+--
+>sp|A8MKS4|RL34_ALKOO 50S ribosomal protein L34 OS=Alkaliphilus oremlandii (strain OhILAs) OX=350688 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPKKRQRSKEHGFRKRMSTSTGRNILKARRLKGRKRLTA-------
+--
+>sp|Q2NJ02|RL34_AYWBP 50S ribosomal protein L34 OS=Aster yellows witches'-broom phytoplasma (strain AYWB) OX=322098 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKIKRKRTHGFRARMSTVGGCKVLARRRAKGRLQITV-------
+--
+>sp|A8ILM7|RL34_AZOC5 50S ribosomal protein L34 OS=Azorhizobium caulinodans (strain ATCC 43989 / DSM 5975 / JCM 20966 / NBRC 14845 / NCIMB 13405 / ORS 571) OX=438753 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKLVRKRRHGFRARMATKNGRKIIAARRAHGRKRLSA-------
+--
+>sp|B6YQA4|RL34_AZOPC 50S ribosomal protein L34 OS=Azobacteroides pseudotrichonymphae genomovar. CFP2 OX=511995 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------QTFQPSNRKRKNKHGFRSRMKTINGRRILASRRAKGRKKLTVSDEYNG-
+--
+>sp|C1DNG0|RL34_AZOVD 50S ribosomal protein L34 OS=Azotobacter vinelandii (strain DJ / ATCC BAA-1303) OX=322710 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSTLKRARTHGFRARMATKNGRQVLSRRRAKGRKRLTV-------
+--
+>sp|Q5LI34|RL34_BACFN 50S ribosomal protein L34 OS=Bacteroides fragilis (strain ATCC 25285 / DSM 2151 / JCM 11019 / NCTC 9343) OX=272559 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNRKRKNKHGFRERMATANGRRVLAARRAKGRKKLTVSDEYNGV
+KA
+>sp|Q9RCA3|RL34_BACHD 50S ribosomal protein L34 OS=Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125) OX=272558 GN=rpmH PE=3 SV=1
+--MGK-------------------------------------------------------
+-----------PTFQPNNRKRKKVHGFRARMSTKNGRKVLARRRKKGRKVLSA-------
+--
+>sp|A1UTL8|RL34_BARBK 50S ribosomal protein L34 OS=Bartonella bacilliformis (strain ATCC 35685 / NCTC 12138 / KC583) OX=360095 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKLVRKRRHGFRARMATAGGRKVIAARRLRGRKRLSA-------
+--
+>sp|B3DP23|RL34_BIFLD 50S ribosomal protein L34 OS=Bifidobacterium longum (strain DJO10A) OX=205913 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPNNRRRHMKHGFRLRMRTRSGRAVINRRRAKGRKTLSA-------
+--
+>sp|C0ZA72|RL34_BREBN 50S ribosomal protein L34 OS=Brevibacillus brevis (strain 47 / JCM 6285 / NBRC 100599) OX=358681 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------PSFNPNNRKRKKDHGFRKRMSTKNGRKILAARRQRGRKVLSA-------
+--
+>sp|Q8R6K3|RL34_CALS4 50S ribosomal protein L34 OS=Caldanaerobacter subterraneus subsp. tengcongensis (strain DSM 15242 / JCM 11007 / NBRC 100824 / MB4) OX=273068 GN=rpmH PE=3 SV=1
+---ML-------------------------------------------------------
+-----------RTYQPKKRHRKKVHGFRKRMSTKAGRNVLKRRRLKGRHRLTA-------
+--
+>sp|B3PIU4|RL34_CELJU 50S ribosomal protein L34 OS=Cellvibrio japonicus (strain Ueda107) OX=498211 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNIKRVRNHGFRARMATKNGRLVLARRRAKGRKQLTRV------
+--
+>sp|B3EIN0|RL34_CHLL2 50S ribosomal protein L34 OS=Chlorobium limicola (strain DSM 245 / NBRC 103803 / 6330) OX=290315 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNRKRRNKHGFRLRMSTKNGRRVLASRRAKGRHRLTVSCEMGTA
+TK
+>sp|B3EQQ7|RL34_CHLPB 50S ribosomal protein L34 OS=Chlorobium phaeobacteroides (strain BS1) OX=331678 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPHNRKRRNKHGFRQRMATKTGRKIISSRRAKGRHSLSVSSDMGSR
+RQ
+>sp|A1BK00|RL34_CHLPD 50S ribosomal protein L34 OS=Chlorobium phaeobacteroides (strain DSM 266) OX=290317 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPRNRKRRNKHGFRQRMSTKNGRRVLASRRAKGRHSLSVSSAMGTA
+GQ
+>sp|A4SH23|RL34_CHLPM 50S ribosomal protein L34 OS=Chlorobium phaeovibrioides (strain DSM 265 / 1930) OX=290318 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNRKRRNKHGFRLRMSTKNGRRIINARRAKGRHSLSVSSDMGTA
+GR
+>sp|B3QYV9|RL34_CHLT3 50S ribosomal protein L34 OS=Chloroherpeton thalassium (strain ATCC 35110 / GB-78) OX=517418 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPHNRKRRNKHGFRSRMATKNGRKVLSARRAKGRHRLTVSSETSNK
+K-
+>sp|Q8KGG5|RL34_CHLTE 50S ribosomal protein L34 OS=Chlorobaculum tepidum (strain ATCC 49652 / DSM 12025 / NBRC 103806 / TLS) OX=194439 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNRKRRNKHGFRQRMATKNGRKVLSARRAKGRHSLSVSSSMSAS
+KR
+>sp|Q7NPQ5|RL34_CHRVO 50S ribosomal protein L34 OS=Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757) OX=243365 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSTTRRKRTHGFLVRMKTRGGRAVIAARRAKGRKRLAV-------
+--
+>sp|A6M3N0|RL34_CLOB8 50S ribosomal protein L34 OS=Clostridium beijerinckii (strain ATCC 51743 / NCIMB 8052) OX=290402 GN=rpmH PE=3 SV=1
+---MF-------------------------------------------------------
+-----------MTYQPKKRQRKKEHGFRKRMSTQSGRNILKSRRQKGRKKLTA-------
+--
+>sp|Q6NE95|RL34_CORDI 50S ribosomal protein L34 OS=Corynebacterium diphtheriae (strain ATCC 700971 / NCTC 13129 / Biotype gravis) OX=257309 GN=rpmH PE=3 SV=1
+MAKGK-------------------------------------------------------
+-----------RTFQPNNRRRARKHGFRIRMRTRAGRAIVAARRNKGRKSLTA-------
+--
+>sp|C4LGJ8|RL34_CORK4 50S ribosomal protein L34 OS=Corynebacterium kroppenstedtii (strain DSM 44385 / JCM 11950 / CIP 105744 / CCUG 35717) OX=645127 GN=rpmH PE=3 SV=1
+MAKGK-------------------------------------------------------
+-----------RTFQPNNRRRSRVHGFRSRMSTRAGRAIVSARRRKGRKSLTA-------
+--
+>sp|B6J2B1|RL34_COXB2 50S ribosomal protein L34 OS=Coxiella burnetii (strain CbuG_Q212) OX=434923 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKQKRNRTHGFRARMATKNGRQVLNRRRAKGRKRLTV-------
+--
+>sp|Q11YX6|RL34_CYTH3 50S ribosomal protein L34 OS=Cytophaga hutchinsonii (strain ATCC 33406 / DSM 1761 / CIP 103989 / NBRC 15051 / NCIMB 9469 / D465) OX=269798 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNRKRKNKHGFRSRMETANGRRVLAARRAKGRKRLTVSDEIPRK
+G-
+>sp|Q9RSH2|RL34_DEIRA 50S ribosomal protein L34 OS=Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422) OX=243230 GN=rpmH PE=1 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPNNRKRAKTHGFRARMKTKSGRNILARRRAKGRHQLTVSDE----
+--
+>sp|C0QIZ4|RL34_DESAH 50S ribosomal protein L34 OS=Desulfobacterium autotrophicum (strain ATCC 43914 / DSM 3382 / HRM2) OX=177437 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSRIKRARRHGFRKRMSTAAGRRIVNSRRARGRKKLTA-------
+--
+>sp|B1I6S7|RL34_DESAP 50S ribosomal protein L34 OS=Desulforudis audaxviator (strain MP104C) OX=477974 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPKKRKRKRLHGFLIRMRTRSGRNVIRRRRAKGRKVLTA-------
+--
+>sp|A5EY32|RL34_DICNV 50S ribosomal protein L34 OS=Dichelobacter nodosus (strain VCS1703A) OX=246195 GN=rpmH PE=3 SV=1
+--MSK-------------------------------------------------------
+-----------RTFQPSNLSRKRTHGFRARMATKNGRQVLSRRRAKGRYRLTV-------
+--
+>sp|A8LMA5|RL34_DINSH 50S ribosomal protein L34 OS=Dinoroseobacter shibae (strain DSM 16493 / NCIMB 14021 / DFL 12) OX=398580 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNLVRKRRHGFRARMATKAGRKILNARRARGRKSLSA-------
+--
+>sp|Q3YRN8|RL34_EHRCJ 50S ribosomal protein L34 OS=Ehrlichia canis (strain Jake) OX=269484 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------GTFQPSRIVRKRRHGFRSRMSTKMGRRILNRRRAQGRRVLCA-------
+--
+>sp|Q5FFS7|RL34_EHRRG 50S ribosomal protein L34 OS=Ehrlichia ruminantium (strain Gardel) OX=302409 GN=rpmH PE=3 SV=1
+---MR-------------------------------------------------------
+-----------QTFQPSRIVRKRRHGFRTRMSTRMGRKILNRRRTQGRRVLCA-------
+--
+>sp|B1YGB1|RL34_EXIS2 50S ribosomal protein L34 OS=Exiguobacterium sibiricum (strain DSM 17290 / CIP 109462 / JCM 13490 / 255-15) OX=262543 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------PTFNPNNRKRKKVHGFRARMATKSGRRILAARRLKGRKALTV-------
+--
+>sp|B0TW70|RL34_FRAP2 50S ribosomal protein L34 OS=Francisella philomiragia subsp. philomiragia (strain ATCC 25017 / FSC 153 / O#319-036) OX=484022 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNLKRKRTHGFRARMKTLSGRKVIRNRRAKGRAKLAA-------
+--
+>sp|Q5KU53|RL34_GEOKA 50S ribosomal protein L34 OS=Geobacillus kaustophilus (strain HTA426) OX=235909 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPNRRKRSKVHGFRARMSTRNGRKVLARRRRKGRKVLSA-------
+--
+>sp|A5G9V7|RL34_GEOUR 50S ribosomal protein L34 OS=Geobacter uraniireducens (strain Rf4) OX=351605 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSNVSRKRTHGFLVRMSTKNGRLVIKRRRAKGRKNLAVSIASK--
+--
+>sp|A0M0A2|RL34_GRAFK 50S ribosomal protein L34 OS=Gramella forsetii (strain KT0803) OX=411154 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSKRKRKNKHGFRERMASANGRKVLARRRAKGRKKLSVSSENRHK
+H-
+>sp|Q7VJX6|RL34_HELHP 50S ribosomal protein L34 OS=Helicobacter hepaticus (strain ATCC 51449 / 3B1) OX=235279 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPHNTPRKRTHGFRARMKTKNGRRVINARRAKGRKRLSV-------
+--
+>sp|Q0C551|RL34_HYPNA 50S ribosomal protein L34 OS=Hyphomonas neptunium (strain ATCC 15444) OX=228405 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNLRRARTHGFRERMSTKNGRKVLARRRAKGRKTLTA-------
+--
+>sp|Q5QZK0|RL34_IDILO 50S ribosomal protein L34 OS=Idiomarina loihiensis (strain ATCC BAA-735 / DSM 15497 / L2-TR) OX=283942 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSVLKRKRSHGFRARMATKNGRKVLARRRARGRKVLSA-------
+--
+>sp|C5CD39|RL34_KOSOT 50S ribosomal protein L34 OS=Kosmotoga olearia (strain ATCC BAA-1733 / DSM 21960 / TBF 19.5.1) OX=521045 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSRVKRKRTHGFLVRMRTKSGRRIIANRRRKGRKRLAV-------
+--
+>sp|Q5FHQ2|RL34_LACAC 50S ribosomal protein L34 OS=Lactobacillus acidophilus (strain ATCC 700396 / NCK56 / N2 / NCFM) OX=272621 GN=rpmH PE=3 SV=1
+-MTTK-------------------------------------------------------
+-----------RTYQPKKRHRSRVHGFMKRMSTSNGRKVLARRRAKGRKVLSA-------
+--
+>sp|Q04W32|RL34_LEPBJ 50S ribosomal protein L34 OS=Leptospira borgpetersenii serovar Hardjo-bovis (strain JB197) OX=355277 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RNYQPSRVKRARTHGFRARMATAGGRKVLSRRRKKGRYKLTVSNEKLGK
+KY
+>sp|P66249|RL34_LISIN 50S ribosomal protein L34 OS=Listeria innocua serovar 6a (strain ATCC BAA-680 / CLIP 11262) OX=272626 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKRKRKKVHGFRTRMSTKNGRRVLASRRRKGRKVLSA-------
+--
+>sp|A0LE52|RL34_MAGMM 50S ribosomal protein L34 OS=Magnetococcus marinus (strain ATCC BAA-1437 / JCM 17883 / MC-1) OX=156889 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSKIRRKRTHGFRARMATKNGRKVLAARRRKGRKALIP-------
+--
+>sp|A1U7J7|RL34_MARHV 50S ribosomal protein L34 OS=Marinobacter hydrocarbonoclasticus (strain ATCC 700491 / DSM 11845 / VT8) OX=351348 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSVLKRKRVHGFRARMATANGRKVLSRRRAKGRARLSA-------
+--
+>sp|Q8EU89|RL34_MYCPE 50S ribosomal protein L34 OS=Mycoplasma penetrans (strain HF-2) OX=272633 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPNKKRRVKKHGFLNRMSTSDGREVIRRRRQKGRHSLTVSDQ----
+--
+>sp|B2A475|RL34_NATTJ 50S ribosomal protein L34 OS=Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) OX=457570 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPKKRQRKKEHGFRKRMKTKAGRNILRNRRRKGRKTLSA-------
+--
+>sp|Q3J6L6|RL34_NITOC 50S ribosomal protein L34 OS=Nitrosococcus oceani (strain ATCC 19707 / BCRC 17464 / NCIMB 11848 / C-107) OX=323261 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPKNLKRKRTHGFRARMRTQGGRAIINRRRAKGRKRLTA-------
+--
+>sp|A6WYM6|RL34_OCHA4 50S ribosomal protein L34 OS=Ochrobactrum anthropi (strain ATCC 49188 / DSM 6882 / JCM 21032 / NBRC 15819 / NCTC 12168) OX=439375 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKIVRKRRHGFRARMATTGGRKVLTARRSRGRKRLSA-------
+--
+>sp|A5CCC8|RL34_ORITB 50S ribosomal protein L34 OS=Orientia tsutsugamushi (strain Boryong) OX=357244 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKLVRKRRHGFMERMSSVGGRRVLMRRRMKGRRVLSA-------
+--
+>sp|Q6MAS1|RL34_PARUW 50S ribosomal protein L34 OS=Protochlamydia amoebophila (strain UWE25) OX=264201 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKRRRSSEHGFLKRMGTANGRKIISRRRRHGRKQLTRV------
+--
+>sp|A1AV47|RL34_PELPD 50S ribosomal protein L34 OS=Pelobacter propionicus (strain DSM 2379 / NBRC 103807 / OttBd1) OX=338966 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNTSRKRTHGFLVRMATKNGRLVIKRRRAKGRKNLAVRIATK--
+--
+>sp|B1VAN8|RL34_PHYAS 50S ribosomal protein L34 OS=Phytoplasma australiense OX=59748 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKIKRKRTHGFRARMATVGGCKVLARRRAKGRAQLAL-------
+--
+>sp|B3QZF8|RL34_PHYMT 50S ribosomal protein L34 OS=Phytoplasma mali (strain AT) OX=482235 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKIKRQRTHGFRARISTIGGKRVIAARRSKGRVRLTV-------
+--
+>sp|A1VUS8|RL34_POLNA 50S ribosomal protein L34 OS=Polaromonas naphthalenivorans (strain CJ2) OX=365044 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKVKRARTHGFLTRMKTRGGRAVIAARRAKGRKRLAV-------
+--
+>sp|B2RIL8|RL34_PORG3 50S ribosomal protein L34 OS=Porphyromonas gingivalis (strain ATCC 33277 / DSM 20709 / CIP 103683 / JCM 12257 / NCTC 11834 / 2561) OX=431947 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSNRKRLNKHGFRSRMATANGRRVLAARRAKGRAKLTVSDEFVG-
+--
+>sp|B4S6X4|RL34_PROA2 50S ribosomal protein L34 OS=Prosthecochloris aestuarii (strain DSM 271 / SK 413) OX=290512 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPHNRKRRNKHGFRARMATKNGRRILASRRAKGRHSLSVSSAMGTR
+KQ
+>sp|Q15MS4|RL34_PSEA6 50S ribosomal protein L34 OS=Pseudoalteromonas atlantica (strain T6c / ATCC BAA-1087) OX=342610 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNLKRKRSHGFRARMATKNGRKVIANRRAKGRARLTA-------
+--
+>sp|Q4FPR4|RL34_PSYA2 50S ribosomal protein L34 OS=Psychrobacter arcticus (strain DSM 17307 / VKM B-2377 / 273-4) OX=259536 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSVIKRKRTHGFRARMATKKGRQVLARRRAKGRHRLTV-------
+--
+>sp|A1T0M6|RL34_PSYIN 50S ribosomal protein L34 OS=Psychromonas ingrahamii (strain 37) OX=357804 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNIKRKRSHGFRTRMATKNGRNVLARRRAKGRSSLSA-------
+--
+>sp|B5ZN44|RL34_RHILW 50S ribosomal protein L34 OS=Rhizobium leguminosarum bv. trifolii (strain WSM2304) OX=395492 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKLVRKRRHGFRARMSTKGGRKVIAGRRAQGRKRLSA-------
+--
+>sp|B6IPG6|RL34_RHOCS 50S ribosomal protein L34 OS=Rhodospirillum centenum (strain ATCC 51521 / SW) OX=414684 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSKLVRKRRHGFRARMATVGGRKVLARRRAQGRKRLSA-------
+--
+>sp|Q2RP15|RL34_RHORT 50S ribosomal protein L34 OS=Rhodospirillum rubrum (strain ATCC 11170 / ATH 1.1.1 / DSM 467 / LMG 4362 / NCIB 8255 / S1) OX=269796 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSNLVRKRRHGFRSRLATVGGRRVLANRRAKGRKRLSA-------
+--
+>sp|C3PP51|RL34_RICAE 50S ribosomal protein L34 OS=Rickettsia africae (strain ESF-5) OX=347255 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNLVRKRRHGFRSRMATPTGRAILRKRRAKGRHKLSA-------
+--
+>sp|A8GVL1|RL34_RICB8 50S ribosomal protein L34 OS=Rickettsia bellii (strain OSU 85-389) OX=391896 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNLVRKRRHGFRARMATASGRAILRNRRAKGRKKLSA-------
+--
+>sp|Q2NQ68|RL34_SODGM 50S ribosomal protein L34 OS=Sodalis glossinidius (strain morsitans) OX=343509 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSVLKRNRSHGFRARMATKNGRQVLARRRAKGRTRLTLSSK----
+--
+>sp|A5VCE4|RL34_SPHWW 50S ribosomal protein L34 OS=Sphingomonas wittichii (strain RW1 / DSM 6014 / JCM 10273) OX=392499 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSNLVRKRRHGFRSRSATPGGRKVLAARRARGRKKLSA-------
+--
+>sp|Q3JZ91|RL34_STRA1 50S ribosomal protein L34 OS=Streptococcus agalactiae serotype Ia (strain ATCC 27591 / A909 / CDC SS700) OX=205921 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKIRRQRKHGFRHRMSTKNGRRVLASRRRKGRKVLSA-------
+--
+>sp|B4SPG2|RL34_STRM5 50S ribosomal protein L34 OS=Stenotrophomonas maltophilia (strain R551-3) OX=391008 GN=rpmH PE=3 SV=1
+-MATK-------------------------------------------------------
+-----------RTFQPSNLKRKRDHGFRARMKTADGRKILSRRRAKGRKVLSA-------
+--
+>sp|Q04IH6|RL34_STRP2 50S ribosomal protein L34 OS=Streptococcus pneumoniae serotype 2 (strain D39 / NCTC 7466) OX=373153 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSKLRRARKHGFRNRMSTKNGRRVLAARRRKGRKVLAA-------
+--
+>sp|A4W483|RL34_STRS2 50S ribosomal protein L34 OS=Streptococcus suis (strain 98HAH33) OX=391296 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPSKIRRARKHGFRSRMATKNGRRVLAARRRKGRKVLTVA------
+--
+>sp|Q30T80|RL34_SULDN 50S ribosomal protein L34 OS=Sulfurimonas denitrificans (strain ATCC 33889 / DSM 1251) OX=326298 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPHNRPRKSTHGFRARMATKNGRNVINRRRAKGRKKLSV-------
+--
+>sp|Q67J28|RL34_SYMTH 50S ribosomal protein L34 OS=Symbiobacterium thermophilum (strain T / IAM 14863) OX=292459 GN=rpmH PE=3 SV=1
+MFLLK-------------------------------------------------------
+-----------RTFQPHNRSRKRTHGFLSRMSTRGGRRVLKARRLKGRKRLTV-------
+--
+>sp|A0LLH0|RL34_SYNFM 50S ribosomal protein L34 OS=Syntrophobacter fumaroxidans (strain DSM 10017 / MPOB) OX=335543 GN=rpmH PE=3 SV=1
+--MSK-------------------------------------------------------
+-----------KTFQPSNVKRKRTHGFLERMSTRAGREIVRRRRARGRKRLSV-------
+--
+>sp|Q0ATU1|RL34_SYNWW 50S ribosomal protein L34 OS=Syntrophomonas wolfei subsp. wolfei (strain DSM 2245B / Goettingen) OX=335541 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPKNRQRKREHGFRARMASAGGRKVLANRRKKGRKSISA-------
+--
+>sp|Q3SER0|RL34_THIDA 50S ribosomal protein L34 OS=Thiobacillus denitrificans (strain ATCC 25259) OX=292415 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTYQPSTVRRKRTHGFRARMKTKAGRAVINARRAKGRARLAV-------
+--
+>sp|B1AJP5|RL34_UREP2 50S ribosomal protein L34 OS=Ureaplasma parvum serovar 3 (strain ATCC 27815 / 27 / NCTC 11736) OX=505682 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPNNRKRAKVHGFRARMKTKNGRNVLARRRLKGRHSLTVSSEK---
+--
+>sp|A5F482|RL34_VIBC3 50S ribosomal protein L34 OS=Vibrio cholerae serotype O1 (strain ATCC 39541 / Classical Ogawa 395 / O395) OX=345073 GN=rpmH PE=3 SV=1
+--MSK-------------------------------------------------------
+-----------RTFQPSVLKRKRTHGFRARMATANGRKVLNARRAKGRKRLSK-------
+--
+>sp|B3CN15|RL34_WOLPP 50S ribosomal protein L34 OS=Wolbachia pipientis subsp. Culex pipiens (strain wPip) OX=570417 GN=rpmH PE=3 SV=1
+---MK-------------------------------------------------------
+-----------RTFQPKNLKKKHKHGFRSRMSTKAGRKILNKRRSLGCNKLCA-------
+--
+>sp|A8NN94|RM34_BOVIN 39S ribosomal protein L34, mitochondrial OS=Bos taurus OX=9913 GN=MRPL34 PE=1 SV=1
+---MAFSVGSVGCLLGPVSR-----SAGLLGGRWLQG---------SRAWLGLPDTRRLP
+VIQQTRGRTRGNEYQPSNIKRKNKHGWIRRLSTPNGVQVILRRMHKGRKSLSH-------
+--
+>sp|Q0E959|RM34_DROME 39S ribosomal protein L34, mitochondrial OS=Drosophila melanogaster OX=7227 GN=mRpL34 PE=3 SV=1
+--MLQ----------GMLQR---TCLAVVSTAQTLIV-RDKHAFNRAVL-----------
+-----KPKVRCHFPKPMEVKRINVHGWNARMSTPEGRRVLMNRILKGRHNLSH-------
+--
+>sp|Q9BQ48|RM34_HUMAN 39S ribosomal protein L34, mitochondrial OS=Homo sapiens OX=9606 GN=MRPL34 PE=1 SV=1
+---MAVLAGS---LLGPTSR-----SAALLGGRWLQ----------PRAWLGFPDAWGLP
+TPQQARGKARGNEYQPSNIKRKNKHGWVRRLSTPAGVQVILRRMLKGRKSLSH-------
+--
+>sp|Q99N91|RM34_MOUSE 39S ribosomal protein L34, mitochondrial OS=Mus musculus OX=10090 GN=Mrpl34 PE=1 SV=1
+---MAFLARC---FGCQACR-----SVALLSGRYLQ----------SRVWMGLPDSWPLL
+SLQQARGRARGNEYQPSNIKRKHKHGWVRRLSTPAGVQVILRRMLKGRKSLSH-------
+--
+>sp|Q9P7L9|RM34_SCHPO Probable 54S ribosomal protein L34, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC21C3.04c PE=3 SV=1
+MMFMQQFRN----LLHPAMK-GARNISILAGGGTMRGFPTRNPFNTATLYSSLPTMNIFG
+QMQQVRWKTYGNEYQPSNRKRKRKHGFLSRIRSVNGRRVLRDRRQKGRMYLSH-------
+--
+>sp|Q04598|RM34_YEAST 54S ribosomal protein L34, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YDR115W PE=1 SV=1
+---MPLFAR----LCQPQSRRMFSSISSFSALSVLRP-QTGMLLNSSPLKTPSFTPLGFG
+LIGQRRWKSRGNTYQPSTLKRKRTFGFLARAKSKQGSKILKRRKLKGRWFLSH-------
+--

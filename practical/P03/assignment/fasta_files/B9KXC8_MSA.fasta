@@ -1,0 +1,822 @@
+>sp|O65686|RS16A_ARATH 30S ribosomal protein S16-1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=RPS16-1 PE=2 SV=1
+MTVKIRLARLGCKHR---PFYRVVVADEKSRRDGKQIEVLGFYDPLQGKEDA--DRVSLK
+FDRIKYWLSVGAQPTDTVESMLFRAGLIPPKPMVVVGSKNG----QKSTSQH--------
+-----------------------------------------VSPITGEILN---------
+------------------------------------------------------------
+-
+>sp|A9NHG0|RS16_ACHLI 30S ribosomal protein S16 OS=Acholeplasma laidlawii (strain PG-8A) OX=441768 GN=rpsP PE=3 SV=1
+MAVKLRLQRFGNHKR---PFYRIVAADAKAPRDGKFLEIVGTYEPI---KG----AVAVD
+SEKVQAWMNNGAQPTDTVKSLFKKFNVLNK------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A0LV73|RS16_ACIC1 30S ribosomal protein S16 OS=Acidothermus cellulolyticus (strain ATCC 43068 / 11B) OX=351607 GN=rpsP PE=3 SV=1
+MAVKIRLTRMGKIRA---PYYRIVVADARTKRDGRAIEEIGQYDPK---QEP--SLIRVN
+SERVAYWLSVGAQPTEPVKALLKVTGDWQRFTGEP-APPPMKTAPPKPDKKA--LFEAAA
+KEAAGE-------PRAEATTSR-KRSGKHD-------KGAETTPAAEAAPDAAA------
+---------SADEP--------------AGGASTA----------AESQDATTDATPSA-
+-
+>sp|C4Z929|RS16_AGARV 30S ribosomal protein S16 OS=Agathobacter rectalis (strain ATCC 33656 / DSM 3377 / JCM 17463 / KCTC 5835 / VPI 0990) OX=515619 GN=rpsP PE=3 SV=1
+MAVKIRLRRMGQKKA---PFYRIVVADSRSPRDGRCIEEIGTYDPT---KDP--SEYHVN
+EELAKKWLSNGAQPTETVARIFKSAGIEK-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A6TRS9|RS16_ALKMQ 30S ribosomal protein S16 OS=Alkaliphilus metalliredigens (strain QYMF) OX=293826 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGAKKR---PFYRIVVADARAPRDGRFIEEIGYYNPV---SEP--KEIKID
+GEKAEKWLGNGAQPTDTVKYLFKKNGIIK-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B7GGE3|RS16_ANOFW 30S ribosomal protein S16 OS=Anoxybacillus flavithermus (strain DSM 21510 / WK1) OX=491915 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGAKKS---PFYRIVVADSRSPRDGRFIETIGTYNPL---TEP--AEIKIN
+EELALKWLQNGAKPSDTVRNLLSKQGILEKFHNLKYGK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A8IKU6|RS16_AZOC5 30S ribosomal protein S16 OS=Azorhizobium caulinodans (strain ATCC 43989 / DSM 5975 / JCM 20966 / NBRC 14845 / NCIMB 13405 / ORS 571) OX=438753 GN=rpsP PE=3 SV=1
+MSLKIRLARGGAKKR---PYYRIVVADARSPRDGRFIEKIGTFNPLLAKDAA--ERVTLD
+TEKAKAWLEKGAQPTDRVARFLDAAGLLKREARNNPKKAEP-------------------
+-------------GKKAQERAA-ERAAK--------------AAEASEAASAE-------
+------------------------------------------------------------
+-
+>sp|B6YS08|RS16_AZOPC 30S ribosomal protein S16 OS=Azobacteroides pseudotrichonymphae genomovar. CFP2 OX=511995 GN=rpsP PE=3 SV=1
+MATKIRLQRHGRKGY---AFYHIVIADSRAPRNGNFIERIGFYNPN---TNP--ATINLK
+FERALYWLNVGAQPTDTARNILSCEGIFLKKHLLEGINKGVLSEADAKSKFE--AWKNVK
+RIAIQNEINKIYEQQRIVNKAK-LESERV-------------VNQTKTKVLAQKEK----
+-------------------------LLKEENNTPL----------PSE------------
+-
+>sp|C3P5P5|RS16_BACAA 30S ribosomal protein S16 OS=Bacillus anthracis (strain A0248) OX=592021 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGAKKT---PFYRVVVADSRSPRDGRFIEEIGTYNPV---AQP--AEVKIN
+EEAALKWLGNGAKPSDTVRNLFSNQGIMEKFHLSKQGK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q9KA11|RS16_BACHD 30S ribosomal protein S16 OS=Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125) OX=272558 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGSKKA---PFYRVVVADSRSPRDGRFIEEIGTYNPL---TQP--AKVELK
+EDRALDWMLKGAKPSDTVRNLFSKAGLMEKLHNAKNEK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q65JQ0|RS16_BACLD 30S ribosomal protein S16 OS=Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46) OX=279010 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGAKKS---PFYRIVVADSRSPRDGRFIETVGTYNPL---AKP--AEVKID
+EELALKWLQTGAKPSDTVRNLFSKEGIMEKFHNAKQSK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A8FD63|RS16_BACP2 30S ribosomal protein S16 OS=Bacillus pumilus (strain SAFR-032) OX=315750 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGSKRS---PFYRIVVADSRSPRDGRFIETVGTYNPV---LSP--AEVKIN
+EELALKWLQNGAKPSDTVRNLFSSQGILEKFHNAKNSK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q5WFN2|RS16_BACSK 30S ribosomal protein S16 OS=Bacillus clausii (strain KSM-K16) OX=66692 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGSKKA---PFYRVVVADSRFPRDGRFIEEIGTYNPI---AQP--AQVNIK
+EDKALEWMKKGAKPSDTVRSLFSNAGLMEKLHNEKNGK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q9RQ15|RS16_BACTN 30S ribosomal protein S16 OS=Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482) OX=226186 GN=rpsP PE=3 SV=1
+MATRIRLQRHGRKSY---AFYSIVIADSRAPRDGKFIEKIGTYNPN---TNP--ATVDLN
+FDAALAWVLKGAQPSDTVRNILSREGVYMKKHLLGGVAKGAFGEAEAEAKFE--AWKNNK
+QSGLAALKAKQDEEKKAEAKAR-LEAEKK-------------INEVKAKALAEKKAA---
+---EAAEKAAAEAP--------------AEEATEA----------PAEEAAATEAAAE--
+-
+>sp|A6L3Y9|RS16_BACV8 30S ribosomal protein S16 OS=Bacteroides vulgatus (strain ATCC 8482 / DSM 1447 / JCM 5826 / NBRC 14291 / NCTC 11154) OX=435590 GN=rpsP PE=3 SV=1
+MATKIRLQRNGRKSY---AFYSIVIADVRAPRDGKFTEKIGTYNPN---TNP--ATVDLN
+FERALHWVMCGAQPTDTVRNILSKEGVYMKKHLLGGVAKGAFTEAEAEAKFE--AWKNNK
+QSGLATLKAKLDEAKKAEAKAR-LEAEKK-------------VNEEIAKKVAEKKAA---
+---EAAAKAEAEAA--------------NAPAEEA----------PAAE--ATEAPAEA-
+-
+>sp|C0ZFN5|RS16_BREBN 30S ribosomal protein S16 OS=Brevibacillus brevis (strain 47 / JCM 6285 / NBRC 100599) OX=358681 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGSKKA---PFYRVVVADSRSPRDGRFIEEIGYYNPV---AQP--AVVKID
+TDKAVQWILNGAAPTDTVRNLLSKEGVMAKVHETKYGK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B9MQW7|RS16_CALBD 30S ribosomal protein S16 OS=Caldicellulosiruptor bescii (strain ATCC BAA-1888 / DSM 6725 / Z-1320) OX=521460 GN=rpsP PE=3 SV=1
+MAVRIRLKRMGAKNN---PFYRIVVADSRTPRDGKTIDEIGYYNPL---KNP--ADIKVD
+VEKAKKWLSYGAQPTDTVKILLKKAGVIE-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q3AC69|RS16_CARHZ 30S ribosomal protein S16 OS=Carboxydothermus hydrogenoformans (strain ATCC BAA-161 / DSM 6008 / Z-2901) OX=246194 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGAKNN---PFYRVVVADARSPRDGRVIDEIGYYDPV---KQP--AAVVIN
+EEKALDWLKKGAQLTETARALFRKAGVLQKFQQK--------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A9WEK3|RS16_CHLAA 30S ribosomal protein S16 OS=Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl) OX=324602 GN=rpsP PE=3 SV=1
+-MVKIRLRRTGKTKQ---PSYRIVVADSRSPRDGKFIETIGYYLPT---RQP--KVLEIK
+ADRARYWLGVGAQPTEVVVKLLKRVNVLDEQGKVIAEA----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q3ASF5|RS16_CHLCH 30S ribosomal protein S16 OS=Chlorobium chlorochromatii (strain CaD3) OX=340177 GN=rpsP PE=3 SV=1
+-MVKIRLKRAGRKKM---PVYQIVVADSRSPRDGKFLEVVGHYQPT---LKP--HSITLK
+KDRVEYWMHCGAQPTATVNSLIRATGLLYELRMKKLGRSEA----DIATEME--KWEAAQ
+MARRE---------KRVTLKAR-RRRAKK-------------EAEAASASSAEG------
+------------------------------------------------------------
+-
+>sp|B3ED33|RS16_CHLL2 30S ribosomal protein S16 OS=Chlorobium limicola (strain DSM 245 / NBRC 103803 / 6330) OX=290315 GN=rpsP PE=3 SV=1
+-MVKIRLKRTGRKKL---PFYQIVAADSRAPRDGKFLEIVGHYQPT---AKP--HAVTIK
+KDRVSYWMQTGAQPTDTVRSLIRSTGLLHELRLRSLGRSEA----DITAEME--KWQQNQ
+TERRQ---------KRLAVKTR-RRQAKK-------------AAEAKGAEA---------
+------------------------------------------------------------
+-
+>sp|B3QNL4|RS16_CHLP8 30S ribosomal protein S16 OS=Chlorobaculum parvum (strain NCIB 8327) OX=517417 GN=rpsP PE=3 SV=1
+-MVKIRLKRAGRKKM---PFYQIVAADGRAPRDGKFLEVIGHYNPT---AKP--HAVTIE
+KDRVAYWLNVGAQPTATAHSLIRATGLLHEMNLKRRGVSEA----DIATEME--AWQQRE
+AERRQ---------KRLTAKTR-RRQAKK-------------AAEAAGSAEG--------
+------------------------------------------------------------
+-
+>sp|B3EJ23|RS16_CHLPB 30S ribosomal protein S16 OS=Chlorobium phaeobacteroides (strain BS1) OX=331678 GN=rpsP PE=3 SV=1
+-MVKIRLRRAGRKKL---PVYQIVAADARAPRDGKFLEVIGHYQPT---AKP--HAITLD
+KERVAYWLGVGAQPTTTAHSLIRATGLLHEMNMKRKGRSEE----EIAAEME--QWQARQ
+NERRE---------KRLAIKTR-RRQAKK-------------AAEAEGQESA--------
+------------------------------------------------------------
+-
+>sp|A1BGL9|RS16_CHLPD 30S ribosomal protein S16 OS=Chlorobium phaeobacteroides (strain DSM 266) OX=290317 GN=rpsP PE=3 SV=1
+-MVKIRLKRTGRKKL---PIYQIVAADARSPRDGKFLEVIGHYQPT---AKP--HAVTIK
+KDRVAYWMQTGAQPTDTVRSLIRSTGLLYEMRLKKMGRSEE----EIVSEME--KWQARQ
+TERRQ---------KRLVVKSR-RRQAKK-------------EAEGKAAGAEA-------
+------------------------------------------------------------
+-
+>sp|B3QXJ8|RS16_CHLT3 30S ribosomal protein S16 OS=Chloroherpeton thalassium (strain ATCC 35110 / GB-78) OX=517418 GN=rpsP PE=3 SV=1
+-MVKIRLRRIGRKKL---PIYQIVAADARARRDGRFLEVLGRYEPT---RKP--HQLTFN
+RERLMYWLSVGAQPTDTAKALIRRTGMLYENYMRIKGKSEE----EIGTEME--TWQQRN
+DSRLK---------RGLDRKAI-RRKRKK-------------EAEAKEKESAG-------
+------------------------------------------------------------
+-
+>sp|A5CQQ8|RS16_CLAM3 30S ribosomal protein S16 OS=Clavibacter michiganensis subsp. michiganensis (strain NCPPB 382) OX=443906 GN=rpsP PE=3 SV=1
+MAVKIRLKRLGKIRA---PYYRIVVADSRTKRDGRVIEEIGKYHPT---EEP--SFIEVQ
+SERAQYWLSVGAQPTEQVEALLKLTGDWGRFKGDKDAVSTVRVREAKPAYVA--------
+----DE-------KKKPVLKPKTEKA----------------APAPEAA-----------
+-------APEAEST--------------EEQA----------------------------
+-
+>sp|Q97I97|RS16_CLOAB 30S ribosomal protein S16 OS=Clostridium acetobutylicum (strain ATCC 824 / DSM 792 / JCM 1419 / LMG 5710 / VKM B-1787) OX=272562 GN=rpsP PE=3 SV=1
+-MVKIRLKRMGAKKA---PFYRIVVADSRSPRDGKFIEELGYYNPT---TEP--VTFKVD
+ADKVNAWMKNGAQPSETVKKLLDKSGVTTK------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A7FW12|RS16_CLOB1 30S ribosomal protein S16 OS=Clostridium botulinum (strain ATCC 19397 / Type A) OX=441770 GN=rpsP PE=3 SV=1
+MAVKMRLKRMGAKKA---PFYRVVVADSRSPRDGRFVEEIGYYNPI---TEP--STIKLD
+EEKVQKWIKNGAQPTDTVKKLIEKAGISVK------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A6LSM8|RS16_CLOB8 30S ribosomal protein S16 OS=Clostridium beijerinckii (strain ATCC 51743 / NCIMB 8052) OX=290402 GN=rpsP PE=3 SV=1
+MAVKIRLRRMGAKKA---PFYRIIVADSRAPRDGKFIDEIGYYNPL---TEP--VEVKIN
+EEKANEWLSNGAQPTEVVKRLFNNAGLTK-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B2V4E2|RS16_CLOBA 30S ribosomal protein S16 OS=Clostridium botulinum (strain Alaska E43 / Type E3) OX=508767 GN=rpsP PE=3 SV=1
+MAVKIRLRRMGCKKA---PFYRIVVADSRSPRDGRFIEEIGYYNPI---TEP--AEVKIN
+EEKASKWLQDGAQPTDVVKKLFTQAGLSK-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q18BB8|RS16_CLOD6 30S ribosomal protein S16 OS=Clostridioides difficile (strain 630) OX=272563 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGANKK---PFYRIVVADSRAPRDGKFIEEIGYYNPI---SEP--KQVRIN
+DEKAIKWLATGAQPTEVVKKLLVKNGVIEKFEASKQAK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B9E1H4|RS16_CLOK1 30S ribosomal protein S16 OS=Clostridium kluyveri (strain NBRC 12016) OX=583346 GN=rpsP PE=3 SV=1
+MAVKIRLRRMGAKKA---PFYRIVVADSRSPRDGRFVEEIGYYNPV---TEP--TIIKFD
+EEKAVKWIKNGAQPTDIVKKLFDKAGLKDKLGK---------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A0Q0Y3|RS16_CLONN 30S ribosomal protein S16 OS=Clostridium novyi (strain NT) OX=386415 GN=rpsP PE=3 SV=1
+MAVKIRLRRMGAKKA---PFYRVVVADSRSPRDGRFVEEIGYYNPI---SEP--KAIKID
+EEKAIKWVKNGAQPTDVVKRLFKEAGIDEKLSK---------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q0TPP1|RS16_CLOP1 30S ribosomal protein S16 OS=Clostridium perfringens (strain ATCC 13124 / DSM 756 / JCM 1290 / NCIMB 6125 / NCTC 8237 / Type A) OX=195103 GN=rpsP PE=3 SV=1
+MAVKIRLRRMGAHKA---PFYRVVVADSRSPRDGRFIEEIGYYNPI---AKP-EAEVKID
+AEKAAKWLGNGAQPTDIVKKLFNQAGIK--------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B5Y8F0|RS16_COPPD 30S ribosomal protein S16 OS=Coprothermobacter proteolyticus (strain ATCC 35245 / DSM 5265 / OCM 4 / BT) OX=309798 GN=rpsP PE=3 SV=1
+MAVKMRLLRVGAKGQ---PSYRVVVADERSPRDGRFIEIVGFYNPR---TEP--ETIQLK
+EDRVKYWLSVGVKPTDSVRILLRKANMLS-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|P62228|RS16_CORDI 30S ribosomal protein S16 OS=Corynebacterium diphtheriae (strain ATCC 700971 / NCTC 13129 / Biotype gravis) OX=257309 GN=rpsP PE=3 SV=1
+MAVKIKLQRLGKIRT---PHYRVVVADARTRRDGKVIENIGIYEPK---QDP--SVIKID
+SERAQYWLGVGAQPTEPVLALLKVTGDWQKFKGLEGAEGTLKVAEPKPSKLE--LFNQAL
+AEANEG-------PTAEAITEK-KKK----------------AKEEAAAKAAAEAE----
+------AAAKA---------------------EEA----------PAEEAAE--------
+-
+>sp|Q8FP30|RS16_COREF 30S ribosomal protein S16 OS=Corynebacterium efficiens (strain DSM 44549 / YS-314 / AJ 12310 / JCM 11189 / NBRC 100395) OX=196164 GN=rpsP PE=3 SV=1
+MAVKIKLQRLGKIRT---PHYRVVVADARTKRDGKVIENIGIYEPK---QDP--SVIKID
+SERAQYWLSVGAQPTESVAALLKVTGDWQKFKGIEGAEGTLRVAEEKPSKLD--LFNQAL
+SEANNG-------PTAEAITEK-KKK----------------AREEKEAKEAAEKA----
+------AAEKAAAA-------------EAEASEEA----------PAEEAASEEA-----
+-
+>sp|Q6A7S4|RS16_CUTAK 30S ribosomal protein S16 OS=Cutibacterium acnes (strain DSM 16379 / KPA171202) OX=267747 GN=rpsP PE=3 SV=1
+MATKIRLKRLGKIRT---PHYRVVVMDSRAKRDGRAIEEIGQYHPK---ADP--SVIVID
+SERVQYWLGVGAQPTEAVVALLKRTGDWQKFTGDT-SPSGVKPQPERPNKDD--LFNAAL
+AEADEA-------PR-EAITKK-SEG----------------AAADEASESAAGDN----
+------SGEKAEA-----------------------------------------------
+-
+>sp|Q3Z8Y8|RS16_DEHM1 30S ribosomal protein S16 OS=Dehalococcoides mccartyi (strain ATCC BAA-2266 / KCTC 15142 / 195) OX=243164 GN=rpsP PE=3 SV=1
+-MLKIRLTRIGAPKK---PCYRIIVTEARSPRDATYTDLVGTYNPM---TNP--ETVVIN
+AEKALYWIGKGAQPTDTVARLLKKAGVVNSN-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|C1CUU1|RS16_DEIDV 30S ribosomal protein S16 OS=Deinococcus deserti (strain VCD115 / DSM 17065 / LMG 22923) OX=546414 GN=rpsP PE=3 SV=1
+-MVKIRLSRFGSTHN---PHYRIVVTDARRPRDGGYIENLGHYDPR--KTTE--TYLKVN
+TERAAYWLAQGAQPTQTARRLLKAQGVKVA------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q9RUT7|RS16_DEIRA 30S ribosomal protein S16 OS=Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422) OX=243230 GN=rpsP PE=3 SV=1
+-MVKIRLSRFGSAHN---PHYRIVVADVRRPRDGGYIESLGHYDPR--KTSE--NFLKID
+VERANHWIAQGAQPTDTARRLLRSQGVKISKK----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|C6BVQ1|RS16_DESAD 30S ribosomal protein S16 OS=Desulfovibrio salexigens (strain ATCC 14822 / DSM 2638 / NCIB 8403 / VKM B-1763) OX=526222 GN=rpsP PE=3 SV=1
+MAIKLRLTRMGSKKR---PFYRIVAINSETRRDGRPLDFCGYYNPM---VEP--VEVKID
+KEKVEKWLERGAEPSDTVKSLLKANS----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q313J6|RS16_DESAG 30S ribosomal protein S16 OS=Desulfovibrio alaskensis (strain G20) OX=207559 GN=rpsP PE=3 SV=1
+MAVKLRLTRMGNKKR---AFYRIIAINSEARREGRPLDYIGYYNPM---VDP--AEVKID
+TEKVQKWLERGAEPTDTVRALLKKNAQ---------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|C0QKU4|RS16_DESAH 30S ribosomal protein S16 OS=Desulfobacterium autotrophicum (strain ATCC 43914 / DSM 3382 / HRM2) OX=177437 GN=rpsP PE=3 SV=1
+MSVKIRLARRGAKKK---PFYRIVAADVESPRDGKFLESVGTYDPM---VEP--AAIILN
+EERIRYWMGEGATPTTTVKSILKKQGFSSNPA----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B8FNP6|RS16_DESAL 30S ribosomal protein S16 OS=Desulfatibacillum aliphaticivorans OX=218208 GN=rpsP PE=3 SV=1
+MAVKIRLARHGAKKR---PFYRIVVTDSESPRDGRFIEIVGTYNPV---AEP--AQIDLK
+DERIKHWMESGALPTHTVRNILKNQGFFSEAPQEA-------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B1I2P9|RS16_DESAP 30S ribosomal protein S16 OS=Desulforudis audaxviator (strain MP104C) OX=477974 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGAKRD---PFYRIVVSDARSPRDGRFIEQIGYYDPL---EEP--ARISVD
+EAKARVWLQQGAQMTETVRSLFKKSGVLERLGAERAEERG--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B8J1U2|RS16_DESDA 30S ribosomal protein S16 OS=Desulfovibrio desulfuricans (strain ATCC 27774 / DSM 6949 / MB) OX=525146 GN=rpsP PE=3 SV=1
+MAVKLKLTRLGSKKH---PFYRVVAATDETRRDGRPLEFLGYYNPM---TDP--VEVKLD
+ADKIKEWLARGAEPTDTVRALIKKHMA---------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B8FRL6|RS16_DESHD 30S ribosomal protein S16 OS=Desulfitobacterium hafniense (strain DCB-2 / DSM 10664) OX=272564 GN=rpsP PE=3 SV=1
+MATKIRLRRMGAKKN---PFYRLIVADSNAPRDGRFIEEIGFYDPT---KQP--EVLNID
+EEKAMKWLATGAQPSDTAKSLLRKAGVLAKYHESKK------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|C4XKM1|RS16_DESMR 30S ribosomal protein S16 OS=Desulfovibrio magneticus (strain ATCC 700980 / DSM 13731 / RS-1) OX=573370 GN=rpsP PE=3 SV=1
+MAMKLRLTRMGCKKR---PFYRIVAMNSETRRDGRALEYLGYYNPM---VDP--AEIKVD
+GDKVRAWLARGAEPTDTVRALLQKAGV---------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A4J669|RS16_DESRM 30S ribosomal protein S16 OS=Desulfotomaculum reducens (strain MI-1) OX=349161 GN=rpsP PE=3 SV=1
+MAVKIRLRRMGAKKN---PFYRIVVADSRSPRDGRFIEEIGYYDPI---KKP--AEVKID
+EAKAQDWLKKGAQLSDTAKSLFVKAGIIPGRAKTNEA-----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B5YFD8|RS16_DICT6 30S ribosomal protein S16 OS=Dictyoglomus thermophilum (strain ATCC 35947 / DSM 3960 / H-6-12) OX=309799 GN=rpsP PE=3 SV=1
+-MVKIRLTRVGAKNK---PAYRIVAMDSREPRDGKHLEILGFYDPK---TDP--ATIQLK
+EERILYWLSQGAQPTDTVLSILKKYGVWDKFLAMKTSAKSS------A------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A8LMC0|RS16_DINSH 30S ribosomal protein S16 OS=Dinoroseobacter shibae (strain DSM 16493 / NCIMB 14021 / DFL 12) OX=398580 GN=rpsP PE=3 SV=1
+MAMKIRLARGGSKKR---PFYRIVAADSRMPRDGRFIEKLGTYNPLLPKDSE--DRVKMD
+LERVQYWLGEGAKPTDRVARMLEAAEVLPKTERNNPKKAVP-------------------
+-------------GKKAQDRAE-EKAAK--------------AAEASEAPADEA------
+---------PAEEA--------------AAE-----------------------------
+-
+>sp|Q834F9|RS16_ENTFA 30S ribosomal protein S16 OS=Enterococcus faecalis (strain ATCC 700802 / V583) OX=226185 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGSKKS---PFYRIVVADSRSPRDGRFIETVGTYNPL---KDP--AEVVLK
+EDLVLDWLSKGAQPSDTVRNILSKEGVMKKHHEAKNVKK---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|C4Z0E0|RS16_EUBE2 30S ribosomal protein S16 OS=Eubacterium eligens (strain ATCC 27750 / VPI C15-48) OX=515620 GN=rpsP PE=3 SV=1
+MAVKIRLKRLGEKKN---PFYRIIVADSRSPRNGRFIDEIGTYDPN---YDP--CKLNID
+AEAAKKWLSNGAQPTEVVGKLFKMAGIEK-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B1YIM6|RS16_EXIS2 30S ribosomal protein S16 OS=Exiguobacterium sibiricum (strain DSM 17290 / CIP 109462 / JCM 13490 / 255-15) OX=262543 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGANKS---PFYRVVVADSRAPRDGRFIEQIGYYNPV---AKP-EAEVKLN
+EELALKWLAEGAKPSDTVRNLFSKAGIMEKFHNAKLAK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A7HKR8|RS16_FERNB 30S ribosomal protein S16 OS=Fervidobacterium nodosum (strain ATCC 35602 / DSM 5306 / Rt17-B1) OX=381764 GN=rpsP PE=3 SV=1
+-MVRIRLTRMGKKKQ---PFYRIVVVDQKKKRDGAYVESLGYYNPL---KEP--YEVKVD
+IDRAVEWMLKGAQPSETVSKLLGKLGLYEKLEEAKSKKA---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B0S044|RS16_FINM2 30S ribosomal protein S16 OS=Finegoldia magna (strain ATCC 29328 / DSM 20472 / WAL 2508) OX=334413 GN=rpsP PE=3 SV=1
+MSVKIRLKRMGAKKK---PFYRIVVADSRCPRDGKFIEEIGYYNPL---VEE--KTVKVD
+SEKVQQWIKNGAKPTDTVDRLFKNNGVYEAK-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A5FKD9|RS16_FLAJ1 30S ribosomal protein S16 OS=Flavobacterium johnsoniae (strain ATCC 17061 / DSM 2064 / JCM 8514 / NBRC 14942 / NCIMB 11054 / UW101) OX=376686 GN=rpsP PE=3 SV=1
+MSVKIRLQRHGKKGK---PFYWVVAADARSKRDGKYLEKIGTYNPN---TNP--ATVELN
+LDSAVKWLHNGAQPTDTARAILSYKGALLKHHLDGGVRKGALTQEQADAKLT--AWLEAK
+AGKVDAKKDGLS-KAQADAKAKALKAEKE-------------VNDKRIAAAAKAEAD---
+---AIAAASATEEA-------------ATEEVAEAAEE------APAAEENNETTEA---
+-
+>sp|A6GWI4|RS16_FLAPJ 30S ribosomal protein S16 OS=Flavobacterium psychrophilum (strain ATCC 49511 / DSM 21280 / CIP 103535 / JIP02/86) OX=402612 GN=rpsP PE=3 SV=1
+MSVKIRLQRHGKKGK---PFYWVVAADARSKRDGKYLEKIGTYNPN---TNP--ATVDLN
+LDAAVKWLHNGAQPTDTARAILSYKGALLKHHLDGGVRKGALTQDQADAKLA--TWIEAK
+SGKVDAKKEGLT-KAQSDAKAKAFKAETV-------------ANEKRIATQTEA------
+---AKALEAVVEEA-------------TTEEVVET-----------ATEEANEEKEA---
+-
+>sp|Q0RDP2|RS16_FRAAA 30S ribosomal protein S16 OS=Frankia alni (strain ACN14a) OX=326424 GN=rpsP PE=3 SV=1
+MATKIKLQRLGKMRE---PHYRIVVADARTKRDGRVIEAIGQYHPK---SDP--SIIKVD
+AERAQHWLSVGAQPTEPVLAILKVTGDWQKFKNLP-APPPMKVAEPKADKRE--IFQAAA
+RAAAGA-------EDRPATTPK-K--------------------AKKAA--SAD------
+---------GADAP--------------AADAPTA----------AGQ------------
+-
+>sp|C1AAX0|RS16_GEMAT 30S ribosomal protein S16 OS=Gemmatimonas aurantiaca (strain T-27 / DSM 14586 / JCM 11422 / NBRC 100505) OX=379066 GN=rpsP PE=3 SV=1
+MAVKIRLRREGRKKT---PMYRIVVADSKAPRDGRFIEILGQYQPR---GGE--NAIALK
+ADRVNHWLNVGALPTDTVRSLLRRAGILKARHEARLAAKLQ------AAAVA--L-----
+PSGEA-------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q5L0P8|RS16_GEOKA 30S ribosomal protein S16 OS=Geobacillus kaustophilus (strain HTA426) OX=235909 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGTKKK---PFYRIVVADSRSPRDGRFIETIGTYDPV---AEP--AQVKID
+EELALKWLQNGAKPSDTVRSLLSKQGILEKFHNLKYGK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B3E5S3|RS16_GEOLS 30S ribosomal protein S16 OS=Geobacter lovleyi (strain ATCC BAA-1151 / DSM 17278 / SZ) OX=398767 GN=rpsP PE=3 SV=1
+MATKIRLQRHGAKKR---PFYQVVIADERSRRDGRFIENVGYYDPT---KNP--AVLKLN
+VEKVIAWLDKGAQPTDTVNQILKKEGILEKAAQAA-------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B8CW18|RS16_HALOH 30S ribosomal protein S16 OS=Halothermothrix orenii (strain H 168 / OCM 544 / DSM 9562) OX=373903 GN=rpsP PE=3 SV=1
+MAVKIRLRRMGSKRN---AHYRLVVADSRKPRDGRFVEEIGYYNPT---TEP--ATVKVD
+EEKAIKWLKNGAQPSNTVRSLLKKTGVLAKFREQQQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B0TH64|RS16_HELMI 30S ribosomal protein S16 OS=Heliobacterium modesticaldum (strain ATCC 51547 / Ice1) OX=498761 GN=rpsP PE=3 SV=1
+MATRIRLKRLGMKKA---PFYRVVVADSRSPRDGRFIEEIGYYNPT---KEP--AILQID
+EEKAIKWLSSGAQPSDTVKALLNKAGILDKMAEKKAQA----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A9B0N4|RS16_HERA2 30S ribosomal protein S16 OS=Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785 / 114-95) OX=316274 GN=rpsP PE=3 SV=1
+-MVRIRLRRMGMKHK---PAYRVVIADSHAPRDGKFIETIGHYNPQ---AQP--KVVFIK
+EDRARYWLSVGAQPSDTVVRLLKNLGVVDAEGKLIGEAPAKVEAPVKKAKKAV-------
+SKAAVA-------PVAVAAPVK-AEAEAGEFAGSVRPLADGSAPEGYAIKGNQNSMLYHV
+PGSRYYNSTVAELW-----------FDTVESAEAAGFR------APGQKSAE--------
+-
+>sp|A3DDH5|RS16_HUNT2 30S ribosomal protein S16 OS=Hungateiclostridium thermocellum (strain ATCC 27405 / DSM 1237 / JCM 9322 / NBRC 103400 / NCIMB 10682 / NRRL B-4536 / VPI 7372) OX=203119 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGAKKR---PFYRVVVADSRYPRDGRFIEEIGTYNPL---TEP--SEIKID
+TEKAQKWLKNGAQPTDTVRALLKKVGVIS-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A6W7U7|RS16_KINRD 30S ribosomal protein S16 OS=Kineococcus radiotolerans (strain ATCC BAA-149 / DSM 14245 / SRS30216) OX=266940 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGQIRA---PFYRIVVADSRNKRDGRSIEEIGLYNPM---TDP--STIEVK
+SERVQYWLGVGAQPTEQVAALLKVTGDWQKFKGLPGAEGTYRVPTANTKPPR--------
+------------------------------------------IPGGGAAKAVEA------
+---------PAEAP--------------AEAETPA----------SES------------
+-
+>sp|C5CEB3|RS16_KOSOT 30S ribosomal protein S16 OS=Kosmotoga olearia (strain ATCC BAA-1733 / DSM 21960 / TBF 19.5.1) OX=521045 GN=rpsP PE=3 SV=1
+-MVKIRLTRMGRRNR---PFYRIVVVDSRKRRDGAYIDSLGFYDPV---KDP--AVMSVD
+VEKAVEWILKGAQPTDTARSILSKFGVMKKVHEIKYGKKTE------EEGNE--------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q5FJK5|RS16_LACAC 30S ribosomal protein S16 OS=Lactobacillus acidophilus (strain ATCC 700396 / NCK56 / N2 / NCFM) OX=272621 GN=rpsP PE=3 SV=1
+MSVKIRMHRAGAKRK---PFYRIVVADSRMPRDGRFIEQVGYYNPV---SQP--KELKLD
+EDKIFEWLQKGAQPSDTVRSLLSGAGLMAKLHDAKYNK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q03RU4|RS16_LACBA 30S ribosomal protein S16 OS=Lactobacillus brevis (strain ATCC 367 / JCM 1170) OX=387344 GN=rpsP PE=3 SV=1
+MSVKIRLKRMGSKKR---PFYRVVVADSRSPRDGRFIEQVGTYNPV---TEP--AQVTLK
+EESILNWLNNGAQPSDTVKTLLSNAGIMKQYHEAKYTKK---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B3WEU4|RS16_LACCB 30S ribosomal protein S16 OS=Lactobacillus casei (strain BL23) OX=543734 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGSKRK---PFYRIVVADSRSPRDGRFIEAVGYYNPL---TNP--VDLKLN
+EEDILNWLQKGAQPSDTVRNLLGSKGIMQKYHEARFAKK---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B2GD28|RS16_LACF3 30S ribosomal protein S16 OS=Lactobacillus fermentum (strain NBRC 3956 / LMG 18251) OX=334390 GN=rpsP PE=3 SV=1
+MSVKIRLKRMGSKKR---PFYRIVVADSRSPRDGRFITSLGTYNPL---TTP--KQVKFD
+EDAVMEWLQKGAQPSDTVRNMLQKAGVMKKYHEAKYAKK---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q044E5|RS16_LACGA 30S ribosomal protein S16 OS=Lactobacillus gasseri (strain ATCC 33323 / DSM 20243 / CIP 102991 / JCM 1131 / KCTC 3163 / NCIMB 11718 / AM63) OX=324831 GN=rpsP PE=3 SV=1
+MSVKIRMRRMGSKRK---PFYRIVVADSRMPRDGRFIEEVGYYNPL---TNP--DEVKLE
+EDKIFEWLEKGAQPSDTVRSLLSKAGLMTRYHDAKYGK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q9CFB2|RS16_LACLA 30S ribosomal protein S16 OS=Lactococcus lactis subsp. lactis (strain IL1403) OX=272623 GN=rpsP PE=3 SV=1
+MSVKIRLTRMGSKKK---PFYRINVADSRAPRDGKFIETVGTYNPL---VTE--EQVTLK
+EERVLEWLSKGAQPSDTVRNLLSKAGVMKKFHESKLSK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A9KLM5|RS16_LACP7 30S ribosomal protein S16 OS=Lachnoclostridium phytofermentans (strain ATCC 700394 / DSM 18823 / ISDg) OX=357809 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGQKKA---PFYRVIVADSRSPRDGKFIAEIGTYDPT---QEP--SAFNVD
+EEAAKKWLADGAQPTETINRLFKKAGIVK-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q88WJ5|RS16_LACPL 30S ribosomal protein S16 OS=Lactobacillus plantarum (strain ATCC BAA-793 / NCIMB 8826 / WCFS1) OX=220668 GN=rpsP PE=3 SV=1
+MSVKIRLKRMGSKKN---PFYRIVVADSRSPRDGRFIAQVGTYNPL---TEP--AQVKLE
+EEDILGWLNNGAQPSDTVKNILSKAGIMKKYHEAKFTK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q1WU95|RS16_LACS1 30S ribosomal protein S16 OS=Lactobacillus salivarius (strain UCC118) OX=362948 GN=rpsP PE=3 SV=1
+MSVKIRLKRMGSKKR---PFYRIVVADSRSPRDGRFIETVGTYNPL---TDP--ETVTLK
+EEKVMNWLNNGAQPSDTVRNILSRNGVMKKFHEAKFSKK---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q38XR0|RS16_LACSS 30S ribosomal protein S16 OS=Lactobacillus sakei subsp. sakei (strain 23K) OX=314315 GN=rpsP PE=3 SV=1
+MSVKIRMKRMGSKKR---PFYRIVVADSRSPRDGRFIQQVGYYNPL---TEP--VDLKLE
+EEVIMDWLQKGAQPSDTVRNLLSKQGIMQKYHEARFAKK---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q6AE98|RS16_LEIXX 30S ribosomal protein S16 OS=Leifsonia xyli subsp. xyli (strain CTCB07) OX=281090 GN=rpsP PE=3 SV=1
+MAVKIRLKRLGKIRA---PHYRIVVADSRTKRDGRVIEEIGLYHPT---EEP--SRIEVD
+SDRAQYWLGVGSQPTEQVLVLLKLTGDWGTFKGDKNAVSTVKVAGAKEAFVA--------
+----DE-------KKKPVLKPKAAK------------------PAEAEA-----------
+-------VIEAEEA--------------AEVEVVA----------EAGDIADEAADGEK-
+A
+>sp|P62232|RS16_LEPIC 30S ribosomal protein S16 OS=Leptospira interrogans serogroup Icterohaemorrhagiae serovar copenhageni (strain Fiocruz L1-130) OX=267671 GN=rpsP PE=3 SV=1
+-MVKLRLQRTGTKHD---PHYRIVAADSRSPRDGKFVDIVGHYHPA---QIK--EQTTFN
+KEKILTWLKNGAQPTGTVLNLFKNAGIWAEYKTTLKK-----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B1MZU5|RS16_LEUCK 30S ribosomal protein S16 OS=Leuconostoc citreum (strain KM20) OX=349519 GN=rpsP PE=3 SV=1
+MSVKIRLKRMGAKKR---PFYRVVIADSRSPRDGRFIETVGTYNPI---AQP--AEIKLD
+EAKILTWLSNGAQPSDTARNLLSNAGILAKFAEVKAAKKST------AAKPA--ASATKP
+TEKNTVA------EIKAYLDAQ-------------------GTQYASSAKKADLLALV--
+------------------------------------------------------------
+-
+>sp|Q03W45|RS16_LEUMM 30S ribosomal protein S16 OS=Leuconostoc mesenteroides subsp. mesenteroides (strain ATCC 8293 / DSM 20343 / BCRC 11652 / CCM 1803 / JCM 6124 / NCDO 523 / NBRC 100496 / NCIMB 8023 / NCTC 12954 / NRRL B-1118 / 37Y) OX=203120 GN=rpsP PE
+MAVKIRLKRMGAKKR---PFYRVVIADSRSPRDGRFIETVGTYNPI---SQP--AEIKLD
+EEKILSWLGNGAQPSDTVRNLLSNAGILAKYNESKSGKKPA----KKATTKE--ASAKKP
+TDKNTVA------EIKAYLDAQ-------------------GTAYTSSAKKADLLALV--
+------------------------------------------------------------
+-
+>sp|Q92AL1|RS16_LISIN 30S ribosomal protein S16 OS=Listeria innocua serovar 6a (strain ATCC BAA-680 / CLIP 11262) OX=272626 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGSKKK---PFYRIVVADSRFPRDGRSIETIGTYNPL---LDP--VEVKID
+EEATLKWMHNGAKPSDTVRNLLSREGIMEKFHNQKLGK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B1HQI0|RS16_LYSSC 30S ribosomal protein S16 OS=Lysinibacillus sphaericus (strain C3-41) OX=444177 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGAKKS---PFYRIVVADARSPRDGRQIETVGTYNPL---TQP--ATVNID
+EEKALKWLADGAKPSDTVRNLFSEQGIMEKFHNQKFSK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q6F0S3|RS16_MESFL 30S ribosomal protein S16 OS=Mesoplasma florum (strain ATCC 33453 / NBRC 100688 / NCTC 11704 / L1) OX=265311 GN=rpsP PE=3 SV=1
+-MVKIRLKRIGKKQA---PFYRIVAADSRVNRNGQYIELIGTFDPL---KS----EVKIN
+NELALKWLQNGAQPTETVRELLSQQGVMKALHEAKLANKK--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q2RJV7|RS16_MOOTA 30S ribosomal protein S16 OS=Moorella thermoacetica (strain ATCC 39073 / JCM 9320) OX=264732 GN=rpsP PE=3 SV=1
+MATKIRLKRMGAKKA---PFYRLVVADSRSPRDGRVVEEIGYYNPV---KQP--VEIKVD
+EEKALHWLTTGAQPSETVRALLKKAGVWQKYIAAREAK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B3PMA1|RS16_MYCA5 30S ribosomal protein S16 OS=Mycoplasma arthritidis (strain 158L3-1) OX=243272 GN=rpsP PE=3 SV=1
+-MVKLRLKRVGKKFH---AQYKIVAADARSPRDGKFIEELGHYDPH---AK----KLTLN
+KELLTKYLDQGAKPTDTVRTLLKQEQFYSNYIASKK------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q2SRU5|RS16_MYCCT 30S ribosomal protein S16 OS=Mycoplasma capricolum subsp. capricolum (strain California kid / ATCC 27343 / NCTC 10154) OX=340047 GN=rpsP PE=3 SV=1
+-MVKLRLKRIGKKQA---PFYRIVAADSRVNRNGQYIELVGTFNPL---KD----EVKID
+KELTLKWLNNGAQPTDTVRSLLSKQGILKALHESKFSKNT-------QTENK--KPVSKK
+TTKKS---------KDN-------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q601V7|RS16_MYCH2 30S ribosomal protein S16 OS=Mycoplasma hyopneumoniae (strain 232) OX=295358 GN=rpsP PE=3 SV=1
+-MVRIRLQRMGSKFN---PFYKIVVADARAPRDGRFIEALGYYNPQ---QK----FAKVN
+LEKTYRWLHIGAQVTQTVRNIFSKKGVFKNFLEQKSSRA---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B2HJL2|RS16_MYCMM 30S ribosomal protein S16 OS=Mycobacterium marinum (strain ATCC BAA-535 / M) OX=216594 GN=rpsP PE=3 SV=1
+MAVKIKLTRLGKIRN---PQYRIAVADARTRRDGRSIEVIGRYHPK---EEP--SLIEIN
+SERAQYWLSVGAQPTEPVLKLLKITGDWQKFKGLPGAEGRLKVKPPKPSKLE--LFNAAL
+AAAEGG-------PTTEATKPK-KK-----------------SPAKKAKGGEGD------
+----------ADAA--------------AEKVEAS----------AEGEQTE-SAES---
+-
+>sp|Q6KHL4|RS16_MYCMO 30S ribosomal protein S16 OS=Mycoplasma mobile (strain ATCC 43663 / 163K / NCTC 11711) OX=267748 GN=rpsP PE=3 SV=1
+-MVKLRLKRMGSKFN---AFYRIVAADARAPRDGRFIEELGYYNPF---SK----DLKIE
+KELVFKWLDLGAKPTETTKTLFKKEKIMEQYHQKRQKN----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|P62234|RS16_MYCPA 30S ribosomal protein S16 OS=Mycolicibacterium paratuberculosis (strain ATCC BAA-968 / K-10) OX=262316 GN=rpsP PE=3 SV=1
+MAVKIKLTRLGKIRN---PQYRIAVADARTRRDGRSIEIIGRYHPK---EDP--SLIEIN
+SERAQYWLSVGAQPTEPVLKLLKITGDWQKFKGLPGAEGRLKVAPPKPSKLE--LFNAAL
+AEAEGG-------PTTEAAKPK-KKAAT--------------SGAKKAAKAAEPEA----
+------AASEAAEP--------------EAAAAPA----------EGGEQAESSAES---
+-
+>sp|A3PXV6|RS16_MYCSJ 30S ribosomal protein S16 OS=Mycobacterium sp. (strain JLS) OX=164757 GN=rpsP PE=3 SV=1
+MAVKIKLTRLGKIRN---PQYRIVVADARTRRDGRSIEVIGRYHPK---EEP--SLIELN
+SERAQYWLGVGAQPTEPVLQLLKITGDWQKFKGLPGAEGTLKVKEPKPSKLD--LFNAAL
+AEAEGG-------PSNEATQPK-KKK----------------APAKKAASDIEA------
+---------TADPAG------------NADKSEPA----------AEGEDATVAGATEG-
+-
+>sp|P9WH52|RS16_MYCTO 30S ribosomal protein S16 OS=Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh) OX=83331 GN=rpsP PE=3 SV=1
+MAVKIKLTRLGKIRN---PQYRVAVADARTRRDGRAIEVIGRYHPK---EEP--SLIEIN
+SERAQYWLSVGAQPTEPVLKLLKITGDWQKFKGLPGAQGRLKVAAPKPSKLE--VFNAAL
+AAADGG-------PTTEATKPK-KK-----------------SPAKKAAKAAEP------
+----------APQP--------------EQPDTPA----------LGGEQAELTAES---
+-
+>sp|B2A2N7|RS16_NATTJ 30S ribosomal protein S16 OS=Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) OX=457570 GN=rpsP PE=3 SV=1
+MAVRMRLKRMGAKKQ---PSYRIVVADVRAPRDGRFIEELGHYNPT---TEP--VTLEIN
+EEKAKKWLQEGAKPSQKVRSLLTQAGVVEK------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q8ER01|RS16_OCEIH 30S ribosomal protein S16 OS=Oceanobacillus iheyensis (strain DSM 14371 / CIP 107618 / JCM 11309 / KCTC 3954 / HTE831) OX=221109 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGSKRN---PFYRIVVADSRSPRDGRSIEQIGTYNPV---VNP--VEVKID
+EEKALDWMSKGAKPSDTVRNLFSNEGIMKKFHEQKNSK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q04FP8|RS16_OENOB 30S ribosomal protein S16 OS=Oenococcus oeni (strain ATCC BAA-331 / PSU-1) OX=203123 GN=rpsP PE=3 SV=1
+MSVKIRLHLMGTKKR---PFYRIVVADSRARRDGRFIEEVGYYNPI---TKP--AEIKLN
+DDQIFNWLMKGAQPTNTVRNFLSDAGLMKKLHEAKLAAKKE------SKK----------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A6LCP4|RS16_PARD8 30S ribosomal protein S16 OS=Parabacteroides distasonis (strain ATCC 8503 / DSM 20701 / CIP 104284 / JCM 5825 / NCTC 11152) OX=435591 GN=rpsP PE=3 SV=1
+MATKIRLQRHGRKGY---AFYQIVIADSRAPRDGRFIERIGSYNPN---TNP--ATVDLN
+FERALYWLQVGAQPTDTTRNILSREGVCLKKHLLEGVKKGAFDEAAAEEKFQ--AWLKNK
+QASVQAIKEKDSEAARAEAKAR-LEAEKE-------------ANKAKAEIVAKKKAE---
+---LAAAEAAKQA---------------EEAAAAA----------PAEEAPATESAE---
+-
+>sp|A1B8V3|RS16_PARDP 30S ribosomal protein S16 OS=Paracoccus denitrificans (strain Pd 1222) OX=318586 GN=rpsP PE=3 SV=1
+MAMKIRLARGGSKKR---PHYAIVASDSRMPRDGRFIEKLGTYNPLLPKDSE--DRIKMN
+LERVQYWLGQGAQPTDRVARFLEAAGVKEKAERKNLKKGEP-------------------
+-------------GKAAKERAE-KRAAR--------------EAAANA------------
+---------PAEEA--------------ASE-----------------------------
+-
+>sp|Q3A2E4|RS16_PELCD 30S ribosomal protein S16 OS=Pelobacter carbinolicus (strain DSM 2380 / NBRC 103641 / GraBd1) OX=338963 GN=rpsP PE=3 SV=1
+MSVKIRLARGGAKKK---PFYQVVVADERFPRDGRFIEQLGQYDPR---QNP--SMVTLK
+EDKTLEWLNKGAQPTDTVRRLLRTQGVWAKFKQA--------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q3B4A3|RS16_PELLD 30S ribosomal protein S16 OS=Pelodictyon luteolum (strain DSM 273 / 2530) OX=319225 GN=rpsP PE=3 SV=1
+-MVKIRLRRAGRKKL---PVYQIVAADARAPRDGKFLEVVGHYQPT---AKP--HVVTLD
+RERVAYWMQTGAQPTSTVRSLIQKTGLLYELRLKKLGRSEA----EVAEEME--KWQEKQ
+AERRQ---------KRLNVKSR-RRQLKK-------------EAAAKPAVAEEVAA----
+---PVAAAPVAEAPVAEVE-VVIAPEVQVEAAVEAVPEAPVAAAEPAPEVKAEEKEEGGE
+A
+>sp|B4SA46|RS16_PELPB 30S ribosomal protein S16 OS=Pelodictyon phaeoclathratiforme (strain DSM 5477 / BU-1) OX=324925 GN=rpsP PE=3 SV=1
+-MVKIRLKRAGRKKL---PVYQIVVADARSPRDGKFLEVVGTYQPT---AKP--HAVTIK
+KDRIVYWMQTGAQPTATVNSLIRTTGLLYELRLKSMGRSEA----EISAEME--KWQEHQ
+AVRRQ---------KRLALKSH-RRSAKK-------------EAEAKAATGGEA------
+------------------------------------------------------------
+-
+>sp|A1AN03|RS16_PELPD 30S ribosomal protein S16 OS=Pelobacter propionicus (strain DSM 2379 / NBRC 103807 / OttBd1) OX=338966 GN=rpsP PE=3 SV=1
+MATKIRLARAGAKKR---PFYQVVVADERSRRDGRFIENMGTYDPT---KNP--AVFKLN
+EEKILAWLSKGAQPTDTVRQLLKKAGILDKATA---------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A5D1G1|RS16_PELTS 30S ribosomal protein S16 OS=Pelotomaculum thermopropionicum (strain DSM 13744 / JCM 10971 / SI) OX=370438 GN=rpsP PE=3 SV=1
+MAVKIRLRRMGAKKA---PFYRIVVADSRSPRDGRFIEEIGYYDPL---KKP--AVINVN
+AERALDWLKKGAQLSDTAKALLTKAGVLKKTAGEGQ------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A9BEZ8|RS16_PETMO 30S ribosomal protein S16 OS=Petrotoga mobilis (strain DSM 10674 / SJ95) OX=403833 GN=rpsP PE=3 SV=1
+-MVKIRLNRMGRRHQ---PFYRIVIVDSRNKRSGKYIESIGYYDPL---NNS--NQYKVD
+EDKALDWLLKGAQPTDTARRILRKMGVMKRYDEIKFQARKE------KGVKE--SNEIVE
+PEGEEV--------KE--------------------------------------------
+------------------------------------------------------------
+-
+>sp|B2RH41|RS16_PORG3 30S ribosomal protein S16 OS=Porphyromonas gingivalis (strain ATCC 33277 / DSM 20709 / CIP 103683 / JCM 12257 / NCTC 11834 / 2561) OX=431947 GN=rpsP PE=3 SV=1
+MATKIRLQRHGRKGY---AFYKIVVADSRAPRDGKFIERIGSYNPN---TNP--ATIDLN
+FERALYWIGVGAQPTDTARNILSREGVLMMKHLLGGVKKGAFDQAAAESKFE--AWLKGK
+KDALNNMKAKVKEAAVADDKVK-LEAEKA-------------VNKARAEAVAEKKAA---
+---EAKAKAEAEAAAAAEEA-----TETEETPMEA----------AAEEAPAAESAE---
+-
+>sp|B4S7L7|RS16_PROA2 30S ribosomal protein S16 OS=Prosthecochloris aestuarii (strain DSM 271 / SK 413) OX=290512 GN=rpsP PE=3 SV=1
+-MVKIRLRRAGRKKM---PVYQIVAADARAPRDGKFLEVIGRYQPT---AKP--HSITID
+KERVEYWLGVGAQPTTTAQSLLRATGLLYEMNLKRKGRSEE----EIVSEMA--QWQERQ
+SARLQ---------KRLAVKAR-RRQAKK-------------DAQAAAAASAE-------
+------------------------------------------------------------
+-
+>sp|A8F3G4|RS16_PSELT 30S ribosomal protein S16 OS=Pseudothermotoga lettingae (strain ATCC BAA-301 / DSM 14385 / NBRC 107922 / TMO) OX=416591 GN=rpsP PE=3 SV=1
+-MVRIRLTRMGKRHM---PFYRIVVVDSRKRRDGAYIESLGYYNPL---RKP--AEIKVN
+VERAVEWILKGAQPSETAANILSKAGVLAKVHEMKYGKREK------SDEGV--S-----
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A4WNX7|RS16_RHOS5 30S ribosomal protein S16 OS=Rhodobacter sphaeroides (strain ATCC 17025 / ATH 2.4.3) OX=349102 GN=rpsP PE=3 SV=1
+MAMKIRLARGGSKKR---PHYSIVASDSRMPRDGRFLEKLGTYNPLLAKDSE--DRIKMN
+VERVQYWLSQGAQPTDRVARFLEAAGLKEKAVRNNPKAAVP-------------------
+-------------GKRMAELAK-KKAER--------------AAASAE------------
+------------------------------------------------------------
+-
+>sp|A5UST8|RS16_ROSS1 30S ribosomal protein S16 OS=Roseiflexus sp. (strain RS-1) OX=357808 GN=rpsP PE=3 SV=1
+-MVTIRLRRMGKTKQ---PSYRLVVADSRAPRDGKFIEIVGHYNPV---RQP--KELHVK
+ADRVRYWLSVGAQPSETVVRLLKQVGVLDADGKPTPTATTPVEG----------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q1AW77|RS16_RUBXD 30S ribosomal protein S16 OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129 / PRD-1) OX=266117 GN=rpsP PE=3 SV=1
+MAVKIRLARHGAKGK---PFYRIVVADARSPRDGKFIDRVGTYDPR---KEP--SEIKVD
+AEKAREWLRKGAQPTDQVRNLLRISGVLEEQKG---------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B8I7T2|RS16_RUMCH 30S ribosomal protein S16 OS=Ruminiclostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10) OX=394503 GN=rpsP PE=3 SV=1
+MAVKIRLKRMGAKKN---PFYRVVVADSRYPRDGRFIEEIGTYNPI---VEP--VQFKID
+AEKVQKWIKNGAQPTDTVKSLLKKQGIIE-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A8M677|RS16_SALAI 30S ribosomal protein S16 OS=Salinispora arenicola (strain CNS-205) OX=391037 GN=rpsP PE=3 SV=1
+MAVKIRLLRMGKIRN---PQYRIVIADSRTKRDGRAIEFVGIYQPK---EDP--SVIEVK
+SDRVQYWLSVGAQPSEAVQRLLEKTGDWQKFKGLP-APEPLKVAPERVDRKA--AYEAEA
+KAAAG---------LAEAPTKP-AKK----------------APKAEAAPKTEA------
+-------APKADAP-------------KTEEQAGA----------GSGEQG---------
+-
+>sp|P62237|RS16_SPIKU 30S ribosomal protein S16 OS=Spiroplasma kunkelii OX=47834 GN=rpsP PE=3 SV=1
+-MVKLRLKRIGKKKA---AFYRIVATDARVKRDGEYIELIGTYNPI---NG----YVKIN
+YDLAYKWLLTGAQPTDTVRNLLSKEGLMNKLHNEKYVAKTT------KSTKE--KAATDK
+KAKVT---------KKPKTKTT-TDVKK--------------------------------
+------------------------------------------------------------
+-
+>sp|B9DPJ9|RS16_STACT 30S ribosomal protein S16 OS=Staphylococcus carnosus (strain TM300) OX=396513 GN=rpsP PE=3 SV=1
+MAVKIRLTRLGSKRN---PFYRIVVADARSPRDGRIIEQIGTYNPV---DNSGENKVTID
+EELALKWLKDGAKPTDTVHNILSREGILKTFDEQRHSK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q4L5U0|RS16_STAHJ 30S ribosomal protein S16 OS=Staphylococcus haemolyticus (strain JCSC1435) OX=279808 GN=rpsP PE=3 SV=1
+MAVKIRLTRLGSKRN---PFYRIVVADARSPRDGRIIEQIGTYNPA--SVNA--PEVKID
+EELALKWLKDGAKPTDTVHNILSKQGILKTFDEQKHAK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q49X24|RS16_STAS1 30S ribosomal protein S16 OS=Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM 20229 / NCIMB 8711 / NCTC 7292 / S-41) OX=342451 GN=rpsP PE=3 SV=1
+MAVKLRLTRLGSKRN---PFYRIVAADARAPRDGRNIEQIGTYNPN--NVNA--AEVKID
+EELALKWLKNGAKPTDTVHNILSREGILKKFDDQK-------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q3K0F4|RS16_STRA1 30S ribosomal protein S16 OS=Streptococcus agalactiae serotype Ia (strain ATCC 27591 / A909 / CDC SS700) OX=205921 GN=rpsP PE=3 SV=1
+MAVKIRLTRMGSKKK---PFYRINVADSRAPRDGRFIETVGTYNPL---VAE--NQVTIK
+EERVLEWLSKGAQPSDTVRNLLSKAGVMTKFHDQKFSK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|O69879|RS16_STRCO 30S ribosomal protein S16 OS=Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145) OX=100226 GN=rpsP PE=3 SV=1
+MAVKIKLKRLGKIRS---PHYRIVVADSRTRRDGRAIEEIGKYHPT---YNP--SVMEVD
+AERVAYWLGVGAQPTEPVLAILKKTGDWQKFKGEP-APAPLLQPAEKAARPS---FEAIG
+GEDEG---------KGEAITQK-KKA----------------DKKDEAAAESSA------
+----------------------------SEA-----------------------------
+-
+>sp|A8AXU4|RS16_STRGC 30S ribosomal protein S16 OS=Streptococcus gordonii (strain Challis / ATCC 35105 / BCRC 15272 / CH1 / DL1 / V288) OX=467705 GN=rpsP PE=3 SV=1
+MAVKIRLTRMGSKKK---PYYRINVADSRSPRDGRFIETVGTYNPL---VAE--NQVTLK
+EDRVLAWLENGAQPSDTVRNILSKEGVLKKFHDSKYSK----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B1VYW3|RS16_STRGG 30S ribosomal protein S16 OS=Streptomyces griseus subsp. griseus (strain JCM 4626 / NBRC 13350) OX=455632 GN=rpsP PE=3 SV=1
+MAVKIKLKRLGKIRS---PHYRIVVADSRTRRDGRAIEEIGLYHPV---QNP--SRIEVN
+SERAQYWLSVGAQPTEPVLAILKLTGDWQAHKGLP-APAPLLQPEPKADKRA--LFEALS
+SDGDEA--------KGEAITPKAKKS----------------DKKADEAAEASA------
+----------------------------STESTEA-------------------------
+-
+>sp|Q8DUN9|RS16_STRMU 30S ribosomal protein S16 OS=Streptococcus mutans serotype c (strain ATCC 700610 / UA159) OX=210007 GN=rpsP PE=3 SV=1
+MAVKIRLTRMGSKKK---PFYRINVADSRAPRDGRFIETVGTYNPL---VTE--NQVTLK
+EDRILEWLGNGAQPSDTVRNILSKAGIMQKFHEAKYSKK---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B2ING0|RS16_STRPS 30S ribosomal protein S16 OS=Streptococcus pneumoniae (strain CGSP14) OX=516950 GN=rpsP PE=3 SV=1
+MAVKIRLTRMGSKKK---PFYRINVADSRSPRDGRFIETVGTYNPL---VAE--NQVTLK
+EDRVLAWLANGAQPSDTVRNILSKEGVLKKSTILNSQNKFK------VG-----------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A8Z653|RS16_SULMW 30S ribosomal protein S16 OS=Sulcia muelleri (strain GWSS) OX=444179 GN=rpsP PE=3 SV=1
+MSIKIRLQRKGRKKK---AFYTIVVSNSRSPRNGKFLEKIGFYNPN---TNP--YTISIN
+VDKAVNWLIKGAQPTCTVKSFFLKEGIYYKKYLLSGVKISK---SEIEQKLK--AWKEKK
+------------------------------------------------------------
+--------------------IILHK-----------------------------------
+-
+>sp|Q67PE2|RS16_SYMTH 30S ribosomal protein S16 OS=Symbiobacterium thermophilum (strain T / IAM 14863) OX=292459 GN=rpsP PE=3 SV=1
+MALKIRLKRMGMKKT---PFYRLVVTEATSPRDGRFVEEIGYYDPT---KNP--VVLNID
+EEKALNWLLKGATPTETTRALLSKAGVLKKFDEARK------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q2LVU9|RS16_SYNAS 30S ribosomal protein S16 OS=Syntrophus aciditrophicus (strain SB) OX=56780 GN=rpsP PE=3 SV=1
+MAVKIRLARMGAKKK---PFYRIVVSDSESPRDGRFLEIVGNYDPG---KDP--AEVNVK
+ESRLLEWLSKGAKPTLTVSQLLQKKGIKVGA-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|A5GUQ3|RS16_SYNR3 30S ribosomal protein S16 OS=Synechococcus sp. (strain RCC307) OX=316278 GN=rpsP PE=3 SV=1
+-MIKLRLKRFGKKRE---TSFRIVACNSTSRRDGRPLQELGFYNPR---TK----ETRLD
+TDALRARLEQGAQPSDTVRTLLERGGLLTKSVRPAEVIGKLKQEEARKKEAA--------
+-------------DAKAAAKAE-------------------AEAKASEA--AAAAA----
+---------AAEEA-------------PAEEAPAE----------A--------------
+-
+>sp|Q0AWV4|RS16_SYNWW 30S ribosomal protein S16 OS=Syntrophomonas wolfei subsp. wolfei (strain DSM 2245B / Goettingen) OX=335541 GN=rpsP PE=3 SV=1
+MATRIRLRRMGAKKS---PFYRLVVADSRYPRDGRFIEELGYYNPS---TTP--ATVKID
+EEKALKWLASGAKPSDTARSLLQKQGIMARFAEIRK------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q47S67|RS16_THEFY 30S ribosomal protein S16 OS=Thermobifida fusca (strain YX) OX=269800 GN=rpsP PE=3 SV=1
+MAVKIKLKRMGKVRT---PQYRIVVADARAKRDGKAIEEIGKYHPK---EEP--SLIEVN
+SERVQYWLSVGAQPTDPVRHILKLTGDWQKFKGLPAPTKPLKVAEPKDKEAQEAAFQAVL
+KEL-VL-------PGSENKGGK-SKK----------------AEEKSAEK----------
+---------TAEKS--------------EGEA----------------------------
+-
+>sp|A6LNY9|RS16_THEM4 30S ribosomal protein S16 OS=Thermosipho melanesiensis (strain DSM 12029 / CIP 104789 / BI429) OX=391009 GN=rpsP PE=3 SV=1
+-MVRIRLTRMGKKKQ---PFYRIVVVDQRKRRDGAYIESLGYYDPI---KDP--YILNVD
+VDKAVDWILKGAQPSQTVKNLLRKAGVFKKVDEIKRTKKKE------ENQ----------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q9X1Q2|RS16_THEMA 30S ribosomal protein S16 OS=Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099) OX=243274 GN=rpsP PE=3 SV=1
+-MVRIRLTRMGKRHQ---PFYRIVVVDSRKRRDGAYIESLGYYNPL---KE---GEIKID
+VERAVEWILKGAQPSDTVRDIFRKFGVMKRVHEIKYGKKEE------ATAE---------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B0K9W7|RS16_THEP3 30S ribosomal protein S16 OS=Thermoanaerobacter pseudethanolicus (strain ATCC 33223 / 39E) OX=340099 GN=rpsP PE=3 SV=1
+MAVRIRLKRFGAKKR---PFYRIVVADSRSPRDGRFIDEIGYYNPI---AQP--AEIKID
+VEKAKKWLSVGAQPSDTVKSLFKKEGIIGNSASQ--------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B9KXC8|RS16_THERP 30S ribosomal protein S16 OS=Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 / P-2) OX=309801 GN=rpsP PE=3 SV=1
+-MIKLRLRRMGKKRQ---PHYRIVAAEARWPRDGRFIEVIGYYNPR---TDP--YTLEVN
+VERARWWLEHGAQPTDTVRALLVRAGVLPPRQQNEAKRETA----ETAQPEA--------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|P80379|RS16_THETH 30S ribosomal protein S16 OS=Thermus thermophilus OX=274 GN=rpsP PE=1 SV=3
+-MVKIRLARFGSKHNPHYPHYRIVVTDARRKRDGKYIEKIGYYDPR--KTTP--DWLKVD
+VERARYWLSVGAQPTDTARRLLRQAGVFRQEAREGA------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|B5YK94|RS16_THEYD 30S ribosomal protein S16 OS=Thermodesulfovibrio yellowstonii (strain ATCC 51303 / DSM 11347 / YP87) OX=289376 GN=rpsP PE=3 SV=1
+-MVRIRLMRLGAKKK---PFYRVVVADAKARRNGPFIEIIGTYNPK---TDP--PEVNLN
+MERVNYWIDKGAQPSDTVKKLIERVSA---------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-
+>sp|Q111T6|RS16_TRIEI 30S ribosomal protein S16 OS=Trichodesmium erythraeum (strain IMS101) OX=203124 GN=rpsP PE=3 SV=1
+-MIKLRLKRYGKKRE---SSYRIVAMNSDSRRDGRPLEELGFYNPR---TD----ETRLD
+VPGITRRLEQGAQPTDTVRDILKKANVLELSRTGVNTQANVSVSHAESTEAI--------
+-------------TNAEPIQAT-------------------ANTESNEVSDSESTA----
+---------TATIR-------------ESEEQPPI----------SES------------
+-

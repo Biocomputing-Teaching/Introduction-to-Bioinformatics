@@ -1,0 +1,524 @@
+>sp|Q44066|HLYA_AERHY Putative membrane protein insertion efficiency factor OS=Aeromonas hydrophila OX=644 GN=hlyA PE=3 SV=1
+---------------MASALSPGSRVLIALIRVYQRLISPLL-GPHCRFTPTCSSYGIEA
+LRRFGVIKGSWLTVKRVLKCHPLHPGGDDPVPPGPFDTREH-------------------
+-------
+>sp|Q65GZ1|YIDD1_BACLD Putative membrane protein insertion efficiency factor 1 OS=Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46) OX=279010 GN=BLi02802 PE=3 SV=1
+----------------------MKRAAIIFIRFYQKAISPLF-PPTCRFYPTCSNYGLEA
+IQRFGFIKGSYLLIKRLLKCHPLHPGGFDPVPNQTDQKKEGDSD----------------
+-------
+>sp|Q65FU4|YIDD2_BACLD Putative membrane protein insertion efficiency factor 2 OS=Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46) OX=279010 GN=BLi03210 PE=3 SV=1
+----------------------MKTVFLLLIRFYQKWISPAL-PPTCRFYPTCSNYGLEA
+IEKHGAFKGGWLTIKRILKCHPFHPGGIDPVPEKKQKD----------------------
+-------
+>sp|A6VR62|YIDD_ACTSZ Putative membrane protein insertion efficiency factor OS=Actinobacillus succinogenes (strain ATCC 55618 / DSM 22257 / 130Z) OX=339671 GN=Asuc_2115 PE=3 SV=1
+---------------MAASHSLGEKILIKLIRFYQIVISPLI-GPRCRFVPTCSCYGLEA
+IKTHGAVRGAWLTLKRILKCHPLNAGGYDPVPPKSDNHSKENKK----------------
+-------
+>sp|A6TXE8|YIDD_ALKMQ Putative membrane protein insertion efficiency factor OS=Alkaliphilus metalliredigens (strain QYMF) OX=293826 GN=Amet_4800 PE=3 SV=1
+----------------------MSKFLIKLITLYQKWISPLK-GQTCRFYPTCSSYSISA
+YNTYGFFRGTYLTIRRLLKCHPFHPGGFDPLK----------------------------
+-------
+>sp|A8MKS2|YIDD_ALKOO Putative membrane protein insertion efficiency factor OS=Alkaliphilus oremlandii (strain OhILAs) OX=350688 GN=Clos_2875 PE=3 SV=1
+----------------------MSRLCIFLIQIYRKYISPLK-RPSCRFHPTCSAYSMAA
+YERYGFFKGTYLTLKRILKCHPFHPGGYDPLR----------------------------
+-------
+>sp|B8JDK6|YIDD_ANAD2 Putative membrane protein insertion efficiency factor OS=Anaeromyxobacter dehalogenans (strain 2CP-1 / ATCC BAA-258) OX=455488 GN=A2cp1_4515 PE=3 SV=1
+---------------------MIRAALVLLVRIYQRLVSPLL-PPACRFYPSCSAYAVTA
+LQRHGALRGSWLTVRRLCRCHPFHAGGVDPVPELTPKR----------------------
+-------
+>sp|A7HIY9|YIDD_ANADF Putative membrane protein insertion efficiency factor OS=Anaeromyxobacter sp. (strain Fw109-5) OX=404589 GN=Anae109_4507 PE=3 SV=1
+---------------------MIRRALVFLVRVYQRLVSPLL-PPACRFYPSCSAYAATA
+LERHGALKGSALAARRLLRCHPFHPGGIDPVPESER------------------------
+-------
+>sp|B7GK26|YIDD_ANOFW Putative membrane protein insertion efficiency factor OS=Anoxybacillus flavithermus (strain DSM 21510 / WK1) OX=491915 GN=Aflv_0398 PE=3 SV=1
+----------------------MKHIFILLIRFYQRFISPLK-PPTCRFYPTCSHYGLEA
+IRRFGALKGGYLTIKRILKCHPFHPGGFDPVPEKEQK-----------------------
+-------
+>sp|Q5P4P3|YIDD_AROAE Putative membrane protein insertion efficiency factor OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=AZOSEA15940 PE=3 SV=1
+----------------------MKALVLGLLRVYRYAISPML-GRNCRFHPCCSEYAQEA
+VERHGAMRGGWLALKRVGRCHPFHPGGYDPVP----------------------------
+-------
+>sp|A1KCQ0|YIDD_AZOSB Putative membrane protein insertion efficiency factor OS=Azoarcus sp. (strain BH72) OX=418699 GN=azo3990 PE=3 SV=1
+----------------------MKTVLIVLLRFYRYAISPML-GRNCRFHPSCSEYAIEA
+VQRHGAVRGAWLAARRVARCHPFHPGGYDPVP----------------------------
+-------
+>sp|C1DNF8|YIDD_AZOVD Putative membrane protein insertion efficiency factor OS=Azotobacter vinelandii (strain DJ / ATCC BAA-1303) OX=322710 GN=Avin_52460 PE=3 SV=1
+----------------------MRKLALAAIQFYRYAISPLM-ANHCRFHPSCSCYAHEA
+ISTHGLLRGGWLSLRRLGRCHPWNPGGYDPVPPIKTSRSSSMAE----------------
+-------
+>sp|C3PCE8|YIDD_BACAA Putative membrane protein insertion efficiency factor OS=Bacillus anthracis (strain A0248) OX=592021 GN=BAA_5060 PE=3 SV=1
+----------------------MKQIFIGIIRFYQKFISPMT-PPTCRFYPTCSHYGLEA
+FQKHGAFKGFWLTCKRILKCHPFHPGGFDPVPDKKDDKVNS-------------------
+-------
+>sp|Q5LJ21|YIDD_BACFN Putative membrane protein insertion efficiency factor OS=Bacteroides fragilis (strain ATCC 25285 / DSM 2151 / JCM 11019 / NCTC 9343) OX=272559 GN=BF0077 PE=3 SV=1
+------------------MKRLLSYILLLPIYFYRACISPMT-PPSCRFTPTCSQYAIEA
+IKKHGPFKGLYLAVRRILRCHPWGGSGYDPVP----------------------------
+-------
+>sp|Q9K921|YIDD_BACHD Putative membrane protein insertion efficiency factor OS=Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125) OX=272558 GN=BH2828 PE=3 SV=1
+----------------------MKRFFIGCIRLYQKFISPLT-PPTCRFYPTCSHYGIEA
+IQRFGVLKGGWLTIKRISKCHPFHRGGIDPVPEKKQEK----------------------
+-------
+>sp|A8FGJ7|YIDD_BACP2 Putative membrane protein insertion efficiency factor OS=Bacillus pumilus (strain SAFR-032) OX=315750 GN=BPUM_2706 PE=3 SV=1
+----------------------MKQIFIGIIRFYQKCISPLT-PPSCRFYPTCSNYGLEA
+IKTHGALKGGWLTIKRILKCHPLHPGGIDPVPPKKEK-----------------------
+-------
+>sp|Q5WF19|YIDD_BACSK Putative membrane protein insertion efficiency factor OS=Bacillus clausii (strain KSM-K16) OX=66692 GN=ABC2506 PE=3 SV=1
+----------------------MRKLLIQIIRLYQRFISPLT-PPSCRFYPTCSAYGIEA
+IETHGAIKGSYLAIKRILKCHPFHPGGVDPVPECQHTKHKKTP-----------------
+-------
+>sp|O34601|YIDD_BACSU Putative membrane protein insertion efficiency factor OS=Bacillus subtilis (strain 168) OX=224308 GN=ytjA PE=3 SV=1
+----------------------MKTLFIALIRGYQKFISPLT-PPTCRFYPTCSQYGIEA
+IKTHGALKGGWLTIKRILKCHPFHPGGVDPVPEKKQKH----------------------
+-------
+>sp|Q8A2S7|YIDD_BACTN Putative membrane protein insertion efficiency factor OS=Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482) OX=226186 GN=BT_3228 PE=3 SV=2
+------------MSLKSLVRKVFSFLLLIPIYFYRVCISPLT-PPSCRFTPTCSAYAVEA
+IKKHGPVKGLYLAVRRILRCHPWGGSGYDPVP----------------------------
+-------
+>sp|A6KZL6|YIDD_BACV8 Putative membrane protein insertion efficiency factor OS=Bacteroides vulgatus (strain ATCC 8482 / DSM 1447 / JCM 5826 / NBRC 14291 / NCTC 11154) OX=435590 GN=BVU_1189 PE=3 SV=1
+------------------MKKILSYLLLLPVYFYRGYISPMT-PPSCRFVPTCSEYAIEA
+IKKHGPFKGLYLAVRRILRCHPWGGSGYDPVP----------------------------
+-------
+>sp|Q7WDJ6|YIDD_BORBR Putative membrane protein insertion efficiency factor OS=Bordetella bronchiseptica (strain ATCC BAA-588 / NCTC 13252 / RB50) OX=257310 GN=BB4992 PE=3 SV=1
+---------------------MIRRLLIAPIRFYRYFLSPWV-GRQCRFTPTCSAYAIEA
+IERHGAWRGLWLAARRIGRCHPWSPGGYDPVPPGHGAGAQACCAHRHRTEPD--------
+-------
+>sp|A0KBN4|YIDD_BURCH Putative membrane protein insertion efficiency factor OS=Burkholderia cenocepacia (strain HI2424) OX=331272 GN=Bcen2424_3164 PE=3 SV=1
+----------------------MKTVLIALLRFYKVAVSPML-GNRCRFYPSCSDYAREA
+IQYHGAARGTYLAVRRVCRCHPFSAGGVDLVPPPNSDTRARGEADARSHRL---------
+-------
+>sp|Q8R6K5|YIDD_CALS4 Putative membrane protein insertion efficiency factor OS=Caldanaerobacter subterraneus subsp. tengcongensis (strain DSM 15242 / JCM 11007 / NBRC 100824 / MB4) OX=273068 GN=TTE2800 PE=3 SV=1
+----------------------MKNFVIFLIRLYQKYISPMK-PRTCRFYPTCSQYSIEA
+ISKYGLLKGGLMSIWRILRCNPFNPGGYDPVK----------------------------
+-------
+>sp|Q3AG59|YIDD_CARHZ Putative membrane protein insertion efficiency factor OS=Carboxydothermus hydrogenoformans (strain ATCC BAA-161 / DSM 6008 / Z-2901) OX=246194 GN=CHY_0003 PE=3 SV=1
+----------------------MRKIILLLIRFYQKFVSPIL-GSNCRFYPSCSQYTYEA
+IERYGVIYGSYLGIKRILRCHPFTPGGYDPVPEKKLRR----------------------
+-------
+>sp|A9WDP2|YIDD_CHLAA Putative membrane protein insertion efficiency factor OS=Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl) OX=324602 GN=Caur_0398 PE=3 SV=1
+---------------------MLRWLLLKLIRFYQVAISPWT-PPSCIYTPTCSHYGYEA
+IKKYGALRGGWMTVKRIARCHPFARGGYDPVP----------------------------
+-------
+>sp|Q8KGG3|YIDD_CHLTE Putative membrane protein insertion efficiency factor OS=Chlorobaculum tepidum (strain ATCC 49652 / DSM 12025 / NBRC 103806 / TLS) OX=194439 GN=CT0005 PE=3 SV=1
+----------------------MNIVPILLIRFYQSFISPLL-GPSCKYHPTCSNYAIEA
+FRQHNFFYASWLTVWRVLRCNPFSKGGYDPVPPKSVKSAGNSKDSK--------------
+-------
+>sp|Q1QWC2|YIDD_CHRSD Putative membrane protein insertion efficiency factor OS=Chromohalobacter salexigens (strain ATCC BAA-138 / DSM 3043 / CIP 106854 / NCIMB 13768 / 1H11) OX=290398 GN=Csal_1884 PE=3 SV=1
+MR------PGKRRPLTRLPFALLSWGMIGLLRVYQYGISPLL-GPRCRFWPSCSQYAVEA
+IQVHGPLKGAWLALKRIVKCHPGHPGGVDPVPPGPHETPRKTSTHDDEPPSR--------
+-------
+>sp|Q97CV9|YIDD_CLOAB Putative membrane protein insertion efficiency factor OS=Clostridium acetobutylicum (strain ATCC 824 / DSM 792 / JCM 1419 / LMG 5710 / VKM B-1787) OX=272562 GN=CA_C3737 PE=3 SV=1
+---------------------MMRRILLKSIKFYRIYLSPLKRNACCKFIPTCSQYAIDA
+IEKYGALKGSFMAVKRILRCNPFSKGGYDPVK----------------------------
+-------
+>sp|A7FPL4|YIDD_CLOB1 Putative membrane protein insertion efficiency factor OS=Clostridium botulinum (strain ATCC 19397 / Type A) OX=441770 GN=CLB_3739 PE=3 SV=1
+----------------------MKNLLICIIKMYRKYISPLK-RPSCRFYPTCSQYSIEA
+IEKYGALKGTLISIKRILKCHPFNEGGYDPVK----------------------------
+-------
+>sp|A6M3M8|YIDD_CLOB8 Putative membrane protein insertion efficiency factor OS=Clostridium beijerinckii (strain ATCC 51743 / NCIMB 8052) OX=290402 GN=Cbei_5102 PE=3 SV=1
+----------------------MKKLLIRLIKFYRKYISPGR-SSCCRFVPTCSQYAIDA
+INKYGAFKGSALAVYRILRCNPFCKGGYDPVR----------------------------
+-------
+>sp|B9DXS4|YIDD_CLOK1 Putative membrane protein insertion efficiency factor OS=Clostridium kluyveri (strain NBRC 12016) OX=583346 GN=CKR_3466 PE=3 SV=1
+----------------------MKKFLIFLIKVYRKYISPLK-VPCCRFYPTCSQYVLEA
+LQKHGIIKGGFMSIKRILRCNPFCKGGYDPVK----------------------------
+-------
+>sp|A0PX74|YIDD_CLONN Putative membrane protein insertion efficiency factor OS=Clostridium novyi (strain NT) OX=386415 GN=NT01CX_0870 PE=3 SV=1
+---------------------MLKIILIHIIKFYRKYISPLK-KPCCRFYPTCSKYALDA
+INKYGAFKGSIMAIKRILRCHPFNPGGYDPVK----------------------------
+-------
+>sp|Q0TLZ1|YIDD_CLOP1 Putative membrane protein insertion efficiency factor OS=Clostridium perfringens (strain ATCC 13124 / DSM 756 / JCM 1290 / NCIMB 6125 / NCTC 8237 / Type A) OX=195103 GN=CPF_2995 PE=3 SV=1
+----------------------MKKLFIVMIKFYRKYISPLK-RPCCRFYPTCSQYALEA
+IQKYGAFKGGFMSIGRILRCNPFCKGGYDPVK----------------------------
+-------
+>sp|Q47U34|YIDD_COLP3 Putative membrane protein insertion efficiency factor OS=Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX=167879 GN=CPS_5051 PE=3 SV=1
+---------------MAKNNSTPQKLVITGIKGYQRFISPLL-GSNCRFTPSCSAYATEA
+INRFGVIKGGWLASKRILRCHPLNDGGEDPVPPIKKSK----------------------
+-------
+>sp|A9KBT2|YIDD_COXBN Putative membrane protein insertion efficiency factor OS=Coxiella burnetii (strain Dugway 5J108-111) OX=434922 GN=CBUD_0202 PE=3 SV=1
+MY----------KQIVHAIGKAIQTLLLGLIKSYRYLISPVL-MSSCRFYPSCSCYAETA
+LKRFGVIKGSGLTVWRLLRCHPFHPGGVDFVPEKSNEMV---------------------
+-------
+>sp|B1WR39|YIDD_CROS5 Putative membrane protein insertion efficiency factor OS=Crocosphaera subtropica (strain ATCC 51142 / BH68) OX=43989 GN=cce_0746 PE=3 SV=1
+----------------------MKKTLILLIKGYRRLISPLF-PPSCRFQPTCSQYTLEA
+IEKFGALRGSWLGLRRILRCHPFHPGGYDPVPPVTKK-----------------------
+-------
+>sp|Q46VL5|YIDD_CUPPJ Putative membrane protein insertion efficiency factor OS=Cupriavidus pinatubonensis (strain JMP 134 / LMG 1197) OX=264198 GN=Reut_A3461 PE=3 SV=1
+----------------------MKRILLALLRIYKIALSPYL-GSRCRFWPTCSDYAREA
+VIQHGAARGSWMAACRLCRCHPFTQGGYDPVPGVETETAQTGKFAHPAAGHGP---VTVR
+LPRP---
+>sp|Q477Q3|YIDD_DECAR Putative membrane protein insertion efficiency factor OS=Dechloromonas aromatica (strain RCB) OX=159087 GN=Daro_4202 PE=3 SV=1
+----------------------MKYLLIALVRGYQYAISPFL-GRSCRYVPTCSEYMVDA
+VQKHGAFRGGWLGVKRVCRCHPWHPGGYDPVP----------------------------
+-------
+>sp|C0QIZ2|YIDD_DESAH Putative membrane protein insertion efficiency factor OS=Desulfobacterium autotrophicum (strain ATCC 43914 / DSM 3382 / HRM2) OX=177437 GN=HRM2_06680 PE=3 SV=1
+---------------------MVKRSILLLIKVYQYFISPLT-GPTCRFYPTCSQYAFEA
+VMIHGSLKGSCLAVRRILKCHPFHPGGYDPVP----------------------------
+-------
+>sp|Q24M95|YIDD_DESHY Putative membrane protein insertion efficiency factor OS=Desulfitobacterium hafniense (strain Y51) OX=138119 GN=DSY5058 PE=3 SV=1
+---------------------MMKRLLIGMIRIYQRYISPLK-RPSCRFYPTCSEYSIQA
+IQKYGVVKGCWKSLVRILKCHPFHPGGYDPV-----------------------------
+-------
+>sp|B5YBN7|YIDD_DICT6 Putative membrane protein insertion efficiency factor OS=Dictyoglomus thermophilum (strain ATCC 35947 / DSM 3960 / H-6-12) OX=309799 GN=DICTH_1847 PE=3 SV=1
+----------------------MRGLLIILIKFYKKFISPVL-PKSCRFYPTCSTYALEA
+IERFGAFEGGILAIKRILRCHPFNPGGYDPVPTKEEFLELKLKRRKNK------------
+-------
+>sp|B1YJH9|YIDD_EXIS2 Putative membrane protein insertion efficiency factor OS=Exiguobacterium sibiricum (strain DSM 17290 / CIP 109462 / JCM 13490 / 255-15) OX=262543 GN=Exig_0528 PE=3 SV=1
+----------------------MKQVLLGGIHFYQKVISPMK-PATCRFYPTCSHYGKEA
+IEKHGALRGGYLTTRRLLRCQPFHPGGLDFVPETFDWKAPLQRENPAEHQK---------
+-------
+>sp|C4L2G6|YIDD_EXISA Putative membrane protein insertion efficiency factor OS=Exiguobacterium sp. (strain ATCC BAA-1283 / AT1b) OX=360911 GN=EAT1b_2296 PE=3 SV=1
+----------------------MKRVLVKGIQGYQRFISPLK-PPTCRFYPSCSHYGIEA
+IEKHGAVKGSYLTARRLIRCQPFHPGGLDYVPDTFDWKAPLQREKPESQRDD--------
+-------
+>sp|A7HLV5|YIDD_FERNB Putative membrane protein insertion efficiency factor OS=Fervidobacterium nodosum (strain ATCC 35602 / DSM 5306 / Rt17-B1) OX=381764 GN=Fnod_1039 PE=3 SV=1
+----------------------MRKVILKLIRFYQKYISPLK-PPTCRFEPTCSTYTYQA
+VERFGILKGLLLGFWRVLRCNPISKGGHDPVPTEFYLFKKSNNSLRRR------------
+-------
+>sp|Q8RHA5|YIDD_FUSNN Putative membrane protein insertion efficiency factor OS=Fusobacterium nucleatum subsp. nucleatum (strain ATCC 25586 / DSM 15643 / BCRC 10681 / CIP 101130 / JCM 8532 / KCTC 2640 / LMG 13131 / VPI 4355) OX=190304 GN=FN0003 PE=3 SV=1
+----------------------MKKILILLIRFYQKFISPMF-PAKCRFYPTCSQYTLEA
+IKEHGTIKGTYLAIRRILKCHPFHEGGYDPVPKRKNKNSEGKREE---------------
+-------
+>sp|Q5KVY7|YIDD_GEOKA Putative membrane protein insertion efficiency factor OS=Geobacillus kaustophilus (strain HTA426) OX=235909 GN=GK2864 PE=3 SV=1
+----------------------MGQWLIWCIRFYQRFLSPLK-PPTCRFYPTCSNYGIEA
+IRRFGAIKGGWLTAKRILKCHPFHPGGFDPVPESSEHAKRNKIT----------------
+-------
+>sp|P61469|YIDD_GEOSL Putative membrane protein insertion efficiency factor OS=Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA) OX=243231 GN=GSU3467 PE=3 SV=1
+----------------------MLKGILYIIGIYQRYLSPLK-GPTCRFYPSCSRYAHES
+LTRYGLVKGLWLTTIRILKCHPFHPGGVDPVK----------------------------
+-------
+>sp|C6DYS2|YIDD_GEOSM Putative membrane protein insertion efficiency factor OS=Geobacter sp. (strain M21) OX=443144 GN=GM21_4150 PE=3 SV=1
+---------------------MLKQIFIGLVVFYQRFISPLK-APSCRFYPTCSHYSLQA
+LEKYGPVKGLWLTAARVLKCHPFHPGGYDPVK----------------------------
+-------
+>sp|C5D6T9|YIDD_GEOSW Putative membrane protein insertion efficiency factor OS=Geobacillus sp. (strain WCH70) OX=471223 GN=GWCH70_2790 PE=3 SV=1
+----------------------MKKLLISFIRFYQIFISPLK-PPTCRFYPTCSHYGLEA
+VKRFGAIKGGWLTIKRILKCHPFHPGGFDPVPEKQENGKS--------------------
+-------
+>sp|A5G9V5|YIDD_GEOUR Putative membrane protein insertion efficiency factor OS=Geobacter uraniireducens (strain Rf4) OX=351605 GN=Gura_4430 PE=3 SV=1
+---------------------MLNIIATRSILFYQRYISPFK-GSSCRFYPSCSHYSLQS
+LEKYGFLKGLLYSVRRIMKCHPFHPGGYDPVK----------------------------
+-------
+>sp|B7K8P8|YIDD_GLOC7 Putative membrane protein insertion efficiency factor OS=Gloeothece citriformis (strain PCC 7424) OX=65393 GN=PCC7424_2840 PE=3 SV=1
+----------------------MKIVLIGLIRGYRTFISPLF-PPSCRFQPTCSQYGIEA
+IERFGAIKGAWLTLGRILRCHPFHPGGYDPVPPVKPKK----------------------
+-------
+>sp|Q7NJB9|YIDD_GLOVI Putative membrane protein insertion efficiency factor OS=Gloeobacter violaceus (strain ATCC 29082 / PCC 7421) OX=251221 GN=gsl1913 PE=3 SV=1
+-------------------MELVRRAATGAIRFYQRFVSPLT-PPTCRYVPTCSEYTRQA
+IERFGVAAGIWLGTKRLCRCHPLHPGGYDPVPERRSVR----------------------
+-------
+>sp|Q4QLR1|YIDD_HAEI8 Putative membrane protein insertion efficiency factor OS=Haemophilus influenzae (strain 86-028NP) OX=281310 GN=NTHI1174 PE=3 SV=1
+---------------MAETHSLGTKILIKIIRLYQIMISPFI-GARCRFVPTCSCYGIEA
+LKTHGLLKGGWLTLKRVLKCHPLNAGGFDPVPPKTNNNDEKK------------------
+-------
+>sp|Q0I0Z0|YIDD_HAES1 Putative membrane protein insertion efficiency factor OS=Haemophilus somnus (strain 129Pt) OX=205914 GN=HS_0134 PE=3 SV=1
+---------------METSHSFGAKVLIGAIRIYQLMISPLI-GPRCRFVPTCSCYGIQA
+VKTHGVVKGSWLTVKRILKCHPFNVGGYDPVPPKINNNKENE------------------
+-------
+>sp|A4GAN4|YIDD_HERAR Putative membrane protein insertion efficiency factor OS=Herminiimonas arsenicoxydans OX=204773 GN=HEAR3470 PE=3 SV=1
+----------------------MKTILLLLVRAYQLGISPFL-GQNCRFYPSCSAYAFEA
+IGEYGALKGSFLATKRLCKCHPWHPGGVDPVPKKSSSKKTSSTTACGCGHS---------
+-------
+>sp|A3DHZ1|YIDD_HUNT2 Putative membrane protein insertion efficiency factor OS=Hungateiclostridium thermocellum (strain ATCC 27405 / DSM 1237 / JCM 9322 / NBRC 103400 / NCIMB 10682 / NRRL B-4536 / VPI 7372) OX=203119 GN=Cthe_2368 PE=3 SV=1
+---------------------MFRRWVIYIIRLYQRWISPLKTMPSCRFYPTCSQYAIDA
+VGRYGVIKGGFMALKRILKCHPFHPGGYDPVK----------------------------
+-------
+>sp|Q1IV77|YIDD_KORVE Putative membrane protein insertion efficiency factor OS=Koribacter versatilis (strain Ellin345) OX=204669 GN=Acid345_0218 PE=3 SV=1
+----------------------MKAVLVQMLKGYKRWISPLL-PVSCRYVPTCSEYAMEA
+ISIHGAVRGSVLALGRLLRCHPFVRGGYDPVPRSHSCCDDKISTTAHDAVR---------
+-------
+>sp|C5CD37|YIDD_KOSOT Putative membrane protein insertion efficiency factor OS=Kosmotoga olearia (strain ATCC BAA-1733 / DSM 21960 / TBF 19.5.1) OX=521045 GN=Kole_0256 PE=3 SV=1
+----------------------MKKIVLTLINFYRKYISPSK-PPTCRFTPTCSAYTFEA
+VQRFGVFKGLLLGTWRILRCNPFNKGGYDPVPEEFKLLRRNTK-----------------
+-------
+>sp|B3WDM3|YIDD_LACCB Putative membrane protein insertion efficiency factor OS=Lactobacillus casei (strain BL23) OX=543734 GN=LCABL_13930 PE=3 SV=1
+----------------------MKQVLTWLVRGYQRFISPLL-PPSCRYYPTCSTYMIQA
+LQKHGAIKGSLMGIARILRCNPFVKGGLDPVPAFFTLRRNPHPENDLDLSDIQ-NLNHKL
+GGRHG--
+>sp|A9KLY2|YIDD_LACP7 Putative membrane protein insertion efficiency factor OS=Lachnoclostridium phytofermentans (strain ATCC 700394 / DSM 18823 / ISDg) OX=357809 GN=Cphy_3944 PE=3 SV=1
+----------------------MKRILIAIVKLYRKYISPMKRVPTCRFTPTCSEYALEA
+LQRYGAIRGSYLAVRRILKCHPFHKGGFDPVP----------------------------
+-------
+>sp|Q88UU8|YIDD_LACPL Putative membrane protein insertion efficiency factor OS=Lactobacillus plantarum (strain ATCC BAA-793 / NCIMB 8826 / WCFS1) OX=220668 GN=lp_2358 PE=3 SV=1
+----------------------MRRLLMKGIRFYQRAFSAFS-PAHCRYYPTCSNYTLEA
+INRFGAVKGVLMGVARILRCQPLVKGGFDPVPAHFSLRRNPQYKEEDHRGKKR-------
+-------
+>sp|Q38WL1|YIDD_LACSS Putative membrane protein insertion efficiency factor OS=Lactobacillus sakei subsp. sakei (strain 23K) OX=314315 GN=LCA_1120 PE=3 SV=1
+----------------------MRKILIALVRFYQTGISPFL-PPSCRYYPTCSSYMIQA
+IQKHGAIKGLAMGIGRILRCHPFIKGGYDPVPDHFTVFRNKSVDH---------------
+-------
+>sp|C1D6H9|YIDD_LARHH Putative membrane protein insertion efficiency factor OS=Laribacter hongkongensis (strain HLHK9) OX=557598 GN=LHK_03237 PE=3 SV=1
+----------------------MSRIVLALIRFYQLAISPWL-PPRCRYQPTCSQYAIEA
+VQKHGALKGGWLALRRIGRCHPWGSSGYDPVP----------------------------
+-------
+>sp|Q92AZ0|YIDD_LISIN Putative membrane protein insertion efficiency factor OS=Listeria innocua serovar 6a (strain ATCC BAA-680 / CLIP 11262) OX=272626 GN=lin1778 PE=3 SV=1
+----------------------MKKMLIGGIRLYQKYISRFT-PATCRFYPTCSAYGIEA
+IETHGALKGSYLAIRRISKCHPFHKGGLDFVPPKKDKNDDSGHTCKAHHHH---------
+-------
+>sp|A0LE50|YIDD_MAGMM Putative membrane protein insertion efficiency factor OS=Magnetococcus marinus (strain ATCC BAA-1437 / JCM 17883 / MC-1) OX=156889 GN=Mmc1_3758 PE=3 SV=1
+----------------------MGRLLVLLVRFYQLFISPVL-PPSCRHSPTCSQYAIEA
+LQKHGAIKGSWLAFRRVLRCNPWHPGGYDPVP----------------------------
+-------
+>sp|Q2VZ16|YIDD_MAGSA Putative membrane protein insertion efficiency factor OS=Magnetospirillum magneticum (strain AMB-1 / ATCC 700264) OX=342108 GN=amb4355 PE=3 SV=1
+-------------------MNPIGLGMRGLIRLYQLLLSPVL-PASCRFTPSCSSYAMQA
+IEAHGPVGGTWLGLKRICRCHPWNDGGYDPVPPAHTERGGTMCPSRLPE-----------
+-------
+>sp|Q65VC1|YIDD_MANSM Putative membrane protein insertion efficiency factor OS=Mannheimia succiniciproducens (strain MBEL55E) OX=221988 GN=MS0482 PE=3 SV=2
+---------------MATSHSLGEKILVKLIRFYQLAISPMI-GPRCRFTPTCSCYGIEA
+IKTHGALKGSWLTLKRILKCHPLSKGGYDPVPPKINNNVEKK------------------
+-------
+>sp|A1U7J5|YIDD_MARHV Putative membrane protein insertion efficiency factor OS=Marinobacter hydrocarbonoclasticus (strain ATCC 700491 / DSM 11845 / VT8) OX=351348 GN=Maqu_3896 PE=3 SV=1
+----------------------MRQLLLLPIRFYQYAISPMM-ASHCRHYPTCSQYAVEA
+IQHHGPLKGGYLATARLLRCHPWAEGGYDPVPGTELNTAPRSGQACNPTESTH----STT
+QTRH---
+>sp|Q602M7|YIDD_METCA Putative membrane protein insertion efficiency factor OS=Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath) OX=243233 GN=MCA3036 PE=3 SV=1
+----------------------MQRLLITLIRLYQYLLSPWL-GHHCRFFPTCSNYAMDA
+IGRFGAMRGAYLTIRRLMRCHPWHPGGIDPVPEKLGKQ----------------------
+-------
+>sp|Q1GXL5|YIDD_METFK Putative membrane protein insertion efficiency factor OS=Methylobacillus flagellatus (strain KT / ATCC 51484 / DSM 6875) OX=265072 GN=Mfla_2759 PE=3 SV=1
+---------------------MLARLLVGLIKLYQWTLSPLL-GQRCRFYPTCSQYAVEA
+IQKHGAWRGAFFTICRLSKCHPWHDGGHDPVP----------------------------
+-------
+>sp|B0JMD9|YIDD_MICAN Putative membrane protein insertion efficiency factor OS=Microcystis aeruginosa (strain NIES-843) OX=449447 GN=MAE_34020 PE=3 SV=1
+----------------------MKGIFIGLIEGYRRFISPLF-PPSCRFQPTCSQYAMEA
+IDRFGVLRGSWLAIKRILRCHPFHPGGYDPVPPCHHKHD---------------------
+-------
+>sp|Q2RFI5|YIDD_MOOTA Putative membrane protein insertion efficiency factor OS=Moorella thermoacetica (strain ATCC 39073 / JCM 9320) OX=264732 GN=Moth_2522 PE=3 SV=1
+---------------------MIDNWVILAIRFYQRYISPLL-GRHCRFYPTCSQYALEA
+ITKYGLLRGGLLATRRLLHCHPWDAGGYDPVP----------------------------
+-------
+>sp|A0QND3|YIDD_MYCA1 Putative membrane protein insertion efficiency factor OS=Mycobacterium avium (strain 104) OX=243243 GN=MAV_5311 PE=3 SV=1
+MT-----GPARSGAAIRGAGRTVARGLIFLIQLYRHMVSPLR-PATCRFVPTCSQYAVDA
+LDEYGLIRGSWLAAARLTKCGPWHQGGWDPIPERPGCRVNCQDASDA------WAVRATR
+GESGSLV
+>sp|P67301|YIDD_MYCBO Putative membrane protein insertion efficiency factor OS=Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97) OX=233413 GN=BQ2027_MB3953C PE=3 SV=1
+MS----LSRQSCGRVVRVTGRASARGLIFVIQVYRHMLSPLR-PASCRFVPTCSQYAVDA
+LTEYGLLRGSWLTMIRLAKCGPWHRGGWDPIPEGLTTGRSCQTDVDGANDD--WNPASKR
+GERESFV
+>sp|Q1CVG0|YIDD_MYXXD Putative membrane protein insertion efficiency factor OS=Myxococcus xanthus (strain DK 1622) OX=246197 GN=MXAN_7510 PE=3 SV=1
+-------------------MSPLAFVISLPIRFYRKFLGPLL-PKVCRFHPSCSTYAMEA
+LEKHGGLKGSWLTLWRLVRCQPFHPGGIDPVP----------------------------
+-------
+>sp|Q0AE57|YIDD_NITEC Putative membrane protein insertion efficiency factor OS=Nitrosomonas eutropha (strain DSM 101675 / C91 / Nm57) OX=335283 GN=Neut_2153 PE=3 SV=1
+----------------------MKQLIIGLIKLYQYSIGLLI-PPSCRFYPTCSNYMREA
+LTKHGLIKGLWLGTRRILRCHPWNPGGYDPIP----------------------------
+-------
+>sp|Q82XA0|YIDD_NITEU Putative membrane protein insertion efficiency factor OS=Nitrosomonas europaea (strain ATCC 19718 / CIP 103999 / KCTC 2705 / NBRC 14298) OX=228410 GN=NE0388 PE=3 SV=1
+----------------------MKQLIIDLIKLYRYSIGLLI-PPSCRFYPTCSNYMHEA
+LVKHGLIKGLWLGMKRILRCHPWNQGGYDPVP----------------------------
+-------
+>sp|Q3J8F4|YIDD_NITOC Putative membrane protein insertion efficiency factor OS=Nitrosococcus oceani (strain ATCC 19707 / BCRC 17464 / NCIMB 11848 / C-107) OX=323261 GN=Noc_2437 PE=3 SV=1
+----------------------MKNILLSLIIFYRYALSPFM-GNHCRYYPSCSVYTQEA
+IQRYGGFRGGWLGLRRLLRCHPFCPGGIDQVPEIAKWRSKS-------------------
+-------
+>sp|B2IY41|YIDD_NOSP7 Putative membrane protein insertion efficiency factor OS=Nostoc punctiforme (strain ATCC 29133 / PCC 73102) OX=63737 GN=Npun_R6368 PE=3 SV=1
+----------------------MKLLFIWLIRGYRMFISPLF-LPTCRFQPTCSMYAIEA
+IERFGVLRGSWMATRRILRCHPFHPGGYDPVPEVVEKVKEE-------------------
+-------
+>sp|Q8YWK2|YIDD_NOSS1 Putative membrane protein insertion efficiency factor OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX=103690 GN=asr1611 PE=3 SV=1
+----------------------MKQIFIWLIKGYRMFISPLY-PPTCRFRPTCSMYAIEA
+IERFGVFRGGWMAIRRILRCHPFHPGGYDPVPELGEHCCHHDSGNKG-------------
+-------
+>sp|Q8EQL0|YIDD_OCEIH Putative membrane protein insertion efficiency factor OS=Oceanobacillus iheyensis (strain DSM 14371 / CIP 107618 / JCM 11309 / KCTC 3954 / HTE831) OX=221109 GN=OB1687 PE=3 SV=1
+----------------------MKFIFIGLIKFYRSAISPFT-PSSCRFYPTCSEYGLEA
+IKRFGAFKGGILTIKRISKCHPFHPGGVDVVPDKVKNINNEKHLEKGVIRNED-------
+-------
+>sp|Q9CLQ3|YIDD_PASMU Putative membrane protein insertion efficiency factor OS=Pasteurella multocida (strain Pm70) OX=272843 GN=PM1164 PE=3 SV=1
+---------------MAKTHSLSSKILIGLIRVYQVVISPLI-GPRCRFTPTCSCYGIEA
+VKTHGAIKGSWLTLKRILKCHPLNAGGYDPVPPKINNKKEKK------------------
+-------
+>sp|Q03EL7|YIDD_PEDPA Putative membrane protein insertion efficiency factor OS=Pediococcus pentosaceus (strain ATCC 25745 / CCUG 21536 / LMG 10740 / 183-1w) OX=278197 GN=PEPE_1314 PE=3 SV=1
+----------------------MKQILLLIIRGYQKFISPMF-PPSCRYYPTCSNYSLQA
+IKRFGAIKGGLMGVARILRCHPFVRGGYDPVPDNFSLKRNQKNSKPRN------------
+-------
+>sp|Q3B109|YIDD_PELLD Putative membrane protein insertion efficiency factor OS=Pelodictyon luteolum (strain DSM 273 / 2530) OX=319225 GN=Plut_2130 PE=3 SV=1
+M----------------VIWKVVNKAPLALIKFYRAILSPMF-PPSCRFYPTCSAYALEA
+FETHNFFKASWLSLWRILRCNPFSKGGFDPVPPHDGVPGKKED-----------------
+-------
+>sp|A9BJC5|YIDD_PETMO Putative membrane protein insertion efficiency factor OS=Petrotoga mobilis (strain DSM 10674 / SJ95) OX=403833 GN=Pmob_0605 PE=3 SV=1
+----------------------MKKLVLKSIDFYRKHISPAT-PPKCIYLPTCSSYTYEA
+VEKFGVFKGLYLGFRRFIRCNPLHKGGYDPVPEKFSFFVHKQGKNKQHRRSV--------
+-------
+>sp|Q7MXZ3|YIDD_PHOLL Putative membrane protein insertion efficiency factor OS=Photorhabdus laumondii subsp. laumondii (strain DSM 15139 / CIP 105565 / TT01) OX=243265 GN=plu4907 PE=3 SV=1
+---------------MASSLSFGSRFLIALIRGYQLVISPLL-GPRCRFNPTCSQYGIEA
+LRRFGVIKGCWLTVKRVLKCHPLHEGGDDPVPPVKNNDNREH------------------
+-------
+>sp|B2RHI2|YIDD_PORG3 Putative membrane protein insertion efficiency factor OS=Porphyromonas gingivalis (strain ATCC 33277 / DSM 20709 / CIP 103683 / JCM 12257 / NCTC 11834 / 2561) OX=431947 GN=PGN_0308 PE=3 SV=1
+---------------MRLIKAFLVQLLLLPIFFYKRFISPLT-PPSCRFTPSCSSYAIEA
+LRKYGPGKGLLLSIKRILRCHPWGGSGYDPVP----------------------------
+-------
+>sp|A3PBC8|YIDD_PROM0 Putative membrane protein insertion efficiency factor OS=Prochlorococcus marinus (strain MIT 9301) OX=167546 GN=P9301_04301 PE=3 SV=1
+--------------MFKTINKSITSILLLLISFYQKWFSPFF-GPRCRFIPSCSSYGYEA
+ITRHGPWKGGWLTLKRLSRCHPLTPCGCDPVPD---------------------------
+-------
+>sp|A2C0L6|YIDD_PROM1 Putative membrane protein insertion efficiency factor OS=Prochlorococcus marinus (strain NATL1A) OX=167555 GN=NATL1_04621 PE=3 SV=1
+--------------MLTKINKAIALVFVSLISFYQKWISPLF-GPSCRFIPSCSAYGIEA
+VNKHGPWRGGWLTLKRLSKCHPFTPCGCDPVPEK--------------------------
+-------
+>sp|A2CBJ0|YIDD_PROM3 Putative membrane protein insertion efficiency factor OS=Prochlorococcus marinus (strain MIT 9303) OX=59922 GN=P9303_21151 PE=3 SV=1
+MRESNTLSGG----IFALLNRAIGSVLLALIGFYRTWLSPLL-GPHCRFIPSCSAYGLEA
+IQRHGPWRGGWLTLRRLSRCHPFTPCGCDPVPD---------------------------
+-------
+>sp|Q7VDG6|YIDD_PROMA Putative membrane protein insertion efficiency factor OS=Prochlorococcus marinus (strain SARG / CCMP1375 / SS120) OX=167539 GN=Pro_0410 PE=3 SV=1
+--------------MIKKINAVISNLFLTLIRFYRSWISPLL-GPSCRFVPTCSEYGVEA
+IEKHGPWKGGWLTLKRLLRCNPLTPCGYDPVPDK--------------------------
+-------
+>sp|B4F0U2|YIDD_PROMH Putative membrane protein insertion efficiency factor OS=Proteus mirabilis (strain HI4320) OX=529507 GN=PMI3129 PE=3 SV=1
+---------------MASSLSLGSKILILLIRGYQLGISPLL-GPRCRFNPTCSHYGIEA
+LRRFGMIKGSWLTVKRILKCHPLHEGGDDPVPPRKNDDNREN------------------
+-------
+>sp|Q48BF1|YIDD_PSE14 Putative membrane protein insertion efficiency factor OS=Pseudomonas savastanoi pv. phaseolicola (strain 1448A / Race 6) OX=264730 GN=PSPPH_5221 PE=3 SV=1
+----------------------MRKLALVPIQFYRYAMSPLM-ASHCRFYPSCSCYAYEA
+IENHGLLRGGWLSIRRLGRCHPWNPGGYDPVPAVPTSRSSSMAE----------------
+-------
+>sp|B7VA59|YIDD_PSEA8 Putative membrane protein insertion efficiency factor OS=Pseudomonas aeruginosa (strain LESB58) OX=557722 GN=PLES_32771 PE=3 SV=1
+----------------------MKFLLIGLIRFYQYAISPLI-GPRCRFYPSCSHYTLEA
+IRVHGALRGGYLGARRLLRCHPWHPGGYDPVPERQEQACACHRTAKPGK-----------
+-------
+>sp|Q1I2H3|YIDD_PSEE4 Putative membrane protein insertion efficiency factor OS=Pseudomonas entomophila (strain L48) OX=384676 GN=PSEEN5557 PE=3 SV=1
+----------------------MRKLALVPIQFYRYAISPLM-ASHCRFYPSCSCYAYEA
+IENHGLLRGGWLAVRRLGRCHPWNDGGFDPVPPAPSSRTSSIAE----------------
+-------
+>sp|Q3IK54|YIDD_PSET1 Putative membrane protein insertion efficiency factor OS=Pseudoalteromonas translucida (strain TAC 125) OX=326442 GN=PSHAa3023 PE=3 SV=1
+------------MRLLKPLVALPTYCLVLFIRGYQKWISPLL-GPHCRFNPTCSSYAIQA
+INLHGSVKGSWLAVKRILKCHPLHSGGNDPVPEKLTHINHQHEK----------------
+-------
+>sp|A4VS83|YIDD_PSEU5 Putative membrane protein insertion efficiency factor OS=Pseudomonas stutzeri (strain A1501) OX=379731 GN=PST_4212 PE=3 SV=1
+----------------------MRKLAIASIRVYQYAISPMM-ASHCRFYPSCSCYALEA
+IETHGLLRGGWLSLRRLGRCHPWNPGGYDPVPTHNTSNSSPMAE----------------
+-------
+>sp|Q4UM10|YIDD_RICFE Putative membrane protein insertion efficiency factor OS=Rickettsia felis (strain ATCC VR-1525 / URRWXCal2) OX=315456 GN=RF_0562 PE=3 SV=1
+----------------------MTRILLLLLRFYQYFISPLL-GNNCRFHPTCSEYAKEA
+ITTHGTLKGLWLTFKRIIKCQPFCNGGYDAVPLSIKNSKLFNKKI---------------
+-------
+>sp|A8F1C3|YIDD_RICM5 Putative membrane protein insertion efficiency factor OS=Rickettsia massiliae (strain Mtu5) OX=416276 GN=RMA_0498 PE=3 SV=1
+----------------------MTRILLLLLRFYQYFISPLL-SNNCRFHPTCSEYAKEA
+ISMHGSIKGLWLTFKRIIKCQPFCDGGYDTVPISIKNSKPLNKKI---------------
+-------
+>sp|B7JWS8|YIDD_RIPO1 Putative membrane protein insertion efficiency factor OS=Rippkaea orientalis (strain PCC 8801) OX=41431 GN=PCC8801_1730 PE=3 SV=1
+----------------------MKTLLIVLIKGYRNFISPLF-PPSCRFQPTCSKYALEA
+VERFGVLHGGSLAIKRILRCHPFHPGGYDPVPLVDSSSKRSQ------------------
+-------
+>sp|Q1AR60|YIDD_RUBXD Putative membrane protein insertion efficiency factor OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129 / PRD-1) OX=266117 GN=Rxyl_3214 PE=3 SV=1
+---------------------MAGRLVILVLRAYQRFVSPLF-PPSCRFTPSCSQYAVEA
+VERYGPLKGGAMAAWRVLRCHPFSRGGVDPVR----------------------------
+-------
+>sp|B8I2B3|YIDD_RUMCH Putative membrane protein insertion efficiency factor OS=Ruminiclostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10) OX=394503 GN=Ccel_3489 PE=3 SV=1
+---------------------MLKRILISIIRFYQRFISPIKVRPTCRFYPTCSQYAIEA
+VTKYGCVKGTFLALKRILKCHPFHPGGFDPIK----------------------------
+-------
+>sp|Q12HM7|YIDD_SHEDO Putative membrane protein insertion efficiency factor OS=Shewanella denitrificans (strain OS217 / ATCC BAA-1090 / DSM 15013) OX=318161 GN=Sden_3776 PE=3 SV=1
+---------------MAQAQSPLQWLATTVIRGYQLFISPLM-GPRCRFNPTCSHYAIEA
+IKLHGTAKGSWFALKRILRCHPLHPGGSDPVPPKNDRCNK--------------------
+-------
+>sp|Q2NQ70|YIDD_SODGM Putative membrane protein insertion efficiency factor OS=Sodalis glossinidius (strain morsitans) OX=343509 GN=SG2430 PE=3 SV=1
+---------------MAPPLSPVSKLLIGLIRGYQLVISPLL-GPHCRFRPTCSQYGIEA
+IRRFGMLKGSWLTLKRVLKCHPLNPGGEDPVPPKNFDNREH-------------------
+-------
+>sp|A7X3N8|YIDD_STAA1 Putative membrane protein insertion efficiency factor OS=Staphylococcus aureus (strain Mu3 / ATCC 700698) OX=418127 GN=SAHV_1780 PE=3 SV=1
+----------------------MKKIFLAMIHFYQRFISPLT-PPTCRFYPTCSEYTREA
+IQYHGAFKGLYLGIRRILKCHPLHKGGFDPVPLKKDKSASKHSHKHNH------------
+-------
+>sp|B9DN23|YIDD_STACT Putative membrane protein insertion efficiency factor OS=Staphylococcus carnosus (strain TM300) OX=396513 GN=Sca_1393 PE=3 SV=1
+----------------------MKKLFLGLIWVYQRFISPLT-PPSCRFYPTCSNYTKEA
+IEVHGPIKGAWLGIKRISKCHPLHKGGFDPVPLKKDNNHQHCEHHHH-------------
+-------
+>sp|Q8CS22|YIDD_STAES Putative membrane protein insertion efficiency factor OS=Staphylococcus epidermidis (strain ATCC 12228 / FDA PCI 1200) OX=176280 GN=SE_1462 PE=3 SV=1
+---------------------MLKKILLSLVVFYQRFISPLT-PPTCRFYPTCSQYTREA
+IEYHGALKGLYLGVRRILKCHPLHKGGFDPVPLKKDKNSKTTHHH---------------
+-------
+>sp|Q4L7D2|YIDD_STAHJ Putative membrane protein insertion efficiency factor OS=Staphylococcus haemolyticus (strain JCSC1435) OX=279808 GN=SH1134 PE=3 SV=1
+---------------------MLKKLFLGIIHIYQRYISPMT-PPTCRFYPTCSEYTREA
+IEVYGPFKGGYMGIRRILKCHPLHKGGFDPVPLKKDKHRH--------------------
+-------
+>sp|Q49YM0|YIDD_STAS1 Putative membrane protein insertion efficiency factor OS=Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM 20229 / NCIMB 8711 / NCTC 7292 / S-41) OX=342451 GN=SSP0972 PE=3 SV=1
+----------------------MKTIFLGLIHIYQRFISPLT-PATCRFYPTCSEYTREA
+IVVYGPFKGTWLGIKRISKCHPLHKGGFDPVPLKKTKHKKDKNINK--------------
+-------
+>sp|Q8DSR1|YIDD_STRMU Putative membrane protein insertion efficiency factor OS=Streptococcus mutans serotype c (strain ATCC 700610 / UA159) OX=210007 GN=SMU_1710c PE=3 SV=1
+----------------------MKKVLIAPIKFYQKFISPIF-PASCRYRPTCSAYMIEA
+IEKHG-LKGFLMGIARILRCHPFVEGGEDPVPNHFTLRRNKKEKPSKS------------
+-------
+>sp|Q5M1H7|YIDD_STRT1 Putative membrane protein insertion efficiency factor OS=Streptococcus thermophilus (strain CNRZ 1066) OX=299768 GN=str0263 PE=3 SV=1
+---------------------MMKKFLIALVKAYQRWISPLF-PLSCRFCPTCSVYMIQA
+IEKHG-LKGVLMGIARILRCHPLSETGDDPVPDYFSLKRKKTPLDN--------------
+-------
+>sp|B9DTS7|YIDD_STRU0 Putative membrane protein insertion efficiency factor OS=Streptococcus uberis (strain ATCC BAA-854 / 0140J) OX=218495 GN=SUB0408 PE=3 SV=1
+----------------------MKSIIINFVRLYQKWISPLF-PPSCRYRPTCSTYMIEA
+VEKHG-IKGVLMGIARILRCHPFVEGGEDPVPDEFTLRRNPQKGKK--------------
+-------
+>sp|Q67J30|YIDD_SYMTH Putative membrane protein insertion efficiency factor OS=Symbiobacterium thermophilum (strain T / IAM 14863) OX=292459 GN=STH3339 PE=3 SV=1
+----------------------MTRLLMLLVRFYQRYLSPLKGGPTCRFTPSCSQYAYEA
+LAKYGAIKGTWLAVRRVLRCHPFHPGGYDPVP----------------------------
+-------
+>sp|Q31N53|YIDD_SYNE7 Putative membrane protein insertion efficiency factor OS=Synechococcus elongatus (strain PCC 7942 / FACHB-805) OX=1140 GN=Synpcc7942_1486 PE=3 SV=1
+----------------------MKLLLLALIQFYRRWISPLT-PASCRFYPTCSQYGLEA
+IDRFGPLKGSWLTLCRILRCHPFHPGGYDPVPPLPSCSCGKSPCD---------------
+-------
+>sp|A0LLH2|YIDD_SYNFM Putative membrane protein insertion efficiency factor OS=Syntrophobacter fumaroxidans (strain DSM 10017 / MPOB) OX=335543 GN=Sfum_2596 PE=3 SV=1
+---------------------MIRSIFLGLIRFYQIVLSPLK-GPRCRFLPTCSQYAYEA
+IERYGIWRGLFLGGKRLLRCHPFHAGGYDPVPRPSANNHPSR------------------
+-------
+>sp|Q2JQD1|YIDD_SYNJA Putative membrane protein insertion efficiency factor OS=Synechococcus sp. (strain JA-3-3Ab) OX=321327 GN=CYA_2594 PE=3 SV=1
+---------------MAERSDPLTRGLVALIRGYQVAISPLL-PPACRYYPTCSQYTLEA
+VRRYGAIRGSWLGIRRLCRCHPWHPGGYDPVPDLPGSAPEENGRPSPDGQHSGSG-----
+------G
+>sp|Q2JNV4|YIDD_SYNJB Putative membrane protein insertion efficiency factor OS=Synechococcus sp. (strain JA-2-3B'a(2-13)) OX=321332 GN=CYB_0560 PE=3 SV=1
+---------------MPERSDPLTRSLIALIRGYQVGISPWL-PPACRYYPTCSQYTLEA
+VRRYGALRGGWLGIRRLCRCHPWHPGGYDPVPDLPGSAPTQKPFR---------------
+-------
+>sp|B1XKC8|YIDD_SYNP2 Putative membrane protein insertion efficiency factor OS=Synechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6) OX=32049 GN=SYNPCC7002_A1175 PE=3 SV=1
+----------------------MKSLILWSIKGYRRWISPLF-PPSCRFQPTCSQYALEA
+VERFGVLRGSWLALKRLGRCHPFHPGGYDPVPHLCHHDLDNTP-----------------
+-------
+>sp|Q0ICH4|YIDD_SYNS3 Putative membrane protein insertion efficiency factor OS=Synechococcus sp. (strain CC9311) OX=64471 GN=sync_0630 PE=3 SV=1
+MHESTILSAG----STNPFNRIVSAVMLALIELYRRWISPLI-GPRCRFIPTCSAYGIEA
+IQRHGPWRGGWLTLRRLLRCHPFTPCGCDPVPD---------------------------
+-------
+>sp|Q3AWW6|YIDD_SYNS9 Putative membrane protein insertion efficiency factor OS=Synechococcus sp. (strain CC9902) OX=316279 GN=Syncc9902_1589 PE=3 SV=2
+MHESPILSNGDQPNRWAGLNRRVAALLLALIGFYRTFISPLL-GPRCRFTPTCSAYGLEA
+IQRHGPWRGGWLTLKRVLRCHPFTPCGCDPVPD---------------------------
+-------
+>sp|Q3ALH6|YIDD_SYNSC Putative membrane protein insertion efficiency factor OS=Synechococcus sp. (strain CC9605) OX=110662 GN=Syncc9605_0788 PE=3 SV=1
+MHESNTLYGGPMTKLRQAINQVLAAVLLAGIGFYRRFISPMI-GPRCRFTPTCSAYGLEA
+IQKHGPWKGGWLTVKRLLRCHPFTPCGCDPVPD---------------------------
+-------
+>sp|Q0ATU3|YIDD_SYNWW Putative membrane protein insertion efficiency factor OS=Syntrophomonas wolfei subsp. wolfei (strain DSM 2245B / Goettingen) OX=335541 GN=Swol_2575 PE=3 SV=1
+----------------------MQEMLIKLIKIYQK-ATFFK-PASCRFYPSCSNYSIEA
+LRKYGIVKGGWLTVKRLARCHPYNPGGYDPVP----------------------------
+-------
+>sp|Q8DLD1|YIDD_THEEB Putative membrane protein insertion efficiency factor OS=Thermosynechococcus elongatus (strain BP-1) OX=197221 GN=tsr0564 PE=3 SV=1
+------------------MGNGLSKALIVLIRIYQRWISPLF-LPTCRYTPSCSAYAVEA
+IARYGAVKGTYLAIRRILRCHPFAVGGYDPVPTTCPDPCNESSPPNPPC-----------
+-------
+>sp|Q47K74|YIDD_THEFY Putative membrane protein insertion efficiency factor OS=Thermobifida fusca (strain YX) OX=269800 GN=Tfu_3115 PE=3 SV=1
+--------------MTRDRPTLLARVLILPIRGYQRWISPLF-PPVCRFYPSCSSYAVEA
+LRVHGAGRGLWLTIRRLGKCHPFHPGGLDPVPPRRNESGTEISDARPGSDGEA----SPG
+APGL---
+>sp|A6LNH3|YIDD_THEM4 Putative membrane protein insertion efficiency factor OS=Thermosipho melanesiensis (strain DSM 12029 / CIP 104789 / BI429) OX=391009 GN=Tmel_1630 PE=3 SV=1
+----------------------MKKIILALIRFYQKFISPLK-PPTCIYTPTCSEYTYQA
+VKKFGVFKGLFLGFKRILRCNPLHEGGEDPVPDKFYIIKGRRLD----------------
+-------
+>sp|Q9X1H3|YIDD_THEMA Putative membrane protein insertion efficiency factor OS=Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099) OX=243274 GN=TM_1462 PE=3 SV=1
+----------------------MKKLLIMLIRFYQRYISPLK-PPTCRFTPTCSNYFIQA
+LEKHGLLKGTFLGLRRILRCNPLSKGGYDPVPEEFSFKPRRRWS----------------
+-------
+>sp|B9L0L5|YIDD_THERP Putative membrane protein insertion efficiency factor OS=Thermomicrobium roseum (strain ATCC 27502 / DSM 5159 / P-2) OX=309801 GN=trd_1086 PE=3 SV=1
+----------------------MTKLALLLIRFYQRFISPGL-PPACRFYPTCSEYGYEA
+ISRYGIIKGGVLTVRRLLRCHPFHPGGYDPVP----------------------------
+-------
+>sp|Q72LI3|YIDD_THET2 Putative membrane protein insertion efficiency factor OS=Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039) OX=262724 GN=TT_C0076 PE=3 SV=1
+----------------------MREVLILLIRFYRRFLSPLK-PRTCRFHPTCSAYALEA
+LERHGAFWGSYLAVRRVLRCHPWNPGGLDPVPVLFPPGKVRGGAE---------------
+-------
+>sp|Q10VR4|YIDD_TRIEI Putative membrane protein insertion efficiency factor OS=Trichodesmium erythraeum (strain IMS101) OX=203124 GN=Tery_4697 PE=3 SV=1
+----------------------MKVLLVRLIKGYKIFISPIL-PPSCRFQPTCSEYAMEA
+IERFGIFKGTAMAVMRILRCHPFHPGGYDPVPPKK-------------------------
+-------
+>sp|Q3BSH4|YIDD_XANC5 Putative membrane protein insertion efficiency factor OS=Xanthomonas campestris pv. vesicatoria (strain 85-10) OX=316273 GN=XCV2558 PE=3 SV=1
+M-------------QVAYHWQVISRLLIALLRVYKLVISPLL-GPRCRFAPSCSDYAMTA
+IGRFGPLRGSWLAARRLGRCHPFHPGGFDPVPDAPASPSPSSSCSCKGPHP---------
+-------
+>sp|Q1C0B5|YIDD_YERPA Putative membrane protein insertion efficiency factor OS=Yersinia pestis bv. Antiqua (strain Antiqua) OX=360102 GN=YPA_4146 PE=3 SV=1
+---------------MASPLSPGSRILIGLIRGYQLVISPLL-GPRCRFHPTCSHYGIEA
+LRRFGMIKGSWLTLKRVLKCHPLNSGGDDPVPPKLDDNREH-------------------
+-------
