@@ -48,10 +48,6 @@ conda install tabix pyvcf
 ```
 
 ```
-pip install https://github.com/khramts/assocplots/archive/master.zip
-```
-
-```
 conda install -c anaconda pandas
 ```
 ```
