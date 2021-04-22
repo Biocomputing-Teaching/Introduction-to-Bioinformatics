@@ -38,6 +38,13 @@ jupyter-notebook 05-WorkingWithVariationData.ipynb
 
 After that, you'll need to configurate and install a number python modules (if not already installed) typing the below commands into your terminal (if conda does not work, try pip instead):
 
+```
+sudo apt-get update -y
+```
+
+```
+sudo apt-get install -y tabix
+```
 
 ```
 conda config --add channels bioconda
