@@ -36,7 +36,16 @@ And open the Jupyter notebook inside this folder:
 jupyter-notebook 05-WorkingWithVariationData.ipynb
 ```
 
-After that, you'll need to install a number python modules (if not already installed) typing the below commands into your terminal (if conda does not work, try pip instead):
+After that, you'll need to configurate and install a number python modules (if not already installed) typing the below commands into your terminal (if conda does not work, try pip instead):
+
+
+```
+conda config --add channels bioconda
+```
+
+```
+conda install tabix pyvcf
+```
 
 ```
 conda install -c anaconda pandas
