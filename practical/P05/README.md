@@ -36,7 +36,9 @@ And open the Jupyter notebook inside this folder:
 jupyter-notebook 05-WorkingWithVariationData.ipynb
 ```
 
-After that, you'll need to configurate and install a number python modules (if not already installed) typing the below commands into your terminal (if conda does not work, try pip instead):
+After that, you'll need to configurate and install a number python modules (if not already installed) typing the below commands into your terminal (if conda does not work, try pip instead - or brew for mac users):
+
+If your OS is linux, please type the following two commands in your terminal:
 
 ```
 sudo apt-get update -y
@@ -45,6 +47,8 @@ sudo apt-get update -y
 ```
 sudo apt-get install -y tabix
 ```
+
+For both linux and mac users, please type the following commands in your terminal.
 
 ```
 conda config --add channels bioconda
@@ -57,12 +61,31 @@ conda install tabix pyvcf
 ```
 conda install -c anaconda pandas
 ```
+
+```
+pip install PyVCF
+```
+
+```
+pip install seaborn
+```
+
+```
+pip install seaborn
+```
+
 ```
 conda install numpy
 ```
+
+```
+pip install ipywidgets
+```
+
 ```
 conda install -c bioconda pyvcf
 ```
+
 
 ```
 pip install https://github.com/khramts/assocplots/archive/master.zip
