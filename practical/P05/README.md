@@ -71,10 +71,6 @@ pip install seaborn
 ```
 
 ```
-pip install seaborn
-```
-
-```
 conda install numpy
 ```
 
