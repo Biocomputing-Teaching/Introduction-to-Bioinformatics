@@ -86,6 +86,88 @@ conda install -c bioconda pyvcf
 ```
 pip install https://github.com/khramts/assocplots/archive/master.zip
 ```
+
+## What if...?
+
+If when installing the pyvcf module via the conda command ''conda install -c bioconda pyvcf'' you get an error message saying the following or similar:
+
+```The following specifications were found
+
+to be incompatible with the existing python installation in your environment:
+
+Specifications:
+
+  - pyvcf -> python[version='2.7.*|3.4.*|3.5.*|3.6.*']
+
+Your python: python=3.8
+
+```
+
+Please follow the below procedure:
+
+Go to a new terminal window and create a new environment named "snakes" that contains for example Python 3.5:
+
+```
+conda create --name snakes python=3.5
+```
+
+When conda asks if you want to proceed, type "y" and press Enter.
+
+Then, activate the new environment by typing:
+
+```
+conda activate snakes
+```
+
+Since you have activated a new environment called "snakes", now you will see that your command line will start with (snakes) rather than (base) 
+
+Then you can try installing the pyvcf module by typing in the same terminal with the new environment:
+
+```
+conda install -c bioconda pyvcf
+```
+
+Be aware that since you are in a new environment, you will need to install again jupyter notebook and all modules needed for this assignment in your new environment. I copy them again below just in case:
+
+``´
+conda install jupyterlab
+```
+
+``´
+conda config --add channels bioconda
+```
+
+```
+conda install numpy
+conda install matplotlib
+conda install biopython
+```
+```
+conda install -c anaconda git
+```
+
+```
+conda install tabix pyvcf
+```
+
+```
+conda install -c anaconda pandas
+```
+
+```
+pip install PyVCF
+```
+
+```
+pip install seaborn
+```
+
+```
+pip install ipywidgets
+```
+
+
+
 The content of this notebook can also be consulted at the following link:
 
 [05-WorkingWithVariationData.ipynb](https://github.com/Biocomputing-Teaching/Introduction-to-Bioinformatics/blob/main/practical/P05/05-WorkingWithVariationData.ipynb)
