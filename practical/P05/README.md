@@ -91,7 +91,8 @@ pip install https://github.com/khramts/assocplots/archive/master.zip
 
 If when installing the pyvcf module via the conda command ''conda install -c bioconda pyvcf'' you get an error message saying the following or similar:
 
-```The following specifications were found
+```
+UnsatisfiableError: The following specifications were found
 
 to be incompatible with the existing python installation in your environment:
 
