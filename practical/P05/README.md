@@ -167,7 +167,9 @@ pip install seaborn
 pip install ipywidgets
 ```
 
+Then you are good to go and initialise jupyter notebook from this new environment.
 
+*****************
 
 The content of this notebook can also be consulted at the following link:
 
