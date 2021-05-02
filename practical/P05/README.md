@@ -130,11 +130,11 @@ conda install -c bioconda pyvcf
 
 Be aware that since you are in a new environment, you will need to install again jupyter notebook and all modules needed for this assignment in your new environment. I copy them again below just in case:
 
-``´
+```
 conda install jupyterlab
 ```
 
-``´
+```
 conda config --add channels bioconda
 ```
 
@@ -143,6 +143,7 @@ conda install numpy
 conda install matplotlib
 conda install biopython
 ```
+
 ```
 conda install -c anaconda git
 ```
@@ -153,10 +154,6 @@ conda install tabix pyvcf
 
 ```
 conda install -c anaconda pandas
-```
-
-```
-pip install PyVCF
 ```
 
 ```
