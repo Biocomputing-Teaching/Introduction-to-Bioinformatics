@@ -1,0 +1,1 @@
+Wed Mar 17 13:38:55 2021	c2917cfc858c8e2c2ca8463a9c73fc5a	False	/home/martin/miniconda3/envs/ete3/bin/ete3 -w standard_raxml -a input/2HDXMT_clusters.fasta -o output_tree

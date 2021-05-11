@@ -1,0 +1,62 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.2.11 released by Alexandros Stamatakis on June 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 63 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 3.83%
+
+RAxML computation of SH-like support values on a given tree
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 63
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: JTT
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+/home/martin/miniconda3/envs/ete3/bin/ete3_apps/bin/raxmlHPC-SSE3 -f J -p 31416 -s /home/martin/repos/Biocomputing-Teaching/Introduction-to-Bioinformatics/practical/P05/output_tree/input/254c265fb6edfc9080dbebe481d95027.201 -m PROTGAMMAJTT -n 254c265fb6edfc9080dbebe481d95027.201 -t /home/martin/repos/Biocomputing-Teaching/Introduction-to-Bioinformatics/practical/P05/output_tree/tasks/35b51bade1e6407f70aa0cf760625ddc/RAxML_bestTree.254c265fb6edfc9080dbebe481d95027.201 
+
+
+Time after model optimization: 0.199474
+Initial Likelihood -1859.489625
+
+NNI interchanges 0 Likelihood -1859.489623
+
+Final Likelihood of NNI-optimized tree: -1859.489623
+
+RAxML NNI-optimized tree written to file: /home/martin/repos/Biocomputing-Teaching/Introduction-to-Bioinformatics/practical/P05/output_tree/tasks/9be395216b65ef795f0b46a5df4b28b9/RAxML_fastTree.254c265fb6edfc9080dbebe481d95027.201
+
+Same tree with SH-like supports written to file: /home/martin/repos/Biocomputing-Teaching/Introduction-to-Bioinformatics/practical/P05/output_tree/tasks/9be395216b65ef795f0b46a5df4b28b9/RAxML_fastTreeSH_Support.254c265fb6edfc9080dbebe481d95027.201
+
+Total execution time: 0.453512
