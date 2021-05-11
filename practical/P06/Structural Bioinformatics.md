@@ -1,6 +1,6 @@
 # Structural Bioinformatics
 
-We will use in this session several tools related to structural bioinformatics. In this subfield of bioinformatics, we deal with not just sequence but structural information from both proteins and nucleix acids. In particular, we will focus on understanding the domains, structural motifs, etc (what we call signatures) of different proteins.
+In structural bioinformatics, we deal with not just sequence but structural information from both proteins and nucleix acids. In particular, we will focus today on understanding the domains, structural motifs, etc (what we call signatures) of different proteins.
 
 ## Protein folds
 
@@ -34,9 +34,9 @@ Examples of proteins in different classes:
 
 Nowe we will move to analayse the protein domains of a protein. This is related mainly with evolution and with function, but of course there are specific folds associated with each domain and function.
 
-Retrieve the sequence of Bacillus subtilis (O32142). Search for domains/motifs using InterProScan.
-1. How many domains/motifs does the sequence contain ?
+*Exercise 3.* Retrieve the sequence of Bacillus subtilis (O32142). Search for domains/motifs using InterProScan.
+1. How many domains/motifs does the sequence contain˚ ?
 2. What is the relation between the two families that are returned by InterPro ?
 3. Which species contain the most members of the child family ?
 
-*Exercise 3.* Explore tyrosine kinase (Q06418|TYRO3_HUMAN). Look for the ATP binding domain using InterPro. Try to visualize it in a structure in Chimera (hint: you can use PDB: 1IRK) 
+*Exercise 4.* Explore tyrosine kinase (Q06418|TYRO3_HUMAN). Look for the ATP binding domain using InterPro. Try to visualize it in a structure in Chimera (hint: you can use PDB: 1IRK). What type of folds the protein has? and the domains?
