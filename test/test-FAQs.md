@@ -21,7 +21,7 @@
 
       The column Query %Id shows the percentage of the orthologous sequence matching the Human sequence, in this case. So, the answer is 87.60%
 
-  3. *Look at the protein alignment (CLUSTAL W (1.81) Multiple sequence alignment) between the human gene and its ortholog in Chimpanzee – what % of identity does the human protein? Is this what what you expected compared to cow?*
+   3. *Look at the protein alignment (CLUSTAL W (1.81) Multiple sequence alignment) between the human gene and its ortholog in Chimpanzee – what % of identity does the human protein? Is this what what you expected compared to cow?*
 
      We will, indeed, check both the **protein** alignments for chimpanzee (*Pan troglodites*) and for cow, by clicking in the `View sequence alignments` link in each of the two entries. In the case of chimpanzee, the protein alignment gyields 99% of sequence identity, as seen in this figure
 
@@ -49,7 +49,7 @@
 
       There we select chimpanzee, dog and zebrafish.
 
-      We can clearly see how well aligned this human gene is to chimpanzee, while the dog has some unaligned regions but the majority of regions are aligned. Zebrafish has only a couple of regions aligned. 
+      We can clearly see how well aligned this human gene is to chimpanzee, while the dog has some unaligned regions but the majority of regions are aligned. Zebrafish has only a couple of regions aligned.
 
        ![](figs/ens8.png)
 
