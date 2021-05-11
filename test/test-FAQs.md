@@ -29,19 +29,19 @@
 
      while doing the same exercise for the cow EGFR gene the result is 87%.
 
-  4. *Can we rely on the orthologue predicted for Dolphin? Why?*
+   4. *Can we rely on the orthologue predicted for Dolphin? Why?*
 
       Yes since this orthology relationship is classified as [High Confidence](https://www.ensembl.org/info/genome/compara/Ortholog_qc_manual.html/#hc), with high WGA Coverage and high percentage of identity. However, [GOC](https://www.ensembl.org/info/genome/compara/Ortholog_qc_manual.html/#goc) is 0, which raises some concerns about the evolutionary characteristics of the acompanying genes and opens the way for further analysis of the genomic region.
 
       ![](figs/ens5.png)
 
-   5. *Has there been a significant expansion in this gene family between Chinook salmon and its most recent ancestor? How many members does Chinook salmon have?*
+    5. *Has there been a significant expansion in this gene family between Chinook salmon and its most recent ancestor? How many members does Chinook salmon have?*
 
       Yes, there has been a significant expansion. Chinook salmon has 6 members.
 
     ![](figs/ens6.png)
 
-  6. *Go to the "Region in detail" page and turn on the LASTZ-net alignment tracks (pairwaise) for chimpanzee, dog and zebrafish. Does the degree of conservation between human and the various other species reflect their evolutionary relationship?*
+    6. *Go to the "Region in detail" page and turn on the LASTZ-net alignment tracks (pairwaise) for chimpanzee, dog and zebrafish. Does the degree of conservation between human and the various other species reflect their evolutionary relationship?*
 
       We first click on the gene location ([Chromosome 7: 55,019,017-55,211,628 forward strand](https://www.ensembl.org/Homo_sapiens/Location/View?db=core;g=ENSG00000146648;r=7:55019017-55211628)). Once there, we go to the `Custom tracks` tab in the left hand side menu and choose the `BLASTz/LASTz` alignments in the `Configure Region Image` tab.
 
