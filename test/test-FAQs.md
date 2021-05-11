@@ -41,7 +41,7 @@
 
       ![](figs/ens6.png)
 
-  6.  *Go to the "Region in detail" page and turn on the LASTZ-net alignment tracks (pairwaise) for chimpanzee, dog and zebrafish. Does the degree of conservation between human and the various other species reflect their evolutionary relationship?*
+   6. *Go to the "Region in detail" page and turn on the LASTZ-net alignment tracks (pairwaise) for chimpanzee, dog and zebrafish. Does the degree of conservation between human and the various other species reflect their evolutionary relationship?*
 
       We first click on the gene location ([Chromosome 7: 55,019,017-55,211,628 forward strand](https://www.ensembl.org/Homo_sapiens/Location/View?db=core;g=ENSG00000146648;r=7:55019017-55211628)). Once there, we go to the `Custom tracks` tab in the left hand side menu and choose the `BLASTz/LASTz` alignments in the `Configure Region Image` tab.
 
