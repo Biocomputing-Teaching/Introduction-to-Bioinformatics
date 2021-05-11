@@ -38,9 +38,11 @@
 
 1. *Has there been a significant expansion in this gene family between Chinook salmon and its most recent ancestor? How many members does Chinook salmon have?*
 
-      Yes, there has been a significant expansion. Chinook salmon has 6 members.
+      Yes, there has been a significant expansion. Chinook salmon has 6 members. To find this out go to "Gene gain/loss tree" and loof search for Chinook salmon. Since the line is in red, there has been a significant expansion.
 
       ![](figs/ens6.png)
+      ![](figs/ens10.png)
+      ![](figs/ens11.png)
 
 1. *Go to the "Region in detail" page and turn on the LASTZ-net alignment tracks (pairwaise) for chimpanzee, dog and zebrafish. Does the degree of conservation between human and the various other species reflect their evolutionary relationship?*
 
