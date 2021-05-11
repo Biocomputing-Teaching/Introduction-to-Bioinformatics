@@ -13,7 +13,7 @@
 
       ![](figs/ens2.png)
 
-   2. *What is the percentage of the human sequence matching the sequence of the orthologue in cow (Bos taurus)?*
+   1. *What is the percentage of the human sequence matching the sequence of the orthologue in cow (Bos taurus)?*
 
       By searching in the same page for the cow (*Bos taurus*) EGFR **gene**, we find this information
 
@@ -47,9 +47,7 @@
 
       ![](figs/ens7.png)
 
-      There we select chimpanzee, dog and zebrafish.
-
-      We can clearly see how well aligned this human gene is to chimpanzee, while the dog has some unaligned regions but the majority of regions are aligned. Zebrafish has only a couple of regions aligned.
+      There we select chimpanzee, dog and zebrafish. We can clearly see how well aligned this human gene is to chimpanzee, while the dog has some unaligned regions but the majority of regions are aligned. Zebrafish has only a couple of regions aligned.
 
       ![](figs/ens8.png)
 
